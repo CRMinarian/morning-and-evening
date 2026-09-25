@@ -1,0 +1,213 @@
+/* Morning & Evening — CIS 300 class site
+   TEMP text wordmark (no Rita logo PASS). Tokens from ME brand kit v0.1. */
+
+:root {
+  --me-ink: #1A1410;
+  --me-paper: #FFFBF5;
+  --me-mist: #F3EDE3;
+  --me-line: #D4C8B8;
+  --me-dawn: #C45C26;
+  --me-dusk: #2F4A6E;
+  --me-font-display: Georgia, "Times New Roman", serif;
+  --me-font-ui: system-ui, -apple-system, "Segoe UI", Roboto, sans-serif;
+  --me-body: 1.125rem;
+  --me-lead: 1.55;
+  --me-max: 40rem;
+  --me-space-2: 0.5rem;
+  --me-space-4: 1rem;
+  --me-space-5: 1.5rem;
+  --me-space-6: 2rem;
+  --me-space-7: 3rem;
+  --me-radius: 8px;
+}
+
+*,
+*::before,
+*::after {
+  box-sizing: border-box;
+}
+
+body {
+  margin: 0;
+  font-family: var(--me-font-ui);
+  font-size: var(--me-body);
+  line-height: var(--me-lead);
+  color: var(--me-ink);
+  background-color: var(--me-paper);
+}
+
+a {
+  color: var(--me-dusk);
+}
+
+a:hover,
+a:focus {
+  color: var(--me-dawn);
+}
+
+a:focus-visible {
+  outline: 3px solid var(--me-dawn);
+  outline-offset: 2px;
+}
+
+.site-header {
+  background-color: var(--me-mist);
+  border-bottom: 1px solid var(--me-line);
+  padding: var(--me-space-5) var(--me-space-6);
+}
+
+.site-header h1 {
+  margin: 0 0 var(--me-space-2);
+  font-family: var(--me-font-display);
+  font-size: 2rem;
+  font-weight: 700;
+  letter-spacing: 0.02em;
+}
+
+.tagline {
+  margin: 0;
+  font-size: 0.95rem;
+  color: #4a4038;
+}
+
+.site-nav {
+  background-color: var(--me-ink);
+  padding: var(--me-space-2) var(--me-space-6);
+}
+
+.site-nav ul {
+  list-style: none;
+  margin: 0;
+  padding: 0;
+  display: flex;
+  flex-wrap: wrap;
+  gap: var(--me-space-4);
+}
+
+.site-nav a {
+  color: var(--me-paper);
+  text-decoration: none;
+  font-weight: 600;
+  padding: 0.6rem 0.25rem;
+  display: inline-block;
+  min-height: 44px;
+}
+
+.site-nav a:hover,
+.site-nav a:focus {
+  color: #f0c9a8;
+}
+
+.site-nav a[aria-current="page"] {
+  border-bottom: 3px solid var(--me-dawn);
+}
+
+.site-main {
+  max-width: 56rem;
+  margin: 0 auto;
+  padding: var(--me-space-7) var(--me-space-6);
+}
+
+.hero {
+  display: grid;
+  grid-template-columns: minmax(140px, 200px) 1fr;
+  gap: var(--me-space-6);
+  align-items: start;
+  margin-bottom: var(--me-space-7);
+  padding-bottom: var(--me-space-6);
+  border-bottom: 1px solid var(--me-line);
+}
+
+.portrait {
+  width: 100%;
+  height: auto;
+  border-radius: var(--me-radius);
+  border: 1px solid var(--me-line);
+  display: block;
+}
+
+.caption {
+  margin: var(--me-space-2) 0 0;
+  font-size: 0.875rem;
+  color: #5a5048;
+}
+
+.purpose h2,
+.readings h2 {
+  font-family: var(--me-font-display);
+  font-size: 1.75rem;
+  margin: 0 0 var(--me-space-4);
+}
+
+.purpose p {
+  max-width: var(--me-max);
+  margin: 0 0 var(--me-space-4);
+}
+
+.reading-grid {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  gap: var(--me-space-5);
+}
+
+.card {
+  background-color: var(--me-mist);
+  border: 1px solid var(--me-line);
+  border-radius: var(--me-radius);
+  padding: var(--me-space-5);
+}
+
+.card.morning {
+  border-top: 4px solid var(--me-dawn);
+}
+
+.card.evening {
+  border-top: 4px solid var(--me-dusk);
+}
+
+.card h3 {
+  font-family: var(--me-font-display);
+  font-size: 1.35rem;
+  margin: 0 0 var(--me-space-2);
+}
+
+.meta {
+  margin: 0 0 var(--me-space-4);
+  font-size: 0.875rem;
+  font-weight: 600;
+  letter-spacing: 0.03em;
+  text-transform: uppercase;
+}
+
+.card.morning .meta {
+  color: var(--me-dawn);
+}
+
+.card.evening .meta {
+  color: var(--me-dusk);
+}
+
+.card p {
+  margin: 0;
+  max-width: var(--me-max);
+}
+
+.site-footer {
+  background-color: var(--me-mist);
+  border-top: 1px solid var(--me-line);
+  padding: var(--me-space-5) var(--me-space-6);
+  font-size: 0.875rem;
+  color: #4a4038;
+}
+
+.site-footer p {
+  margin: 0 0 var(--me-space-2);
+  max-width: 48rem;
+}
+
+@media (max-width: 700px) {
+  .hero,
+  .reading-grid {
+    grid-template-columns: 1fr;
+  }
+}
