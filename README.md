@@ -1,2 +1,9 @@
-# morning-and-evening
-CIS 300 Morning &amp; Evening (Spurgeon) class site — public course project.
+# Morning and Evening (CIS 300)
+
+Class front-end site for Charles Spurgeon public-domain devotionals.
+
+Update #1: `index.html` + `css/styles.css` + portrait image.
+
+Locked sitemap: Home · About · This Week · Contact.
+
+Student: Pierre Hulsebus (phulsebu).
