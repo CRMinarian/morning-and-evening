@@ -11,4 +11,4 @@ CIS 300 class site for Charles Spurgeon’s *Morning and Evening* readings.
 ## Author
 Pierre Holcivas (ASURITE `phulsebu`)
 
-Course project for Arizona State University CIS 300. Cite AI assistance on Canvas submissions as required by the instructor.
+Course project for Arizona State University CIS 300. Cursor AI used as an assistance to this project.
