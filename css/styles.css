@@ -1,4 +1,4 @@
-/* Morning & Evening — CIS 300 class site
+/* Morning and Evening CIS 300 class site
    TEMP text wordmark (no Rita logo PASS). Tokens from ME brand kit v0.1. */
 
 :root {
@@ -133,15 +133,110 @@ a:focus-visible {
 }
 
 .purpose h2,
-.readings h2 {
+.readings h2,
+.bio h2,
+.persona h2,
+.week h2 {
   font-family: var(--me-font-display);
   font-size: 1.75rem;
   margin: 0 0 var(--me-space-4);
 }
 
-.purpose p {
+.purpose p,
+.bio p,
+.persona p {
   max-width: var(--me-max);
   margin: 0 0 var(--me-space-4);
+}
+
+.bio,
+.persona,
+.week {
+  margin-bottom: var(--me-space-7);
+}
+
+.bio-figure,
+.week-figure {
+  margin: 0 0 var(--me-space-5);
+  max-width: 12.5rem;
+}
+
+.source {
+  font-size: 0.95rem;
+}
+
+.sample-note {
+  margin: 0 0 var(--me-space-4);
+  font-size: 0.875rem;
+  color: #5a5048;
+}
+
+.table-wrap {
+  width: 100%;
+  max-width: 100%;
+  overflow-x: auto;
+}
+
+.week-table {
+  width: 100%;
+  border-collapse: collapse;
+  background-color: var(--me-paper);
+}
+
+.week-table caption {
+  text-align: left;
+  caption-side: top;
+  padding: 0 0 var(--me-space-4);
+  font-size: 0.95rem;
+  color: #4a4038;
+}
+
+.week-table th,
+.week-table td {
+  border: 1px solid var(--me-line);
+  padding: 0.75rem 0.85rem;
+  text-align: left;
+  vertical-align: top;
+}
+
+.week-table thead th {
+  background-color: var(--me-ink);
+  color: var(--me-paper);
+  font-family: var(--me-font-ui);
+  font-size: 0.95rem;
+  font-weight: 600;
+}
+
+.week-table tbody th {
+  background-color: var(--me-mist);
+  font-weight: 600;
+}
+
+.week-table .date {
+  display: block;
+  font-size: 0.8rem;
+  font-weight: 500;
+  color: #4a4038;
+}
+
+.week-table tbody tr:nth-child(even) td {
+  background-color: #faf6ef;
+}
+
+.week-table strong {
+  display: block;
+  font-family: var(--me-font-display);
+  font-size: 1.05rem;
+}
+
+.excerpt {
+  margin: 0.35rem 0 0;
+  font-size: 0.95rem;
+  color: #4a4038;
+}
+
+code {
+  font-size: 0.9em;
 }
 
 .reading-grid {
@@ -209,5 +304,10 @@ a:focus-visible {
   .hero,
   .reading-grid {
     grid-template-columns: 1fr;
+  }
+
+  .week-table th,
+  .week-table td {
+    padding: 0.55rem 0.5rem;
   }
 }
