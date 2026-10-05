@@ -8,15 +8,32 @@
   <meta name="keywords" content="Morning and Evening, Charles Spurgeon, devotionals, CIS 300, public domain">
   <title>Morning and Evening | Home</title>
   <link rel="icon" href="favicon.ico">
+  <script>
+    (function () {
+      try {
+        var theme = localStorage.getItem("me-theme");
+        if (theme === "morning" || theme === "evening") {
+          document.documentElement.dataset.theme = theme;
+        }
+      } catch (e) {}
+    })();
+  </script>
   <link rel="preconnect" href="https://fonts.googleapis.com">
   <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-  <link href="https://fonts.googleapis.com/css2?family=Source+Sans+3:ital,wght@0,400;0,600;0,700;1,400&family=Source+Serif+4:ital,opsz,wght@0,8..60,400;0,8..60,600;0,8..60,700;1,8..60,400&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Libre+Caslon+Display&family=Source+Serif+4:ital,opsz,wght@0,8..60,400..700;1,8..60,400..700&family=Source+Sans+3:wght@400..700&display=swap">
+  <link rel="stylesheet" href="css/me-site-tokens.css">
   <link rel="stylesheet" href="css/styles.css">
 </head>
 <body>
   <header class="site-header">
-    <h1>Morning and Evening</h1>
-    <p class="tagline">Daily Spurgeon devotionals from the public domain</p>
+    <div class="brand">
+      <h1>Morning and Evening</h1>
+      <p class="tagline">Daily Spurgeon devotionals from the public domain</p>
+    </div>
+    <div class="theme-toggle" role="group" aria-label="Color theme">
+      <button type="button" class="theme-btn" data-theme-set="morning">Morning</button>
+      <button type="button" class="theme-btn" data-theme-set="evening">Evening</button>
+    </div>
   </header>
   <nav class="site-nav" aria-label="Primary">
     <ul>
@@ -113,5 +130,6 @@
       <a href="https://ccel.org/ccel/spurgeon/morneve/">CCEL</a>).
     </p>
   </footer>
+  <script src="js/theme.js"></script>
 </body>
 </html>

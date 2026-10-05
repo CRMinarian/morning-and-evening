@@ -1,0 +1,353 @@
+/* Morning & Evening SITE tokens
+   Stamp: ME-SITE-BRAND:v0.1-2026-10-05 DRAFT
+   Author: Pierre Hulsebus
+   Look: editorial ink and watercolor, Victorian-modern. Confident ink line,
+   loose washes on warm paper, light splatter. Never flat-corporate.
+
+   Load order (all optional except this file, which is self-contained):
+     1. ../tokens/me-tokens.css                (core, immutable)
+     2. ../era/victorian-england/tokens.css    (era plugin)
+     3. ../spurgeon/tokens.css                 (character tint accents)
+     4. site/tokens.css                        (THIS FILE, site roles + themes)
+
+   Provenance key used in comments:
+     [core]    reused from ME-BRAND-KIT:v0.1-2026-09-21 tokens/me-tokens.css
+     [era]     reused from era/victorian-england/tokens.css
+     [tint]    reused from spurgeon/tokens.css (SPURGEON-CHAR:v0.2-2026-10-05)
+     [repo]    value already hardcoded in the M&E site css/styles.css
+     [NEW]     Rita house DRAFT token, sampled from the Spurgeon ink and
+               watercolor reference (imagine-ref-29b9b339.png) unless noted
+
+   Rules: no Google yellow or bright amber; ochre stays earthy. No flat
+   corporate blues; every blue is a slate or Prussian wash. Body text pairs
+   are WCAG AA 4.5:1 or better in both themes (see site/CONTRAST.md). */
+
+/* ------------------------------------------------------------------ */
+/* 1. RAW PALETTE (theme independent)                                  */
+/* ------------------------------------------------------------------ */
+:root {
+  /* Paper */
+  --me-raw-paper-wash:    #F8F2E7; /* [NEW] warm watercolor paper, site bg (morning) */
+  --me-raw-paper-bright:  #FFFBF5; /* [core] --me-paper, raised surface */
+  --me-raw-paper-aged:    #F2E6D0; /* [era]  Victorian paper, card */
+  --me-raw-paper-deep:    #E8DCC4; /* [era]  Victorian mist, deeper card / table head */
+  --me-raw-paper-rule:    #C4B498; /* [era]  Victorian line, rules */
+
+  /* Ink */
+  --me-raw-ink:           #1A1410; /* [core] near-black text ink */
+  --me-raw-ink-brown:     #2C1E16; /* [tint] line ink brown */
+  --me-raw-ink-sepia:     #5A4030; /* [tint] muted ink (sepia umber) */
+  --me-raw-ink-night:     #120F1E; /* [NEW]  violet-black splatter ink from reference */
+
+  /* Navy wash family (coat: slate fading to deep navy, dark-rimmed blooms) */
+  --me-raw-navy-mist:     #E3E9F1; /* [NEW]  pale cravat wash, callout bg (morning) */
+  --me-raw-navy-light:    #A4B3CB; /* [NEW]  light coat wash; evening link */
+  --me-raw-navy-slate:    #647899; /* [NEW]  mid coat wash, decorative / large only */
+  --me-raw-navy-prussian: #3E5368; /* [tint] Prussian blue */
+  --me-raw-navy-dusk:     #2F4A6E; /* [core] --me-accent-dusk, morning link */
+  --me-raw-navy-deep:     #1B2948; /* [NEW]  deep navy coat shadow, headings */
+  --me-raw-navy-night:    #131B2C; /* [NEW]  ink-navy night paper (evening bg) */
+  --me-raw-navy-night-2:  #22314F; /* [NEW]  evening card */
+  --me-raw-navy-night-3:  #1E2D4A; /* [NEW]  evening callout */
+
+  /* Skin accents: peach and rose */
+  --me-raw-peach:         #E9B49A; /* [NEW]  warm cheek highlight; evening hover/focus */
+  --me-raw-peach-wash:    #F6E4D8; /* [NEW]  peach wash, quote bg (morning) */
+  --me-raw-rose:          #B97B67; /* [NEW]  rose-tan skin shadow, decorative */
+  --me-raw-madder:        #9A5858; /* [tint] rose madder; large text (3:1) and ornament only */
+  --me-raw-madder-deep:   #8A4646; /* [NEW]  deep madder, morning link hover (AA on every morning bg) */
+  --me-raw-rose-night:    #2A2230; /* [NEW]  rose-tinted night, evening quote bg */
+
+  /* Hair (auburn / brown): decorative wash only */
+  --me-raw-auburn:        #7A5347; /* [NEW]  auburn hair mid */
+  --me-raw-umber-hair:    #63382B; /* [NEW]  dark hair / beard shadow */
+
+  /* Soft secondary washes */
+  --me-raw-sage-wash:     #C9D3C7; /* [NEW]  sage wash (light) for dividers */
+  --me-raw-viridian:      #5A7466; /* [tint] viridian; text only on bg/surface */
+  --me-raw-sienna:        #8A5638; /* [tint] burnt sienna */
+  --me-raw-ochre:         #B8964A; /* [tint] yellow ochre, earthy, never text */
+  --me-raw-gaslight:      #A08848; /* [tint] gaslight gold, decorative */
+  --me-raw-brass:         #8B6914; /* [era]  ornament brass */
+
+  /* Dawn (morning semantic, core role kept) */
+  --me-raw-dawn:          #C45C26; /* [core] --me-accent-dawn; non-text accent and focus */
+  --me-raw-dawn-text:     #8B3A0E; /* [repo] dawn as text (meta labels), AA */
+  --me-raw-dawn-ember:    #E5895A; /* [NEW]  dawn on night paper (evening accent/focus) */
+
+  /* Evening ink (light on dark) */
+  --me-raw-ink-light:     #F2E6D0; /* [era]  aged paper reused as light ink */
+  --me-raw-ink-light-mut: #C4B498; /* [era]  rule tone reused as muted light ink */
+}
+
+/* ------------------------------------------------------------------ */
+/* 2. MORNING THEME (default, light)                                   */
+/* ------------------------------------------------------------------ */
+:root,
+[data-theme='morning'] {
+  color-scheme: light;
+
+  --me-bg:              var(--me-raw-paper-wash);
+  --me-surface:         var(--me-raw-paper-bright);
+  --me-card:            var(--me-raw-paper-aged);
+  --me-card-deep:       var(--me-raw-paper-deep);
+
+  --me-text:            var(--me-raw-ink);
+  --me-text-muted:      var(--me-raw-ink-sepia);
+  --me-line-ink:        var(--me-raw-ink-brown);
+  --me-heading:         var(--me-raw-navy-deep);
+
+  --me-link:            var(--me-raw-navy-dusk);
+  --me-link-hover:      var(--me-raw-madder-deep);
+  --me-link-visited:    var(--me-raw-navy-prussian);
+  --me-emphasis:        var(--me-raw-madder-deep); /* rose emphasis; raw madder #9A5858 is large text / ornament only */
+
+  --me-accent:          var(--me-raw-dawn);        /* non-text: borders, icons, active nav bar */
+  --me-accent-text:     var(--me-raw-dawn-text);   /* dawn as readable text */
+  --me-accent-evening:  var(--me-raw-navy-dusk);   /* evening card stripe */
+  --me-rule:            var(--me-raw-paper-rule);
+  --me-rule-ink:        var(--me-raw-ink-brown);   /* confident ink rule */
+  --me-focus:           var(--me-raw-dawn);        /* core role: focus = dawn */
+  --me-focus-halo:      var(--me-raw-paper-bright);
+
+  --me-callout-bg:      var(--me-raw-navy-mist);
+  --me-callout-border:  var(--me-raw-navy-slate);
+  --me-callout-text:    var(--me-raw-ink);
+  --me-quote-bg:        var(--me-raw-peach-wash);
+  --me-quote-border:    var(--me-raw-rose);
+  --me-quote-text:      var(--me-raw-ink-brown);
+
+  --me-btn-bg:          var(--me-raw-navy-deep);
+  --me-btn-text:        var(--me-raw-paper-bright);
+  --me-btn-bg-hover:    var(--me-raw-navy-dusk);
+  --me-btn-ghost-text:  var(--me-raw-ink-brown);
+  --me-btn-ghost-border:var(--me-raw-ink-brown);
+
+  --me-wash-1:          var(--me-raw-navy-light);  /* watercolor wash dividers */
+  --me-wash-2:          var(--me-raw-peach);
+  --me-wash-3:          var(--me-raw-sage-wash);
+  --me-splatter-1:      var(--me-raw-navy-deep);
+  --me-splatter-2:      var(--me-raw-ink-night);
+
+  /* Repo aliases (CRMinarian/morning-and-evening css/styles.css names) */
+  --me-ink:             var(--me-text);
+  --me-paper:           var(--me-bg);
+  --me-mist:            var(--me-card);
+  --me-line:            var(--me-rule);
+  --me-dawn:            var(--me-accent);
+  --me-dusk:            var(--me-link);
+}
+
+/* ------------------------------------------------------------------ */
+/* 3. EVENING THEME (dark ink-navy night paper)                        */
+/* ------------------------------------------------------------------ */
+[data-theme='evening'] {
+  color-scheme: dark;
+
+  --me-bg:              var(--me-raw-navy-night);
+  --me-surface:         var(--me-raw-navy-deep);
+  --me-card:            var(--me-raw-navy-night-2);
+  --me-card-deep:       var(--me-raw-navy-night-3);
+
+  --me-text:            var(--me-raw-ink-light);
+  --me-text-muted:      var(--me-raw-ink-light-mut);
+  --me-line-ink:        var(--me-raw-navy-light);
+  --me-heading:         var(--me-raw-navy-mist);
+
+  --me-link:            var(--me-raw-navy-light);
+  --me-link-hover:      var(--me-raw-peach);
+  --me-link-visited:    var(--me-raw-sage-wash);
+  --me-emphasis:        var(--me-raw-peach);
+
+  --me-accent:          var(--me-raw-dawn-ember);
+  --me-accent-text:     var(--me-raw-dawn-ember);
+  --me-accent-evening:  var(--me-raw-navy-light);
+  --me-rule:            var(--me-raw-navy-prussian);
+  --me-rule-ink:        var(--me-raw-navy-slate);
+  --me-focus:           var(--me-raw-dawn-ember);
+  --me-focus-halo:      var(--me-raw-navy-night);
+
+  --me-callout-bg:      var(--me-raw-navy-night-3);
+  --me-callout-border:  var(--me-raw-navy-slate);
+  --me-callout-text:    var(--me-raw-ink-light);
+  --me-quote-bg:        var(--me-raw-rose-night);
+  --me-quote-border:    var(--me-raw-rose);
+  --me-quote-text:      var(--me-raw-ink-light);
+
+  --me-btn-bg:          var(--me-raw-navy-light);
+  --me-btn-text:        var(--me-raw-navy-night);
+  --me-btn-bg-hover:    var(--me-raw-peach);
+  --me-btn-ghost-text:  var(--me-raw-ink-light);
+  --me-btn-ghost-border:var(--me-raw-navy-light);
+
+  --me-wash-1:          var(--me-raw-navy-slate);
+  --me-wash-2:          var(--me-raw-rose);
+  --me-wash-3:          var(--me-raw-viridian);
+  --me-splatter-1:      var(--me-raw-navy-light);
+  --me-splatter-2:      var(--me-raw-ink-light-mut);
+
+  --me-ink:             var(--me-text);
+  --me-paper:           var(--me-bg);
+  --me-mist:            var(--me-card);
+  --me-line:            var(--me-rule);
+  --me-dawn:            var(--me-accent);
+  --me-dusk:            var(--me-link);
+}
+
+/* Same evening values when the OS asks for dark and the visitor has not
+   picked morning. Keep this block in sync with section 3. */
+@media (prefers-color-scheme: dark) {
+  :root:not([data-theme='morning']) {
+    color-scheme: dark;
+    --me-bg:              var(--me-raw-navy-night);
+    --me-surface:         var(--me-raw-navy-deep);
+    --me-card:            var(--me-raw-navy-night-2);
+    --me-card-deep:       var(--me-raw-navy-night-3);
+    --me-text:            var(--me-raw-ink-light);
+    --me-text-muted:      var(--me-raw-ink-light-mut);
+    --me-line-ink:        var(--me-raw-navy-light);
+    --me-heading:         var(--me-raw-navy-mist);
+    --me-link:            var(--me-raw-navy-light);
+    --me-link-hover:      var(--me-raw-peach);
+    --me-link-visited:    var(--me-raw-sage-wash);
+    --me-emphasis:        var(--me-raw-peach);
+    --me-accent:          var(--me-raw-dawn-ember);
+    --me-accent-text:     var(--me-raw-dawn-ember);
+    --me-accent-evening:  var(--me-raw-navy-light);
+    --me-rule:            var(--me-raw-navy-prussian);
+    --me-rule-ink:        var(--me-raw-navy-slate);
+    --me-focus:           var(--me-raw-dawn-ember);
+    --me-focus-halo:      var(--me-raw-navy-night);
+    --me-callout-bg:      var(--me-raw-navy-night-3);
+    --me-callout-border:  var(--me-raw-navy-slate);
+    --me-callout-text:    var(--me-raw-ink-light);
+    --me-quote-bg:        var(--me-raw-rose-night);
+    --me-quote-border:    var(--me-raw-rose);
+    --me-quote-text:      var(--me-raw-ink-light);
+    --me-btn-bg:          var(--me-raw-navy-light);
+    --me-btn-text:        var(--me-raw-navy-night);
+    --me-btn-bg-hover:    var(--me-raw-peach);
+    --me-btn-ghost-text:  var(--me-raw-ink-light);
+    --me-btn-ghost-border:var(--me-raw-navy-light);
+    --me-wash-1:          var(--me-raw-navy-slate);
+    --me-wash-2:          var(--me-raw-rose);
+    --me-wash-3:          var(--me-raw-viridian);
+    --me-splatter-1:      var(--me-raw-navy-light);
+    --me-splatter-2:      var(--me-raw-ink-light-mut);
+    --me-ink:             var(--me-text);
+    --me-paper:           var(--me-bg);
+    --me-mist:            var(--me-card);
+    --me-line:            var(--me-rule);
+    --me-dawn:            var(--me-accent);
+    --me-dusk:            var(--me-link);
+  }
+}
+
+/* ------------------------------------------------------------------ */
+/* 4. TYPOGRAPHY (see site/TYPOGRAPHY.md)                              */
+/* ------------------------------------------------------------------ */
+:root {
+  /* Recommended pairing: Libre Caslon Display + Source Serif 4, UI Source Sans 3 (core) */
+  --me-font-display: "Libre Caslon Display", "Libre Caslon Text", "Big Caslon", "Adobe Caslon Pro", "Hoefler Text", Baskerville, Georgia, "Times New Roman", serif;
+  --me-font-body:    "Source Serif 4", "Source Serif Pro", "Libre Caslon Text", Charter, "Bitstream Charter", Cambria, Georgia, "Times New Roman", serif;
+  --me-font-ui:      "Source Sans 3", "Source Sans Pro", Inter, system-ui, -apple-system, "Segoe UI", Roboto, sans-serif; /* [core] chrome font, do not override */
+  --me-font-scripture: var(--me-font-body); /* italic + spaced caps for references */
+  --me-font-dyslexic: OpenDyslexic, "Atkinson Hyperlegible", "Source Sans 3", Inter, sans-serif; /* [core] optional visitor toggle only */
+
+  /* Alternate pairing (swap these two lines to try it):
+     --me-font-display: "IM Fell English", "Libre Caslon Display", Georgia, serif;
+     --me-font-body:    "Libre Caslon Text", "Source Serif 4", Georgia, serif;
+     --me-font-scripture-sc: "IM Fell English SC", "Libre Caslon Text", Georgia, serif; */
+
+  /* Scale (rem, 16px root). Display face only at h1 and h2. */
+  --me-fs-h1:        clamp(2.5rem, 1.9rem + 2.6vw, 3.5rem);  /* 40 to 56px, Caslon Display 400 */
+  --me-fs-h2:        clamp(2rem, 1.7rem + 1.3vw, 2.5rem);    /* 32 to 40px, Caslon Display 400 */
+  --me-fs-h3:        1.625rem;   /* 26px, body face 600 */
+  --me-fs-h4:        1.375rem;   /* 22px, body face 600 */
+  --me-fs-h5:        1.1875rem;  /* 19px, body face 700 */
+  --me-fs-h6:        1rem;       /* 16px, UI face 600, spaced caps */
+  --me-fs-body:      1.1875rem;  /* 19px; core floor 1.125rem kept */
+  --me-fs-body-min:  1.125rem;   /* [core] --me-text-body floor */
+  --me-fs-small:     0.9375rem;  /* 15px meta, captions */
+  --me-fs-ui:        1rem;       /* [core] */
+  --me-fs-quote:     1.3125rem;  /* 21px scripture / pull quote, italic */
+  --me-fs-scripture-ref: 0.875rem; /* 14px spaced caps, AA text pairs only */
+  --me-fs-dropcap:   3.25rem;    /* [era] devotionals only */
+
+  --me-lh-body:      1.65;       /* core floor 1.55 */
+  --me-lh-heading:   1.15;
+  --me-lh-quote:     1.5;
+  --me-tracking-caps: 0.08em;
+  --me-measure:      66ch;       /* 60 to 72ch target */
+  --me-measure-wide: 72ch;
+  --me-measure-narrow: 60ch;
+
+  /* Repo aliases */
+  --me-body:         var(--me-fs-body);
+  --me-lead:         var(--me-lh-body);
+  --me-max:          var(--me-measure);
+  --me-radius:       6px;        /* slightly tighter than core 8px chrome radius; chrome keeps 8px */
+
+  /* Brand */
+  --me-wordmark-status: "DRAFT-TEXT-ONLY";
+  --me-site-stamp: "ME-SITE-BRAND:v0.1-2026-10-05 DRAFT";
+}
+
+/* Large-text and dyslexia-friendly toggles (opt-in by the visitor) */
+[data-text='large'] { --me-fs-body: 1.375rem; --me-lh-body: 1.75; --me-measure: 60ch; }
+[data-font='dyslexic'] { --me-font-body: var(--me-font-dyslexic); --me-font-display: var(--me-font-dyslexic); --me-lh-body: 1.8; }
+
+/* ------------------------------------------------------------------ */
+/* 5. OPTIONAL LIGHTWEIGHT UTILITIES (no images, no JS)                */
+/* ------------------------------------------------------------------ */
+
+/* Paper grain: tiny inline SVG noise, 3 to 4 percent. Never behind body
+   text at higher strength (MEDIA-INDEX rule: no era wallpaper behind body). */
+.me-paper-grain {
+  background-color: var(--me-bg);
+  background-image: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='160' height='160'%3E%3Cfilter id='n'%3E%3CfeTurbulence type='fractalNoise' baseFrequency='.9' numOctaves='2' stitchTiles='stitch'/%3E%3CfeColorMatrix values='0 0 0 0 .35 0 0 0 0 .25 0 0 0 0 .18 0 0 0 .045 0'/%3E%3C/filter%3E%3Crect width='100%25' height='100%25' filter='url(%23n)'/%3E%3C/svg%3E");
+}
+
+/* Watercolor wash divider: soft blooms with a darker rim at the edge */
+.me-wash-rule {
+  height: 18px;
+  border: 0;
+  margin: 2.5rem 0;
+  background:
+    radial-gradient(60% 120% at 20% 50%, color-mix(in srgb, var(--me-wash-1) 55%, transparent) 0 55%, color-mix(in srgb, var(--me-wash-1) 80%, transparent) 62%, transparent 70%),
+    radial-gradient(40% 100% at 62% 45%, color-mix(in srgb, var(--me-wash-2) 45%, transparent) 0 55%, transparent 72%),
+    radial-gradient(30% 90% at 88% 55%, color-mix(in srgb, var(--me-wash-3) 60%, transparent) 0 50%, transparent 70%);
+  opacity: .85;
+}
+
+/* Confident ink rule: slightly uneven weight, like a dip pen stroke */
+.me-ink-rule {
+  height: 3px;
+  border: 0;
+  margin: 2rem 0;
+  background: linear-gradient(90deg, transparent, var(--me-rule-ink) 4%, var(--me-rule-ink) 70%, color-mix(in srgb, var(--me-rule-ink) 60%, transparent) 92%, transparent);
+  border-radius: 2px;
+}
+
+/* Ink splatter accent: use sparingly (one per view, corners or headers only) */
+.me-splatter {
+  background-image:
+    radial-gradient(circle at 12% 30%, var(--me-splatter-1) 0 2px, transparent 2.5px),
+    radial-gradient(circle at 18% 62%, var(--me-splatter-2) 0 1.2px, transparent 1.7px),
+    radial-gradient(circle at 26% 40%, var(--me-splatter-1) 0 3.5px, transparent 4px),
+    radial-gradient(circle at 74% 22%, var(--me-splatter-2) 0 1.5px, transparent 2px),
+    radial-gradient(circle at 82% 70%, var(--me-splatter-1) 0 2.5px, transparent 3px),
+    radial-gradient(circle at 90% 38%, var(--me-splatter-1) 0 1px, transparent 1.5px);
+  background-repeat: no-repeat;
+}
+
+/* Focus: dawn ring with a paper halo so it shows on washes and dark cards */
+:where(a, button, [role='button'], input, select, textarea, summary):focus-visible {
+  outline: 3px solid var(--me-focus);
+  outline-offset: 2px;
+  box-shadow: 0 0 0 6px var(--me-focus-halo);
+}
+
+@media (prefers-reduced-motion: reduce) {
+  * { scroll-behavior: auto !important; transition: none !important; animation: none !important; }
+}
