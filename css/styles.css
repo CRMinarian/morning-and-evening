@@ -1,24 +1,19 @@
 /* Morning and Evening CIS 300 class site
-   Text wordmark styles. */
+   Ink-line + watercolor wash treatment from the ME brand tokens. */
+
+@import url("me-tokens.css");
 
 :root {
-  --me-ink: #1A1410;
-  --me-paper: #FFFBF5;
-  --me-mist: #F3EDE3;
-  --me-line: #D4C8B8;
-  --me-dawn: #C45C26;
-  --me-dusk: #2F4A6E;
-  --me-font-display: Georgia, "Times New Roman", serif;
-  --me-font-ui: system-ui, -apple-system, "Segoe UI", Roboto, sans-serif;
-  --me-body: 1.125rem;
-  --me-lead: 1.55;
-  --me-max: 40rem;
-  --me-space-2: 0.5rem;
-  --me-space-4: 1rem;
-  --me-space-5: 1.5rem;
-  --me-space-6: 2rem;
-  --me-space-7: 3rem;
-  --me-radius: 8px;
+  --me-dawn: var(--me-accent-dawn);
+  --me-dusk: var(--me-accent-dusk);
+  --me-body: var(--me-text-body);
+  --me-lead: var(--me-leading);
+  --me-max: var(--me-max-measure);
+  --me-radius: 12px;
+  --me-wash-morning: color-mix(in srgb, var(--me-tint-madder) 16%, var(--me-paper));
+  --me-wash-evening: color-mix(in srgb, var(--me-tint-prussian) 18%, var(--me-paper));
+  --me-wash-peach: color-mix(in srgb, var(--me-tint-madder) 22%, var(--me-paper));
+  --me-shadow: 0 10px 28px color-mix(in srgb, var(--me-tint-sepia) 16%, transparent);
 }
 
 *,
@@ -34,6 +29,10 @@ body {
   line-height: var(--me-lead);
   color: var(--me-ink);
   background-color: var(--me-paper);
+  background-image:
+    radial-gradient(ellipse at 12% 0%, color-mix(in srgb, var(--me-mist) 88%, transparent), transparent 52%),
+    radial-gradient(ellipse at 92% 8%, color-mix(in srgb, var(--me-tint-ochre) 14%, transparent), transparent 42%),
+    radial-gradient(ellipse at 70% 100%, color-mix(in srgb, var(--me-tint-prussian) 8%, transparent), transparent 46%);
 }
 
 a {
@@ -42,7 +41,7 @@ a {
 
 a:hover,
 a:focus {
-  color: var(--me-dawn);
+  color: var(--me-tint-sienna);
 }
 
 a:focus-visible {
@@ -52,26 +51,34 @@ a:focus-visible {
 
 .site-header {
   background-color: var(--me-mist);
+  background-image: linear-gradient(
+    180deg,
+    var(--me-mist),
+    color-mix(in srgb, var(--me-paper) 72%, var(--me-mist))
+  );
   border-bottom: 1px solid var(--me-line);
+  box-shadow: 0 1px 0 color-mix(in srgb, var(--me-era-ornament) 28%, transparent);
   padding: var(--me-space-5) var(--me-space-6);
 }
 
 .site-header h1 {
   margin: 0 0 var(--me-space-2);
   font-family: var(--me-font-display);
-  font-size: 2rem;
+  font-size: var(--me-text-display);
   font-weight: 700;
   letter-spacing: 0.02em;
+  color: var(--me-ink);
 }
 
 .tagline {
   margin: 0;
   font-size: 0.95rem;
-  color: #4a4038;
+  color: var(--me-tint-sepia);
 }
 
 .site-nav {
-  background-color: var(--me-ink);
+  background-color: var(--me-dusk);
+  background-image: linear-gradient(90deg, var(--me-dusk), var(--me-tint-prussian));
   padding: var(--me-space-2) var(--me-space-6);
 }
 
@@ -95,7 +102,7 @@ a:focus-visible {
 
 .site-nav a:hover,
 .site-nav a:focus {
-  color: #f0c9a8;
+  color: var(--me-wash-peach);
 }
 
 .site-nav a[aria-current="page"] {
@@ -124,12 +131,14 @@ a:focus-visible {
   border-radius: var(--me-radius);
   border: 1px solid var(--me-line);
   display: block;
+  box-shadow: var(--me-shadow);
+  background-color: var(--me-mist);
 }
 
 .caption {
   margin: var(--me-space-2) 0 0;
-  font-size: 0.875rem;
-  color: #5a5048;
+  font-size: var(--me-text-meta);
+  color: var(--me-tint-sepia);
 }
 
 .purpose h2,
@@ -141,8 +150,9 @@ a:focus-visible {
 .video-slot h2,
 .contact h2 {
   font-family: var(--me-font-display);
-  font-size: 1.75rem;
+  font-size: var(--me-text-title);
   margin: 0 0 var(--me-space-4);
+  color: var(--me-ink);
 }
 
 .purpose p,
@@ -175,8 +185,8 @@ a:focus-visible {
 
 .sample-note {
   margin: 0 0 var(--me-space-4);
-  font-size: 0.875rem;
-  color: #5a5048;
+  font-size: var(--me-text-meta);
+  color: var(--me-tint-sepia);
 }
 
 .table-wrap {
@@ -189,6 +199,8 @@ a:focus-visible {
   width: 100%;
   border-collapse: collapse;
   background-color: var(--me-paper);
+  border-radius: var(--me-radius);
+  overflow: hidden;
 }
 
 .week-table caption {
@@ -196,7 +208,7 @@ a:focus-visible {
   caption-side: top;
   padding: 0 0 var(--me-space-4);
   font-size: 0.95rem;
-  color: #4a4038;
+  color: var(--me-tint-sepia);
 }
 
 .week-table th,
@@ -208,7 +220,8 @@ a:focus-visible {
 }
 
 .week-table thead th {
-  background-color: var(--me-ink);
+  background-color: var(--me-dusk);
+  background-image: linear-gradient(90deg, var(--me-dusk), var(--me-tint-prussian));
   color: var(--me-paper);
   font-family: var(--me-font-ui);
   font-size: 0.95rem;
@@ -224,11 +237,11 @@ a:focus-visible {
   display: block;
   font-size: 0.8rem;
   font-weight: 500;
-  color: #4a4038;
+  color: var(--me-tint-sepia);
 }
 
 .week-table tbody tr:nth-child(even) td {
-  background-color: #faf6ef;
+  background-color: color-mix(in srgb, var(--me-mist) 70%, var(--me-paper));
 }
 
 .week-table strong {
@@ -240,7 +253,7 @@ a:focus-visible {
 .excerpt {
   margin: 0.35rem 0 0;
   font-size: 0.95rem;
-  color: #4a4038;
+  color: var(--me-tint-sepia);
 }
 
 code {
@@ -258,14 +271,29 @@ code {
   border: 1px solid var(--me-line);
   border-radius: var(--me-radius);
   padding: var(--me-space-5);
+  box-shadow: var(--me-shadow);
 }
 
 .card.morning {
   border-top: 4px solid var(--me-dawn);
+  background-color: var(--me-mist);
+  background-image: linear-gradient(
+    165deg,
+    var(--me-wash-morning) 0%,
+    var(--me-mist) 48%,
+    var(--me-paper) 100%
+  );
 }
 
 .card.evening {
   border-top: 4px solid var(--me-dusk);
+  background-color: var(--me-mist);
+  background-image: linear-gradient(
+    165deg,
+    var(--me-wash-evening) 0%,
+    var(--me-mist) 48%,
+    var(--me-paper) 100%
+  );
 }
 
 .card h3 {
@@ -276,14 +304,14 @@ code {
 
 .meta {
   margin: 0 0 var(--me-space-4);
-  font-size: 0.875rem;
+  font-size: var(--me-text-meta);
   font-weight: 600;
   letter-spacing: 0.03em;
   text-transform: uppercase;
 }
 
 .card.morning .meta {
-  color: #8B3A0E;
+  color: var(--me-tint-sienna);
 }
 
 .card.evening .meta {
@@ -299,6 +327,10 @@ code {
   margin-bottom: 0;
 }
 
+.reading-body {
+  font-family: var(--me-font-display);
+}
+
 .reading-body p {
   margin: 0 0 var(--me-space-4);
   max-width: 42rem;
@@ -308,8 +340,14 @@ code {
   margin: 0 0 var(--me-space-5);
   padding: var(--me-space-5);
   background-color: var(--me-mist);
+  background-image: linear-gradient(
+    180deg,
+    color-mix(in srgb, var(--me-mist) 80%, var(--me-paper)),
+    var(--me-paper)
+  );
   border: 1px solid var(--me-line);
   border-radius: var(--me-radius);
+  box-shadow: var(--me-shadow);
 }
 
 .week-readings .day-reading:last-child {
@@ -366,7 +404,12 @@ code {
   width: 100%;
   height: auto;
   min-height: 12.5rem;
-  background-color: #2a241c;
+  background-color: var(--me-tint-ink-brown);
+  background-image: linear-gradient(
+    165deg,
+    var(--me-tint-prussian),
+    var(--me-tint-ink-brown)
+  );
   border: 1px solid var(--me-line);
   border-radius: var(--me-radius);
 }
@@ -378,7 +421,7 @@ code {
   top: 42%;
   margin: 0;
   text-align: center;
-  color: #f3ede3;
+  color: var(--me-paper);
   font-family: var(--me-font-display);
   font-size: 1.25rem;
   pointer-events: none;
@@ -387,6 +430,16 @@ code {
 .contact-form {
   max-width: 32rem;
   margin: 0 0 var(--me-space-6);
+  padding: var(--me-space-5);
+  background-color: var(--me-mist);
+  background-image: linear-gradient(
+    180deg,
+    color-mix(in srgb, var(--me-mist) 70%, var(--me-paper)),
+    var(--me-paper)
+  );
+  border: 1px solid var(--me-line);
+  border-radius: var(--me-radius);
+  box-shadow: var(--me-shadow);
 }
 
 .form-row {
@@ -406,8 +459,8 @@ code {
   font: inherit;
   color: var(--me-ink);
   background-color: var(--me-paper);
-  border: 1px solid #8a7d6e;
-  border-radius: var(--me-radius);
+  border: 1px solid var(--me-tint-sepia);
+  border-radius: var(--me-chrome-radius);
   padding: 0.65rem 0.75rem;
   min-height: 44px;
   width: 100%;
@@ -424,7 +477,7 @@ code {
   color: var(--me-paper);
   background-color: var(--me-dusk);
   border: 0;
-  border-radius: var(--me-radius);
+  border-radius: var(--me-chrome-radius);
   padding: 0.75rem 1.25rem;
   min-height: 44px;
   cursor: pointer;
@@ -433,7 +486,7 @@ code {
 
 .form-row button[type="submit"]:hover,
 .form-row button[type="submit"]:focus {
-  background-color: #243a57;
+  background-color: var(--me-tint-prussian);
 }
 
 .form-row button[type="submit"]:focus-visible {
@@ -451,10 +504,15 @@ code {
 
 .site-footer {
   background-color: var(--me-mist);
+  background-image: linear-gradient(
+    0deg,
+    var(--me-mist),
+    color-mix(in srgb, var(--me-paper) 55%, var(--me-mist))
+  );
   border-top: 1px solid var(--me-line);
   padding: var(--me-space-5) var(--me-space-6);
-  font-size: 0.875rem;
-  color: #4a4038;
+  font-size: var(--me-text-meta);
+  color: var(--me-tint-sepia);
 }
 
 .site-footer p {
