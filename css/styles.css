@@ -357,6 +357,10 @@ code {
   max-width: 36rem;
 }
 
+.video-frame {
+  position: relative;
+}
+
 .video-figure video {
   display: block;
   width: 100%;
@@ -365,6 +369,19 @@ code {
   background-color: #2a241c;
   border: 1px solid var(--me-line);
   border-radius: var(--me-radius);
+}
+
+.video-placeholder-label {
+  position: absolute;
+  left: 0;
+  right: 0;
+  top: 42%;
+  margin: 0;
+  text-align: center;
+  color: #f3ede3;
+  font-family: var(--me-font-display);
+  font-size: 1.25rem;
+  pointer-events: none;
 }
 
 .contact-form {
