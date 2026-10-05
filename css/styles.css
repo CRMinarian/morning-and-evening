@@ -196,6 +196,27 @@ a:focus-visible {
   padding: var(--me-space-7) var(--me-space-6);
 }
 
+.site-main:focus {
+  outline: none;
+}
+
+.site-main:focus-visible {
+  outline: 3px solid var(--me-focus);
+  outline-offset: 4px;
+}
+
+html[data-intro="pending"] {
+  background-color: var(--me-raw-ink);
+}
+
+html[data-intro="pending"] body {
+  overflow: hidden;
+}
+
+html[data-intro="pending"] body > :not(.intro-reveal) {
+  visibility: hidden;
+}
+
 .hero {
   display: grid;
   grid-template-columns: minmax(140px, 200px) 1fr;
@@ -592,6 +613,108 @@ code {
 .site-footer p {
   margin: 0 0 var(--me-space-2);
   max-width: 48rem;
+}
+
+.intro-reveal {
+  padding: 0;
+  border: 0;
+  background: transparent;
+}
+
+.intro-reveal[open] {
+  position: fixed;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  max-width: none;
+  max-height: none;
+  margin: 0;
+  background-color: var(--me-raw-ink);
+  opacity: 1;
+  transition: opacity 0.7s ease;
+}
+
+.intro-reveal[open].is-leaving {
+  opacity: 0;
+}
+
+.intro-reveal::backdrop {
+  background-color: var(--me-raw-ink);
+}
+
+.intro-reveal-inner {
+  position: relative;
+  width: 100%;
+  height: 100%;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  box-sizing: border-box;
+  padding: var(--me-space-6);
+}
+
+.intro-reveal-heading {
+  position: absolute;
+  right: var(--me-space-5);
+  bottom: var(--me-space-5);
+  left: var(--me-space-5);
+  z-index: 2;
+  margin: 0 auto;
+  max-width: 36rem;
+  padding: 0.4rem 0.75rem;
+  font-family: var(--me-font-display);
+  font-size: 1.25rem;
+  font-weight: 400;
+  font-synthesis: none;
+  color: var(--me-raw-paper-bright);
+  text-align: center;
+  background-color: #1A1410;
+}
+
+.intro-reveal-video {
+  display: block;
+  width: 100%;
+  height: auto;
+  max-width: 36rem;
+  max-height: 70vh;
+  background-color: var(--me-raw-ink);
+}
+
+.intro-reveal-skip {
+  position: absolute;
+  top: var(--me-space-5);
+  right: var(--me-space-5);
+  min-height: 44px;
+  min-width: 44px;
+  padding: 0.55rem 1rem;
+  font-family: var(--me-font-ui);
+  font-size: var(--me-fs-ui);
+  font-weight: 600;
+  color: var(--me-btn-text);
+  background-color: var(--me-btn-bg);
+  border: 0;
+  border-radius: var(--me-chrome-radius);
+  cursor: pointer;
+}
+
+.intro-reveal-skip:hover,
+.intro-reveal-skip:focus {
+  background-color: var(--me-btn-bg-hover);
+}
+
+.intro-reveal-skip:focus-visible {
+  outline: 3px solid var(--me-focus);
+  outline-offset: 2px;
+}
+
+@media (prefers-reduced-motion: reduce) {
+  .intro-reveal[open] {
+    transition: none;
+  }
 }
 
 @media (max-width: 700px) {
