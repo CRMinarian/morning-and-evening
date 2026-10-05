@@ -658,13 +658,21 @@ code {
 }
 
 .intro-reveal-heading {
-  margin: 0 0 var(--me-space-4);
+  position: absolute;
+  right: var(--me-space-5);
+  bottom: var(--me-space-5);
+  left: var(--me-space-5);
+  z-index: 2;
+  margin: 0 auto;
+  max-width: 36rem;
+  padding: 0.4rem 0.75rem;
   font-family: var(--me-font-display);
-  font-size: var(--me-text-title);
+  font-size: 1.25rem;
   font-weight: 400;
   font-synthesis: none;
   color: var(--me-raw-paper-bright);
   text-align: center;
+  background-color: #1A1410;
 }
 
 .intro-reveal-video {
