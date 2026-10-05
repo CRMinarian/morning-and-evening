@@ -3,11 +3,14 @@
 <head>
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1">
-  <meta name="description" content="Contact page for the Morning and Evening CIS 300 class site. The form arrives in a later update.">
+  <meta name="description" content="Contact Pierre Hulsebus about the Morning and Evening CIS 300 class site. Form and email link for questions about the readings.">
   <meta name="author" content="Pierre Hulsebus">
-  <meta name="keywords" content="Morning and Evening, Charles Spurgeon, contact, CIS 300">
+  <meta name="keywords" content="Morning and Evening, Charles Spurgeon, contact, email, CIS 300">
   <title>Morning and Evening | Contact</title>
   <link rel="icon" href="favicon.ico">
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Source+Sans+3:ital,wght@0,400;0,600;0,700;1,400&family=Source+Serif+4:ital,opsz,wght@0,8..60,400;0,8..60,600;0,8..60,700;1,8..60,400&display=swap" rel="stylesheet">
   <link rel="stylesheet" href="css/styles.css">
 </head>
 <body>
@@ -24,13 +27,50 @@
     </ul>
   </nav>
   <main class="site-main">
-    <section class="purpose">
+    <section class="contact">
       <h2>Contact</h2>
-      <p>Coming soon. Placeholder so navigation stays intact for Project Update #1.</p>
+      <p>
+        Use this page to ask about a Home or This Week reading, the public-domain
+        source, or this CIS 300 class site. The form stays on the site. It uses
+        <code>action="#"</code>, so Submit does not send the message to a server.
+        To reach Pierre Hulsebus directly, use the email link under the form.
+      </p>
+
+      <form class="contact-form" action="#" method="get">
+        <div class="form-row">
+          <label for="full-name">Full name</label>
+          <input type="text" id="full-name" name="full-name" autocomplete="name" required>
+        </div>
+        <div class="form-row">
+          <label for="email">Email address</label>
+          <input type="email" id="email" name="email" autocomplete="email" required>
+        </div>
+        <div class="form-row">
+          <label for="subject">Subject</label>
+          <input type="text" id="subject" name="subject" required>
+        </div>
+        <div class="form-row">
+          <label for="message">Message</label>
+          <textarea id="message" name="message" rows="6" required></textarea>
+        </div>
+        <div class="form-row">
+          <button type="submit">Submit</button>
+        </div>
+      </form>
+
+      <p class="email-note">
+        Email:
+        <a class="mailto" href="mailto:phulsebu@asu.edu">phulsebu@asu.edu</a>
+      </p>
     </section>
   </main>
   <footer class="site-footer">
-    <p>Copyright © 2026 Pierre Hulsebus · CIS 300</p>
+    <p>Copyright © 2026 Pierre Hulsebus · CIS 300 · ASURITE phulsebu</p>
+    <p>
+      Source text: Charles H. Spurgeon, <em>Morning and Evening</em>
+      (public domain via
+      <a href="https://ccel.org/ccel/spurgeon/morneve/">CCEL</a>).
+    </p>
   </footer>
 </body>
 </html>
