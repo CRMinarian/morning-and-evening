@@ -492,30 +492,10 @@ code {
   display: block;
   width: 100%;
   height: auto;
-  min-height: 12.5rem;
-  background-color: var(--me-raw-ink-brown);
-  background-image: linear-gradient(
-    165deg,
-    var(--me-raw-navy-prussian),
-    var(--me-raw-ink-brown)
-  );
+  background-color: var(--me-mist);
   border: 1px solid var(--me-line);
   border-radius: var(--me-radius);
-}
-
-.video-placeholder-label {
-  position: absolute;
-  left: 0;
-  right: 0;
-  top: 42%;
-  margin: 0;
-  text-align: center;
-  color: var(--me-raw-paper-bright);
-  font-family: var(--me-font-display);
-  font-size: 1.25rem;
-  font-weight: 400;
-  font-synthesis: none;
-  pointer-events: none;
+  box-shadow: var(--me-shadow);
 }
 
 .contact-form {
