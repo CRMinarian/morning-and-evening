@@ -16,6 +16,13 @@
           document.documentElement.dataset.theme = theme;
         }
       } catch (e) {}
+      try {
+        var seen = localStorage.getItem("me-intro-seen") === "1";
+        var reduce = window.matchMedia("(prefers-reduced-motion: reduce)").matches;
+        if (!seen && !reduce) {
+          document.documentElement.setAttribute("data-intro", "pending");
+        }
+      } catch (e) {}
     })();
   </script>
   <link rel="preconnect" href="https://fonts.googleapis.com">
@@ -43,12 +50,31 @@
       <li><a href="contact.html">Contact</a></li>
     </ul>
   </nav>
-  <main class="site-main">
+  <dialog class="intro-reveal" id="intro-reveal" aria-labelledby="intro-reveal-title">
+    <div class="intro-reveal-inner">
+      <h2 class="intro-reveal-heading" id="intro-reveal-title">Illustrative ink + watercolor</h2>
+      <video
+        id="intro-reveal-video"
+        muted
+        autoplay
+        playsinline
+        preload="auto"
+        width="896"
+        height="1008"
+        poster="images/imagine-watercolor.jpg"
+        tabindex="-1"
+      >
+        <source src="media/style-ref-grok-imagine.mp4" type="video/mp4">
+        A short illustrative ink-and-watercolor clip. Use Skip to continue.
+      </video>
+      <button type="button" class="intro-reveal-skip" id="intro-reveal-skip">Skip</button>
+    </div>
+  </dialog>
+  <main class="site-main" id="site-main" tabindex="-1">
     <section class="hero">
       <figure>
-        <!-- portrait swap waits on Rita final hand-drawn pack -->
-        <img class="portrait" src="images/spurgeon.jpg" width="181" height="258" alt="Portrait of Charles Haddon Spurgeon">
-        <figcaption class="caption">C. H. Spurgeon (public-domain portrait)</figcaption>
+        <img class="portrait" src="images/imagine-watercolor.jpg" width="720" height="810" alt="Illustrative ink and watercolor style reference">
+        <figcaption class="caption">Illustrative ink + watercolor</figcaption>
       </figure>
       <div class="purpose">
         <h2>Purpose</h2>
@@ -113,7 +139,7 @@
             preload="metadata"
             width="896"
             height="1008"
-            poster="media/imagine-ref-29b9b339.png"
+            poster="images/imagine-watercolor.jpg"
             aria-label="Illustrative ink and watercolor style reference. Not a shippable likeness and not a public-domain portrait."
           >
             <source src="media/style-ref-grok-imagine.mp4" type="video/mp4">
@@ -136,5 +162,6 @@
     </p>
   </footer>
   <script src="js/theme.js"></script>
+  <script src="js/intro.js"></script>
 </body>
 </html>
