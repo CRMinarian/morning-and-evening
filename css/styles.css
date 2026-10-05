@@ -136,7 +136,10 @@ a:focus-visible {
 .readings h2,
 .bio h2,
 .persona h2,
-.week h2 {
+.week h2,
+.week-readings h2,
+.video-slot h2,
+.contact h2 {
   font-family: var(--me-font-display);
   font-size: 1.75rem;
   margin: 0 0 var(--me-space-4);
@@ -144,14 +147,19 @@ a:focus-visible {
 
 .purpose p,
 .bio p,
-.persona p {
+.persona p,
+.week-readings > p,
+.video-slot > p,
+.contact p {
   max-width: var(--me-max);
   margin: 0 0 var(--me-space-4);
 }
 
 .bio,
 .persona,
-.week {
+.week,
+.week-readings,
+.contact {
   margin-bottom: var(--me-space-7);
 }
 
@@ -241,7 +249,7 @@ code {
 
 .reading-grid {
   display: grid;
-  grid-template-columns: 1fr 1fr;
+  grid-template-columns: 1fr;
   gap: var(--me-space-5);
 }
 
@@ -283,8 +291,145 @@ code {
 }
 
 .card p {
+  margin: 0 0 var(--me-space-4);
+}
+
+.card p:last-child,
+.reading-body p:last-child {
+  margin-bottom: 0;
+}
+
+.reading-body p {
+  margin: 0 0 var(--me-space-4);
+  max-width: 42rem;
+}
+
+.week-readings .day-reading {
+  margin: 0 0 var(--me-space-5);
+  padding: var(--me-space-5);
+  background-color: var(--me-mist);
+  border: 1px solid var(--me-line);
+  border-radius: var(--me-radius);
+}
+
+.week-readings .day-reading:last-child {
+  margin-bottom: 0;
+}
+
+.week-readings h3 {
+  font-family: var(--me-font-display);
+  font-size: 1.35rem;
+  margin: 0 0 var(--me-space-2);
+}
+
+.week-readings details {
+  margin: 0 0 var(--me-space-4);
+}
+
+.week-readings details:last-child {
+  margin-bottom: 0;
+}
+
+.week-readings summary {
+  cursor: pointer;
+  font-weight: 600;
+  padding: 0.55rem 0;
+  min-height: 44px;
+}
+
+.week-readings summary:focus-visible {
+  outline: 3px solid var(--me-dawn);
+  outline-offset: 2px;
+}
+
+.week-readings .reading-body {
+  padding-top: var(--me-space-4);
+}
+
+.video-slot {
+  margin-top: var(--me-space-7);
+  padding-top: var(--me-space-6);
+  border-top: 1px solid var(--me-line);
+}
+
+.video-figure {
   margin: 0;
-  max-width: var(--me-max);
+  max-width: 36rem;
+}
+
+.video-figure video {
+  display: block;
+  width: 100%;
+  height: auto;
+  min-height: 12.5rem;
+  background-color: #2a241c;
+  border: 1px solid var(--me-line);
+  border-radius: var(--me-radius);
+}
+
+.contact-form {
+  max-width: 32rem;
+  margin: 0 0 var(--me-space-6);
+}
+
+.form-row {
+  display: flex;
+  flex-direction: column;
+  align-items: stretch;
+  gap: 0.35rem;
+  margin: 0 0 var(--me-space-4);
+}
+
+.form-row label {
+  font-weight: 600;
+}
+
+.form-row input,
+.form-row textarea {
+  font: inherit;
+  color: var(--me-ink);
+  background-color: var(--me-paper);
+  border: 1px solid #8a7d6e;
+  border-radius: var(--me-radius);
+  padding: 0.65rem 0.75rem;
+  min-height: 44px;
+  width: 100%;
+}
+
+.form-row textarea {
+  min-height: 8rem;
+  resize: vertical;
+}
+
+.form-row button[type="submit"] {
+  font: inherit;
+  font-weight: 600;
+  color: var(--me-paper);
+  background-color: var(--me-dusk);
+  border: 0;
+  border-radius: var(--me-radius);
+  padding: 0.75rem 1.25rem;
+  min-height: 44px;
+  cursor: pointer;
+  align-self: flex-start;
+}
+
+.form-row button[type="submit"]:hover,
+.form-row button[type="submit"]:focus {
+  background-color: #243a57;
+}
+
+.form-row button[type="submit"]:focus-visible {
+  outline: 3px solid var(--me-dawn);
+  outline-offset: 2px;
+}
+
+.mailto {
+  font-weight: 600;
+}
+
+.email-note {
+  margin-top: 0;
 }
 
 .site-footer {
@@ -301,8 +446,7 @@ code {
 }
 
 @media (max-width: 700px) {
-  .hero,
-  .reading-grid {
+  .hero {
     grid-template-columns: 1fr;
   }
 
