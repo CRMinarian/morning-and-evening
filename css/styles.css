@@ -1,19 +1,19 @@
 /* Morning and Evening CIS 300 class site
-   Ink-line + watercolor wash treatment from the ME brand tokens. */
-
-@import url("me-tokens.css");
+   Stamp: ME-SITE-BRAND:v0.1-2026-10-05 DRAFT
+   Layout utilities. Color, type, and theme roles live in me-site-tokens.css. */
 
 :root {
-  --me-dawn: var(--me-accent-dawn);
-  --me-dusk: var(--me-accent-dusk);
-  --me-body: var(--me-text-body);
-  --me-lead: var(--me-leading);
-  --me-max: var(--me-max-measure);
-  --me-radius: 12px;
-  --me-wash-morning: color-mix(in srgb, var(--me-tint-madder) 16%, var(--me-paper));
-  --me-wash-evening: color-mix(in srgb, var(--me-tint-prussian) 18%, var(--me-paper));
-  --me-wash-peach: color-mix(in srgb, var(--me-tint-madder) 22%, var(--me-paper));
-  --me-shadow: 0 10px 28px color-mix(in srgb, var(--me-tint-sepia) 16%, transparent);
+  /* Repo spacing scale — site tokens do not define these. */
+  --me-space-2: 0.5rem;
+  --me-space-4: 1rem;
+  --me-space-5: 1.5rem;
+  --me-space-6: 2rem;
+  --me-space-7: 3rem;
+  --me-text-display: 2.25rem;
+  --me-text-title: var(--me-fs-h2);
+  --me-text-meta: var(--me-fs-small);
+  --me-chrome-radius: 8px;
+  --me-shadow: 0 10px 28px color-mix(in srgb, var(--me-line-ink) 16%, transparent);
 }
 
 *,
@@ -24,32 +24,63 @@
 
 body {
   margin: 0;
-  font-family: var(--me-font-ui);
+  font-family: var(--me-font-body);
   font-size: var(--me-body);
   line-height: var(--me-lead);
   color: var(--me-ink);
   background-color: var(--me-paper);
   background-image:
     radial-gradient(ellipse at 12% 0%, color-mix(in srgb, var(--me-mist) 88%, transparent), transparent 52%),
-    radial-gradient(ellipse at 92% 8%, color-mix(in srgb, var(--me-tint-ochre) 14%, transparent), transparent 42%),
-    radial-gradient(ellipse at 70% 100%, color-mix(in srgb, var(--me-tint-prussian) 8%, transparent), transparent 46%);
+    radial-gradient(ellipse at 92% 8%, color-mix(in srgb, var(--me-wash-2) 14%, transparent), transparent 42%),
+    radial-gradient(ellipse at 70% 100%, color-mix(in srgb, var(--me-wash-1) 8%, transparent), transparent 46%);
+}
+
+h1,
+h2 {
+  font-family: var(--me-font-display);
+  font-weight: 400;
+  font-synthesis: none;
+  color: var(--me-heading);
+}
+
+h3 {
+  font-family: var(--me-font-body);
+  font-weight: 600;
+  color: var(--me-heading);
 }
 
 a {
-  color: var(--me-dusk);
+  color: var(--me-link);
 }
 
-a:hover,
-a:focus {
-  color: var(--me-tint-sienna);
+a:visited {
+  color: var(--me-link-visited);
+}
+
+a:hover {
+  color: var(--me-link-hover);
 }
 
 a:focus-visible {
-  outline: 3px solid var(--me-dawn);
+  outline: 3px solid var(--me-focus);
   outline-offset: 2px;
 }
 
+.site-main a {
+  text-decoration: underline;
+  text-underline-offset: 0.18em;
+}
+
+.site-main a:hover {
+  text-decoration-thickness: 2px;
+}
+
 .site-header {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: flex-end;
+  justify-content: space-between;
+  gap: var(--me-space-4);
   background-color: var(--me-mist);
   background-image: linear-gradient(
     180deg,
@@ -57,7 +88,7 @@ a:focus-visible {
     color-mix(in srgb, var(--me-paper) 72%, var(--me-mist))
   );
   border-bottom: 1px solid var(--me-line);
-  box-shadow: 0 1px 0 color-mix(in srgb, var(--me-era-ornament) 28%, transparent);
+  box-shadow: 0 1px 0 color-mix(in srgb, var(--me-raw-brass) 28%, transparent);
   padding: var(--me-space-5) var(--me-space-6);
 }
 
@@ -65,21 +96,70 @@ a:focus-visible {
   margin: 0 0 var(--me-space-2);
   font-family: var(--me-font-display);
   font-size: var(--me-text-display);
-  font-weight: 700;
+  font-weight: 400;
+  font-synthesis: none;
   letter-spacing: 0.02em;
-  color: var(--me-ink);
+  color: var(--me-heading);
 }
 
 .tagline {
   margin: 0;
+  font-family: var(--me-font-ui);
   font-size: 0.95rem;
-  color: var(--me-tint-sepia);
+  color: var(--me-text-muted);
+}
+
+.theme-toggle {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.5rem;
+  font-family: var(--me-font-ui);
+}
+
+.theme-btn {
+  font-family: var(--me-font-ui);
+  font-weight: 600;
+  font-size: var(--me-fs-ui);
+  min-height: 44px;
+  padding: 0.5rem 0.9rem;
+  border-radius: var(--me-radius);
+  border: 1.5px solid var(--me-btn-ghost-border);
+  color: var(--me-btn-ghost-text);
+  background: transparent;
+  cursor: pointer;
+}
+
+.theme-btn[aria-pressed="true"] {
+  background: var(--me-btn-bg);
+  color: var(--me-btn-text);
+  border-color: var(--me-btn-bg);
+}
+
+.theme-btn:hover {
+  background: var(--me-btn-bg-hover);
+  color: var(--me-btn-text);
+  border-color: var(--me-btn-bg-hover);
+}
+
+.theme-btn:focus-visible {
+  outline: 3px solid var(--me-focus);
+  outline-offset: 2px;
 }
 
 .site-nav {
-  background-color: var(--me-dusk);
-  background-image: linear-gradient(90deg, var(--me-dusk), var(--me-tint-prussian));
+  background-color: var(--me-raw-ink);
+  font-family: var(--me-font-ui);
   padding: var(--me-space-2) var(--me-space-6);
+}
+
+[data-theme="evening"] .site-nav {
+  background-color: var(--me-surface);
+}
+
+@media (prefers-color-scheme: dark) {
+  :root:not([data-theme="morning"]) .site-nav {
+    background-color: var(--me-surface);
+  }
 }
 
 .site-nav ul {
@@ -91,8 +171,9 @@ a:focus-visible {
   gap: var(--me-space-4);
 }
 
-.site-nav a {
-  color: var(--me-paper);
+.site-nav a,
+.site-nav a:visited {
+  color: var(--me-raw-paper-bright);
   text-decoration: none;
   font-weight: 600;
   padding: 0.6rem 0.25rem;
@@ -102,11 +183,11 @@ a:focus-visible {
 
 .site-nav a:hover,
 .site-nav a:focus {
-  color: var(--me-wash-peach);
+  color: var(--me-raw-peach);
 }
 
 .site-nav a[aria-current="page"] {
-  border-bottom: 3px solid var(--me-dawn);
+  border-bottom: 3px solid var(--me-accent);
 }
 
 .site-main {
@@ -137,8 +218,9 @@ a:focus-visible {
 
 .caption {
   margin: var(--me-space-2) 0 0;
+  font-family: var(--me-font-ui);
   font-size: var(--me-text-meta);
-  color: var(--me-tint-sepia);
+  color: var(--me-text-muted);
 }
 
 .purpose h2,
@@ -151,8 +233,10 @@ a:focus-visible {
 .contact h2 {
   font-family: var(--me-font-display);
   font-size: var(--me-text-title);
+  font-weight: 400;
+  font-synthesis: none;
   margin: 0 0 var(--me-space-4);
-  color: var(--me-ink);
+  color: var(--me-heading);
 }
 
 .purpose p,
@@ -160,8 +244,9 @@ a:focus-visible {
 .persona p,
 .week-readings > p,
 .video-slot > p,
-.contact p {
-  max-width: var(--me-max);
+.contact p,
+.card p {
+  max-width: var(--me-measure);
   margin: 0 0 var(--me-space-4);
 }
 
@@ -185,8 +270,9 @@ a:focus-visible {
 
 .sample-note {
   margin: 0 0 var(--me-space-4);
+  font-family: var(--me-font-ui);
   font-size: var(--me-text-meta);
-  color: var(--me-tint-sepia);
+  color: var(--me-text-muted);
 }
 
 .table-wrap {
@@ -208,7 +294,7 @@ a:focus-visible {
   caption-side: top;
   padding: 0 0 var(--me-space-4);
   font-size: 0.95rem;
-  color: var(--me-tint-sepia);
+  color: var(--me-text-muted);
 }
 
 .week-table th,
@@ -220,9 +306,8 @@ a:focus-visible {
 }
 
 .week-table thead th {
-  background-color: var(--me-dusk);
-  background-image: linear-gradient(90deg, var(--me-dusk), var(--me-tint-prussian));
-  color: var(--me-paper);
+  background-color: var(--me-raw-ink);
+  color: var(--me-raw-paper-bright);
   font-family: var(--me-font-ui);
   font-size: 0.95rem;
   font-weight: 600;
@@ -235,25 +320,27 @@ a:focus-visible {
 
 .week-table .date {
   display: block;
+  font-family: var(--me-font-ui);
   font-size: 0.8rem;
   font-weight: 500;
-  color: var(--me-tint-sepia);
+  color: var(--me-text-muted);
 }
 
 .week-table tbody tr:nth-child(even) td {
-  background-color: color-mix(in srgb, var(--me-mist) 70%, var(--me-paper));
+  background-color: var(--me-surface);
 }
 
 .week-table strong {
   display: block;
-  font-family: var(--me-font-display);
+  font-family: var(--me-font-body);
   font-size: 1.05rem;
+  font-weight: 600;
 }
 
 .excerpt {
   margin: 0.35rem 0 0;
   font-size: 0.95rem;
-  color: var(--me-tint-sepia);
+  color: var(--me-text-muted);
 }
 
 code {
@@ -275,35 +362,38 @@ code {
 }
 
 .card.morning {
-  border-top: 4px solid var(--me-dawn);
+  border-top: 4px solid var(--me-accent);
   background-color: var(--me-mist);
   background-image: linear-gradient(
     165deg,
-    var(--me-wash-morning) 0%,
+    var(--me-quote-bg) 0%,
     var(--me-mist) 48%,
-    var(--me-paper) 100%
+    var(--me-surface) 100%
   );
 }
 
 .card.evening {
-  border-top: 4px solid var(--me-dusk);
+  border-top: 4px solid var(--me-accent-evening);
   background-color: var(--me-mist);
   background-image: linear-gradient(
     165deg,
-    var(--me-wash-evening) 0%,
+    var(--me-callout-bg) 0%,
     var(--me-mist) 48%,
-    var(--me-paper) 100%
+    var(--me-surface) 100%
   );
 }
 
 .card h3 {
-  font-family: var(--me-font-display);
-  font-size: 1.35rem;
+  font-family: var(--me-font-body);
+  font-size: var(--me-fs-h3);
+  font-weight: 600;
   margin: 0 0 var(--me-space-2);
+  color: var(--me-heading);
 }
 
 .meta {
   margin: 0 0 var(--me-space-4);
+  font-family: var(--me-font-ui);
   font-size: var(--me-text-meta);
   font-weight: 600;
   letter-spacing: 0.03em;
@@ -311,15 +401,11 @@ code {
 }
 
 .card.morning .meta {
-  color: var(--me-tint-sienna);
+  color: var(--me-accent-text);
 }
 
 .card.evening .meta {
-  color: var(--me-dusk);
-}
-
-.card p {
-  margin: 0 0 var(--me-space-4);
+  color: var(--me-accent-evening);
 }
 
 .card p:last-child,
@@ -328,12 +414,12 @@ code {
 }
 
 .reading-body {
-  font-family: var(--me-font-display);
+  font-family: var(--me-font-body);
 }
 
 .reading-body p {
   margin: 0 0 var(--me-space-4);
-  max-width: 42rem;
+  max-width: var(--me-measure);
 }
 
 .week-readings .day-reading {
@@ -355,9 +441,11 @@ code {
 }
 
 .week-readings h3 {
-  font-family: var(--me-font-display);
-  font-size: 1.35rem;
+  font-family: var(--me-font-body);
+  font-size: var(--me-fs-h3);
+  font-weight: 600;
   margin: 0 0 var(--me-space-2);
+  color: var(--me-heading);
 }
 
 .week-readings details {
@@ -370,13 +458,14 @@ code {
 
 .week-readings summary {
   cursor: pointer;
+  font-family: var(--me-font-ui);
   font-weight: 600;
   padding: 0.55rem 0;
   min-height: 44px;
 }
 
 .week-readings summary:focus-visible {
-  outline: 3px solid var(--me-dawn);
+  outline: 3px solid var(--me-focus);
   outline-offset: 2px;
 }
 
@@ -404,11 +493,11 @@ code {
   width: 100%;
   height: auto;
   min-height: 12.5rem;
-  background-color: var(--me-tint-ink-brown);
+  background-color: var(--me-raw-ink-brown);
   background-image: linear-gradient(
     165deg,
-    var(--me-tint-prussian),
-    var(--me-tint-ink-brown)
+    var(--me-raw-navy-prussian),
+    var(--me-raw-ink-brown)
   );
   border: 1px solid var(--me-line);
   border-radius: var(--me-radius);
@@ -421,9 +510,11 @@ code {
   top: 42%;
   margin: 0;
   text-align: center;
-  color: var(--me-paper);
+  color: var(--me-raw-paper-bright);
   font-family: var(--me-font-display);
   font-size: 1.25rem;
+  font-weight: 400;
+  font-synthesis: none;
   pointer-events: none;
 }
 
@@ -431,6 +522,7 @@ code {
   max-width: 32rem;
   margin: 0 0 var(--me-space-6);
   padding: var(--me-space-5);
+  font-family: var(--me-font-ui);
   background-color: var(--me-mist);
   background-image: linear-gradient(
     180deg,
@@ -451,6 +543,7 @@ code {
 }
 
 .form-row label {
+  font-family: var(--me-font-ui);
   font-weight: 600;
 }
 
@@ -458,8 +551,8 @@ code {
 .form-row textarea {
   font: inherit;
   color: var(--me-ink);
-  background-color: var(--me-paper);
-  border: 1px solid var(--me-tint-sepia);
+  background-color: var(--me-surface);
+  border: 1px solid var(--me-text-muted);
   border-radius: var(--me-chrome-radius);
   padding: 0.65rem 0.75rem;
   min-height: 44px;
@@ -472,10 +565,10 @@ code {
 }
 
 .form-row button[type="submit"] {
-  font: inherit;
+  font-family: var(--me-font-ui);
   font-weight: 600;
-  color: var(--me-paper);
-  background-color: var(--me-dusk);
+  color: var(--me-btn-text);
+  background-color: var(--me-btn-bg);
   border: 0;
   border-radius: var(--me-chrome-radius);
   padding: 0.75rem 1.25rem;
@@ -486,11 +579,11 @@ code {
 
 .form-row button[type="submit"]:hover,
 .form-row button[type="submit"]:focus {
-  background-color: var(--me-tint-prussian);
+  background-color: var(--me-btn-bg-hover);
 }
 
 .form-row button[type="submit"]:focus-visible {
-  outline: 3px solid var(--me-dawn);
+  outline: 3px solid var(--me-focus);
   outline-offset: 2px;
 }
 
@@ -511,8 +604,9 @@ code {
   );
   border-top: 1px solid var(--me-line);
   padding: var(--me-space-5) var(--me-space-6);
+  font-family: var(--me-font-ui);
   font-size: var(--me-text-meta);
-  color: var(--me-tint-sepia);
+  color: var(--me-text-muted);
 }
 
 .site-footer p {
