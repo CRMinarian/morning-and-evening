@@ -1,0 +1,61 @@
+{
+  "week_start": "2026-10-05",
+  "days": [
+    {
+      "day": "Monday",
+      "date": "2026-10-05",
+      "morning_title": "He arose, and did eat and drink, and went in the strength of that meat forty days and forty nights.",
+      "morning_scripture": "1 Kings 19:8",
+      "evening_title": "He that believeth and is baptized shall be saved.",
+      "evening_scripture": "Mark 16:16"
+    },
+    {
+      "day": "Tuesday",
+      "date": "2026-10-06",
+      "morning_title": "Whosoever drinketh of the water that I shall give him shall never thirst.",
+      "morning_scripture": "John 4:14",
+      "evening_title": "He had married an Ethiopian woman.",
+      "evening_scripture": "Numbers 12:1"
+    },
+    {
+      "day": "Wednesday",
+      "date": "2026-10-07",
+      "morning_title": "Wherefore hast thou afflicted thy servant?",
+      "morning_scripture": "Numbers 11:11",
+      "evening_title": "Now on whom dost thou trust?",
+      "evening_scripture": "Isaiah 36:5"
+    },
+    {
+      "day": "Thursday",
+      "date": "2026-10-08",
+      "morning_title": "Launch out into the deep, and let down your nets for a draught.",
+      "morning_scripture": "Luke 5:4",
+      "evening_title": "Praying in the Holy Ghost.",
+      "evening_scripture": "Jude 1:20"
+    },
+    {
+      "day": "Friday",
+      "date": "2026-10-09",
+      "morning_title": "Able to keep you from falling.",
+      "morning_scripture": "Jude 1:24",
+      "evening_title": "But he answered her not a word.",
+      "evening_scripture": "Matthew 15:23"
+    },
+    {
+      "day": "Saturday",
+      "date": "2026-10-10",
+      "morning_title": "Faultless before the presence of his glory.",
+      "morning_scripture": "Jude 1:24",
+      "evening_title": "And I will deliver thee out of the hand of the wicked, and I will redeem thee out of the hand of the terrible.",
+      "evening_scripture": "Jeremiah 15:21"
+    },
+    {
+      "day": "Sunday",
+      "date": "2026-10-11",
+      "morning_title": "Let us lift up our heart with our hands unto God in the heavens.",
+      "morning_scripture": "Lamentations 3:41",
+      "evening_title": "Whom he did predestinate, them he also called.",
+      "evening_scripture": "Romans 8:30"
+    }
+  ]
+}
