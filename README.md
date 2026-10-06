@@ -3,7 +3,7 @@
 CIS 300 class site for Charles Spurgeon’s *Morning and Evening* readings.
 
 ## Pages
-- `index.html`: Home (full featured pair and HTML5 video)
+- `index.html`: Home (full featured pair and inline portrait video)
 - `about.html`: About
 - `week.html`: This Week (table and full bodies)
 - `contact.html`: Contact (form and mailto)
@@ -19,7 +19,7 @@ CIS 300 class site for Charles Spurgeon’s *Morning and Evening* readings.
   `images/imagine-watercolor.jpg`). `js/portrait.js` pauses it when
   `prefers-reduced-motion` is set.
 - `media/style-ref-grok-imagine.mp4` is the original Imagine source used
-  to cut that loop. Home also keeps a larger player with controls.
+  to cut that loop. It is not referenced by any page.
 
 ## Author
 Pierre Hulsebus (ASURITE `phulsebu`)
