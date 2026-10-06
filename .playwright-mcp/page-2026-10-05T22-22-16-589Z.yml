@@ -1,0 +1,69 @@
+- generic [active] [ref=e1]:
+  - banner [ref=e2]:
+    - heading "Morning and Evening" [level=1] [ref=e3]
+    - paragraph [ref=e4]: Daily Spurgeon devotionals from the public domain
+  - navigation "Primary" [ref=e5]:
+    - list [ref=e6]:
+      - listitem [ref=e7]:
+        - link "Home" [ref=e8] [cursor=pointer]:
+          - /url: index.html
+      - listitem [ref=e9]:
+        - link "About" [ref=e10] [cursor=pointer]:
+          - /url: about.html
+      - listitem [ref=e11]:
+        - link "This Week" [ref=e12] [cursor=pointer]:
+          - /url: week.html
+      - listitem [ref=e13]:
+        - link "Contact" [ref=e14] [cursor=pointer]:
+          - /url: contact.html
+  - main [ref=e15]:
+    - generic [ref=e16]:
+      - figure "C. H. Spurgeon (public-domain portrait)" [ref=e17]:
+        - img "Portrait of Charles Haddon Spurgeon" [ref=e18]
+      - generic [ref=e20]:
+        - heading "Purpose" [level=2] [ref=e21]
+        - paragraph [ref=e22]:
+          - text: This class site introduces Charles Spurgeon’s
+          - emphasis [ref=e23]: Morning and Evening
+          - text: ": one morning reading and one evening reading for each day of the year. The English text is in the public domain. There is no login and no purchase required to read the featured pair on this page."
+        - paragraph [ref=e24]:
+          - text: The sitemap is Home, About, This Week, and Contact.
+          - link "About" [ref=e25] [cursor=pointer]:
+            - /url: about.html
+          - text: covers who Spurgeon is.
+          - link "This Week" [ref=e26] [cursor=pointer]:
+            - /url: week.html
+          - text: lists seven days in a table and the full bodies.
+          - link "Contact" [ref=e27] [cursor=pointer]:
+            - /url: contact.html
+          - text: has the class form and an email link.
+    - generic [ref=e28]:
+      - heading "Today’s featured readings" [level=2] [ref=e29]
+      - paragraph [ref=e30]: Featured date 2026-10-05 · full public-domain text
+      - generic [ref=e31]:
+        - article [ref=e32]:
+          - paragraph [ref=e33]: Morning · 1 Kings 19:8
+          - heading "He arose, and did eat and drink, and went in the strength of that meat forty days and forty nights." [level=3] [ref=e34]
+          - generic [ref=e35]:
+            - paragraph [ref=e36]: “He arose, and did eat and drink, and went in the strength of that meat forty days and forty nights.”
+            - paragraph [ref=e37]: "All the strength supplied to us by our gracious God is meant for service, not for wantonness or boasting. When the prophet Elijah found the cake baked on the coals, and the cruse of water placed at his head, as he lay under the juniper tree, he was no gentleman to be gratified with dainty fare that he might stretch himself at his ease; far otherwise, he was commissioned to go forty days and forty nights in the strength of it, journeying towards Horeb, the mount of God. When the Master invited the disciples to \"Come and dine\" with him, after the feast was concluded he said to Peter, \"Feed my sheep\"; further adding, \"Follow me.\" Even thus it is with us; we eat the bread of heaven, that we may expend our strength in the Master's service. We come to the passover, and eat of the paschal lamb with loins girt, and staff in hand, so as to start off at once when we have satisfied our hunger. Some Christians are for living on Christ, but are not so anxious to live for Christ. Earth should be a preparation for heaven; and heaven is the place where saints feast most and work most. They sit down at the table of our Lord, and they serve him day and night in his temple. They eat of heavenly food and render perfect service. Believer, in the strength you daily gain from Christ labour for him. Some of us have yet to learn much concerning the design of our Lord in giving us his grace. We are not to retain the precious grains of truth as the Egyptian mummy held the wheat for ages, without giving it an opportunity to grow: we must sow it and water it. Why does the Lord send down the rain upon the thirsty earth, and give the genial sunshine? Is it not that these may all help the fruits of the earth to yield food for man? Even so the Lord feeds and refreshes our souls that we may afterwards use our renewed strength in the promotion of his glory."
+        - article [ref=e38]:
+          - paragraph [ref=e39]: Evening · Mark 16:16
+          - heading "He that believeth and is baptized shall be saved." [level=3] [ref=e40]
+          - generic [ref=e41]:
+            - paragraph [ref=e42]: “He that believeth and is baptized shall be saved.”
+            - paragraph [ref=e43]: Mr. MacDonald asked the inhabitants of the island of St. Kilda how a man must be saved. An old man replied, "We shall be saved if we repent, and forsake our sins, and turn to God." "Yes," said a middle-aged female, "and with a true heart too." "Aye," rejoined a third, "and with prayer"; and, added a fourth, "It must be the prayer of the heart." "And we must be diligent too," said a fifth, "in keeping the commandments." Thus, each having contributed his mite, feeling that a very decent creed had been made up, they all looked and listened for the preacher's approbation, but they had aroused his deepest pity. The carnal mind always maps out for itself a way in which self can work and become great, but the Lord's way is quite the reverse. Believing and being baptized are no matters of merit to be gloried in-they are so simple that boasting is excluded, and free grace bears the palm. It may be that the reader is unsaved-what is the reason? Do you think the way of salvation as laid down in the text to be dubious? How can that be when God has pledged his own word for its certainty? Do you think it too easy? Why, then, do you not attend to it? Its ease leaves those without excuse who neglect it. To believe is simply to trust, to depend, to rely upon Christ Jesus. To be baptized is to submit to the ordinance which our Lord fulfilled at Jordan, to which the converted ones submitted at Pentecost, to which the jailer yielded obedience the very night of his conversion. The outward sign saves not, but it sets forth to us our death, burial, and resurrection with Jesus, and, like the Lord's Supper, is not to be neglected. Reader, do you believe in Jesus? Then, dear friend, dismiss your fears, you shall be saved. Are you still an unbeliever, then remember there is but one door, and if you will not enter by it you will perish in your sins.
+    - generic [ref=e44]:
+      - heading "Illustrative ink + watercolor" [level=2] [ref=e45]
+      - paragraph [ref=e46]: "A short HTML5 clip in the site’s ink-and-watercolor treatment. It is a style reference only: not a shippable likeness and not a public-domain portrait."
+      - figure "Illustrative ink + watercolor (style reference; not a shippable likeness / not a public-domain portrait)" [ref=e47]:
+        - generic "Illustrative ink and watercolor style reference. Not a shippable likeness and not a public-domain portrait." [ref=e49]: Your browser does not support HTML5 video. A still from the same illustrative ink-and-watercolor style reference is in the poster image.
+  - contentinfo [ref=e51]:
+    - paragraph [ref=e52]: Copyright © 2026 Pierre Hulsebus · CIS 300 · ASURITE phulsebu
+    - paragraph [ref=e53]:
+      - text: "Source text: Charles H. Spurgeon,"
+      - emphasis [ref=e54]: Morning and Evening
+      - text: (public domain via
+      - link "CCEL" [ref=e55] [cursor=pointer]:
+        - /url: https://ccel.org/ccel/spurgeon/morneve/
+      - text: ).

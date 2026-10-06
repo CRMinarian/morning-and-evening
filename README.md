@@ -14,13 +14,12 @@ CIS 300 class site for Charles Spurgeon’s *Morning and Evening* readings.
   pages (week of 2026-10-05 through 2026-10-11).
 
 ## Media
-- `media/style-ref-grok-imagine.mp4` is the Home HTML5 video and the
-  first-visit intro clip: an illustrative ink + watercolor style
-  reference, not a shippable likeness and not a public-domain portrait.
-- `images/imagine-watercolor.jpg` is a still frame from that clip. It
-  replaces the old public-domain photograph on Home, About, and This Week.
-- Home shows the intro overlay once per browser (`localStorage` key
-  `me-intro-seen`). `js/intro.js` handles Skip, fade, and reduced motion.
+- `media/portrait-loop.mp4` is the muted looping clip used in the Home,
+  About, and This Week portrait spots (poster
+  `images/imagine-watercolor.jpg`). `js/portrait.js` pauses it when
+  `prefers-reduced-motion` is set.
+- `media/style-ref-grok-imagine.mp4` is the original Imagine source used
+  to cut that loop. Home also keeps a larger player with controls.
 
 ## Author
 Pierre Hulsebus (ASURITE `phulsebu`)

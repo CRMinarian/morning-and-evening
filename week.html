@@ -367,8 +367,30 @@
         <em>Morning and Evening</em>.
       </p>
       <figure class="week-figure">
-        <img class="portrait" src="images/imagine-watercolor.jpg" width="720" height="810" alt="Illustrative ink and watercolor style reference">
-        <figcaption class="caption">Illustrative ink + watercolor</figcaption>
+        <div class="portrait-frame">
+          <img
+            class="portrait portrait-still"
+            src="images/imagine-watercolor.jpg"
+            width="720"
+            height="810"
+            alt="Charles Spurgeon"
+          >
+          <video
+            class="portrait portrait-loop"
+            muted
+            autoplay
+            loop
+            playsinline
+            poster="images/imagine-watercolor.jpg"
+            width="720"
+            height="810"
+            aria-label="Charles Spurgeon"
+            tabindex="-1"
+            data-motion-video
+          >
+            <source src="media/portrait-loop.mp4" type="video/mp4">
+          </video>
+        </div>
       </figure>
     </section>
   </main>
@@ -381,5 +403,6 @@
     </p>
   </footer>
   <script src="js/theme.js"></script>
+  <script src="js/portrait.js"></script>
 </body>
 </html>

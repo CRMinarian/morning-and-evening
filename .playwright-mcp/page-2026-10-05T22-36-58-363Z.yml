@@ -1,0 +1,62 @@
+- generic [active] [ref=f8e1]:
+  - banner [ref=f8e2]:
+    - generic [ref=f8e3]:
+      - heading "Morning and Evening" [level=1] [ref=f8e4]
+      - paragraph [ref=f8e5]: Daily Spurgeon devotionals from the public domain
+    - group "Color theme" [ref=f8e6]:
+      - button "Morning" [ref=f8e7] [cursor=pointer]
+      - button "Evening" [pressed] [ref=f8e8] [cursor=pointer]
+  - navigation "Primary" [ref=f8e9]:
+    - list [ref=f8e10]:
+      - listitem [ref=f8e11]:
+        - link "Home" [ref=f8e12] [cursor=pointer]:
+          - /url: index.html
+      - listitem [ref=f8e13]:
+        - link "About" [ref=f8e14] [cursor=pointer]:
+          - /url: about.html
+      - listitem [ref=f8e15]:
+        - link "This Week" [ref=f8e16] [cursor=pointer]:
+          - /url: week.html
+      - listitem [ref=f8e17]:
+        - link "Contact" [ref=f8e18] [cursor=pointer]:
+          - /url: contact.html
+  - main [ref=f8e19]:
+    - generic [ref=f8e20]:
+      - heading "Who Spurgeon is" [level=2] [ref=f8e21]
+      - figure "C. H. Spurgeon. Public-domain portrait used on this class site." [ref=f8e22]:
+        - img "Portrait of Charles Haddon Spurgeon" [ref=f8e23]
+      - paragraph [ref=f8e25]: Charles Haddon Spurgeon (19 June 1834 to 31 January 1892) was an English Particular Baptist preacher. He was born in Kelvedon, England, and died in Menton, France. Wikipedia records that some readers still call him the “Prince of Preachers.”
+      - paragraph [ref=f8e26]: He was pastor of the New Park Street Chapel congregation in London, later known as the Metropolitan Tabernacle, for 38 years. The congregation moved into the purpose-built Tabernacle at Elephant and Castle, Southwark, on 18 March 1861. While there he also supported practical work that included a Pastors’ College (later named Spurgeon’s College) and the Stockwell Orphanage.
+      - paragraph [ref=f8e27]:
+        - text: Spurgeon wrote sermons, commentaries, and devotionals. Many sermons were taken down as he spoke and printed in his lifetime. This class site uses only the public-domain English text of
+        - emphasis [ref=f8e28]: Morning and Evening
+        - text: .
+      - paragraph [ref=f8e29]:
+        - text: Biography facts on this page follow
+        - link "Charles Spurgeon on Wikipedia" [ref=f8e30] [cursor=pointer]:
+          - /url: https://en.wikipedia.org/wiki/Charles_Spurgeon
+        - text: (retrieved 2 October 2026). Read that article for the fuller life story.
+    - generic [ref=f8e31]:
+      - heading "About the book" [level=2] [ref=f8e32]
+      - paragraph [ref=f8e33]:
+        - emphasis [ref=f8e34]: "Morning and Evening: Daily Readings"
+        - text: is arranged by month. It gives one morning meditation and one evening meditation for each day of the year. Each piece opens from a short Scripture text. The Christian Classics Ethereal Library (CCEL) hosts the work and treats the English text as public domain.
+      - paragraph [ref=f8e35]:
+        - text: Book description follows the CCEL work page for
+        - 'link "Morning and Evening: Daily Readings" [ref=f8e36] [cursor=pointer]':
+          - /url: https://ccel.org/ccel/spurgeon/morneve/
+        - text: (retrieved 2 October 2026).
+    - generic [ref=f8e37]:
+      - heading "Who this site is for" [level=2] [ref=f8e38]
+      - paragraph [ref=f8e39]: "Visitor persona: a student or church reader who wants one morning reading and one evening reading they can open without an account. They do not want to install an app or buy a reprint. They also include the CIS 300 instructor who needs to see real pages, a table, a form, and working navigation."
+      - paragraph [ref=f8e40]: Home shows today’s full featured pair and an illustrative ink-and-watercolor video. This Week lists seven days in a table and the complete bodies. Contact holds the class form and an email link. Nothing here is a shop or a login.
+  - contentinfo [ref=f8e41]:
+    - paragraph [ref=f8e42]: Copyright © 2026 Pierre Hulsebus · CIS 300 · ASURITE phulsebu
+    - paragraph [ref=f8e43]:
+      - text: "Source text: Charles H. Spurgeon,"
+      - emphasis [ref=f8e44]: Morning and Evening
+      - text: (public domain via
+      - link "CCEL" [ref=f8e45] [cursor=pointer]:
+        - /url: https://ccel.org/ccel/spurgeon/morneve/
+      - text: ).
+    - paragraph [ref=f8e46]: "Life notes: Wikipedia. Book notes: CCEL."
