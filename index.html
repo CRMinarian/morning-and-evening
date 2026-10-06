@@ -16,13 +16,6 @@
           document.documentElement.dataset.theme = theme;
         }
       } catch (e) {}
-      try {
-        var seen = localStorage.getItem("me-intro-seen") === "1";
-        var reduce = window.matchMedia("(prefers-reduced-motion: reduce)").matches;
-        if (!seen && !reduce) {
-          document.documentElement.setAttribute("data-intro", "pending");
-        }
-      } catch (e) {}
     })();
   </script>
   <link rel="preconnect" href="https://fonts.googleapis.com">
@@ -50,31 +43,33 @@
       <li><a href="contact.html">Contact</a></li>
     </ul>
   </nav>
-  <dialog class="intro-reveal" id="intro-reveal" aria-labelledby="intro-reveal-title">
-    <div class="intro-reveal-inner">
-      <h2 class="intro-reveal-heading" id="intro-reveal-title">Illustrative ink + watercolor</h2>
-      <video
-        id="intro-reveal-video"
-        muted
-        autoplay
-        playsinline
-        preload="auto"
-        width="896"
-        height="1008"
-        poster="images/imagine-watercolor.jpg"
-        tabindex="-1"
-      >
-        <source src="media/style-ref-grok-imagine.mp4" type="video/mp4">
-        A short illustrative ink-and-watercolor clip. Use Skip to continue.
-      </video>
-      <button type="button" class="intro-reveal-skip" id="intro-reveal-skip">Skip</button>
-    </div>
-  </dialog>
-  <main class="site-main" id="site-main" tabindex="-1">
+  <main class="site-main">
     <section class="hero">
       <figure>
-        <img class="portrait" src="images/imagine-watercolor.jpg" width="720" height="810" alt="Illustrative ink and watercolor style reference">
-        <figcaption class="caption">Illustrative ink + watercolor</figcaption>
+        <div class="portrait-frame">
+          <img
+            class="portrait portrait-still"
+            src="images/imagine-watercolor.jpg"
+            width="720"
+            height="810"
+            alt="Charles Spurgeon"
+          >
+          <video
+            class="portrait portrait-loop"
+            muted
+            autoplay
+            loop
+            playsinline
+            poster="images/imagine-watercolor.jpg"
+            width="720"
+            height="810"
+            aria-label="Charles Spurgeon"
+            tabindex="-1"
+            data-motion-video
+          >
+            <source src="media/portrait-loop.mp4" type="video/mp4">
+          </video>
+        </div>
       </figure>
       <div class="purpose">
         <h2>Purpose</h2>
@@ -126,30 +121,19 @@
     </section>
 
     <section class="video-slot">
-      <h2>Illustrative ink + watercolor</h2>
-      <p>
-        A short HTML5 clip in the site’s ink-and-watercolor treatment.
-        It is a style reference only: not a shippable likeness and not a
-        public-domain portrait.
-      </p>
       <figure class="video-figure">
         <div class="video-frame">
           <video
             controls
             preload="metadata"
-            width="896"
-            height="1008"
+            width="720"
+            height="810"
             poster="images/imagine-watercolor.jpg"
-            aria-label="Illustrative ink and watercolor style reference. Not a shippable likeness and not a public-domain portrait."
+            aria-label="Charles Spurgeon"
           >
-            <source src="media/style-ref-grok-imagine.mp4" type="video/mp4">
-            Your browser does not support HTML5 video. A still from the same
-            illustrative ink-and-watercolor style reference is in the poster image.
+            <source src="media/portrait-loop.mp4" type="video/mp4">
           </video>
         </div>
-        <figcaption class="caption">
-          Illustrative ink + watercolor (style reference; not a shippable likeness / not a public-domain portrait)
-        </figcaption>
       </figure>
     </section>
   </main>
@@ -162,6 +146,6 @@
     </p>
   </footer>
   <script src="js/theme.js"></script>
-  <script src="js/intro.js"></script>
+  <script src="js/portrait.js"></script>
 </body>
 </html>

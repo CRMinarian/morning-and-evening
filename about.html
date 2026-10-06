@@ -47,8 +47,30 @@
     <section class="bio">
       <h2>Who Spurgeon is</h2>
       <figure class="bio-figure">
-        <img class="portrait" src="images/imagine-watercolor.jpg" width="720" height="810" alt="Illustrative ink and watercolor style reference">
-        <figcaption class="caption">Illustrative ink + watercolor</figcaption>
+        <div class="portrait-frame">
+          <img
+            class="portrait portrait-still"
+            src="images/imagine-watercolor.jpg"
+            width="720"
+            height="810"
+            alt="Charles Spurgeon"
+          >
+          <video
+            class="portrait portrait-loop"
+            muted
+            autoplay
+            loop
+            playsinline
+            poster="images/imagine-watercolor.jpg"
+            width="720"
+            height="810"
+            aria-label="Charles Spurgeon"
+            tabindex="-1"
+            data-motion-video
+          >
+            <source src="media/portrait-loop.mp4" type="video/mp4">
+          </video>
+        </div>
       </figure>
       <p>
         Charles Haddon Spurgeon (19 June 1834 to 31 January 1892) was an English
@@ -103,9 +125,9 @@
         and working navigation.
       </p>
       <p>
-        Home shows today’s full featured pair and an illustrative
-        ink-and-watercolor video. This Week lists seven days in a table and
-        the complete bodies. Contact holds the class form and an email link.
+        Home shows today’s full featured pair and a short video. This Week
+        lists seven days in a table and the complete bodies. Contact holds
+        the class form and an email link.
         Nothing here is a shop or a login.
       </p>
     </section>
@@ -120,5 +142,6 @@
     <p>Life notes: Wikipedia. Book notes: CCEL.</p>
   </footer>
   <script src="js/theme.js"></script>
+  <script src="js/portrait.js"></script>
 </body>
 </html>
