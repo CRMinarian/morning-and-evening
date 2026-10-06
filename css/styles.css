@@ -593,10 +593,6 @@ code {
   font-weight: 600;
 }
 
-.email-note {
-  margin-top: 0;
-}
-
 .site-footer {
   background-color: var(--me-mist);
   background-image: linear-gradient(
