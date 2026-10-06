@@ -3,9 +3,11 @@
 CIS 300 class site for Charles Spurgeon’s *Morning and Evening* readings.
 
 ## Pages
-- `index.html`: Home (full featured pair and inline portrait video)
+- `index.html`: Home (featured pair and inline portrait video)
 - `about.html`: About
-- `week.html`: This Week (table and full bodies)
+- `week.html`: This Week (table of title tiles)
+- `today.html`: Today (morning and evening pair for the local date)
+- `reading.html`: Reading (one full body opened from a This Week tile)
 - `contact.html`: Contact (form). Email is in the shared footer.
 
 ## Data
