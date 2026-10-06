@@ -106,7 +106,7 @@
         var note = document.getElementById("today-note");
         if (note) {
           note.textContent =
-            "Shown date 2026-10-05. The live week file could not be read, so the Monday pair stays on the page.";
+            "Shown date 2026-10-05. The Monday pair stays on the page.";
         }
       });
   }
