@@ -36,6 +36,36 @@
     return SLOTS[findIndex(day, time)];
   }
 
+  function hashId() {
+    var raw = window.location.hash || "";
+    if (raw.charAt(0) === "#") {
+      raw = raw.slice(1);
+    }
+    try {
+      raw = decodeURIComponent(raw);
+    } catch (e) {
+      return "";
+    }
+    return raw;
+  }
+
+  function slotFromHash() {
+    var id = hashId();
+    if (!id) {
+      return null;
+    }
+    for (var i = 0; i < SLOTS.length; i += 1) {
+      if (slotId(SLOTS[i]) === id) {
+        return SLOTS[i];
+      }
+    }
+    return null;
+  }
+
+  function resolveSlot() {
+    return slotFromHash() || queryValues();
+  }
+
   function hrefFor(slot) {
     return "reading.html?day=" + slot.day + "&time=" + slot.time;
   }
@@ -96,9 +126,27 @@
     }
   }
 
-  function start() {
-    show(queryValues());
+  function applyLocation(options) {
+    var slot = resolveSlot();
+    show(slot);
+    if (options && options.scroll) {
+      var current = document.getElementById(slotId(slot));
+      if (current && typeof current.scrollIntoView === "function") {
+        current.scrollIntoView();
+      }
+    }
   }
+
+  function start() {
+    applyLocation({ scroll: Boolean(slotFromHash()) });
+  }
+
+  window.addEventListener("hashchange", function () {
+    if (!slotFromHash()) {
+      return;
+    }
+    applyLocation({ scroll: true });
+  });
 
   if (document.readyState === "loading") {
     document.addEventListener("DOMContentLoaded", start);
