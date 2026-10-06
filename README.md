@@ -6,7 +6,7 @@ CIS 300 class site for Charles Spurgeon’s *Morning and Evening* readings.
 - `index.html`: Home (full featured pair and inline portrait video)
 - `about.html`: About
 - `week.html`: This Week (table and full bodies)
-- `contact.html`: Contact (form and mailto)
+- `contact.html`: Contact (form). Email is in the shared footer.
 
 ## Data
 - `data/today.json`, `data/this-week.json`, and `data/this-week-full.json`
