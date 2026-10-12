@@ -61,7 +61,7 @@ Charles Haddon Spurgeon died in 1892. *Morning and Evening* is in the public dom
 
 ## Scripture reference normalization (not guessing)
 
-`scripture_ref_as_printed` keeps the source line. `scripture_ref` adds chapter `1` for single-chapter books and maps `Psalms` to `Psalm`:
+`scripture_ref_as_printed` keeps the source line. `scripture_ref` adds chapter `1` for single-chapter books and maps `Psalms` to `Psalm`. Validation requires the normalized book, chapter, and verse(s) to match the printed ref (for single-chapter books, printed `N` is `1:N`). A prior status note mixed Oct 8 evening (`Jude 20` -> `Jude 1:20`) with Oct 9 and Oct 10 morning (`Jude 24` -> `Jude 1:24`). On-disk pairs already agreed; the audit found 0 disagreements before this check was added.
 
 - `Jude 1` -> `Jude 1:1` (Morning, July 12)
 - `Jude 20` -> `Jude 1:20` (Evening, October 8)
