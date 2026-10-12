@@ -56,8 +56,8 @@ Charles Haddon Spurgeon died in 1892. *Morning and Evening* is in the public dom
 - `scripture_text` is the lead quotation exactly as CCEL prints it, without the wrapping quotation marks.
 - `scripture_ref_as_printed` is the reference line exactly as CCEL prints it.
 - `scripture_ref` is the normalized `book chapter:verse(s)` form used by validation.
-- Filenames follow the seed pattern `YYYY-MM-DD-slot.md` with year `2026` so the class-week paths stay stable. `02-29` is included even though 2026 is not a leap year; the calendar is perpetual.
-- Frontmatter `date` is `MM-DD`.
+- Filenames are year-less `MM-DD-slot.md` (example: `02-29-evening.md`) because this is a perpetual calendar. Frontmatter `date` is `MM-DD`. 2026 is not a leap year, so `2026-02-29` is never used as a file or frontmatter date.
+- Class-week JSON (`today.json`, `this-week.json`, `this-week-full.json`) still uses `2026-10-05` through `2026-10-11` in the `date` / `week_start` / `episode` / `id` fields the site already reads. `source_reading` points at the year-less markdown path.
 
 ## Scripture reference normalization (not guessing)
 

@@ -14,14 +14,15 @@ if str(SCRIPTS) not in sys.path:
     sys.path.insert(0, str(SCRIPTS))
 
 from me_corpus import (  # noqa: E402
-    FILE_YEAR,
     contains_em_dash,
     expected_mmdd_slots,
     generated_title,
     ingest,
+    is_valid_calendar_date,
     lookup_reading,
     parse_ccel_text,
     parse_scripture_ref,
+    refs_agree,
     validate_readings_dir,
 )
 
@@ -115,7 +116,7 @@ def test_ingest_sample_writes_frontmatter_and_index(tmp_path: Path) -> None:
     data_dir = tmp_path / "data"
     readings, report = ingest(FIXTURE.read_text(encoding="utf-8"), data_dir)
     assert len(readings) == 4
-    sample = data_dir / "readings" / f"{FILE_YEAR}-01-01-morning.md"
+    sample = data_dir / "readings" / "01-01-morning.md"
     text = sample.read_text(encoding="utf-8")
     assert text.startswith("---\n")
     assert 'date: "01-01"' in text
@@ -131,7 +132,7 @@ def test_ingest_sample_writes_frontmatter_and_index(tmp_path: Path) -> None:
     row = lookup_reading("01-01", "morning", index=index)
     assert row is not None
     assert row["scripture_ref"] == "Joshua 5:12"
-    assert row["path"] == f"data/readings/{FILE_YEAR}-01-01-morning.md"
+    assert row["path"] == "data/readings/01-01-morning.md"
     assert lookup_reading("2026-10-08", "evening", index=index)["scripture_ref"] == "Jude 1:20"
     assert lookup_reading("2026-10-08", "evening", index=index)["scripture_ref_as_printed"] == "Jude 20"
     # Sample is not a full year, so structural ok is false and missing days are listed.
@@ -153,7 +154,26 @@ def test_full_corpus_validation() -> None:
     assert report.unparsed_refs == []
     assert report.titles_with_em_dash == []
     assert report.source_mismatches == []
+    assert report.ref_disagreements == []
+    assert report.invalid_dates == []
     assert report.sample_compared >= 14
+    names = [path.name for path in READINGS_DIR.glob("*.md") if path.name != "PROVENANCE.md"]
+    assert all(not name.startswith("2026-") for name in names)
+    assert "02-29-morning.md" in names
+    assert "02-29-evening.md" in names
+
+
+def test_refs_agree_same_verse() -> None:
+    assert refs_agree("Jude 20", "Jude 1:20") is True
+    assert refs_agree("Jude 24", "Jude 1:24") is True
+    assert refs_agree("Psalms 111:9", "Psalm 111:9") is True
+    assert refs_agree("Jude 20", "Jude 1:24") is False
+    assert refs_agree("Genesis 1:4", "Genesis 1:5") is False
+
+
+def test_feb_29_is_not_a_2026_calendar_date() -> None:
+    assert is_valid_calendar_date(2026, 2, 29) is False
+    assert is_valid_calendar_date(2024, 2, 29) is True
 
 
 def test_generated_titles_use_pipe_not_em_dash() -> None:
@@ -169,7 +189,7 @@ def test_year_index_and_class_week_indexes() -> None:
     assert all(required <= set(row) for row in year["readings"])
     feb = lookup_reading("02-29", "morning", index=year)
     assert feb is not None
-    assert feb["path"].endswith("02-29-morning.md")
+    assert feb["path"] == "data/readings/02-29-morning.md"
 
     today = json.loads((ROOT / "data" / "today.json").read_text(encoding="utf-8"))
     assert today["date"] == "2026-10-05"
@@ -190,6 +210,8 @@ def test_year_index_and_class_week_indexes() -> None:
     assert len(full["days"]) == 7
     monday = full["days"][0]
     assert monday["mmdd"] == "10-05"
-    assert monday["morning"]["source_reading"].endswith("10-05-morning.md")
+    assert monday["morning"]["source_reading"] == "data/readings/10-05-morning.md"
+    assert monday["date"] == "2026-10-05"
+    assert monday["morning"]["id"] == "spurgeon-2026-10-05-morning-en"
     assert monday["morning"]["scripture"]
     assert monday["evening"]["body"]

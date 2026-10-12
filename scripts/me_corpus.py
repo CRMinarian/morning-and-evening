@@ -29,7 +29,7 @@ PUBLIC_DOMAIN = (
     "Charles Haddon Spurgeon (1834-1892). This text is in the public domain "
     "in the United States."
 )
-FILE_YEAR = 2026
+CLASS_WEEK_YEAR = 2026
 CLASS_WEEK_START = "2026-10-05"
 CLASS_WEEK_END = "2026-10-11"
 SOURCE_CACHE_RELATIVE = "source/ccel-morneve.txt"
@@ -180,8 +180,12 @@ VERSE_TAIL_RE = re.compile(
 )
 SINGLE_VERSE_RE = re.compile(r"^(?P<verse>\d+)$")
 READING_NAME_RE = re.compile(
+    r"^(?P<mm>\d{2})-(?P<dd>\d{2})-(?P<slot>morning|evening)\.md$"
+)
+DATED_NAME_RE = re.compile(
     r"^(?P<year>\d{4})-(?P<mm>\d{2})-(?P<dd>\d{2})-(?P<slot>morning|evening)\.md$"
 )
+ISO_DATE_RE = re.compile(r"\b(\d{4})-(\d{2})-(\d{2})\b")
 
 
 @dataclass(frozen=True)
@@ -219,23 +223,23 @@ class Reading:
 
     @property
     def filename(self) -> str:
-        return f"{FILE_YEAR}-{self.date}-{self.slot}.md"
+        return f"{self.date}-{self.slot}.md"
 
     @property
     def path(self) -> str:
         return f"data/readings/{self.filename}"
 
     @property
-    def iso_date(self) -> str:
-        return f"{FILE_YEAR}-{self.date}"
+    def class_week_iso(self) -> str:
+        return f"{CLASS_WEEK_YEAR}-{self.date}"
 
     @property
     def episode(self) -> str:
-        return f"content/spurgeon/en/{self.slot}/{self.iso_date}.md"
+        return f"content/spurgeon/en/{self.slot}/{self.class_week_iso}.md"
 
     @property
     def reading_id(self) -> str:
-        return f"spurgeon-{self.iso_date}-{self.slot}-en"
+        return f"spurgeon-{self.class_week_iso}-{self.slot}-en"
 
 
 @dataclass
@@ -251,6 +255,8 @@ class ValidationReport:
     titles_with_em_dash: list[str]
     source_mismatches: list[str]
     sample_compared: int
+    ref_disagreements: list[dict[str, str]]
+    invalid_dates: list[str]
     parse_notes: list[str]
 
     @property
@@ -264,6 +270,8 @@ class ValidationReport:
             and not self.empty_bodies
             and not self.titles_with_em_dash
             and not self.source_mismatches
+            and not self.ref_disagreements
+            and not self.invalid_dates
         )
 
 
@@ -278,6 +286,37 @@ def contains_em_dash(text: str) -> bool:
 
 def normalize_whitespace(text: str) -> str:
     return " ".join((text or "").split())
+
+
+def refs_agree(printed: str, normalized: str) -> bool:
+    """True when normalized book/chapter/verses match the printed ref."""
+    printed_parsed = parse_scripture_ref(printed)
+    normalized_parsed = parse_scripture_ref(normalized)
+    if not printed_parsed.ok or not normalized_parsed.ok:
+        return False
+    return (
+        printed_parsed.book == normalized_parsed.book
+        and printed_parsed.chapter == normalized_parsed.chapter
+        and printed_parsed.verses == normalized_parsed.verses
+    )
+
+
+def is_valid_calendar_date(year: int, month: int, day: int) -> bool:
+    try:
+        dt.date(year, month, day)
+    except ValueError:
+        return False
+    return True
+
+
+def invalid_calendar_dates_in(text: str) -> list[str]:
+    found: list[str] = []
+    for match in ISO_DATE_RE.finditer(text or ""):
+        year, month, day = (int(match.group(1)), int(match.group(2)), int(match.group(3)))
+        iso = f"{year:04d}-{month:02d}-{day:02d}"
+        if not is_valid_calendar_date(year, month, day) and iso not in found:
+            found.append(iso)
+    return found
 
 
 def expected_mmdd_slots() -> list[tuple[str, str]]:
@@ -775,9 +814,7 @@ def validate_readings_dir(
     source_text: str | None = None,
 ) -> ValidationReport:
     expected = expected_mmdd_slots()
-    expected_names = {
-        f"{FILE_YEAR}-{mmdd}-{slot}.md": (mmdd, slot) for mmdd, slot in expected
-    }
+    expected_names = {f"{mmdd}-{slot}.md": (mmdd, slot) for mmdd, slot in expected}
     files = sorted(
         path
         for path in readings_dir.glob("*.md")
@@ -788,6 +825,8 @@ def validate_readings_dir(
     empty_bodies: list[str] = []
     unparsed: list[dict[str, str]] = []
     titles_with_em_dash: list[str] = []
+    ref_disagreements: list[dict[str, str]] = []
+    invalid_dates: list[str] = []
     notes: list[str] = []
     morning = 0
     evening = 0
@@ -800,6 +839,17 @@ def validate_readings_dir(
     )
 
     for path in files:
+        dated = DATED_NAME_RE.match(path.name)
+        if dated:
+            year = int(dated.group("year"))
+            month = int(dated.group("mm"))
+            day = int(dated.group("dd"))
+            extra.append(path.name)
+            if not is_valid_calendar_date(year, month, day):
+                invalid_dates.append(
+                    f"{path.name}: invalid calendar date {year:04d}-{month:02d}-{day:02d}"
+                )
+            continue
         match = READING_NAME_RE.match(path.name)
         if not match:
             extra.append(path.name)
@@ -824,6 +874,7 @@ def validate_readings_dir(
         if contains_em_dash(generated) or contains_em_dash(heading):
             titles_with_em_dash.append(path.name)
         ref = fields.get("scripture_ref", "")
+        printed = fields.get("scripture_ref_as_printed", "")
         parsed = parse_scripture_ref(ref)
         if not parsed.ok:
             unparsed.append(
@@ -835,15 +886,52 @@ def validate_readings_dir(
                     "reason": parsed.reason,
                 }
             )
+        if printed and ref and not refs_agree(printed, ref):
+            printed_parsed = parse_scripture_ref(printed)
+            ref_disagreements.append(
+                {
+                    "path": f"data/readings/{path.name}",
+                    "date": fields.get("date", mmdd),
+                    "slot": fields.get("slot", slot),
+                    "scripture_ref_as_printed": printed,
+                    "scripture_ref": ref,
+                    "reason": (
+                        "normalized book/chapter/verse does not match printed ref"
+                    ),
+                    "printed_parse": (
+                        f"{printed_parsed.book} {printed_parsed.chapter}:"
+                        f"{','.join(str(v) for v in printed_parsed.verses)}"
+                        if printed_parsed.ok
+                        else printed_parsed.reason
+                    ),
+                    "normalized_parse": (
+                        f"{parsed.book} {parsed.chapter}:"
+                        f"{','.join(str(v) for v in parsed.verses)}"
+                        if parsed.ok
+                        else parsed.reason
+                    ),
+                }
+            )
         if fields.get("date") and fields["date"] != mmdd:
             notes.append(f"{path.name}: frontmatter date {fields['date']} != {mmdd}")
         if fields.get("slot") and fields["slot"] != slot:
             notes.append(f"{path.name}: frontmatter slot {fields['slot']} != {slot}")
-        if not fields.get("scripture_ref_as_printed"):
+        if not printed:
             notes.append(f"{path.name}: missing scripture_ref_as_printed")
+        if ISO_DATE_RE.search(fields.get("date", "") or ""):
+            invalid_dates.append(
+                f"{path.name}: frontmatter date {fields['date']!r} is not MM-DD"
+            )
+        for iso in invalid_calendar_dates_in(path.name):
+            invalid_dates.append(f"{path.name}: filename has invalid calendar date {iso}")
+        for key, value in fields.items():
+            for iso in invalid_calendar_dates_in(value):
+                invalid_dates.append(
+                    f"{path.name}: frontmatter {key} has invalid calendar date {iso}"
+                )
 
     missing = [
-        f"{FILE_YEAR}-{mmdd}-{slot}.md"
+        f"{mmdd}-{slot}.md"
         for mmdd, slot in expected
         if (mmdd, slot) not in seen
     ]
@@ -864,6 +952,8 @@ def validate_readings_dir(
         titles_with_em_dash=titles_with_em_dash,
         source_mismatches=source_mismatches,
         sample_compared=sample_compared,
+        ref_disagreements=ref_disagreements,
+        invalid_dates=invalid_dates,
         parse_notes=notes,
     )
 
@@ -885,7 +975,7 @@ def _compare_sample_to_source(
         return 0, mismatches
     for date, slot in BODY_MATCH_SAMPLE:
         source_reading = source_by_key.get((date, slot))
-        path = readings_dir / f"{FILE_YEAR}-{date}-{slot}.md"
+        path = readings_dir / f"{date}-{slot}.md"
         if source_reading is None or not path.is_file():
             continue
         compared += 1
@@ -912,6 +1002,8 @@ def report_lines(report: ValidationReport) -> list[str]:
         f"titles_with_em_dash: {len(report.titles_with_em_dash)}",
         f"source_sample_compared: {report.sample_compared}",
         f"source_mismatches: {len(report.source_mismatches)}",
+        f"ref_disagreements: {len(report.ref_disagreements)}",
+        f"invalid_dates: {len(report.invalid_dates)}",
         f"ok: {report.ok}",
     ]
     if report.missing:
@@ -935,6 +1027,16 @@ def report_lines(report: ValidationReport) -> list[str]:
     if report.source_mismatches:
         lines.append("sample bodies/scripture_text that do not match source:")
         lines.extend(f"  {name}" for name in report.source_mismatches)
+    if report.ref_disagreements:
+        lines.append("printed/normalized scripture_ref disagreements:")
+        for item in report.ref_disagreements:
+            lines.append(
+                f"  {item['path']} printed={item['scripture_ref_as_printed']!r} "
+                f"normalized={item['scripture_ref']!r} ({item['reason']})"
+            )
+    if report.invalid_dates:
+        lines.append("invalid calendar dates:")
+        lines.extend(f"  {name}" for name in report.invalid_dates)
     if report.parse_notes:
         lines.append("notes:")
         lines.extend(f"  {note}" for note in report.parse_notes)

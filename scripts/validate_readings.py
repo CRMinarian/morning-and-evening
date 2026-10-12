@@ -49,6 +49,8 @@ def main(argv: list[str] | None = None) -> int:
                     "titles_with_em_dash": report.titles_with_em_dash,
                     "source_sample_compared": report.sample_compared,
                     "source_mismatches": report.source_mismatches,
+                    "ref_disagreements": report.ref_disagreements,
+                    "invalid_dates": report.invalid_dates,
                     "ok": report.ok,
                 },
                 indent=2,
