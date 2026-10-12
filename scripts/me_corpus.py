@@ -32,6 +32,33 @@ PUBLIC_DOMAIN = (
 FILE_YEAR = 2026
 CLASS_WEEK_START = "2026-10-05"
 CLASS_WEEK_END = "2026-10-11"
+SOURCE_CACHE_RELATIVE = "source/ccel-morneve.txt"
+# Generated labels use a pipe. Em dashes are forbidden in text we write.
+TITLE_SEPARATOR = " | "
+EM_DASH_CHARS = ("\u2014", "\u2013")
+BODY_MATCH_SAMPLE = (
+    ("01-01", "morning"),
+    ("01-01", "evening"),
+    ("02-29", "morning"),
+    ("02-29", "evening"),
+    ("07-12", "morning"),
+    ("10-05", "morning"),
+    ("10-05", "evening"),
+    ("10-06", "morning"),
+    ("10-06", "evening"),
+    ("10-07", "morning"),
+    ("10-07", "evening"),
+    ("10-08", "morning"),
+    ("10-08", "evening"),
+    ("10-09", "morning"),
+    ("10-09", "evening"),
+    ("10-10", "morning"),
+    ("10-10", "evening"),
+    ("10-11", "morning"),
+    ("10-11", "evening"),
+    ("12-31", "morning"),
+    ("12-31", "evening"),
+)
 
 MONTHS = {
     "january": 1,
@@ -174,6 +201,7 @@ class Reading:
     slot: str
     title: str
     scripture_ref: str
+    scripture_ref_as_printed: str
     scripture_text: str
     source: str
     edition: str
@@ -181,7 +209,13 @@ class Reading:
     body: str
     month: int = 0
     day: int = 0
+    source_plain_body: str = ""
+    source_plain_scripture: str = ""
     parse_notes: list[str] = field(default_factory=list)
+
+    @property
+    def generated_title(self) -> str:
+        return generated_title(self.slot, self.month, self.day)
 
     @property
     def filename(self) -> str:
@@ -214,6 +248,9 @@ class ValidationReport:
     extra_files: list[str]
     empty_bodies: list[str]
     unparsed_refs: list[dict[str, str]]
+    titles_with_em_dash: list[str]
+    source_mismatches: list[str]
+    sample_compared: int
     parse_notes: list[str]
 
     @property
@@ -225,7 +262,22 @@ class ValidationReport:
             and not self.missing
             and not self.extra_files
             and not self.empty_bodies
+            and not self.titles_with_em_dash
+            and not self.source_mismatches
         )
+
+
+def generated_title(slot: str, month: int, day: int) -> str:
+    """Slot and calendar day label. Pipe only; never an em dash."""
+    return f"{slot.capitalize()}{TITLE_SEPARATOR}{MONTH_NAMES[month - 1]} {day}"
+
+
+def contains_em_dash(text: str) -> bool:
+    return any(char in (text or "") for char in EM_DASH_CHARS)
+
+
+def normalize_whitespace(text: str) -> str:
+    return " ".join((text or "").split())
 
 
 def expected_mmdd_slots() -> list[tuple[str, str]]:
@@ -403,22 +455,29 @@ def _parse_chunk(slot: str, month_name: str, day: int, chunk: str) -> Reading:
         body_lines.append(raw_line)
 
     scripture_text = _clean_quote(quote_lines)
-    parsed = parse_scripture_ref(ref_line)
+    printed_ref = ref_line
+    parsed = parse_scripture_ref(printed_ref)
     if parsed.ok:
         scripture_ref = parsed.normalized
         if parsed.normalized != parsed.raw:
-            notes.append(f"normalized scripture_ref {parsed.raw!r} -> {parsed.normalized!r}")
+            notes.append(
+                f"normalized scripture_ref {parsed.raw!r} -> {parsed.normalized!r}"
+            )
     else:
-        scripture_ref = ref_line
-        notes.append(f"unparsed scripture_ref {ref_line!r}: {parsed.reason}")
+        scripture_ref = printed_ref
+        notes.append(f"unparsed scripture_ref {printed_ref!r}: {parsed.reason}")
 
     body = _unwrap_body(body_lines)
-    title = scripture_text or scripture_ref
+    plain_body = normalize_whitespace(
+        "\n".join(re.sub(r"^ {1,3}", "", line.rstrip()) for line in body_lines)
+    )
+    title = generated_title(slot, month, day)
     return Reading(
         date=mmdd,
         slot=slot,
         title=title,
         scripture_ref=scripture_ref,
+        scripture_ref_as_printed=printed_ref,
         scripture_text=scripture_text,
         source=source,
         edition=EDITION,
@@ -426,6 +485,8 @@ def _parse_chunk(slot: str, month_name: str, day: int, chunk: str) -> Reading:
         body=body,
         month=month,
         day=day,
+        source_plain_body=plain_body,
+        source_plain_scripture=normalize_whitespace(scripture_text),
         parse_notes=notes,
     )
 
@@ -474,17 +535,15 @@ def yaml_quote(value: str) -> str:
 
 
 def render_markdown(reading: Reading) -> str:
-    heading = (
-        f"# {reading.slot.capitalize()} — "
-        f"{MONTH_NAMES[reading.month - 1]} {reading.day}, {FILE_YEAR}"
-    )
-    verse = f"“{reading.scripture_text}”" if reading.scripture_text else ""
+    heading = f"# {reading.generated_title}"
+    verse = f'"{reading.scripture_text}"' if reading.scripture_text else ""
     parts = [
         "---",
         f"date: {yaml_quote(reading.date)}",
         f"slot: {reading.slot}",
         f"title: {yaml_quote(reading.title)}",
         f"scripture_ref: {yaml_quote(reading.scripture_ref)}",
+        f"scripture_ref_as_printed: {yaml_quote(reading.scripture_ref_as_printed)}",
         f"scripture_text: {yaml_quote(reading.scripture_text)}",
         f"source: {yaml_quote(reading.source)}",
         f"edition: {yaml_quote(reading.edition)}",
@@ -575,6 +634,7 @@ def write_indexes(readings: list[Reading], data_dir: Path) -> None:
                 "date": item.date,
                 "slot": item.slot,
                 "scripture_ref": item.scripture_ref,
+                "scripture_ref_as_printed": item.scripture_ref_as_printed,
             }
             for item in sorted(readings, key=lambda item: (item.date, item.slot))
         ],
@@ -606,9 +666,9 @@ def write_indexes(readings: list[Reading], data_dir: Path) -> None:
             {
                 "day": weekday,
                 "date": iso,
-                "morning_title": morning.title,
+                "morning_title": morning.scripture_text,
                 "morning_scripture": morning.scripture_ref,
-                "evening_title": night.title,
+                "evening_title": night.scripture_text,
                 "evening_scripture": night.scripture_ref,
             }
         )
@@ -633,8 +693,9 @@ def write_indexes(readings: list[Reading], data_dir: Path) -> None:
 
 
 def _index_piece(reading: Reading) -> dict[str, str]:
+    # Site cards still show the lead verse, not the generated slot/date title.
     return {
-        "title": reading.title,
+        "title": reading.scripture_text,
         "scripture": reading.scripture_ref,
         "body": _site_body(reading),
         "episode": reading.episode,
@@ -649,7 +710,7 @@ def _full_piece(reading: Reading) -> dict[str, str]:
 
 
 def _site_body(reading: Reading) -> str:
-    lead = f"“{reading.scripture_text}”" if reading.scripture_text else ""
+    lead = f'"{reading.scripture_text}"' if reading.scripture_text else ""
     if lead and reading.body:
         return f"{lead}\n\n{reading.body}"
     return reading.body or lead
@@ -695,7 +756,24 @@ def lookup_reading(
     return None
 
 
-def validate_readings_dir(readings_dir: Path) -> ValidationReport:
+def write_source_cache(source_text: str, data_dir: Path) -> Path:
+    path = data_dir / SOURCE_CACHE_RELATIVE
+    path.parent.mkdir(parents=True, exist_ok=True)
+    path.write_text(source_text, encoding="utf-8")
+    return path
+
+
+def load_source_cache(data_dir: Path) -> str | None:
+    path = data_dir / SOURCE_CACHE_RELATIVE
+    if not path.is_file():
+        return None
+    return path.read_text(encoding="utf-8")
+
+
+def validate_readings_dir(
+    readings_dir: Path,
+    source_text: str | None = None,
+) -> ValidationReport:
     expected = expected_mmdd_slots()
     expected_names = {
         f"{FILE_YEAR}-{mmdd}-{slot}.md": (mmdd, slot) for mmdd, slot in expected
@@ -709,9 +787,17 @@ def validate_readings_dir(readings_dir: Path) -> ValidationReport:
     seen: set[tuple[str, str]] = set()
     empty_bodies: list[str] = []
     unparsed: list[dict[str, str]] = []
+    titles_with_em_dash: list[str] = []
     notes: list[str] = []
     morning = 0
     evening = 0
+    if source_text is None:
+        source_text = load_source_cache(readings_dir.parent)
+    source_by_key = (
+        {(item.date, item.slot): item for item in parse_ccel_text(source_text)}
+        if source_text
+        else {}
+    )
 
     for path in files:
         match = READING_NAME_RE.match(path.name)
@@ -733,6 +819,10 @@ def validate_readings_dir(readings_dir: Path) -> ValidationReport:
         devotion = markdown_devotion(body)
         if not devotion:
             empty_bodies.append(path.name)
+        heading = _markdown_heading(body)
+        generated = fields.get("title", heading)
+        if contains_em_dash(generated) or contains_em_dash(heading):
+            titles_with_em_dash.append(path.name)
         ref = fields.get("scripture_ref", "")
         parsed = parse_scripture_ref(ref)
         if not parsed.ok:
@@ -749,12 +839,19 @@ def validate_readings_dir(readings_dir: Path) -> ValidationReport:
             notes.append(f"{path.name}: frontmatter date {fields['date']} != {mmdd}")
         if fields.get("slot") and fields["slot"] != slot:
             notes.append(f"{path.name}: frontmatter slot {fields['slot']} != {slot}")
+        if not fields.get("scripture_ref_as_printed"):
+            notes.append(f"{path.name}: missing scripture_ref_as_printed")
 
     missing = [
         f"{FILE_YEAR}-{mmdd}-{slot}.md"
         for mmdd, slot in expected
         if (mmdd, slot) not in seen
     ]
+    sample_compared, source_mismatches = _compare_sample_to_source(
+        readings_dir, source_by_key
+    )
+    if source_text is None:
+        notes.append("source cache missing; skipped body/source sample match")
     return ValidationReport(
         morning_count=morning,
         evening_count=evening,
@@ -764,8 +861,43 @@ def validate_readings_dir(readings_dir: Path) -> ValidationReport:
         extra_files=extra,
         empty_bodies=empty_bodies,
         unparsed_refs=unparsed,
+        titles_with_em_dash=titles_with_em_dash,
+        source_mismatches=source_mismatches,
+        sample_compared=sample_compared,
         parse_notes=notes,
     )
+
+
+def _markdown_heading(body: str) -> str:
+    for line in body.splitlines():
+        if line.startswith("# "):
+            return line[2:].strip()
+    return ""
+
+
+def _compare_sample_to_source(
+    readings_dir: Path,
+    source_by_key: dict[tuple[str, str], Reading],
+) -> tuple[int, list[str]]:
+    mismatches: list[str] = []
+    compared = 0
+    if not source_by_key:
+        return 0, mismatches
+    for date, slot in BODY_MATCH_SAMPLE:
+        source_reading = source_by_key.get((date, slot))
+        path = readings_dir / f"{FILE_YEAR}-{date}-{slot}.md"
+        if source_reading is None or not path.is_file():
+            continue
+        compared += 1
+        fields, body = parse_frontmatter(path.read_text(encoding="utf-8"))
+        devotion = markdown_devotion(body)
+        file_body = normalize_whitespace(devotion)
+        file_verse = normalize_whitespace(fields.get("scripture_text", ""))
+        if file_body != source_reading.source_plain_body:
+            mismatches.append(f"{path.name} body")
+        if file_verse != source_reading.source_plain_scripture:
+            mismatches.append(f"{path.name} scripture_text")
+    return compared, mismatches
 
 
 def report_lines(report: ValidationReport) -> list[str]:
@@ -777,6 +909,9 @@ def report_lines(report: ValidationReport) -> list[str]:
         f"extra: {len(report.extra_files)}",
         f"empty_bodies: {len(report.empty_bodies)}",
         f"unparsed_refs: {len(report.unparsed_refs)}",
+        f"titles_with_em_dash: {len(report.titles_with_em_dash)}",
+        f"source_sample_compared: {report.sample_compared}",
+        f"source_mismatches: {len(report.source_mismatches)}",
         f"ok: {report.ok}",
     ]
     if report.missing:
@@ -794,6 +929,12 @@ def report_lines(report: ValidationReport) -> list[str]:
             lines.append(
                 f"  {item['path']} {item['slot']} {item['scripture_ref']!r} ({item['reason']})"
             )
+    if report.titles_with_em_dash:
+        lines.append("generated titles with em dash:")
+        lines.extend(f"  {name}" for name in report.titles_with_em_dash)
+    if report.source_mismatches:
+        lines.append("sample bodies/scripture_text that do not match source:")
+        lines.extend(f"  {name}" for name in report.source_mismatches)
     if report.parse_notes:
         lines.append("notes:")
         lines.extend(f"  {note}" for note in report.parse_notes)
@@ -807,9 +948,10 @@ def ingest(
 ) -> tuple[list[Reading], ValidationReport]:
     readings = parse_ccel_text(source_text)
     target = readings_dir or (data_dir / "readings")
+    write_source_cache(source_text, data_dir)
     write_readings(readings, target)
     write_indexes(readings, data_dir)
-    return readings, validate_readings_dir(target)
+    return readings, validate_readings_dir(target, source_text=source_text)
 
 
 def reading_to_dict(reading: Reading) -> dict:

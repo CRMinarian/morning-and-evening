@@ -15,7 +15,9 @@ if str(SCRIPTS) not in sys.path:
 
 from me_corpus import (  # noqa: E402
     FILE_YEAR,
+    contains_em_dash,
     expected_mmdd_slots,
+    generated_title,
     ingest,
     lookup_reading,
     parse_ccel_text,
@@ -97,10 +99,14 @@ def test_parse_ccel_sample_normalizes_jude() -> None:
     }
     jan = next(item for item in readings if item.date == "01-01" and item.slot == "morning")
     assert jan.scripture_ref == "Joshua 5:12"
-    assert jan.title.startswith("They did eat of the fruit")
+    assert jan.scripture_ref_as_printed == "Joshua 5:12"
+    assert jan.title == "Morning | January 1"
+    assert contains_em_dash(jan.title) is False
+    assert jan.scripture_text.startswith("They did eat of the fruit")
     assert "weary wanderings" in jan.body
     assert jan.body
     jude = next(item for item in readings if item.date == "10-08")
+    assert jude.scripture_ref_as_printed == "Jude 20"
     assert jude.scripture_ref == "Jude 1:20"
     assert jude.parse_notes
 
@@ -114,7 +120,11 @@ def test_ingest_sample_writes_frontmatter_and_index(tmp_path: Path) -> None:
     assert text.startswith("---\n")
     assert 'date: "01-01"' in text
     assert "slot: morning" in text
+    assert 'title: "Morning | January 1"' in text
+    assert "\u2014" not in text.split("---", 2)[1]
+    assert "# Morning | January 1" in text
     assert "scripture_ref: \"Joshua 5:12\"" in text
+    assert "scripture_ref_as_printed: \"Joshua 5:12\"" in text
     assert "Israel's weary wanderings" in text
     index = json.loads((data_dir / "year-index.json").read_text(encoding="utf-8"))
     assert index["count"] == 4
@@ -123,6 +133,7 @@ def test_ingest_sample_writes_frontmatter_and_index(tmp_path: Path) -> None:
     assert row["scripture_ref"] == "Joshua 5:12"
     assert row["path"] == f"data/readings/{FILE_YEAR}-01-01-morning.md"
     assert lookup_reading("2026-10-08", "evening", index=index)["scripture_ref"] == "Jude 1:20"
+    assert lookup_reading("2026-10-08", "evening", index=index)["scripture_ref_as_printed"] == "Jude 20"
     # Sample is not a full year, so structural ok is false and missing days are listed.
     assert report.ok is False
     assert report.total_files == 4
@@ -140,13 +151,21 @@ def test_full_corpus_validation() -> None:
     assert report.ok is True
     # Unparsed refs are listed, never invented. The corpus should parse all of them.
     assert report.unparsed_refs == []
+    assert report.titles_with_em_dash == []
+    assert report.source_mismatches == []
+    assert report.sample_compared >= 14
+
+
+def test_generated_titles_use_pipe_not_em_dash() -> None:
+    assert generated_title("morning", 10, 5) == "Morning | October 5"
+    assert contains_em_dash(generated_title("evening", 2, 29)) is False
 
 
 def test_year_index_and_class_week_indexes() -> None:
     year = json.loads((ROOT / "data" / "year-index.json").read_text(encoding="utf-8"))
     assert year["count"] == 732
     assert len(year["readings"]) == 732
-    required = {"path", "date", "slot", "scripture_ref"}
+    required = {"path", "date", "slot", "scripture_ref", "scripture_ref_as_printed"}
     assert all(required <= set(row) for row in year["readings"])
     feb = lookup_reading("02-29", "morning", index=year)
     assert feb is not None
