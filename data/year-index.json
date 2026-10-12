@@ -1,0 +1,4399 @@
+{
+  "source": "https://www.ccel.org/ccel/spurgeon/morneve",
+  "edition": "Morning and Evening: Daily Readings, C. H. Spurgeon. CCEL electronic edition of the public-domain combined text (Morning by Morning, 1865; Evening by Evening, 1868).",
+  "count": 732,
+  "readings": [
+    {
+      "path": "data/readings/2026-01-01-evening.md",
+      "date": "01-01",
+      "slot": "evening",
+      "scripture_ref": "Song of Solomon 1:4"
+    },
+    {
+      "path": "data/readings/2026-01-01-morning.md",
+      "date": "01-01",
+      "slot": "morning",
+      "scripture_ref": "Joshua 5:12"
+    },
+    {
+      "path": "data/readings/2026-01-02-evening.md",
+      "date": "01-02",
+      "slot": "evening",
+      "scripture_ref": "Isaiah 41:1"
+    },
+    {
+      "path": "data/readings/2026-01-02-morning.md",
+      "date": "01-02",
+      "slot": "morning",
+      "scripture_ref": "Colossians 4:2"
+    },
+    {
+      "path": "data/readings/2026-01-03-evening.md",
+      "date": "01-03",
+      "slot": "evening",
+      "scripture_ref": "Luke 3:4"
+    },
+    {
+      "path": "data/readings/2026-01-03-morning.md",
+      "date": "01-03",
+      "slot": "morning",
+      "scripture_ref": "Isaiah 49:8"
+    },
+    {
+      "path": "data/readings/2026-01-04-evening.md",
+      "date": "01-04",
+      "slot": "evening",
+      "scripture_ref": "Genesis 42:8"
+    },
+    {
+      "path": "data/readings/2026-01-04-morning.md",
+      "date": "01-04",
+      "slot": "morning",
+      "scripture_ref": "2 Peter 3:18"
+    },
+    {
+      "path": "data/readings/2026-01-05-evening.md",
+      "date": "01-05",
+      "slot": "evening",
+      "scripture_ref": "Genesis 1:4"
+    },
+    {
+      "path": "data/readings/2026-01-05-morning.md",
+      "date": "01-05",
+      "slot": "morning",
+      "scripture_ref": "Genesis 1:4"
+    },
+    {
+      "path": "data/readings/2026-01-06-evening.md",
+      "date": "01-06",
+      "slot": "evening",
+      "scripture_ref": "Ezekiel 33:22"
+    },
+    {
+      "path": "data/readings/2026-01-06-morning.md",
+      "date": "01-06",
+      "slot": "morning",
+      "scripture_ref": "1 Peter 5:7"
+    },
+    {
+      "path": "data/readings/2026-01-07-evening.md",
+      "date": "01-07",
+      "slot": "evening",
+      "scripture_ref": "Song of Solomon 4:12"
+    },
+    {
+      "path": "data/readings/2026-01-07-morning.md",
+      "date": "01-07",
+      "slot": "morning",
+      "scripture_ref": "Philippians 1:21"
+    },
+    {
+      "path": "data/readings/2026-01-08-evening.md",
+      "date": "01-08",
+      "slot": "evening",
+      "scripture_ref": "Song of Solomon 1:2"
+    },
+    {
+      "path": "data/readings/2026-01-08-morning.md",
+      "date": "01-08",
+      "slot": "morning",
+      "scripture_ref": "Exodus 28:38"
+    },
+    {
+      "path": "data/readings/2026-01-09-evening.md",
+      "date": "01-09",
+      "slot": "evening",
+      "scripture_ref": "Psalm 100:2"
+    },
+    {
+      "path": "data/readings/2026-01-09-morning.md",
+      "date": "01-09",
+      "slot": "morning",
+      "scripture_ref": "Jeremiah 31:33"
+    },
+    {
+      "path": "data/readings/2026-01-10-evening.md",
+      "date": "01-10",
+      "slot": "evening",
+      "scripture_ref": "Job 19:26"
+    },
+    {
+      "path": "data/readings/2026-01-10-morning.md",
+      "date": "01-10",
+      "slot": "morning",
+      "scripture_ref": "2 Timothy 4:8"
+    },
+    {
+      "path": "data/readings/2026-01-11-evening.md",
+      "date": "01-11",
+      "slot": "evening",
+      "scripture_ref": "Luke 22:32"
+    },
+    {
+      "path": "data/readings/2026-01-11-morning.md",
+      "date": "01-11",
+      "slot": "morning",
+      "scripture_ref": "Luke 8:13"
+    },
+    {
+      "path": "data/readings/2026-01-12-evening.md",
+      "date": "01-12",
+      "slot": "evening",
+      "scripture_ref": "Job 36:2"
+    },
+    {
+      "path": "data/readings/2026-01-12-morning.md",
+      "date": "01-12",
+      "slot": "morning",
+      "scripture_ref": "1 Corinthians 3:23"
+    },
+    {
+      "path": "data/readings/2026-01-13-evening.md",
+      "date": "01-13",
+      "slot": "evening",
+      "scripture_ref": "2 Kings 6:6"
+    },
+    {
+      "path": "data/readings/2026-01-13-morning.md",
+      "date": "01-13",
+      "slot": "morning",
+      "scripture_ref": "1 Kings 22:48"
+    },
+    {
+      "path": "data/readings/2026-01-14-evening.md",
+      "date": "01-14",
+      "slot": "evening",
+      "scripture_ref": "Matthew 14:30"
+    },
+    {
+      "path": "data/readings/2026-01-14-morning.md",
+      "date": "01-14",
+      "slot": "morning",
+      "scripture_ref": "Isaiah 63:1"
+    },
+    {
+      "path": "data/readings/2026-01-15-evening.md",
+      "date": "01-15",
+      "slot": "evening",
+      "scripture_ref": "Psalm 109:4"
+    },
+    {
+      "path": "data/readings/2026-01-15-morning.md",
+      "date": "01-15",
+      "slot": "morning",
+      "scripture_ref": "2 Samuel 7:25"
+    },
+    {
+      "path": "data/readings/2026-01-16-evening.md",
+      "date": "01-16",
+      "slot": "evening",
+      "scripture_ref": "Daniel 9:26"
+    },
+    {
+      "path": "data/readings/2026-01-16-morning.md",
+      "date": "01-16",
+      "slot": "morning",
+      "scripture_ref": "Isaiah 41:14"
+    },
+    {
+      "path": "data/readings/2026-01-17-evening.md",
+      "date": "01-17",
+      "slot": "evening",
+      "scripture_ref": "2 Samuel 11:2"
+    },
+    {
+      "path": "data/readings/2026-01-17-morning.md",
+      "date": "01-17",
+      "slot": "morning",
+      "scripture_ref": "Revelation 14:1"
+    },
+    {
+      "path": "data/readings/2026-01-18-evening.md",
+      "date": "01-18",
+      "slot": "evening",
+      "scripture_ref": "Luke 24:27"
+    },
+    {
+      "path": "data/readings/2026-01-18-morning.md",
+      "date": "01-18",
+      "slot": "morning",
+      "scripture_ref": "Hebrews 4:9"
+    },
+    {
+      "path": "data/readings/2026-01-19-evening.md",
+      "date": "01-19",
+      "slot": "evening",
+      "scripture_ref": "Luke 24:45"
+    },
+    {
+      "path": "data/readings/2026-01-19-morning.md",
+      "date": "01-19",
+      "slot": "morning",
+      "scripture_ref": "Song of Solomon 3:1"
+    },
+    {
+      "path": "data/readings/2026-01-20-evening.md",
+      "date": "01-20",
+      "slot": "evening",
+      "scripture_ref": "Psalm 119:37"
+    },
+    {
+      "path": "data/readings/2026-01-20-morning.md",
+      "date": "01-20",
+      "slot": "morning",
+      "scripture_ref": "Genesis 4:2"
+    },
+    {
+      "path": "data/readings/2026-01-21-evening.md",
+      "date": "01-21",
+      "slot": "evening",
+      "scripture_ref": "Judges 15:18"
+    },
+    {
+      "path": "data/readings/2026-01-21-morning.md",
+      "date": "01-21",
+      "slot": "morning",
+      "scripture_ref": "Romans 11:26"
+    },
+    {
+      "path": "data/readings/2026-01-22-evening.md",
+      "date": "01-22",
+      "slot": "evening",
+      "scripture_ref": "Job 1:9"
+    },
+    {
+      "path": "data/readings/2026-01-22-morning.md",
+      "date": "01-22",
+      "slot": "morning",
+      "scripture_ref": "Ezekiel 15:2"
+    },
+    {
+      "path": "data/readings/2026-01-23-evening.md",
+      "date": "01-23",
+      "slot": "evening",
+      "scripture_ref": "Song of Solomon 1:4"
+    },
+    {
+      "path": "data/readings/2026-01-23-morning.md",
+      "date": "01-23",
+      "slot": "morning",
+      "scripture_ref": "Psalm 89:19"
+    },
+    {
+      "path": "data/readings/2026-01-24-evening.md",
+      "date": "01-24",
+      "slot": "evening",
+      "scripture_ref": "Luke 10:40"
+    },
+    {
+      "path": "data/readings/2026-01-24-morning.md",
+      "date": "01-24",
+      "slot": "morning",
+      "scripture_ref": "Psalm 91:3"
+    },
+    {
+      "path": "data/readings/2026-01-25-evening.md",
+      "date": "01-25",
+      "slot": "evening",
+      "scripture_ref": "Romans 3:31"
+    },
+    {
+      "path": "data/readings/2026-01-25-morning.md",
+      "date": "01-25",
+      "slot": "morning",
+      "scripture_ref": "Isaiah 63:7"
+    },
+    {
+      "path": "data/readings/2026-01-26-evening.md",
+      "date": "01-26",
+      "slot": "evening",
+      "scripture_ref": "Luke 2:18"
+    },
+    {
+      "path": "data/readings/2026-01-26-morning.md",
+      "date": "01-26",
+      "slot": "morning",
+      "scripture_ref": "Matthew 6:26"
+    },
+    {
+      "path": "data/readings/2026-01-27-evening.md",
+      "date": "01-27",
+      "slot": "evening",
+      "scripture_ref": "Luke 2:19"
+    },
+    {
+      "path": "data/readings/2026-01-27-morning.md",
+      "date": "01-27",
+      "slot": "morning",
+      "scripture_ref": "John 1:16"
+    },
+    {
+      "path": "data/readings/2026-01-28-evening.md",
+      "date": "01-28",
+      "slot": "evening",
+      "scripture_ref": "Luke 2:20"
+    },
+    {
+      "path": "data/readings/2026-01-28-morning.md",
+      "date": "01-28",
+      "slot": "morning",
+      "scripture_ref": "Colossians 1:28"
+    },
+    {
+      "path": "data/readings/2026-01-29-evening.md",
+      "date": "01-29",
+      "slot": "evening",
+      "scripture_ref": "Genesis 8:11"
+    },
+    {
+      "path": "data/readings/2026-01-29-morning.md",
+      "date": "01-29",
+      "slot": "morning",
+      "scripture_ref": "2 Corinthians 4:18"
+    },
+    {
+      "path": "data/readings/2026-01-30-evening.md",
+      "date": "01-30",
+      "slot": "evening",
+      "scripture_ref": "Ephesians 1:11"
+    },
+    {
+      "path": "data/readings/2026-01-30-morning.md",
+      "date": "01-30",
+      "slot": "morning",
+      "scripture_ref": "2 Samuel 5:24"
+    },
+    {
+      "path": "data/readings/2026-01-31-evening.md",
+      "date": "01-31",
+      "slot": "evening",
+      "scripture_ref": "2 Samuel 18:23"
+    },
+    {
+      "path": "data/readings/2026-01-31-morning.md",
+      "date": "01-31",
+      "slot": "morning",
+      "scripture_ref": "Jeremiah 23:6"
+    },
+    {
+      "path": "data/readings/2026-02-01-evening.md",
+      "date": "02-01",
+      "slot": "evening",
+      "scripture_ref": "2 Samuel 1:26"
+    },
+    {
+      "path": "data/readings/2026-02-01-morning.md",
+      "date": "02-01",
+      "slot": "morning",
+      "scripture_ref": "Psalm 138:5"
+    },
+    {
+      "path": "data/readings/2026-02-02-evening.md",
+      "date": "02-02",
+      "slot": "evening",
+      "scripture_ref": "1 Chronicles 4:22"
+    },
+    {
+      "path": "data/readings/2026-02-02-morning.md",
+      "date": "02-02",
+      "slot": "morning",
+      "scripture_ref": "Hebrews 9:22"
+    },
+    {
+      "path": "data/readings/2026-02-03-evening.md",
+      "date": "02-03",
+      "slot": "evening",
+      "scripture_ref": "Song of Solomon 1:7"
+    },
+    {
+      "path": "data/readings/2026-02-03-morning.md",
+      "date": "02-03",
+      "slot": "morning",
+      "scripture_ref": "Romans 8:12"
+    },
+    {
+      "path": "data/readings/2026-02-04-evening.md",
+      "date": "02-04",
+      "slot": "evening",
+      "scripture_ref": "Joshua 20:3"
+    },
+    {
+      "path": "data/readings/2026-02-04-morning.md",
+      "date": "02-04",
+      "slot": "morning",
+      "scripture_ref": "Hosea 3:1"
+    },
+    {
+      "path": "data/readings/2026-02-05-evening.md",
+      "date": "02-05",
+      "slot": "evening",
+      "scripture_ref": "Matthew 11:25"
+    },
+    {
+      "path": "data/readings/2026-02-05-morning.md",
+      "date": "02-05",
+      "slot": "morning",
+      "scripture_ref": "1 John 4:14"
+    },
+    {
+      "path": "data/readings/2026-02-06-evening.md",
+      "date": "02-06",
+      "slot": "evening",
+      "scripture_ref": "James 5:16"
+    },
+    {
+      "path": "data/readings/2026-02-06-morning.md",
+      "date": "02-06",
+      "slot": "morning",
+      "scripture_ref": "Ephesians 6:18"
+    },
+    {
+      "path": "data/readings/2026-02-07-evening.md",
+      "date": "02-07",
+      "slot": "evening",
+      "scripture_ref": "Revelation 11:12"
+    },
+    {
+      "path": "data/readings/2026-02-07-morning.md",
+      "date": "02-07",
+      "slot": "morning",
+      "scripture_ref": "Micah 2:10"
+    },
+    {
+      "path": "data/readings/2026-02-08-evening.md",
+      "date": "02-08",
+      "slot": "evening",
+      "scripture_ref": "Matthew 1:21"
+    },
+    {
+      "path": "data/readings/2026-02-08-morning.md",
+      "date": "02-08",
+      "slot": "morning",
+      "scripture_ref": "Matthew 1:21"
+    },
+    {
+      "path": "data/readings/2026-02-09-evening.md",
+      "date": "02-09",
+      "slot": "evening",
+      "scripture_ref": "Luke 11:4"
+    },
+    {
+      "path": "data/readings/2026-02-09-morning.md",
+      "date": "02-09",
+      "slot": "morning",
+      "scripture_ref": "2 Samuel 5:23"
+    },
+    {
+      "path": "data/readings/2026-02-10-evening.md",
+      "date": "02-10",
+      "slot": "evening",
+      "scripture_ref": "Isaiah 44:22"
+    },
+    {
+      "path": "data/readings/2026-02-10-morning.md",
+      "date": "02-10",
+      "slot": "morning",
+      "scripture_ref": "Philippians 4:12"
+    },
+    {
+      "path": "data/readings/2026-02-11-evening.md",
+      "date": "02-11",
+      "slot": "evening",
+      "scripture_ref": "Revelation 2:4"
+    },
+    {
+      "path": "data/readings/2026-02-11-morning.md",
+      "date": "02-11",
+      "slot": "morning",
+      "scripture_ref": "Acts 4:13"
+    },
+    {
+      "path": "data/readings/2026-02-12-evening.md",
+      "date": "02-12",
+      "slot": "evening",
+      "scripture_ref": "John 14:16"
+    },
+    {
+      "path": "data/readings/2026-02-12-morning.md",
+      "date": "02-12",
+      "slot": "morning",
+      "scripture_ref": "2 Corinthians 1:5"
+    },
+    {
+      "path": "data/readings/2026-02-13-evening.md",
+      "date": "02-13",
+      "slot": "evening",
+      "scripture_ref": "Romans 8:1"
+    },
+    {
+      "path": "data/readings/2026-02-13-morning.md",
+      "date": "02-13",
+      "slot": "morning",
+      "scripture_ref": "1 John 3:1,2"
+    },
+    {
+      "path": "data/readings/2026-02-14-evening.md",
+      "date": "02-14",
+      "slot": "evening",
+      "scripture_ref": "Luke 8:47"
+    },
+    {
+      "path": "data/readings/2026-02-14-morning.md",
+      "date": "02-14",
+      "slot": "morning",
+      "scripture_ref": "2 Kings 25:30"
+    },
+    {
+      "path": "data/readings/2026-02-15-evening.md",
+      "date": "02-15",
+      "slot": "evening",
+      "scripture_ref": "Psalm 45:8"
+    },
+    {
+      "path": "data/readings/2026-02-15-morning.md",
+      "date": "02-15",
+      "slot": "morning",
+      "scripture_ref": "2 Peter 3:18"
+    },
+    {
+      "path": "data/readings/2026-02-16-evening.md",
+      "date": "02-16",
+      "slot": "evening",
+      "scripture_ref": "Nehemiah 9:20"
+    },
+    {
+      "path": "data/readings/2026-02-16-morning.md",
+      "date": "02-16",
+      "slot": "morning",
+      "scripture_ref": "Philippians 4:11"
+    },
+    {
+      "path": "data/readings/2026-02-17-evening.md",
+      "date": "02-17",
+      "slot": "evening",
+      "scripture_ref": "Ezekiel 35:10"
+    },
+    {
+      "path": "data/readings/2026-02-17-morning.md",
+      "date": "02-17",
+      "slot": "morning",
+      "scripture_ref": "Genesis 25:11"
+    },
+    {
+      "path": "data/readings/2026-02-18-evening.md",
+      "date": "02-18",
+      "slot": "evening",
+      "scripture_ref": "Luke 15:18"
+    },
+    {
+      "path": "data/readings/2026-02-18-morning.md",
+      "date": "02-18",
+      "slot": "morning",
+      "scripture_ref": "Job 10:2"
+    },
+    {
+      "path": "data/readings/2026-02-19-evening.md",
+      "date": "02-19",
+      "slot": "evening",
+      "scripture_ref": "John 1:41"
+    },
+    {
+      "path": "data/readings/2026-02-19-morning.md",
+      "date": "02-19",
+      "slot": "morning",
+      "scripture_ref": "Ezekiel 36:37"
+    },
+    {
+      "path": "data/readings/2026-02-20-evening.md",
+      "date": "02-20",
+      "slot": "evening",
+      "scripture_ref": "Matthew 4:1"
+    },
+    {
+      "path": "data/readings/2026-02-20-morning.md",
+      "date": "02-20",
+      "slot": "morning",
+      "scripture_ref": "2 Corinthians 7:6"
+    },
+    {
+      "path": "data/readings/2026-02-21-evening.md",
+      "date": "02-21",
+      "slot": "evening",
+      "scripture_ref": "Acts 8:30"
+    },
+    {
+      "path": "data/readings/2026-02-21-morning.md",
+      "date": "02-21",
+      "slot": "morning",
+      "scripture_ref": "Hebrews 13:5"
+    },
+    {
+      "path": "data/readings/2026-02-22-evening.md",
+      "date": "02-22",
+      "slot": "evening",
+      "scripture_ref": "Nahum 1:3"
+    },
+    {
+      "path": "data/readings/2026-02-22-morning.md",
+      "date": "02-22",
+      "slot": "morning",
+      "scripture_ref": "Genesis 49:24"
+    },
+    {
+      "path": "data/readings/2026-02-23-evening.md",
+      "date": "02-23",
+      "slot": "evening",
+      "scripture_ref": "Mark 10:21"
+    },
+    {
+      "path": "data/readings/2026-02-23-morning.md",
+      "date": "02-23",
+      "slot": "morning",
+      "scripture_ref": "Hebrews 13:5"
+    },
+    {
+      "path": "data/readings/2026-02-24-evening.md",
+      "date": "02-24",
+      "slot": "evening",
+      "scripture_ref": "Zechariah 1:12,13"
+    },
+    {
+      "path": "data/readings/2026-02-24-morning.md",
+      "date": "02-24",
+      "slot": "morning",
+      "scripture_ref": "Ezekiel 34:26"
+    },
+    {
+      "path": "data/readings/2026-02-25-evening.md",
+      "date": "02-25",
+      "slot": "evening",
+      "scripture_ref": "Jonah 1:3"
+    },
+    {
+      "path": "data/readings/2026-02-25-morning.md",
+      "date": "02-25",
+      "slot": "morning",
+      "scripture_ref": "Matthew 3:7"
+    },
+    {
+      "path": "data/readings/2026-02-26-evening.md",
+      "date": "02-26",
+      "slot": "evening",
+      "scripture_ref": "Leviticus 13:13"
+    },
+    {
+      "path": "data/readings/2026-02-26-morning.md",
+      "date": "02-26",
+      "slot": "morning",
+      "scripture_ref": "Jonah 2:9"
+    },
+    {
+      "path": "data/readings/2026-02-27-evening.md",
+      "date": "02-27",
+      "slot": "evening",
+      "scripture_ref": "Micah 5:2"
+    },
+    {
+      "path": "data/readings/2026-02-27-morning.md",
+      "date": "02-27",
+      "slot": "morning",
+      "scripture_ref": "Psalm 91:9"
+    },
+    {
+      "path": "data/readings/2026-02-28-evening.md",
+      "date": "02-28",
+      "slot": "evening",
+      "scripture_ref": "1 Kings 17:16"
+    },
+    {
+      "path": "data/readings/2026-02-28-morning.md",
+      "date": "02-28",
+      "slot": "morning",
+      "scripture_ref": "Psalm 62:5"
+    },
+    {
+      "path": "data/readings/2026-02-29-evening.md",
+      "date": "02-29",
+      "slot": "evening",
+      "scripture_ref": "1 Corinthians 2:12"
+    },
+    {
+      "path": "data/readings/2026-02-29-morning.md",
+      "date": "02-29",
+      "slot": "morning",
+      "scripture_ref": "Jeremiah 31:3"
+    },
+    {
+      "path": "data/readings/2026-03-01-evening.md",
+      "date": "03-01",
+      "slot": "evening",
+      "scripture_ref": "1 Peter 2:7"
+    },
+    {
+      "path": "data/readings/2026-03-01-morning.md",
+      "date": "03-01",
+      "slot": "morning",
+      "scripture_ref": "Song of Solomon 4:16"
+    },
+    {
+      "path": "data/readings/2026-03-02-evening.md",
+      "date": "03-02",
+      "slot": "evening",
+      "scripture_ref": "Ephesians 3:8"
+    },
+    {
+      "path": "data/readings/2026-03-02-morning.md",
+      "date": "03-02",
+      "slot": "morning",
+      "scripture_ref": "1 Samuel 13:20"
+    },
+    {
+      "path": "data/readings/2026-03-03-evening.md",
+      "date": "03-03",
+      "slot": "evening",
+      "scripture_ref": "Matthew 3:16"
+    },
+    {
+      "path": "data/readings/2026-03-03-morning.md",
+      "date": "03-03",
+      "slot": "morning",
+      "scripture_ref": "Isaiah 48:10"
+    },
+    {
+      "path": "data/readings/2026-03-04-evening.md",
+      "date": "03-04",
+      "slot": "evening",
+      "scripture_ref": "Psalm 36:8"
+    },
+    {
+      "path": "data/readings/2026-03-04-morning.md",
+      "date": "03-04",
+      "slot": "morning",
+      "scripture_ref": "2 Corinthians 12:9"
+    },
+    {
+      "path": "data/readings/2026-03-05-evening.md",
+      "date": "03-05",
+      "slot": "evening",
+      "scripture_ref": "Psalm 35:3"
+    },
+    {
+      "path": "data/readings/2026-03-05-morning.md",
+      "date": "03-05",
+      "slot": "morning",
+      "scripture_ref": "1 Thessalonians 5:6"
+    },
+    {
+      "path": "data/readings/2026-03-06-evening.md",
+      "date": "03-06",
+      "slot": "evening",
+      "scripture_ref": "Proverbs 18:12"
+    },
+    {
+      "path": "data/readings/2026-03-06-morning.md",
+      "date": "03-06",
+      "slot": "morning",
+      "scripture_ref": "John 3:7"
+    },
+    {
+      "path": "data/readings/2026-03-07-evening.md",
+      "date": "03-07",
+      "slot": "evening",
+      "scripture_ref": "Psalm 118:8"
+    },
+    {
+      "path": "data/readings/2026-03-07-morning.md",
+      "date": "03-07",
+      "slot": "morning",
+      "scripture_ref": "Mark 11:22"
+    },
+    {
+      "path": "data/readings/2026-03-08-evening.md",
+      "date": "03-08",
+      "slot": "evening",
+      "scripture_ref": "Genesis 35:18"
+    },
+    {
+      "path": "data/readings/2026-03-08-morning.md",
+      "date": "03-08",
+      "slot": "morning",
+      "scripture_ref": "Acts 14:22"
+    },
+    {
+      "path": "data/readings/2026-03-09-evening.md",
+      "date": "03-09",
+      "slot": "evening",
+      "scripture_ref": "John 15:4"
+    },
+    {
+      "path": "data/readings/2026-03-09-morning.md",
+      "date": "03-09",
+      "slot": "morning",
+      "scripture_ref": "Song of Solomon 5:16"
+    },
+    {
+      "path": "data/readings/2026-03-10-evening.md",
+      "date": "03-10",
+      "slot": "evening",
+      "scripture_ref": "Job 14:1"
+    },
+    {
+      "path": "data/readings/2026-03-10-morning.md",
+      "date": "03-10",
+      "slot": "morning",
+      "scripture_ref": "Psalm 30:6"
+    },
+    {
+      "path": "data/readings/2026-03-11-evening.md",
+      "date": "03-11",
+      "slot": "evening",
+      "scripture_ref": "Isaiah 62:12"
+    },
+    {
+      "path": "data/readings/2026-03-11-morning.md",
+      "date": "03-11",
+      "slot": "morning",
+      "scripture_ref": "Romans 7:13"
+    },
+    {
+      "path": "data/readings/2026-03-12-evening.md",
+      "date": "03-12",
+      "slot": "evening",
+      "scripture_ref": "1 Samuel 30:13"
+    },
+    {
+      "path": "data/readings/2026-03-12-morning.md",
+      "date": "03-12",
+      "slot": "morning",
+      "scripture_ref": "Matthew 5:43"
+    },
+    {
+      "path": "data/readings/2026-03-13-evening.md",
+      "date": "03-13",
+      "slot": "evening",
+      "scripture_ref": "Genesis 8:9"
+    },
+    {
+      "path": "data/readings/2026-03-13-morning.md",
+      "date": "03-13",
+      "slot": "morning",
+      "scripture_ref": "2 Kings 7:3"
+    },
+    {
+      "path": "data/readings/2026-03-14-evening.md",
+      "date": "03-14",
+      "slot": "evening",
+      "scripture_ref": "Psalm 39:1"
+    },
+    {
+      "path": "data/readings/2026-03-14-morning.md",
+      "date": "03-14",
+      "slot": "morning",
+      "scripture_ref": "1 Corinthians 10:12"
+    },
+    {
+      "path": "data/readings/2026-03-15-evening.md",
+      "date": "03-15",
+      "slot": "evening",
+      "scripture_ref": "2 Chronicles 31:21"
+    },
+    {
+      "path": "data/readings/2026-03-15-morning.md",
+      "date": "03-15",
+      "slot": "morning",
+      "scripture_ref": "2 Timothy 2:1"
+    },
+    {
+      "path": "data/readings/2026-03-16-evening.md",
+      "date": "03-16",
+      "slot": "evening",
+      "scripture_ref": "Psalm 19:13"
+    },
+    {
+      "path": "data/readings/2026-03-16-morning.md",
+      "date": "03-16",
+      "slot": "morning",
+      "scripture_ref": "Psalm 39:12"
+    },
+    {
+      "path": "data/readings/2026-03-17-evening.md",
+      "date": "03-17",
+      "slot": "evening",
+      "scripture_ref": "Matthew 5:9"
+    },
+    {
+      "path": "data/readings/2026-03-17-morning.md",
+      "date": "03-17",
+      "slot": "morning",
+      "scripture_ref": "Galatians 2:10"
+    },
+    {
+      "path": "data/readings/2026-03-18-evening.md",
+      "date": "03-18",
+      "slot": "evening",
+      "scripture_ref": "John 15:9"
+    },
+    {
+      "path": "data/readings/2026-03-18-morning.md",
+      "date": "03-18",
+      "slot": "morning",
+      "scripture_ref": "Galatians 3:26"
+    },
+    {
+      "path": "data/readings/2026-03-19-evening.md",
+      "date": "03-19",
+      "slot": "evening",
+      "scripture_ref": "Ruth 2:14"
+    },
+    {
+      "path": "data/readings/2026-03-19-morning.md",
+      "date": "03-19",
+      "slot": "morning",
+      "scripture_ref": "Romans 4:20"
+    },
+    {
+      "path": "data/readings/2026-03-20-evening.md",
+      "date": "03-20",
+      "slot": "evening",
+      "scripture_ref": "Ephesians 5:25"
+    },
+    {
+      "path": "data/readings/2026-03-20-morning.md",
+      "date": "03-20",
+      "slot": "morning",
+      "scripture_ref": "Song of Solomon 2:8"
+    },
+    {
+      "path": "data/readings/2026-03-21-evening.md",
+      "date": "03-21",
+      "slot": "evening",
+      "scripture_ref": "Job 38:31"
+    },
+    {
+      "path": "data/readings/2026-03-21-morning.md",
+      "date": "03-21",
+      "slot": "morning",
+      "scripture_ref": "John 16:32"
+    },
+    {
+      "path": "data/readings/2026-03-22-evening.md",
+      "date": "03-22",
+      "slot": "evening",
+      "scripture_ref": "John 17:24"
+    },
+    {
+      "path": "data/readings/2026-03-22-morning.md",
+      "date": "03-22",
+      "slot": "morning",
+      "scripture_ref": "Matthew 26:39"
+    },
+    {
+      "path": "data/readings/2026-03-23-evening.md",
+      "date": "03-23",
+      "slot": "evening",
+      "scripture_ref": "Luke 19:40"
+    },
+    {
+      "path": "data/readings/2026-03-23-morning.md",
+      "date": "03-23",
+      "slot": "morning",
+      "scripture_ref": "Luke 22:44"
+    },
+    {
+      "path": "data/readings/2026-03-24-evening.md",
+      "date": "03-24",
+      "slot": "evening",
+      "scripture_ref": "Luke 10:21"
+    },
+    {
+      "path": "data/readings/2026-03-24-morning.md",
+      "date": "03-24",
+      "slot": "morning",
+      "scripture_ref": "Hebrews 5:7"
+    },
+    {
+      "path": "data/readings/2026-03-25-evening.md",
+      "date": "03-25",
+      "slot": "evening",
+      "scripture_ref": "John 3:13"
+    },
+    {
+      "path": "data/readings/2026-03-25-morning.md",
+      "date": "03-25",
+      "slot": "morning",
+      "scripture_ref": "Luke 22:48"
+    },
+    {
+      "path": "data/readings/2026-03-26-evening.md",
+      "date": "03-26",
+      "slot": "evening",
+      "scripture_ref": "Mark 8:38"
+    },
+    {
+      "path": "data/readings/2026-03-26-morning.md",
+      "date": "03-26",
+      "slot": "morning",
+      "scripture_ref": "John 18:8"
+    },
+    {
+      "path": "data/readings/2026-03-27-evening.md",
+      "date": "03-27",
+      "slot": "evening",
+      "scripture_ref": "Matthew 15:27"
+    },
+    {
+      "path": "data/readings/2026-03-27-morning.md",
+      "date": "03-27",
+      "slot": "morning",
+      "scripture_ref": "Matthew 26:56"
+    },
+    {
+      "path": "data/readings/2026-03-28-evening.md",
+      "date": "03-28",
+      "slot": "evening",
+      "scripture_ref": "Ezekiel 20:41"
+    },
+    {
+      "path": "data/readings/2026-03-28-morning.md",
+      "date": "03-28",
+      "slot": "morning",
+      "scripture_ref": "Ephesians 3:19"
+    },
+    {
+      "path": "data/readings/2026-03-29-evening.md",
+      "date": "03-29",
+      "slot": "evening",
+      "scripture_ref": "Song of Solomon 5:6"
+    },
+    {
+      "path": "data/readings/2026-03-29-morning.md",
+      "date": "03-29",
+      "slot": "morning",
+      "scripture_ref": "Hebrews 5:8"
+    },
+    {
+      "path": "data/readings/2026-03-30-evening.md",
+      "date": "03-30",
+      "slot": "evening",
+      "scripture_ref": "Lamentations 3:40"
+    },
+    {
+      "path": "data/readings/2026-03-30-morning.md",
+      "date": "03-30",
+      "slot": "morning",
+      "scripture_ref": "Isaiah 53:12"
+    },
+    {
+      "path": "data/readings/2026-03-31-evening.md",
+      "date": "03-31",
+      "slot": "evening",
+      "scripture_ref": "2 Samuel 21:10"
+    },
+    {
+      "path": "data/readings/2026-03-31-morning.md",
+      "date": "03-31",
+      "slot": "morning",
+      "scripture_ref": "Isaiah 53:5"
+    },
+    {
+      "path": "data/readings/2026-04-01-evening.md",
+      "date": "04-01",
+      "slot": "evening",
+      "scripture_ref": "Hosea 10:12"
+    },
+    {
+      "path": "data/readings/2026-04-01-morning.md",
+      "date": "04-01",
+      "slot": "morning",
+      "scripture_ref": "Song of Solomon 1:2"
+    },
+    {
+      "path": "data/readings/2026-04-02-evening.md",
+      "date": "04-02",
+      "slot": "evening",
+      "scripture_ref": "Isaiah 53:10"
+    },
+    {
+      "path": "data/readings/2026-04-02-morning.md",
+      "date": "04-02",
+      "slot": "morning",
+      "scripture_ref": "Matthew 27:14"
+    },
+    {
+      "path": "data/readings/2026-04-03-evening.md",
+      "date": "04-03",
+      "slot": "evening",
+      "scripture_ref": "Isaiah 53:6"
+    },
+    {
+      "path": "data/readings/2026-04-03-morning.md",
+      "date": "04-03",
+      "slot": "morning",
+      "scripture_ref": "John 19:16"
+    },
+    {
+      "path": "data/readings/2026-04-04-evening.md",
+      "date": "04-04",
+      "slot": "evening",
+      "scripture_ref": "Isaiah 2:3"
+    },
+    {
+      "path": "data/readings/2026-04-04-morning.md",
+      "date": "04-04",
+      "slot": "morning",
+      "scripture_ref": "2 Corinthians 5:21"
+    },
+    {
+      "path": "data/readings/2026-04-05-evening.md",
+      "date": "04-05",
+      "slot": "evening",
+      "scripture_ref": "Proverbs 15:33"
+    },
+    {
+      "path": "data/readings/2026-04-05-morning.md",
+      "date": "04-05",
+      "slot": "morning",
+      "scripture_ref": "Luke 23:26"
+    },
+    {
+      "path": "data/readings/2026-04-06-evening.md",
+      "date": "04-06",
+      "slot": "evening",
+      "scripture_ref": "Psalm 118:12"
+    },
+    {
+      "path": "data/readings/2026-04-06-morning.md",
+      "date": "04-06",
+      "slot": "morning",
+      "scripture_ref": "Hebrews 13:13"
+    },
+    {
+      "path": "data/readings/2026-04-07-evening.md",
+      "date": "04-07",
+      "slot": "evening",
+      "scripture_ref": "Psalm 51:14"
+    },
+    {
+      "path": "data/readings/2026-04-07-morning.md",
+      "date": "04-07",
+      "slot": "morning",
+      "scripture_ref": "Psalm 4:2"
+    },
+    {
+      "path": "data/readings/2026-04-08-evening.md",
+      "date": "04-08",
+      "slot": "evening",
+      "scripture_ref": "Psalm 23:4"
+    },
+    {
+      "path": "data/readings/2026-04-08-morning.md",
+      "date": "04-08",
+      "slot": "morning",
+      "scripture_ref": "Luke 23:31"
+    },
+    {
+      "path": "data/readings/2026-04-09-evening.md",
+      "date": "04-09",
+      "slot": "evening",
+      "scripture_ref": "Psalm 18:35"
+    },
+    {
+      "path": "data/readings/2026-04-09-morning.md",
+      "date": "04-09",
+      "slot": "morning",
+      "scripture_ref": "Luke 23:27"
+    },
+    {
+      "path": "data/readings/2026-04-10-evening.md",
+      "date": "04-10",
+      "slot": "evening",
+      "scripture_ref": "Acts 27:23"
+    },
+    {
+      "path": "data/readings/2026-04-10-morning.md",
+      "date": "04-10",
+      "slot": "morning",
+      "scripture_ref": "Luke 23:33"
+    },
+    {
+      "path": "data/readings/2026-04-11-evening.md",
+      "date": "04-11",
+      "slot": "evening",
+      "scripture_ref": "Psalm 25:18"
+    },
+    {
+      "path": "data/readings/2026-04-11-morning.md",
+      "date": "04-11",
+      "slot": "morning",
+      "scripture_ref": "Psalm 22:14"
+    },
+    {
+      "path": "data/readings/2026-04-12-evening.md",
+      "date": "04-12",
+      "slot": "evening",
+      "scripture_ref": "Nehemiah 3:15"
+    },
+    {
+      "path": "data/readings/2026-04-12-morning.md",
+      "date": "04-12",
+      "slot": "morning",
+      "scripture_ref": "Psalm 22:14"
+    },
+    {
+      "path": "data/readings/2026-04-13-evening.md",
+      "date": "04-13",
+      "slot": "evening",
+      "scripture_ref": "Leviticus 1:4"
+    },
+    {
+      "path": "data/readings/2026-04-13-morning.md",
+      "date": "04-13",
+      "slot": "morning",
+      "scripture_ref": "Song of Solomon 1:13"
+    },
+    {
+      "path": "data/readings/2026-04-14-evening.md",
+      "date": "04-14",
+      "slot": "evening",
+      "scripture_ref": "Isaiah 3:10"
+    },
+    {
+      "path": "data/readings/2026-04-14-morning.md",
+      "date": "04-14",
+      "slot": "morning",
+      "scripture_ref": "Psalm 22:7"
+    },
+    {
+      "path": "data/readings/2026-04-15-evening.md",
+      "date": "04-15",
+      "slot": "evening",
+      "scripture_ref": "Psalm 28:9"
+    },
+    {
+      "path": "data/readings/2026-04-15-morning.md",
+      "date": "04-15",
+      "slot": "morning",
+      "scripture_ref": "Psalm 22:1"
+    },
+    {
+      "path": "data/readings/2026-04-16-evening.md",
+      "date": "04-16",
+      "slot": "evening",
+      "scripture_ref": "Exodus 17:12"
+    },
+    {
+      "path": "data/readings/2026-04-16-morning.md",
+      "date": "04-16",
+      "slot": "morning",
+      "scripture_ref": "1 Peter 1:19"
+    },
+    {
+      "path": "data/readings/2026-04-17-evening.md",
+      "date": "04-17",
+      "slot": "evening",
+      "scripture_ref": "John 12:21"
+    },
+    {
+      "path": "data/readings/2026-04-17-morning.md",
+      "date": "04-17",
+      "slot": "morning",
+      "scripture_ref": "Hebrews 12:24"
+    },
+    {
+      "path": "data/readings/2026-04-18-evening.md",
+      "date": "04-18",
+      "slot": "evening",
+      "scripture_ref": "Genesis 32:12"
+    },
+    {
+      "path": "data/readings/2026-04-18-morning.md",
+      "date": "04-18",
+      "slot": "morning",
+      "scripture_ref": "Joshua 2:21"
+    },
+    {
+      "path": "data/readings/2026-04-19-evening.md",
+      "date": "04-19",
+      "slot": "evening",
+      "scripture_ref": "Revelation 3:14"
+    },
+    {
+      "path": "data/readings/2026-04-19-morning.md",
+      "date": "04-19",
+      "slot": "morning",
+      "scripture_ref": "Matthew 27:51"
+    },
+    {
+      "path": "data/readings/2026-04-20-evening.md",
+      "date": "04-20",
+      "slot": "evening",
+      "scripture_ref": "1 Samuel 18:17"
+    },
+    {
+      "path": "data/readings/2026-04-20-morning.md",
+      "date": "04-20",
+      "slot": "morning",
+      "scripture_ref": "Hebrews 2:14"
+    },
+    {
+      "path": "data/readings/2026-04-21-evening.md",
+      "date": "04-21",
+      "slot": "evening",
+      "scripture_ref": "Romans 8:34"
+    },
+    {
+      "path": "data/readings/2026-04-21-morning.md",
+      "date": "04-21",
+      "slot": "morning",
+      "scripture_ref": "Job 19:25"
+    },
+    {
+      "path": "data/readings/2026-04-22-evening.md",
+      "date": "04-22",
+      "slot": "evening",
+      "scripture_ref": "Psalm 91:5"
+    },
+    {
+      "path": "data/readings/2026-04-22-morning.md",
+      "date": "04-22",
+      "slot": "morning",
+      "scripture_ref": "Acts 5:31"
+    },
+    {
+      "path": "data/readings/2026-04-23-evening.md",
+      "date": "04-23",
+      "slot": "evening",
+      "scripture_ref": "Revelation 5:6"
+    },
+    {
+      "path": "data/readings/2026-04-23-morning.md",
+      "date": "04-23",
+      "slot": "morning",
+      "scripture_ref": "Romans 8:37"
+    },
+    {
+      "path": "data/readings/2026-04-24-evening.md",
+      "date": "04-24",
+      "slot": "evening",
+      "scripture_ref": "Song of Solomon 2:12"
+    },
+    {
+      "path": "data/readings/2026-04-24-morning.md",
+      "date": "04-24",
+      "slot": "morning",
+      "scripture_ref": "Nehemiah 9:38"
+    },
+    {
+      "path": "data/readings/2026-04-25-evening.md",
+      "date": "04-25",
+      "slot": "evening",
+      "scripture_ref": "Revelation 3:20"
+    },
+    {
+      "path": "data/readings/2026-04-25-morning.md",
+      "date": "04-25",
+      "slot": "morning",
+      "scripture_ref": "Song of Solomon 2:10"
+    },
+    {
+      "path": "data/readings/2026-04-26-evening.md",
+      "date": "04-26",
+      "slot": "evening",
+      "scripture_ref": "Revelation 16:15"
+    },
+    {
+      "path": "data/readings/2026-04-26-morning.md",
+      "date": "04-26",
+      "slot": "morning",
+      "scripture_ref": "1 Corinthians 11:24"
+    },
+    {
+      "path": "data/readings/2026-04-27-evening.md",
+      "date": "04-27",
+      "slot": "evening",
+      "scripture_ref": "Psalm 10:16"
+    },
+    {
+      "path": "data/readings/2026-04-27-morning.md",
+      "date": "04-27",
+      "slot": "morning",
+      "scripture_ref": "Psalm 67:6"
+    },
+    {
+      "path": "data/readings/2026-04-28-evening.md",
+      "date": "04-28",
+      "slot": "evening",
+      "scripture_ref": "Ezekiel 3:7"
+    },
+    {
+      "path": "data/readings/2026-04-28-morning.md",
+      "date": "04-28",
+      "slot": "morning",
+      "scripture_ref": "Psalm 119:49"
+    },
+    {
+      "path": "data/readings/2026-04-29-evening.md",
+      "date": "04-29",
+      "slot": "evening",
+      "scripture_ref": "Psalm 149:4"
+    },
+    {
+      "path": "data/readings/2026-04-29-morning.md",
+      "date": "04-29",
+      "slot": "morning",
+      "scripture_ref": "Jeremiah 17:17"
+    },
+    {
+      "path": "data/readings/2026-04-30-evening.md",
+      "date": "04-30",
+      "slot": "evening",
+      "scripture_ref": "Psalm 139:17"
+    },
+    {
+      "path": "data/readings/2026-04-30-morning.md",
+      "date": "04-30",
+      "slot": "morning",
+      "scripture_ref": "Numbers 14:2"
+    },
+    {
+      "path": "data/readings/2026-05-01-evening.md",
+      "date": "05-01",
+      "slot": "evening",
+      "scripture_ref": "Song of Solomon 2:1"
+    },
+    {
+      "path": "data/readings/2026-05-01-morning.md",
+      "date": "05-01",
+      "slot": "morning",
+      "scripture_ref": "Song of Solomon 5:13"
+    },
+    {
+      "path": "data/readings/2026-05-02-evening.md",
+      "date": "05-02",
+      "slot": "evening",
+      "scripture_ref": "Hebrews 11:13"
+    },
+    {
+      "path": "data/readings/2026-05-02-morning.md",
+      "date": "05-02",
+      "slot": "morning",
+      "scripture_ref": "John 17:15"
+    },
+    {
+      "path": "data/readings/2026-05-03-evening.md",
+      "date": "05-03",
+      "slot": "evening",
+      "scripture_ref": "Psalm 46:1"
+    },
+    {
+      "path": "data/readings/2026-05-03-morning.md",
+      "date": "05-03",
+      "slot": "morning",
+      "scripture_ref": "John 16:33"
+    },
+    {
+      "path": "data/readings/2026-05-04-evening.md",
+      "date": "05-04",
+      "slot": "evening",
+      "scripture_ref": "1 Peter 1:23"
+    },
+    {
+      "path": "data/readings/2026-05-04-morning.md",
+      "date": "05-04",
+      "slot": "morning",
+      "scripture_ref": "Jeremiah 16:20"
+    },
+    {
+      "path": "data/readings/2026-05-05-evening.md",
+      "date": "05-05",
+      "slot": "evening",
+      "scripture_ref": "Proverbs 16:20"
+    },
+    {
+      "path": "data/readings/2026-05-05-morning.md",
+      "date": "05-05",
+      "slot": "morning",
+      "scripture_ref": "2 Corinthians 6:16"
+    },
+    {
+      "path": "data/readings/2026-05-06-evening.md",
+      "date": "05-06",
+      "slot": "evening",
+      "scripture_ref": "Job 14:14"
+    },
+    {
+      "path": "data/readings/2026-05-06-morning.md",
+      "date": "05-06",
+      "slot": "morning",
+      "scripture_ref": "1 John 4:13"
+    },
+    {
+      "path": "data/readings/2026-05-07-evening.md",
+      "date": "05-07",
+      "slot": "evening",
+      "scripture_ref": "John 5:8"
+    },
+    {
+      "path": "data/readings/2026-05-07-morning.md",
+      "date": "05-07",
+      "slot": "morning",
+      "scripture_ref": "Matthew 12:15"
+    },
+    {
+      "path": "data/readings/2026-05-08-evening.md",
+      "date": "05-08",
+      "slot": "evening",
+      "scripture_ref": "Job 22:21"
+    },
+    {
+      "path": "data/readings/2026-05-08-morning.md",
+      "date": "05-08",
+      "slot": "morning",
+      "scripture_ref": "John 5:13"
+    },
+    {
+      "path": "data/readings/2026-05-09-evening.md",
+      "date": "05-09",
+      "slot": "evening",
+      "scripture_ref": "Song of Solomon 7:11,12"
+    },
+    {
+      "path": "data/readings/2026-05-09-morning.md",
+      "date": "05-09",
+      "slot": "morning",
+      "scripture_ref": "Ephesians 1:3"
+    },
+    {
+      "path": "data/readings/2026-05-10-evening.md",
+      "date": "05-10",
+      "slot": "evening",
+      "scripture_ref": "John 1:14"
+    },
+    {
+      "path": "data/readings/2026-05-10-morning.md",
+      "date": "05-10",
+      "slot": "morning",
+      "scripture_ref": "1 Corinthians 15:20"
+    },
+    {
+      "path": "data/readings/2026-05-11-evening.md",
+      "date": "05-11",
+      "slot": "evening",
+      "scripture_ref": "Joshua 1:7"
+    },
+    {
+      "path": "data/readings/2026-05-11-morning.md",
+      "date": "05-11",
+      "slot": "morning",
+      "scripture_ref": "Matthew 28:20"
+    },
+    {
+      "path": "data/readings/2026-05-12-evening.md",
+      "date": "05-12",
+      "slot": "evening",
+      "scripture_ref": "Genesis 46:3,4"
+    },
+    {
+      "path": "data/readings/2026-05-12-morning.md",
+      "date": "05-12",
+      "slot": "morning",
+      "scripture_ref": "John 14:21"
+    },
+    {
+      "path": "data/readings/2026-05-13-evening.md",
+      "date": "05-13",
+      "slot": "evening",
+      "scripture_ref": "Psalm 119:57"
+    },
+    {
+      "path": "data/readings/2026-05-13-morning.md",
+      "date": "05-13",
+      "slot": "morning",
+      "scripture_ref": "Psalm 30:5"
+    },
+    {
+      "path": "data/readings/2026-05-14-evening.md",
+      "date": "05-14",
+      "slot": "evening",
+      "scripture_ref": "Isaiah 40:11"
+    },
+    {
+      "path": "data/readings/2026-05-14-morning.md",
+      "date": "05-14",
+      "slot": "morning",
+      "scripture_ref": "Romans 8:17"
+    },
+    {
+      "path": "data/readings/2026-05-15-evening.md",
+      "date": "05-15",
+      "slot": "evening",
+      "scripture_ref": "Hebrews 12:23"
+    },
+    {
+      "path": "data/readings/2026-05-15-morning.md",
+      "date": "05-15",
+      "slot": "morning",
+      "scripture_ref": "Acts 13:39"
+    },
+    {
+      "path": "data/readings/2026-05-16-evening.md",
+      "date": "05-16",
+      "slot": "evening",
+      "scripture_ref": "2 Kings 3:16,17"
+    },
+    {
+      "path": "data/readings/2026-05-16-morning.md",
+      "date": "05-16",
+      "slot": "morning",
+      "scripture_ref": "1 Timothy 6:17"
+    },
+    {
+      "path": "data/readings/2026-05-17-evening.md",
+      "date": "05-17",
+      "slot": "evening",
+      "scripture_ref": "Isaiah 41:9"
+    },
+    {
+      "path": "data/readings/2026-05-17-morning.md",
+      "date": "05-17",
+      "slot": "morning",
+      "scripture_ref": "1 John 2:6"
+    },
+    {
+      "path": "data/readings/2026-05-18-evening.md",
+      "date": "05-18",
+      "slot": "evening",
+      "scripture_ref": "Hebrews 12:11"
+    },
+    {
+      "path": "data/readings/2026-05-18-morning.md",
+      "date": "05-18",
+      "slot": "morning",
+      "scripture_ref": "Colossians 2:9, 10"
+    },
+    {
+      "path": "data/readings/2026-05-19-evening.md",
+      "date": "05-19",
+      "slot": "evening",
+      "scripture_ref": "1 Kings 19:4"
+    },
+    {
+      "path": "data/readings/2026-05-19-morning.md",
+      "date": "05-19",
+      "slot": "morning",
+      "scripture_ref": "Ecclesiastes 10:7"
+    },
+    {
+      "path": "data/readings/2026-05-20-evening.md",
+      "date": "05-20",
+      "slot": "evening",
+      "scripture_ref": "Hosea 11:4"
+    },
+    {
+      "path": "data/readings/2026-05-20-morning.md",
+      "date": "05-20",
+      "slot": "morning",
+      "scripture_ref": "Psalm 17:7"
+    },
+    {
+      "path": "data/readings/2026-05-21-evening.md",
+      "date": "05-21",
+      "slot": "evening",
+      "scripture_ref": "Genesis 42:2"
+    },
+    {
+      "path": "data/readings/2026-05-21-morning.md",
+      "date": "05-21",
+      "slot": "morning",
+      "scripture_ref": "1 Peter 2:3"
+    },
+    {
+      "path": "data/readings/2026-05-22-evening.md",
+      "date": "05-22",
+      "slot": "evening",
+      "scripture_ref": "Song of Solomon 1:16"
+    },
+    {
+      "path": "data/readings/2026-05-22-morning.md",
+      "date": "05-22",
+      "slot": "morning",
+      "scripture_ref": "Psalm 107:7"
+    },
+    {
+      "path": "data/readings/2026-05-23-evening.md",
+      "date": "05-23",
+      "slot": "evening",
+      "scripture_ref": "Isaiah 43:24"
+    },
+    {
+      "path": "data/readings/2026-05-23-morning.md",
+      "date": "05-23",
+      "slot": "morning",
+      "scripture_ref": "Psalm 138:8"
+    },
+    {
+      "path": "data/readings/2026-05-24-evening.md",
+      "date": "05-24",
+      "slot": "evening",
+      "scripture_ref": "Philippians 1:27"
+    },
+    {
+      "path": "data/readings/2026-05-24-morning.md",
+      "date": "05-24",
+      "slot": "morning",
+      "scripture_ref": "Psalm 66:20"
+    },
+    {
+      "path": "data/readings/2026-05-25-evening.md",
+      "date": "05-25",
+      "slot": "evening",
+      "scripture_ref": "Luke 24:33,35"
+    },
+    {
+      "path": "data/readings/2026-05-25-morning.md",
+      "date": "05-25",
+      "slot": "morning",
+      "scripture_ref": "Psalm 38:21"
+    },
+    {
+      "path": "data/readings/2026-05-26-evening.md",
+      "date": "05-26",
+      "slot": "evening",
+      "scripture_ref": "Acts 14:22"
+    },
+    {
+      "path": "data/readings/2026-05-26-morning.md",
+      "date": "05-26",
+      "slot": "morning",
+      "scripture_ref": "Psalm 55:22"
+    },
+    {
+      "path": "data/readings/2026-05-27-evening.md",
+      "date": "05-27",
+      "slot": "evening",
+      "scripture_ref": "2 Samuel 9:8"
+    },
+    {
+      "path": "data/readings/2026-05-27-morning.md",
+      "date": "05-27",
+      "slot": "morning",
+      "scripture_ref": "2 Samuel 9:13"
+    },
+    {
+      "path": "data/readings/2026-05-28-evening.md",
+      "date": "05-28",
+      "slot": "evening",
+      "scripture_ref": "Lamentations 3:21"
+    },
+    {
+      "path": "data/readings/2026-05-28-morning.md",
+      "date": "05-28",
+      "slot": "morning",
+      "scripture_ref": "Romans 8:30"
+    },
+    {
+      "path": "data/readings/2026-05-29-evening.md",
+      "date": "05-29",
+      "slot": "evening",
+      "scripture_ref": "Joshua 6:26"
+    },
+    {
+      "path": "data/readings/2026-05-29-morning.md",
+      "date": "05-29",
+      "slot": "morning",
+      "scripture_ref": "Psalm 45:7"
+    },
+    {
+      "path": "data/readings/2026-05-30-evening.md",
+      "date": "05-30",
+      "slot": "evening",
+      "scripture_ref": "Romans 6:6"
+    },
+    {
+      "path": "data/readings/2026-05-30-morning.md",
+      "date": "05-30",
+      "slot": "morning",
+      "scripture_ref": "Song of Solomon 2:15"
+    },
+    {
+      "path": "data/readings/2026-05-31-evening.md",
+      "date": "05-31",
+      "slot": "evening",
+      "scripture_ref": "Psalm 103:3"
+    },
+    {
+      "path": "data/readings/2026-05-31-morning.md",
+      "date": "05-31",
+      "slot": "morning",
+      "scripture_ref": "2 Samuel 15:23"
+    },
+    {
+      "path": "data/readings/2026-06-01-evening.md",
+      "date": "06-01",
+      "slot": "evening",
+      "scripture_ref": "Isaiah 51:3"
+    },
+    {
+      "path": "data/readings/2026-06-01-morning.md",
+      "date": "06-01",
+      "slot": "morning",
+      "scripture_ref": "Genesis 1:5"
+    },
+    {
+      "path": "data/readings/2026-06-02-evening.md",
+      "date": "06-02",
+      "slot": "evening",
+      "scripture_ref": "Matthew 19:16"
+    },
+    {
+      "path": "data/readings/2026-06-02-morning.md",
+      "date": "06-02",
+      "slot": "morning",
+      "scripture_ref": "Galatians 5:17"
+    },
+    {
+      "path": "data/readings/2026-06-03-evening.md",
+      "date": "06-03",
+      "slot": "evening",
+      "scripture_ref": "Philippians 2:8"
+    },
+    {
+      "path": "data/readings/2026-06-03-morning.md",
+      "date": "06-03",
+      "slot": "morning",
+      "scripture_ref": "1 Chronicles 4:23"
+    },
+    {
+      "path": "data/readings/2026-06-04-evening.md",
+      "date": "06-04",
+      "slot": "evening",
+      "scripture_ref": "1 Timothy 3:16"
+    },
+    {
+      "path": "data/readings/2026-06-04-morning.md",
+      "date": "06-04",
+      "slot": "morning",
+      "scripture_ref": "Titus 3:4"
+    },
+    {
+      "path": "data/readings/2026-06-05-evening.md",
+      "date": "06-05",
+      "slot": "evening",
+      "scripture_ref": "1 John 4:8"
+    },
+    {
+      "path": "data/readings/2026-06-05-morning.md",
+      "date": "06-05",
+      "slot": "morning",
+      "scripture_ref": "Genesis 7:16"
+    },
+    {
+      "path": "data/readings/2026-06-06-evening.md",
+      "date": "06-06",
+      "slot": "evening",
+      "scripture_ref": "2 Corinthians 11:22"
+    },
+    {
+      "path": "data/readings/2026-06-06-morning.md",
+      "date": "06-06",
+      "slot": "morning",
+      "scripture_ref": "Job 40:4"
+    },
+    {
+      "path": "data/readings/2026-06-07-evening.md",
+      "date": "06-07",
+      "slot": "evening",
+      "scripture_ref": "Revelation 3:19"
+    },
+    {
+      "path": "data/readings/2026-06-07-morning.md",
+      "date": "06-07",
+      "slot": "morning",
+      "scripture_ref": "Psalm 97:10"
+    },
+    {
+      "path": "data/readings/2026-06-08-evening.md",
+      "date": "06-08",
+      "slot": "evening",
+      "scripture_ref": "Numbers 11:23"
+    },
+    {
+      "path": "data/readings/2026-06-08-morning.md",
+      "date": "06-08",
+      "slot": "morning",
+      "scripture_ref": "1 Chronicles 5:22"
+    },
+    {
+      "path": "data/readings/2026-06-09-evening.md",
+      "date": "06-09",
+      "slot": "evening",
+      "scripture_ref": "John 5:39"
+    },
+    {
+      "path": "data/readings/2026-06-09-morning.md",
+      "date": "06-09",
+      "slot": "morning",
+      "scripture_ref": "Psalm 126:3"
+    },
+    {
+      "path": "data/readings/2026-06-10-evening.md",
+      "date": "06-10",
+      "slot": "evening",
+      "scripture_ref": "John 5:39"
+    },
+    {
+      "path": "data/readings/2026-06-10-morning.md",
+      "date": "06-10",
+      "slot": "morning",
+      "scripture_ref": "Romans 14:8"
+    },
+    {
+      "path": "data/readings/2026-06-11-evening.md",
+      "date": "06-11",
+      "slot": "evening",
+      "scripture_ref": "Psalm 76:3"
+    },
+    {
+      "path": "data/readings/2026-06-11-morning.md",
+      "date": "06-11",
+      "slot": "morning",
+      "scripture_ref": "1 John 4:19"
+    },
+    {
+      "path": "data/readings/2026-06-12-evening.md",
+      "date": "06-12",
+      "slot": "evening",
+      "scripture_ref": "2 Timothy 1:9"
+    },
+    {
+      "path": "data/readings/2026-06-12-morning.md",
+      "date": "06-12",
+      "slot": "morning",
+      "scripture_ref": "Daniel 5:27"
+    },
+    {
+      "path": "data/readings/2026-06-13-evening.md",
+      "date": "06-13",
+      "slot": "evening",
+      "scripture_ref": "Proverbs 30:8"
+    },
+    {
+      "path": "data/readings/2026-06-13-morning.md",
+      "date": "06-13",
+      "slot": "morning",
+      "scripture_ref": "Revelation 22:17"
+    },
+    {
+      "path": "data/readings/2026-06-14-evening.md",
+      "date": "06-14",
+      "slot": "evening",
+      "scripture_ref": "Daniel 9:8"
+    },
+    {
+      "path": "data/readings/2026-06-14-morning.md",
+      "date": "06-14",
+      "slot": "morning",
+      "scripture_ref": "Psalm 37:4"
+    },
+    {
+      "path": "data/readings/2026-06-15-evening.md",
+      "date": "06-15",
+      "slot": "evening",
+      "scripture_ref": "Revelation 3:7"
+    },
+    {
+      "path": "data/readings/2026-06-15-morning.md",
+      "date": "06-15",
+      "slot": "morning",
+      "scripture_ref": "Genesis 21:6"
+    },
+    {
+      "path": "data/readings/2026-06-16-evening.md",
+      "date": "06-16",
+      "slot": "evening",
+      "scripture_ref": "Psalm 27:1"
+    },
+    {
+      "path": "data/readings/2026-06-16-morning.md",
+      "date": "06-16",
+      "slot": "morning",
+      "scripture_ref": "John 10:28"
+    },
+    {
+      "path": "data/readings/2026-06-17-evening.md",
+      "date": "06-17",
+      "slot": "evening",
+      "scripture_ref": "Numbers 21:17"
+    },
+    {
+      "path": "data/readings/2026-06-17-morning.md",
+      "date": "06-17",
+      "slot": "morning",
+      "scripture_ref": "Psalm 12:1"
+    },
+    {
+      "path": "data/readings/2026-06-18-evening.md",
+      "date": "06-18",
+      "slot": "evening",
+      "scripture_ref": "Song of Solomon 5:1"
+    },
+    {
+      "path": "data/readings/2026-06-18-morning.md",
+      "date": "06-18",
+      "slot": "morning",
+      "scripture_ref": "Isaiah 54:5"
+    },
+    {
+      "path": "data/readings/2026-06-19-evening.md",
+      "date": "06-19",
+      "slot": "evening",
+      "scripture_ref": "Song of Solomon 2:16, 17"
+    },
+    {
+      "path": "data/readings/2026-06-19-morning.md",
+      "date": "06-19",
+      "slot": "morning",
+      "scripture_ref": "Acts 2:4"
+    },
+    {
+      "path": "data/readings/2026-06-20-evening.md",
+      "date": "06-20",
+      "slot": "evening",
+      "scripture_ref": "Mark 1:18"
+    },
+    {
+      "path": "data/readings/2026-06-20-morning.md",
+      "date": "06-20",
+      "slot": "morning",
+      "scripture_ref": "Amos 9:9"
+    },
+    {
+      "path": "data/readings/2026-06-21-evening.md",
+      "date": "06-21",
+      "slot": "evening",
+      "scripture_ref": "2 Timothy 2:19"
+    },
+    {
+      "path": "data/readings/2026-06-21-morning.md",
+      "date": "06-21",
+      "slot": "morning",
+      "scripture_ref": "Psalm 45:2"
+    },
+    {
+      "path": "data/readings/2026-06-22-evening.md",
+      "date": "06-22",
+      "slot": "evening",
+      "scripture_ref": "Hebrews 12:27"
+    },
+    {
+      "path": "data/readings/2026-06-22-morning.md",
+      "date": "06-22",
+      "slot": "morning",
+      "scripture_ref": "Zechariah 6:13"
+    },
+    {
+      "path": "data/readings/2026-06-23-evening.md",
+      "date": "06-23",
+      "slot": "evening",
+      "scripture_ref": "Romans 8:23"
+    },
+    {
+      "path": "data/readings/2026-06-23-morning.md",
+      "date": "06-23",
+      "slot": "morning",
+      "scripture_ref": "Hosea 7:8"
+    },
+    {
+      "path": "data/readings/2026-06-24-evening.md",
+      "date": "06-24",
+      "slot": "evening",
+      "scripture_ref": "Daniel 3:16, 18"
+    },
+    {
+      "path": "data/readings/2026-06-24-morning.md",
+      "date": "06-24",
+      "slot": "morning",
+      "scripture_ref": "Luke 11:27, 28"
+    },
+    {
+      "path": "data/readings/2026-06-25-evening.md",
+      "date": "06-25",
+      "slot": "evening",
+      "scripture_ref": "Genesis 8:9"
+    },
+    {
+      "path": "data/readings/2026-06-25-morning.md",
+      "date": "06-25",
+      "slot": "morning",
+      "scripture_ref": "Isaiah 40:9"
+    },
+    {
+      "path": "data/readings/2026-06-26-evening.md",
+      "date": "06-26",
+      "slot": "evening",
+      "scripture_ref": "2 Peter 1:4"
+    },
+    {
+      "path": "data/readings/2026-06-26-morning.md",
+      "date": "06-26",
+      "slot": "morning",
+      "scripture_ref": "Isaiah 14:10"
+    },
+    {
+      "path": "data/readings/2026-06-27-evening.md",
+      "date": "06-27",
+      "slot": "evening",
+      "scripture_ref": "1 Corinthians 7:20"
+    },
+    {
+      "path": "data/readings/2026-06-27-morning.md",
+      "date": "06-27",
+      "slot": "morning",
+      "scripture_ref": "Exodus 8:28"
+    },
+    {
+      "path": "data/readings/2026-06-28-evening.md",
+      "date": "06-28",
+      "slot": "evening",
+      "scripture_ref": "Exodus 7:12"
+    },
+    {
+      "path": "data/readings/2026-06-28-morning.md",
+      "date": "06-28",
+      "slot": "morning",
+      "scripture_ref": "Hebrews 12:2"
+    },
+    {
+      "path": "data/readings/2026-06-29-evening.md",
+      "date": "06-29",
+      "slot": "evening",
+      "scripture_ref": "2 Chronicles 32:31"
+    },
+    {
+      "path": "data/readings/2026-06-29-morning.md",
+      "date": "06-29",
+      "slot": "morning",
+      "scripture_ref": "1 Thessalonians 4:14"
+    },
+    {
+      "path": "data/readings/2026-06-30-evening.md",
+      "date": "06-30",
+      "slot": "evening",
+      "scripture_ref": "Jeremiah 32:17"
+    },
+    {
+      "path": "data/readings/2026-06-30-morning.md",
+      "date": "06-30",
+      "slot": "morning",
+      "scripture_ref": "John 17:22"
+    },
+    {
+      "path": "data/readings/2026-07-01-evening.md",
+      "date": "07-01",
+      "slot": "evening",
+      "scripture_ref": "Genesis 3:8"
+    },
+    {
+      "path": "data/readings/2026-07-01-morning.md",
+      "date": "07-01",
+      "slot": "morning",
+      "scripture_ref": "Zechariah 14:8"
+    },
+    {
+      "path": "data/readings/2026-07-02-evening.md",
+      "date": "07-02",
+      "slot": "evening",
+      "scripture_ref": "Psalm 28:1"
+    },
+    {
+      "path": "data/readings/2026-07-02-morning.md",
+      "date": "07-02",
+      "slot": "morning",
+      "scripture_ref": "Psalm 33:21"
+    },
+    {
+      "path": "data/readings/2026-07-03-evening.md",
+      "date": "07-03",
+      "slot": "evening",
+      "scripture_ref": "2 Timothy 2:12"
+    },
+    {
+      "path": "data/readings/2026-07-03-morning.md",
+      "date": "07-03",
+      "slot": "morning",
+      "scripture_ref": "Genesis 41:4"
+    },
+    {
+      "path": "data/readings/2026-07-04-evening.md",
+      "date": "07-04",
+      "slot": "evening",
+      "scripture_ref": "Psalm 24:4"
+    },
+    {
+      "path": "data/readings/2026-07-04-morning.md",
+      "date": "07-04",
+      "slot": "morning",
+      "scripture_ref": "John 17:17"
+    },
+    {
+      "path": "data/readings/2026-07-05-evening.md",
+      "date": "07-05",
+      "slot": "evening",
+      "scripture_ref": "Isaiah 26:4"
+    },
+    {
+      "path": "data/readings/2026-07-05-morning.md",
+      "date": "07-05",
+      "slot": "morning",
+      "scripture_ref": "Romans 1:7"
+    },
+    {
+      "path": "data/readings/2026-07-06-evening.md",
+      "date": "07-06",
+      "slot": "evening",
+      "scripture_ref": "Job 13:23"
+    },
+    {
+      "path": "data/readings/2026-07-06-morning.md",
+      "date": "07-06",
+      "slot": "morning",
+      "scripture_ref": "Proverbs 1:33"
+    },
+    {
+      "path": "data/readings/2026-07-07-evening.md",
+      "date": "07-07",
+      "slot": "evening",
+      "scripture_ref": "Ezekiel 16:6"
+    },
+    {
+      "path": "data/readings/2026-07-07-morning.md",
+      "date": "07-07",
+      "slot": "morning",
+      "scripture_ref": "1 Thessalonians 5:25"
+    },
+    {
+      "path": "data/readings/2026-07-08-evening.md",
+      "date": "07-08",
+      "slot": "evening",
+      "scripture_ref": "Psalm 25:5"
+    },
+    {
+      "path": "data/readings/2026-07-08-morning.md",
+      "date": "07-08",
+      "slot": "morning",
+      "scripture_ref": "Judges 16:6"
+    },
+    {
+      "path": "data/readings/2026-07-09-evening.md",
+      "date": "07-09",
+      "slot": "evening",
+      "scripture_ref": "Genesis 1:4"
+    },
+    {
+      "path": "data/readings/2026-07-09-morning.md",
+      "date": "07-09",
+      "slot": "morning",
+      "scripture_ref": "Psalm 103:2"
+    },
+    {
+      "path": "data/readings/2026-07-10-evening.md",
+      "date": "07-10",
+      "slot": "evening",
+      "scripture_ref": "Genesis 1:5"
+    },
+    {
+      "path": "data/readings/2026-07-10-morning.md",
+      "date": "07-10",
+      "slot": "morning",
+      "scripture_ref": "Ephesians 2:19"
+    },
+    {
+      "path": "data/readings/2026-07-11-evening.md",
+      "date": "07-11",
+      "slot": "evening",
+      "scripture_ref": "Joel 1:3"
+    },
+    {
+      "path": "data/readings/2026-07-11-morning.md",
+      "date": "07-11",
+      "slot": "morning",
+      "scripture_ref": "1 Peter 5:10"
+    },
+    {
+      "path": "data/readings/2026-07-12-evening.md",
+      "date": "07-12",
+      "slot": "evening",
+      "scripture_ref": "2 Timothy 4:18"
+    },
+    {
+      "path": "data/readings/2026-07-12-morning.md",
+      "date": "07-12",
+      "slot": "morning",
+      "scripture_ref": "Jude 1:1"
+    },
+    {
+      "path": "data/readings/2026-07-13-evening.md",
+      "date": "07-13",
+      "slot": "evening",
+      "scripture_ref": "Psalm 56:9"
+    },
+    {
+      "path": "data/readings/2026-07-13-morning.md",
+      "date": "07-13",
+      "slot": "morning",
+      "scripture_ref": "Jonah 4:9"
+    },
+    {
+      "path": "data/readings/2026-07-14-evening.md",
+      "date": "07-14",
+      "slot": "evening",
+      "scripture_ref": "Matthew 28:1"
+    },
+    {
+      "path": "data/readings/2026-07-14-morning.md",
+      "date": "07-14",
+      "slot": "morning",
+      "scripture_ref": "Exodus 20:25"
+    },
+    {
+      "path": "data/readings/2026-07-15-evening.md",
+      "date": "07-15",
+      "slot": "evening",
+      "scripture_ref": "Mark 16:9"
+    },
+    {
+      "path": "data/readings/2026-07-15-morning.md",
+      "date": "07-15",
+      "slot": "morning",
+      "scripture_ref": "Leviticus 6:13"
+    },
+    {
+      "path": "data/readings/2026-07-16-evening.md",
+      "date": "07-16",
+      "slot": "evening",
+      "scripture_ref": "Psalm 102:13, 14"
+    },
+    {
+      "path": "data/readings/2026-07-16-morning.md",
+      "date": "07-16",
+      "slot": "morning",
+      "scripture_ref": "Exodus 16:21"
+    },
+    {
+      "path": "data/readings/2026-07-17-evening.md",
+      "date": "07-17",
+      "slot": "evening",
+      "scripture_ref": "1 Kings 18:40"
+    },
+    {
+      "path": "data/readings/2026-07-17-morning.md",
+      "date": "07-17",
+      "slot": "morning",
+      "scripture_ref": "1 Thessalonians 1:4"
+    },
+    {
+      "path": "data/readings/2026-07-18-evening.md",
+      "date": "07-18",
+      "slot": "evening",
+      "scripture_ref": "Joel 2:8"
+    },
+    {
+      "path": "data/readings/2026-07-18-morning.md",
+      "date": "07-18",
+      "slot": "morning",
+      "scripture_ref": "Numbers 2:31"
+    },
+    {
+      "path": "data/readings/2026-07-19-evening.md",
+      "date": "07-19",
+      "slot": "evening",
+      "scripture_ref": "Matthew 12:20"
+    },
+    {
+      "path": "data/readings/2026-07-19-morning.md",
+      "date": "07-19",
+      "slot": "morning",
+      "scripture_ref": "Deuteronomy 5:24"
+    },
+    {
+      "path": "data/readings/2026-07-20-evening.md",
+      "date": "07-20",
+      "slot": "evening",
+      "scripture_ref": "Jeremiah 2:18"
+    },
+    {
+      "path": "data/readings/2026-07-20-morning.md",
+      "date": "07-20",
+      "slot": "morning",
+      "scripture_ref": "Ephesians 1:14"
+    },
+    {
+      "path": "data/readings/2026-07-21-evening.md",
+      "date": "07-21",
+      "slot": "evening",
+      "scripture_ref": "Psalm 42:9"
+    },
+    {
+      "path": "data/readings/2026-07-21-morning.md",
+      "date": "07-21",
+      "slot": "morning",
+      "scripture_ref": "Isaiah 37:22"
+    },
+    {
+      "path": "data/readings/2026-07-22-evening.md",
+      "date": "07-22",
+      "slot": "evening",
+      "scripture_ref": "John 19:5"
+    },
+    {
+      "path": "data/readings/2026-07-22-morning.md",
+      "date": "07-22",
+      "slot": "morning",
+      "scripture_ref": "Jeremiah 3:14"
+    },
+    {
+      "path": "data/readings/2026-07-23-evening.md",
+      "date": "07-23",
+      "slot": "evening",
+      "scripture_ref": "1 John 1:7"
+    },
+    {
+      "path": "data/readings/2026-07-23-morning.md",
+      "date": "07-23",
+      "slot": "morning",
+      "scripture_ref": "Obadiah 1:11"
+    },
+    {
+      "path": "data/readings/2026-07-24-evening.md",
+      "date": "07-24",
+      "slot": "evening",
+      "scripture_ref": "Joel 2:11"
+    },
+    {
+      "path": "data/readings/2026-07-24-morning.md",
+      "date": "07-24",
+      "slot": "morning",
+      "scripture_ref": "Exodus 14:13"
+    },
+    {
+      "path": "data/readings/2026-07-25-evening.md",
+      "date": "07-25",
+      "slot": "evening",
+      "scripture_ref": "Hosea 5:15"
+    },
+    {
+      "path": "data/readings/2026-07-25-morning.md",
+      "date": "07-25",
+      "slot": "morning",
+      "scripture_ref": "Genesis 39:12"
+    },
+    {
+      "path": "data/readings/2026-07-26-evening.md",
+      "date": "07-26",
+      "slot": "evening",
+      "scripture_ref": "Psalm 113:8"
+    },
+    {
+      "path": "data/readings/2026-07-26-morning.md",
+      "date": "07-26",
+      "slot": "morning",
+      "scripture_ref": "2 Peter 1:5, 6"
+    },
+    {
+      "path": "data/readings/2026-07-27-evening.md",
+      "date": "07-27",
+      "slot": "evening",
+      "scripture_ref": "Romans 8:33"
+    },
+    {
+      "path": "data/readings/2026-07-27-morning.md",
+      "date": "07-27",
+      "slot": "morning",
+      "scripture_ref": "2 Peter 1:4"
+    },
+    {
+      "path": "data/readings/2026-07-28-evening.md",
+      "date": "07-28",
+      "slot": "evening",
+      "scripture_ref": "Acts 10:38"
+    },
+    {
+      "path": "data/readings/2026-07-28-morning.md",
+      "date": "07-28",
+      "slot": "morning",
+      "scripture_ref": "Psalm 73:22"
+    },
+    {
+      "path": "data/readings/2026-07-29-evening.md",
+      "date": "07-29",
+      "slot": "evening",
+      "scripture_ref": "John 6:37"
+    },
+    {
+      "path": "data/readings/2026-07-29-morning.md",
+      "date": "07-29",
+      "slot": "morning",
+      "scripture_ref": "Psalm 73:23"
+    },
+    {
+      "path": "data/readings/2026-07-30-evening.md",
+      "date": "07-30",
+      "slot": "evening",
+      "scripture_ref": "John 6:37"
+    },
+    {
+      "path": "data/readings/2026-07-30-morning.md",
+      "date": "07-30",
+      "slot": "morning",
+      "scripture_ref": "Mark 14:72"
+    },
+    {
+      "path": "data/readings/2026-07-31-evening.md",
+      "date": "07-31",
+      "slot": "evening",
+      "scripture_ref": "1 Chronicles 9:33"
+    },
+    {
+      "path": "data/readings/2026-07-31-morning.md",
+      "date": "07-31",
+      "slot": "morning",
+      "scripture_ref": "John 17:23"
+    },
+    {
+      "path": "data/readings/2026-08-01-evening.md",
+      "date": "08-01",
+      "slot": "evening",
+      "scripture_ref": "Psalm 65:11"
+    },
+    {
+      "path": "data/readings/2026-08-01-morning.md",
+      "date": "08-01",
+      "slot": "morning",
+      "scripture_ref": "Ruth 2:2"
+    },
+    {
+      "path": "data/readings/2026-08-02-evening.md",
+      "date": "08-02",
+      "slot": "evening",
+      "scripture_ref": "Ruth 2:17"
+    },
+    {
+      "path": "data/readings/2026-08-02-morning.md",
+      "date": "08-02",
+      "slot": "morning",
+      "scripture_ref": "Ephesians 1:11"
+    },
+    {
+      "path": "data/readings/2026-08-03-evening.md",
+      "date": "08-03",
+      "slot": "evening",
+      "scripture_ref": "Luke 8:42"
+    },
+    {
+      "path": "data/readings/2026-08-03-morning.md",
+      "date": "08-03",
+      "slot": "morning",
+      "scripture_ref": "Revelation 21:23"
+    },
+    {
+      "path": "data/readings/2026-08-04-evening.md",
+      "date": "08-04",
+      "slot": "evening",
+      "scripture_ref": "Haggai 2:17"
+    },
+    {
+      "path": "data/readings/2026-08-04-morning.md",
+      "date": "08-04",
+      "slot": "morning",
+      "scripture_ref": "Daniel 11:32"
+    },
+    {
+      "path": "data/readings/2026-08-05-evening.md",
+      "date": "08-05",
+      "slot": "evening",
+      "scripture_ref": "Numbers 32:6"
+    },
+    {
+      "path": "data/readings/2026-08-05-morning.md",
+      "date": "08-05",
+      "slot": "morning",
+      "scripture_ref": "Romans 8:28"
+    },
+    {
+      "path": "data/readings/2026-08-06-evening.md",
+      "date": "08-06",
+      "slot": "evening",
+      "scripture_ref": "Psalm 72:19"
+    },
+    {
+      "path": "data/readings/2026-08-06-morning.md",
+      "date": "08-06",
+      "slot": "morning",
+      "scripture_ref": "Isaiah 21:11"
+    },
+    {
+      "path": "data/readings/2026-08-07-evening.md",
+      "date": "08-07",
+      "slot": "evening",
+      "scripture_ref": "1 Thessalonians 2:18"
+    },
+    {
+      "path": "data/readings/2026-08-07-morning.md",
+      "date": "08-07",
+      "slot": "morning",
+      "scripture_ref": "Song of Solomon 1:4"
+    },
+    {
+      "path": "data/readings/2026-08-08-evening.md",
+      "date": "08-08",
+      "slot": "evening",
+      "scripture_ref": "Mark 9:23"
+    },
+    {
+      "path": "data/readings/2026-08-08-morning.md",
+      "date": "08-08",
+      "slot": "morning",
+      "scripture_ref": "Isaiah 59:5"
+    },
+    {
+      "path": "data/readings/2026-08-09-evening.md",
+      "date": "08-09",
+      "slot": "evening",
+      "scripture_ref": "Mark 16:9"
+    },
+    {
+      "path": "data/readings/2026-08-09-morning.md",
+      "date": "08-09",
+      "slot": "morning",
+      "scripture_ref": "Revelation 21:23"
+    },
+    {
+      "path": "data/readings/2026-08-10-evening.md",
+      "date": "08-10",
+      "slot": "evening",
+      "scripture_ref": "Matthew 9:6"
+    },
+    {
+      "path": "data/readings/2026-08-10-morning.md",
+      "date": "08-10",
+      "slot": "morning",
+      "scripture_ref": "Colossians 3:4"
+    },
+    {
+      "path": "data/readings/2026-08-11-evening.md",
+      "date": "08-11",
+      "slot": "evening",
+      "scripture_ref": "2 Thessalonians 2:16"
+    },
+    {
+      "path": "data/readings/2026-08-11-morning.md",
+      "date": "08-11",
+      "slot": "morning",
+      "scripture_ref": "Job 29:2"
+    },
+    {
+      "path": "data/readings/2026-08-12-evening.md",
+      "date": "08-12",
+      "slot": "evening",
+      "scripture_ref": "Genesis 9:14"
+    },
+    {
+      "path": "data/readings/2026-08-12-morning.md",
+      "date": "08-12",
+      "slot": "morning",
+      "scripture_ref": "Psalm 97:1"
+    },
+    {
+      "path": "data/readings/2026-08-13-evening.md",
+      "date": "08-13",
+      "slot": "evening",
+      "scripture_ref": "Genesis 9:15"
+    },
+    {
+      "path": "data/readings/2026-08-13-morning.md",
+      "date": "08-13",
+      "slot": "morning",
+      "scripture_ref": "Psalm 104:16"
+    },
+    {
+      "path": "data/readings/2026-08-14-evening.md",
+      "date": "08-14",
+      "slot": "evening",
+      "scripture_ref": "Exodus 3:7"
+    },
+    {
+      "path": "data/readings/2026-08-14-morning.md",
+      "date": "08-14",
+      "slot": "morning",
+      "scripture_ref": "Psalm 92:4"
+    },
+    {
+      "path": "data/readings/2026-08-15-evening.md",
+      "date": "08-15",
+      "slot": "evening",
+      "scripture_ref": "Ezekiel 36:26"
+    },
+    {
+      "path": "data/readings/2026-08-15-morning.md",
+      "date": "08-15",
+      "slot": "morning",
+      "scripture_ref": "Genesis 24:63"
+    },
+    {
+      "path": "data/readings/2026-08-16-evening.md",
+      "date": "08-16",
+      "slot": "evening",
+      "scripture_ref": "Romans 8:23"
+    },
+    {
+      "path": "data/readings/2026-08-16-morning.md",
+      "date": "08-16",
+      "slot": "morning",
+      "scripture_ref": "Psalm 29:2"
+    },
+    {
+      "path": "data/readings/2026-08-17-evening.md",
+      "date": "08-17",
+      "slot": "evening",
+      "scripture_ref": "John 11:4"
+    },
+    {
+      "path": "data/readings/2026-08-17-morning.md",
+      "date": "08-17",
+      "slot": "morning",
+      "scripture_ref": "Psalm 52:8"
+    },
+    {
+      "path": "data/readings/2026-08-18-evening.md",
+      "date": "08-18",
+      "slot": "evening",
+      "scripture_ref": "Mark 15:23"
+    },
+    {
+      "path": "data/readings/2026-08-18-morning.md",
+      "date": "08-18",
+      "slot": "morning",
+      "scripture_ref": "Jeremiah 51:51"
+    },
+    {
+      "path": "data/readings/2026-08-19-evening.md",
+      "date": "08-19",
+      "slot": "evening",
+      "scripture_ref": "Psalm 31:4"
+    },
+    {
+      "path": "data/readings/2026-08-19-morning.md",
+      "date": "08-19",
+      "slot": "morning",
+      "scripture_ref": "Micah 5:4"
+    },
+    {
+      "path": "data/readings/2026-08-20-evening.md",
+      "date": "08-20",
+      "slot": "evening",
+      "scripture_ref": "Nehemiah 3:8"
+    },
+    {
+      "path": "data/readings/2026-08-20-morning.md",
+      "date": "08-20",
+      "slot": "morning",
+      "scripture_ref": "2 Samuel 23:1"
+    },
+    {
+      "path": "data/readings/2026-08-21-evening.md",
+      "date": "08-21",
+      "slot": "evening",
+      "scripture_ref": "Isaiah 45:19"
+    },
+    {
+      "path": "data/readings/2026-08-21-morning.md",
+      "date": "08-21",
+      "slot": "morning",
+      "scripture_ref": "Proverbs 11:25"
+    },
+    {
+      "path": "data/readings/2026-08-22-evening.md",
+      "date": "08-22",
+      "slot": "evening",
+      "scripture_ref": "Ephesians 3:8"
+    },
+    {
+      "path": "data/readings/2026-08-22-morning.md",
+      "date": "08-22",
+      "slot": "morning",
+      "scripture_ref": "Song of Solomon 5:8"
+    },
+    {
+      "path": "data/readings/2026-08-23-evening.md",
+      "date": "08-23",
+      "slot": "evening",
+      "scripture_ref": "Ephesians 3:17"
+    },
+    {
+      "path": "data/readings/2026-08-23-morning.md",
+      "date": "08-23",
+      "slot": "morning",
+      "scripture_ref": "Isaiah 65:19"
+    },
+    {
+      "path": "data/readings/2026-08-24-evening.md",
+      "date": "08-24",
+      "slot": "evening",
+      "scripture_ref": "Exodus 22:6"
+    },
+    {
+      "path": "data/readings/2026-08-24-morning.md",
+      "date": "08-24",
+      "slot": "morning",
+      "scripture_ref": "Micah 2:13"
+    },
+    {
+      "path": "data/readings/2026-08-25-evening.md",
+      "date": "08-25",
+      "slot": "evening",
+      "scripture_ref": "Acts 8:37"
+    },
+    {
+      "path": "data/readings/2026-08-25-morning.md",
+      "date": "08-25",
+      "slot": "morning",
+      "scripture_ref": "Song of Solomon 2:3"
+    },
+    {
+      "path": "data/readings/2026-08-26-evening.md",
+      "date": "08-26",
+      "slot": "evening",
+      "scripture_ref": "Mark 9:15"
+    },
+    {
+      "path": "data/readings/2026-08-26-morning.md",
+      "date": "08-26",
+      "slot": "morning",
+      "scripture_ref": "Psalm 111:9"
+    },
+    {
+      "path": "data/readings/2026-08-27-evening.md",
+      "date": "08-27",
+      "slot": "evening",
+      "scripture_ref": "Psalm 31:5"
+    },
+    {
+      "path": "data/readings/2026-08-27-morning.md",
+      "date": "08-27",
+      "slot": "morning",
+      "scripture_ref": "Numbers 14:11"
+    },
+    {
+      "path": "data/readings/2026-08-28-evening.md",
+      "date": "08-28",
+      "slot": "evening",
+      "scripture_ref": "Isaiah 54:1"
+    },
+    {
+      "path": "data/readings/2026-08-28-morning.md",
+      "date": "08-28",
+      "slot": "morning",
+      "scripture_ref": "Exodus 25:6"
+    },
+    {
+      "path": "data/readings/2026-08-29-evening.md",
+      "date": "08-29",
+      "slot": "evening",
+      "scripture_ref": "Numbers 6:4"
+    },
+    {
+      "path": "data/readings/2026-08-29-morning.md",
+      "date": "08-29",
+      "slot": "morning",
+      "scripture_ref": "Psalm 51:1"
+    },
+    {
+      "path": "data/readings/2026-08-30-evening.md",
+      "date": "08-30",
+      "slot": "evening",
+      "scripture_ref": "Jeremiah 17:14"
+    },
+    {
+      "path": "data/readings/2026-08-30-morning.md",
+      "date": "08-30",
+      "slot": "morning",
+      "scripture_ref": "Psalm 27:14"
+    },
+    {
+      "path": "data/readings/2026-08-31-evening.md",
+      "date": "08-31",
+      "slot": "evening",
+      "scripture_ref": "1 John 1:7"
+    },
+    {
+      "path": "data/readings/2026-08-31-morning.md",
+      "date": "08-31",
+      "slot": "morning",
+      "scripture_ref": "Isaiah 51:5"
+    },
+    {
+      "path": "data/readings/2026-09-01-evening.md",
+      "date": "09-01",
+      "slot": "evening",
+      "scripture_ref": "Psalm 62:8"
+    },
+    {
+      "path": "data/readings/2026-09-01-morning.md",
+      "date": "09-01",
+      "slot": "morning",
+      "scripture_ref": "Psalm 73:24"
+    },
+    {
+      "path": "data/readings/2026-09-02-evening.md",
+      "date": "09-02",
+      "slot": "evening",
+      "scripture_ref": "John 4:48"
+    },
+    {
+      "path": "data/readings/2026-09-02-morning.md",
+      "date": "09-02",
+      "slot": "morning",
+      "scripture_ref": "Mark 1:30"
+    },
+    {
+      "path": "data/readings/2026-09-03-evening.md",
+      "date": "09-03",
+      "slot": "evening",
+      "scripture_ref": "Psalm 11:5"
+    },
+    {
+      "path": "data/readings/2026-09-03-morning.md",
+      "date": "09-03",
+      "slot": "morning",
+      "scripture_ref": "Song of Solomon 1:7"
+    },
+    {
+      "path": "data/readings/2026-09-04-evening.md",
+      "date": "09-04",
+      "slot": "evening",
+      "scripture_ref": "Leviticus 19:36"
+    },
+    {
+      "path": "data/readings/2026-09-04-morning.md",
+      "date": "09-04",
+      "slot": "morning",
+      "scripture_ref": "Mark 1:41"
+    },
+    {
+      "path": "data/readings/2026-09-05-evening.md",
+      "date": "09-05",
+      "slot": "evening",
+      "scripture_ref": "Job 38:16"
+    },
+    {
+      "path": "data/readings/2026-09-05-morning.md",
+      "date": "09-05",
+      "slot": "morning",
+      "scripture_ref": "Psalm 120:5"
+    },
+    {
+      "path": "data/readings/2026-09-06-evening.md",
+      "date": "09-06",
+      "slot": "evening",
+      "scripture_ref": "Galatians 5:18"
+    },
+    {
+      "path": "data/readings/2026-09-06-morning.md",
+      "date": "09-06",
+      "slot": "morning",
+      "scripture_ref": "Philippians 2:15"
+    },
+    {
+      "path": "data/readings/2026-09-07-evening.md",
+      "date": "09-07",
+      "slot": "evening",
+      "scripture_ref": "Jeremiah 49:23"
+    },
+    {
+      "path": "data/readings/2026-09-07-morning.md",
+      "date": "09-07",
+      "slot": "morning",
+      "scripture_ref": "Mark 2:4"
+    },
+    {
+      "path": "data/readings/2026-09-08-evening.md",
+      "date": "09-08",
+      "slot": "evening",
+      "scripture_ref": "Ephesians 1:19, 20"
+    },
+    {
+      "path": "data/readings/2026-09-08-morning.md",
+      "date": "09-08",
+      "slot": "morning",
+      "scripture_ref": "Hosea 14:8"
+    },
+    {
+      "path": "data/readings/2026-09-09-evening.md",
+      "date": "09-09",
+      "slot": "evening",
+      "scripture_ref": "Revelation 4:4"
+    },
+    {
+      "path": "data/readings/2026-09-09-morning.md",
+      "date": "09-09",
+      "slot": "morning",
+      "scripture_ref": "Jeremiah 33:3"
+    },
+    {
+      "path": "data/readings/2026-09-10-evening.md",
+      "date": "09-10",
+      "slot": "evening",
+      "scripture_ref": "Habakkuk 1:8"
+    },
+    {
+      "path": "data/readings/2026-09-10-morning.md",
+      "date": "09-10",
+      "slot": "morning",
+      "scripture_ref": "Mark 3:13"
+    },
+    {
+      "path": "data/readings/2026-09-11-evening.md",
+      "date": "09-11",
+      "slot": "evening",
+      "scripture_ref": "Psalm 5:8"
+    },
+    {
+      "path": "data/readings/2026-09-11-morning.md",
+      "date": "09-11",
+      "slot": "morning",
+      "scripture_ref": "2 Corinthians 6:17"
+    },
+    {
+      "path": "data/readings/2026-09-12-evening.md",
+      "date": "09-12",
+      "slot": "evening",
+      "scripture_ref": "Psalm 101:1"
+    },
+    {
+      "path": "data/readings/2026-09-12-morning.md",
+      "date": "09-12",
+      "slot": "morning",
+      "scripture_ref": "Nahum 1:2"
+    },
+    {
+      "path": "data/readings/2026-09-13-evening.md",
+      "date": "09-13",
+      "slot": "evening",
+      "scripture_ref": "Luke 15:2"
+    },
+    {
+      "path": "data/readings/2026-09-13-morning.md",
+      "date": "09-13",
+      "slot": "morning",
+      "scripture_ref": "Psalm 84:6"
+    },
+    {
+      "path": "data/readings/2026-09-14-evening.md",
+      "date": "09-14",
+      "slot": "evening",
+      "scripture_ref": "Psalm 32:5"
+    },
+    {
+      "path": "data/readings/2026-09-14-morning.md",
+      "date": "09-14",
+      "slot": "morning",
+      "scripture_ref": "Mark 4:36"
+    },
+    {
+      "path": "data/readings/2026-09-15-evening.md",
+      "date": "09-15",
+      "slot": "evening",
+      "scripture_ref": "Psalm 148:14"
+    },
+    {
+      "path": "data/readings/2026-09-15-morning.md",
+      "date": "09-15",
+      "slot": "morning",
+      "scripture_ref": "Psalm 112:7"
+    },
+    {
+      "path": "data/readings/2026-09-16-evening.md",
+      "date": "09-16",
+      "slot": "evening",
+      "scripture_ref": "Job 7:12"
+    },
+    {
+      "path": "data/readings/2026-09-16-morning.md",
+      "date": "09-16",
+      "slot": "morning",
+      "scripture_ref": "2 Peter 1:4"
+    },
+    {
+      "path": "data/readings/2026-09-17-evening.md",
+      "date": "09-17",
+      "slot": "evening",
+      "scripture_ref": "Deuteronomy 1:38"
+    },
+    {
+      "path": "data/readings/2026-09-17-morning.md",
+      "date": "09-17",
+      "slot": "morning",
+      "scripture_ref": "Mark 9:19"
+    },
+    {
+      "path": "data/readings/2026-09-18-evening.md",
+      "date": "09-18",
+      "slot": "evening",
+      "scripture_ref": "John 10:27"
+    },
+    {
+      "path": "data/readings/2026-09-18-morning.md",
+      "date": "09-18",
+      "slot": "morning",
+      "scripture_ref": "Galatians 5:25"
+    },
+    {
+      "path": "data/readings/2026-09-19-evening.md",
+      "date": "09-19",
+      "slot": "evening",
+      "scripture_ref": "1 Samuel 1:27"
+    },
+    {
+      "path": "data/readings/2026-09-19-morning.md",
+      "date": "09-19",
+      "slot": "morning",
+      "scripture_ref": "Galatians 5:1"
+    },
+    {
+      "path": "data/readings/2026-09-20-evening.md",
+      "date": "09-20",
+      "slot": "evening",
+      "scripture_ref": "Ecclesiastes 11:6"
+    },
+    {
+      "path": "data/readings/2026-09-20-morning.md",
+      "date": "09-20",
+      "slot": "morning",
+      "scripture_ref": "Judges 7:20"
+    },
+    {
+      "path": "data/readings/2026-09-21-evening.md",
+      "date": "09-21",
+      "slot": "evening",
+      "scripture_ref": "Psalm 26:9"
+    },
+    {
+      "path": "data/readings/2026-09-21-morning.md",
+      "date": "09-21",
+      "slot": "morning",
+      "scripture_ref": "Jeremiah 32:41"
+    },
+    {
+      "path": "data/readings/2026-09-22-evening.md",
+      "date": "09-22",
+      "slot": "evening",
+      "scripture_ref": "Psalm 61:2"
+    },
+    {
+      "path": "data/readings/2026-09-22-morning.md",
+      "date": "09-22",
+      "slot": "morning",
+      "scripture_ref": "Psalm 149:2"
+    },
+    {
+      "path": "data/readings/2026-09-23-evening.md",
+      "date": "09-23",
+      "slot": "evening",
+      "scripture_ref": "Mark 9:23"
+    },
+    {
+      "path": "data/readings/2026-09-23-morning.md",
+      "date": "09-23",
+      "slot": "morning",
+      "scripture_ref": "Ephesians 1:6"
+    },
+    {
+      "path": "data/readings/2026-09-24-evening.md",
+      "date": "09-24",
+      "slot": "evening",
+      "scripture_ref": "Song of Solomon 5:2"
+    },
+    {
+      "path": "data/readings/2026-09-24-morning.md",
+      "date": "09-24",
+      "slot": "morning",
+      "scripture_ref": "Ezra 8:22"
+    },
+    {
+      "path": "data/readings/2026-09-25-evening.md",
+      "date": "09-25",
+      "slot": "evening",
+      "scripture_ref": "1 Corinthians 1:30"
+    },
+    {
+      "path": "data/readings/2026-09-25-morning.md",
+      "date": "09-25",
+      "slot": "morning",
+      "scripture_ref": "Romans 3:26"
+    },
+    {
+      "path": "data/readings/2026-09-26-evening.md",
+      "date": "09-26",
+      "slot": "evening",
+      "scripture_ref": "Zechariah 11:2"
+    },
+    {
+      "path": "data/readings/2026-09-26-morning.md",
+      "date": "09-26",
+      "slot": "morning",
+      "scripture_ref": "Zechariah 1:8"
+    },
+    {
+      "path": "data/readings/2026-09-27-evening.md",
+      "date": "09-27",
+      "slot": "evening",
+      "scripture_ref": "Song of Solomon 5:4"
+    },
+    {
+      "path": "data/readings/2026-09-27-morning.md",
+      "date": "09-27",
+      "slot": "morning",
+      "scripture_ref": "Deuteronomy 33:29"
+    },
+    {
+      "path": "data/readings/2026-09-28-evening.md",
+      "date": "09-28",
+      "slot": "evening",
+      "scripture_ref": "1 Kings 18:43"
+    },
+    {
+      "path": "data/readings/2026-09-28-morning.md",
+      "date": "09-28",
+      "slot": "morning",
+      "scripture_ref": "Psalm 33:13"
+    },
+    {
+      "path": "data/readings/2026-09-29-evening.md",
+      "date": "09-29",
+      "slot": "evening",
+      "scripture_ref": "Song of Solomon 3:4"
+    },
+    {
+      "path": "data/readings/2026-09-29-morning.md",
+      "date": "09-29",
+      "slot": "morning",
+      "scripture_ref": "Leviticus 13:13"
+    },
+    {
+      "path": "data/readings/2026-09-30-evening.md",
+      "date": "09-30",
+      "slot": "evening",
+      "scripture_ref": "Ecclesiastes 9:4"
+    },
+    {
+      "path": "data/readings/2026-09-30-morning.md",
+      "date": "09-30",
+      "slot": "morning",
+      "scripture_ref": "Psalm 66:2"
+    },
+    {
+      "path": "data/readings/2026-10-01-evening.md",
+      "date": "10-01",
+      "slot": "evening",
+      "scripture_ref": "Psalm 84:11"
+    },
+    {
+      "path": "data/readings/2026-10-01-morning.md",
+      "date": "10-01",
+      "slot": "morning",
+      "scripture_ref": "Song of Solomon 7:13"
+    },
+    {
+      "path": "data/readings/2026-10-02-evening.md",
+      "date": "10-02",
+      "slot": "evening",
+      "scripture_ref": "Daniel 10:11"
+    },
+    {
+      "path": "data/readings/2026-10-02-morning.md",
+      "date": "10-02",
+      "slot": "morning",
+      "scripture_ref": "Colossians 1:5"
+    },
+    {
+      "path": "data/readings/2026-10-03-evening.md",
+      "date": "10-03",
+      "slot": "evening",
+      "scripture_ref": "Hebrews 2:18"
+    },
+    {
+      "path": "data/readings/2026-10-03-morning.md",
+      "date": "10-03",
+      "slot": "morning",
+      "scripture_ref": "Hebrews 1:14"
+    },
+    {
+      "path": "data/readings/2026-10-04-evening.md",
+      "date": "10-04",
+      "slot": "evening",
+      "scripture_ref": "1 John 2:1"
+    },
+    {
+      "path": "data/readings/2026-10-04-morning.md",
+      "date": "10-04",
+      "slot": "morning",
+      "scripture_ref": "Zechariah 14:7"
+    },
+    {
+      "path": "data/readings/2026-10-05-evening.md",
+      "date": "10-05",
+      "slot": "evening",
+      "scripture_ref": "Mark 16:16"
+    },
+    {
+      "path": "data/readings/2026-10-05-morning.md",
+      "date": "10-05",
+      "slot": "morning",
+      "scripture_ref": "1 Kings 19:8"
+    },
+    {
+      "path": "data/readings/2026-10-06-evening.md",
+      "date": "10-06",
+      "slot": "evening",
+      "scripture_ref": "Numbers 12:1"
+    },
+    {
+      "path": "data/readings/2026-10-06-morning.md",
+      "date": "10-06",
+      "slot": "morning",
+      "scripture_ref": "John 4:14"
+    },
+    {
+      "path": "data/readings/2026-10-07-evening.md",
+      "date": "10-07",
+      "slot": "evening",
+      "scripture_ref": "Isaiah 36:5"
+    },
+    {
+      "path": "data/readings/2026-10-07-morning.md",
+      "date": "10-07",
+      "slot": "morning",
+      "scripture_ref": "Numbers 11:11"
+    },
+    {
+      "path": "data/readings/2026-10-08-evening.md",
+      "date": "10-08",
+      "slot": "evening",
+      "scripture_ref": "Jude 1:20"
+    },
+    {
+      "path": "data/readings/2026-10-08-morning.md",
+      "date": "10-08",
+      "slot": "morning",
+      "scripture_ref": "Luke 5:4"
+    },
+    {
+      "path": "data/readings/2026-10-09-evening.md",
+      "date": "10-09",
+      "slot": "evening",
+      "scripture_ref": "Matthew 15:23"
+    },
+    {
+      "path": "data/readings/2026-10-09-morning.md",
+      "date": "10-09",
+      "slot": "morning",
+      "scripture_ref": "Jude 1:24"
+    },
+    {
+      "path": "data/readings/2026-10-10-evening.md",
+      "date": "10-10",
+      "slot": "evening",
+      "scripture_ref": "Jeremiah 15:21"
+    },
+    {
+      "path": "data/readings/2026-10-10-morning.md",
+      "date": "10-10",
+      "slot": "morning",
+      "scripture_ref": "Jude 1:24"
+    },
+    {
+      "path": "data/readings/2026-10-11-evening.md",
+      "date": "10-11",
+      "slot": "evening",
+      "scripture_ref": "Romans 8:30"
+    },
+    {
+      "path": "data/readings/2026-10-11-morning.md",
+      "date": "10-11",
+      "slot": "morning",
+      "scripture_ref": "Lamentations 3:41"
+    },
+    {
+      "path": "data/readings/2026-10-12-evening.md",
+      "date": "10-12",
+      "slot": "evening",
+      "scripture_ref": "John 14:26"
+    },
+    {
+      "path": "data/readings/2026-10-12-morning.md",
+      "date": "10-12",
+      "slot": "morning",
+      "scripture_ref": "Psalm 119:15"
+    },
+    {
+      "path": "data/readings/2026-10-13-evening.md",
+      "date": "10-13",
+      "slot": "evening",
+      "scripture_ref": "Song of Solomon 8:6"
+    },
+    {
+      "path": "data/readings/2026-10-13-morning.md",
+      "date": "10-13",
+      "slot": "morning",
+      "scripture_ref": "2 Corinthians 7:10"
+    },
+    {
+      "path": "data/readings/2026-10-14-evening.md",
+      "date": "10-14",
+      "slot": "evening",
+      "scripture_ref": "Romans 12:2"
+    },
+    {
+      "path": "data/readings/2026-10-14-morning.md",
+      "date": "10-14",
+      "slot": "morning",
+      "scripture_ref": "Philippians 3:8"
+    },
+    {
+      "path": "data/readings/2026-10-15-evening.md",
+      "date": "10-15",
+      "slot": "evening",
+      "scripture_ref": "Exodus 34:20"
+    },
+    {
+      "path": "data/readings/2026-10-15-morning.md",
+      "date": "10-15",
+      "slot": "morning",
+      "scripture_ref": "Malachi 3:2"
+    },
+    {
+      "path": "data/readings/2026-10-16-evening.md",
+      "date": "10-16",
+      "slot": "evening",
+      "scripture_ref": "Psalm 36:9"
+    },
+    {
+      "path": "data/readings/2026-10-16-morning.md",
+      "date": "10-16",
+      "slot": "morning",
+      "scripture_ref": "John 21:12"
+    },
+    {
+      "path": "data/readings/2026-10-17-evening.md",
+      "date": "10-17",
+      "slot": "evening",
+      "scripture_ref": "Isaiah 40:11"
+    },
+    {
+      "path": "data/readings/2026-10-17-morning.md",
+      "date": "10-17",
+      "slot": "morning",
+      "scripture_ref": "1 Samuel 27:1"
+    },
+    {
+      "path": "data/readings/2026-10-18-evening.md",
+      "date": "10-18",
+      "slot": "evening",
+      "scripture_ref": "1 Samuel 15:22"
+    },
+    {
+      "path": "data/readings/2026-10-18-morning.md",
+      "date": "10-18",
+      "slot": "morning",
+      "scripture_ref": "Psalm 65:11"
+    },
+    {
+      "path": "data/readings/2026-10-19-evening.md",
+      "date": "10-19",
+      "slot": "evening",
+      "scripture_ref": "Job 35:10"
+    },
+    {
+      "path": "data/readings/2026-10-19-morning.md",
+      "date": "10-19",
+      "slot": "morning",
+      "scripture_ref": "1 Corinthians 3:1"
+    },
+    {
+      "path": "data/readings/2026-10-20-evening.md",
+      "date": "10-20",
+      "slot": "evening",
+      "scripture_ref": "Isaiah 43:6"
+    },
+    {
+      "path": "data/readings/2026-10-20-morning.md",
+      "date": "10-20",
+      "slot": "morning",
+      "scripture_ref": "Ephesians 4:15"
+    },
+    {
+      "path": "data/readings/2026-10-21-evening.md",
+      "date": "10-21",
+      "slot": "evening",
+      "scripture_ref": "Luke 24:38"
+    },
+    {
+      "path": "data/readings/2026-10-21-morning.md",
+      "date": "10-21",
+      "slot": "morning",
+      "scripture_ref": "2 Corinthians 5:14"
+    },
+    {
+      "path": "data/readings/2026-10-22-evening.md",
+      "date": "10-22",
+      "slot": "evening",
+      "scripture_ref": "John 16:15"
+    },
+    {
+      "path": "data/readings/2026-10-22-morning.md",
+      "date": "10-22",
+      "slot": "morning",
+      "scripture_ref": "Hosea 14:4"
+    },
+    {
+      "path": "data/readings/2026-10-23-evening.md",
+      "date": "10-23",
+      "slot": "evening",
+      "scripture_ref": "Luke 22:46"
+    },
+    {
+      "path": "data/readings/2026-10-23-morning.md",
+      "date": "10-23",
+      "slot": "morning",
+      "scripture_ref": "John 6:67"
+    },
+    {
+      "path": "data/readings/2026-10-24-evening.md",
+      "date": "10-24",
+      "slot": "evening",
+      "scripture_ref": "John 13:5"
+    },
+    {
+      "path": "data/readings/2026-10-24-morning.md",
+      "date": "10-24",
+      "slot": "morning",
+      "scripture_ref": "Psalm 104:16"
+    },
+    {
+      "path": "data/readings/2026-10-25-evening.md",
+      "date": "10-25",
+      "slot": "evening",
+      "scripture_ref": "Ruth 2:3"
+    },
+    {
+      "path": "data/readings/2026-10-25-morning.md",
+      "date": "10-25",
+      "slot": "morning",
+      "scripture_ref": "2 John 1:2"
+    },
+    {
+      "path": "data/readings/2026-10-26-evening.md",
+      "date": "10-26",
+      "slot": "evening",
+      "scripture_ref": "Ecclesiastes 1:7"
+    },
+    {
+      "path": "data/readings/2026-10-26-morning.md",
+      "date": "10-26",
+      "slot": "morning",
+      "scripture_ref": "Haggai 1:9"
+    },
+    {
+      "path": "data/readings/2026-10-27-evening.md",
+      "date": "10-27",
+      "slot": "evening",
+      "scripture_ref": "Isaiah 64:6"
+    },
+    {
+      "path": "data/readings/2026-10-27-morning.md",
+      "date": "10-27",
+      "slot": "morning",
+      "scripture_ref": "2 Timothy 2:11"
+    },
+    {
+      "path": "data/readings/2026-10-28-evening.md",
+      "date": "10-28",
+      "slot": "evening",
+      "scripture_ref": "Song of Solomon 5:11"
+    },
+    {
+      "path": "data/readings/2026-10-28-morning.md",
+      "date": "10-28",
+      "slot": "morning",
+      "scripture_ref": "John 15:19"
+    },
+    {
+      "path": "data/readings/2026-10-29-evening.md",
+      "date": "10-29",
+      "slot": "evening",
+      "scripture_ref": "Luke 24:16"
+    },
+    {
+      "path": "data/readings/2026-10-29-morning.md",
+      "date": "10-29",
+      "slot": "morning",
+      "scripture_ref": "Matthew 6:9"
+    },
+    {
+      "path": "data/readings/2026-10-30-evening.md",
+      "date": "10-30",
+      "slot": "evening",
+      "scripture_ref": "Song of Solomon 8:13"
+    },
+    {
+      "path": "data/readings/2026-10-30-morning.md",
+      "date": "10-30",
+      "slot": "morning",
+      "scripture_ref": "Psalm 9:1"
+    },
+    {
+      "path": "data/readings/2026-10-31-evening.md",
+      "date": "10-31",
+      "slot": "evening",
+      "scripture_ref": "Hosea 13:5"
+    },
+    {
+      "path": "data/readings/2026-10-31-morning.md",
+      "date": "10-31",
+      "slot": "morning",
+      "scripture_ref": "Psalm 51:10"
+    },
+    {
+      "path": "data/readings/2026-11-01-evening.md",
+      "date": "11-01",
+      "slot": "evening",
+      "scripture_ref": "Matthew 24:39"
+    },
+    {
+      "path": "data/readings/2026-11-01-morning.md",
+      "date": "11-01",
+      "slot": "morning",
+      "scripture_ref": "Philemon 1:2"
+    },
+    {
+      "path": "data/readings/2026-11-02-evening.md",
+      "date": "11-02",
+      "slot": "evening",
+      "scripture_ref": "Psalm 119:53"
+    },
+    {
+      "path": "data/readings/2026-11-02-morning.md",
+      "date": "11-02",
+      "slot": "morning",
+      "scripture_ref": "Malachi 3:6"
+    },
+    {
+      "path": "data/readings/2026-11-03-evening.md",
+      "date": "11-03",
+      "slot": "evening",
+      "scripture_ref": "2 Chronicles 30:27"
+    },
+    {
+      "path": "data/readings/2026-11-03-morning.md",
+      "date": "11-03",
+      "slot": "morning",
+      "scripture_ref": "Acts 9:11"
+    },
+    {
+      "path": "data/readings/2026-11-04-evening.md",
+      "date": "11-04",
+      "slot": "evening",
+      "scripture_ref": "Psalm 36:9"
+    },
+    {
+      "path": "data/readings/2026-11-04-morning.md",
+      "date": "11-04",
+      "slot": "morning",
+      "scripture_ref": "2 Corinthians 12:9"
+    },
+    {
+      "path": "data/readings/2026-11-05-evening.md",
+      "date": "11-05",
+      "slot": "evening",
+      "scripture_ref": "Psalm 100:4"
+    },
+    {
+      "path": "data/readings/2026-11-05-morning.md",
+      "date": "11-05",
+      "slot": "morning",
+      "scripture_ref": "Isaiah 54:17"
+    },
+    {
+      "path": "data/readings/2026-11-06-evening.md",
+      "date": "11-06",
+      "slot": "evening",
+      "scripture_ref": "Hebrews 9:20"
+    },
+    {
+      "path": "data/readings/2026-11-06-morning.md",
+      "date": "11-06",
+      "slot": "morning",
+      "scripture_ref": "Isaiah 44:3"
+    },
+    {
+      "path": "data/readings/2026-11-07-evening.md",
+      "date": "11-07",
+      "slot": "evening",
+      "scripture_ref": "Acts 1:8"
+    },
+    {
+      "path": "data/readings/2026-11-07-morning.md",
+      "date": "11-07",
+      "slot": "morning",
+      "scripture_ref": "Isaiah 49:16"
+    },
+    {
+      "path": "data/readings/2026-11-08-evening.md",
+      "date": "11-08",
+      "slot": "evening",
+      "scripture_ref": "Mark 14:14"
+    },
+    {
+      "path": "data/readings/2026-11-08-morning.md",
+      "date": "11-08",
+      "slot": "morning",
+      "scripture_ref": "Colossians 2:6"
+    },
+    {
+      "path": "data/readings/2026-11-09-evening.md",
+      "date": "11-09",
+      "slot": "evening",
+      "scripture_ref": "Isaiah 33:16"
+    },
+    {
+      "path": "data/readings/2026-11-09-morning.md",
+      "date": "11-09",
+      "slot": "morning",
+      "scripture_ref": "Colossians 2:6"
+    },
+    {
+      "path": "data/readings/2026-11-10-evening.md",
+      "date": "11-10",
+      "slot": "evening",
+      "scripture_ref": "Matthew 10:25"
+    },
+    {
+      "path": "data/readings/2026-11-10-morning.md",
+      "date": "11-10",
+      "slot": "morning",
+      "scripture_ref": "Deuteronomy 33:27"
+    },
+    {
+      "path": "data/readings/2026-11-11-evening.md",
+      "date": "11-11",
+      "slot": "evening",
+      "scripture_ref": "Psalm 47:4"
+    },
+    {
+      "path": "data/readings/2026-11-11-morning.md",
+      "date": "11-11",
+      "slot": "morning",
+      "scripture_ref": "Deuteronomy 33:27"
+    },
+    {
+      "path": "data/readings/2026-11-12-evening.md",
+      "date": "11-12",
+      "slot": "evening",
+      "scripture_ref": "Luke 6:12"
+    },
+    {
+      "path": "data/readings/2026-11-12-morning.md",
+      "date": "11-12",
+      "slot": "morning",
+      "scripture_ref": "1 Peter 1:7"
+    },
+    {
+      "path": "data/readings/2026-11-13-evening.md",
+      "date": "11-13",
+      "slot": "evening",
+      "scripture_ref": "Luke 18:1"
+    },
+    {
+      "path": "data/readings/2026-11-13-morning.md",
+      "date": "11-13",
+      "slot": "morning",
+      "scripture_ref": "John 15:4"
+    },
+    {
+      "path": "data/readings/2026-11-14-evening.md",
+      "date": "11-14",
+      "slot": "evening",
+      "scripture_ref": "Genesis 29:26"
+    },
+    {
+      "path": "data/readings/2026-11-14-morning.md",
+      "date": "11-14",
+      "slot": "morning",
+      "scripture_ref": "Zephaniah 1:5"
+    },
+    {
+      "path": "data/readings/2026-11-15-evening.md",
+      "date": "11-15",
+      "slot": "evening",
+      "scripture_ref": "Psalm 68:28"
+    },
+    {
+      "path": "data/readings/2026-11-15-morning.md",
+      "date": "11-15",
+      "slot": "morning",
+      "scripture_ref": "Deuteronomy 32:9"
+    },
+    {
+      "path": "data/readings/2026-11-16-evening.md",
+      "date": "11-16",
+      "slot": "evening",
+      "scripture_ref": "Isaiah 33:17"
+    },
+    {
+      "path": "data/readings/2026-11-16-morning.md",
+      "date": "11-16",
+      "slot": "morning",
+      "scripture_ref": "Lamentations 3:24"
+    },
+    {
+      "path": "data/readings/2026-11-17-evening.md",
+      "date": "11-17",
+      "slot": "evening",
+      "scripture_ref": "Ecclesiastes 10:9"
+    },
+    {
+      "path": "data/readings/2026-11-17-morning.md",
+      "date": "11-17",
+      "slot": "morning",
+      "scripture_ref": "Romans 11:36"
+    },
+    {
+      "path": "data/readings/2026-11-18-evening.md",
+      "date": "11-18",
+      "slot": "evening",
+      "scripture_ref": "Psalm 93:2"
+    },
+    {
+      "path": "data/readings/2026-11-18-morning.md",
+      "date": "11-18",
+      "slot": "morning",
+      "scripture_ref": "Song of Solomon 4:12"
+    },
+    {
+      "path": "data/readings/2026-11-19-evening.md",
+      "date": "11-19",
+      "slot": "evening",
+      "scripture_ref": "Job 23:3"
+    },
+    {
+      "path": "data/readings/2026-11-19-morning.md",
+      "date": "11-19",
+      "slot": "morning",
+      "scripture_ref": "Titus 3:9"
+    },
+    {
+      "path": "data/readings/2026-11-20-evening.md",
+      "date": "11-20",
+      "slot": "evening",
+      "scripture_ref": "Proverbs 30:26"
+    },
+    {
+      "path": "data/readings/2026-11-20-morning.md",
+      "date": "11-20",
+      "slot": "morning",
+      "scripture_ref": "Lamentations 3:58"
+    },
+    {
+      "path": "data/readings/2026-11-21-evening.md",
+      "date": "11-21",
+      "slot": "evening",
+      "scripture_ref": "John 12:2"
+    },
+    {
+      "path": "data/readings/2026-11-21-morning.md",
+      "date": "11-21",
+      "slot": "morning",
+      "scripture_ref": "Ephesians 4:30"
+    },
+    {
+      "path": "data/readings/2026-11-22-evening.md",
+      "date": "11-22",
+      "slot": "evening",
+      "scripture_ref": "Philippians 3:10"
+    },
+    {
+      "path": "data/readings/2026-11-22-morning.md",
+      "date": "11-22",
+      "slot": "morning",
+      "scripture_ref": "Hosea 12:12"
+    },
+    {
+      "path": "data/readings/2026-11-23-evening.md",
+      "date": "11-23",
+      "slot": "evening",
+      "scripture_ref": "Isaiah 40:9"
+    },
+    {
+      "path": "data/readings/2026-11-23-morning.md",
+      "date": "11-23",
+      "slot": "morning",
+      "scripture_ref": "1 John 1:6"
+    },
+    {
+      "path": "data/readings/2026-11-24-evening.md",
+      "date": "11-24",
+      "slot": "evening",
+      "scripture_ref": "Proverbs 24:33, 34"
+    },
+    {
+      "path": "data/readings/2026-11-24-morning.md",
+      "date": "11-24",
+      "slot": "morning",
+      "scripture_ref": "Isaiah 33:21"
+    },
+    {
+      "path": "data/readings/2026-11-25-evening.md",
+      "date": "11-25",
+      "slot": "evening",
+      "scripture_ref": "Romans 9:15"
+    },
+    {
+      "path": "data/readings/2026-11-25-morning.md",
+      "date": "11-25",
+      "slot": "morning",
+      "scripture_ref": "Luke 4:18"
+    },
+    {
+      "path": "data/readings/2026-11-26-evening.md",
+      "date": "11-26",
+      "slot": "evening",
+      "scripture_ref": "Zechariah 4:10"
+    },
+    {
+      "path": "data/readings/2026-11-26-morning.md",
+      "date": "11-26",
+      "slot": "morning",
+      "scripture_ref": "Ecclesiastes 9:10"
+    },
+    {
+      "path": "data/readings/2026-11-27-evening.md",
+      "date": "11-27",
+      "slot": "evening",
+      "scripture_ref": "Ephesians 1:7"
+    },
+    {
+      "path": "data/readings/2026-11-27-morning.md",
+      "date": "11-27",
+      "slot": "morning",
+      "scripture_ref": "Zechariah 3:1"
+    },
+    {
+      "path": "data/readings/2026-11-28-evening.md",
+      "date": "11-28",
+      "slot": "evening",
+      "scripture_ref": "Esther 10:3"
+    },
+    {
+      "path": "data/readings/2026-11-28-morning.md",
+      "date": "11-28",
+      "slot": "morning",
+      "scripture_ref": "3 John 1:3"
+    },
+    {
+      "path": "data/readings/2026-11-29-evening.md",
+      "date": "11-29",
+      "slot": "evening",
+      "scripture_ref": "Exodus 35:8"
+    },
+    {
+      "path": "data/readings/2026-11-29-morning.md",
+      "date": "11-29",
+      "slot": "morning",
+      "scripture_ref": "Leviticus 19:16, 17"
+    },
+    {
+      "path": "data/readings/2026-11-30-evening.md",
+      "date": "11-30",
+      "slot": "evening",
+      "scripture_ref": "Revelation 12:7"
+    },
+    {
+      "path": "data/readings/2026-11-30-morning.md",
+      "date": "11-30",
+      "slot": "morning",
+      "scripture_ref": "2 Chronicles 25:9"
+    },
+    {
+      "path": "data/readings/2026-12-01-evening.md",
+      "date": "12-01",
+      "slot": "evening",
+      "scripture_ref": "Psalm 107:8"
+    },
+    {
+      "path": "data/readings/2026-12-01-morning.md",
+      "date": "12-01",
+      "slot": "morning",
+      "scripture_ref": "Psalm 74:17"
+    },
+    {
+      "path": "data/readings/2026-12-02-evening.md",
+      "date": "12-02",
+      "slot": "evening",
+      "scripture_ref": "Ecclesiastes 1:14"
+    },
+    {
+      "path": "data/readings/2026-12-02-morning.md",
+      "date": "12-02",
+      "slot": "morning",
+      "scripture_ref": "Song of Solomon 4:7"
+    },
+    {
+      "path": "data/readings/2026-12-03-evening.md",
+      "date": "12-03",
+      "slot": "evening",
+      "scripture_ref": "Psalm 24:8"
+    },
+    {
+      "path": "data/readings/2026-12-03-morning.md",
+      "date": "12-03",
+      "slot": "morning",
+      "scripture_ref": "Song of Solomon 4:7"
+    },
+    {
+      "path": "data/readings/2026-12-04-evening.md",
+      "date": "12-04",
+      "slot": "evening",
+      "scripture_ref": "Romans 8:23"
+    },
+    {
+      "path": "data/readings/2026-12-04-morning.md",
+      "date": "12-04",
+      "slot": "morning",
+      "scripture_ref": "Acts 18:10"
+    },
+    {
+      "path": "data/readings/2026-12-05-evening.md",
+      "date": "12-05",
+      "slot": "evening",
+      "scripture_ref": "Zechariah 1:20"
+    },
+    {
+      "path": "data/readings/2026-12-05-morning.md",
+      "date": "12-05",
+      "slot": "morning",
+      "scripture_ref": "Matthew 7:7"
+    },
+    {
+      "path": "data/readings/2026-12-06-evening.md",
+      "date": "12-06",
+      "slot": "evening",
+      "scripture_ref": "Revelation 1:13"
+    },
+    {
+      "path": "data/readings/2026-12-06-morning.md",
+      "date": "12-06",
+      "slot": "morning",
+      "scripture_ref": "1 Corinthians 15:48"
+    },
+    {
+      "path": "data/readings/2026-12-07-evening.md",
+      "date": "12-07",
+      "slot": "evening",
+      "scripture_ref": "1 Corinthians 9:22"
+    },
+    {
+      "path": "data/readings/2026-12-07-morning.md",
+      "date": "12-07",
+      "slot": "morning",
+      "scripture_ref": "1 Corinthians 1:28"
+    },
+    {
+      "path": "data/readings/2026-12-08-evening.md",
+      "date": "12-08",
+      "slot": "evening",
+      "scripture_ref": "Psalm 68:10"
+    },
+    {
+      "path": "data/readings/2026-12-08-morning.md",
+      "date": "12-08",
+      "slot": "morning",
+      "scripture_ref": "Revelation 3:4"
+    },
+    {
+      "path": "data/readings/2026-12-09-evening.md",
+      "date": "12-09",
+      "slot": "evening",
+      "scripture_ref": "Isaiah 32:18"
+    },
+    {
+      "path": "data/readings/2026-12-09-morning.md",
+      "date": "12-09",
+      "slot": "morning",
+      "scripture_ref": "Isaiah 30:18"
+    },
+    {
+      "path": "data/readings/2026-12-10-evening.md",
+      "date": "12-10",
+      "slot": "evening",
+      "scripture_ref": "Acts 16:14"
+    },
+    {
+      "path": "data/readings/2026-12-10-morning.md",
+      "date": "12-10",
+      "slot": "morning",
+      "scripture_ref": "1 Thessalonians 4:17"
+    },
+    {
+      "path": "data/readings/2026-12-11-evening.md",
+      "date": "12-11",
+      "slot": "evening",
+      "scripture_ref": "Colossians 3:24"
+    },
+    {
+      "path": "data/readings/2026-12-11-morning.md",
+      "date": "12-11",
+      "slot": "morning",
+      "scripture_ref": "1 Thessalonians 5:24"
+    },
+    {
+      "path": "data/readings/2026-12-12-evening.md",
+      "date": "12-12",
+      "slot": "evening",
+      "scripture_ref": "Hosea 5:7"
+    },
+    {
+      "path": "data/readings/2026-12-12-morning.md",
+      "date": "12-12",
+      "slot": "morning",
+      "scripture_ref": "Habakkuk 3:6"
+    },
+    {
+      "path": "data/readings/2026-12-13-evening.md",
+      "date": "12-13",
+      "slot": "evening",
+      "scripture_ref": "Isaiah 54:12"
+    },
+    {
+      "path": "data/readings/2026-12-13-morning.md",
+      "date": "12-13",
+      "slot": "morning",
+      "scripture_ref": "Ezra 7:22"
+    },
+    {
+      "path": "data/readings/2026-12-14-evening.md",
+      "date": "12-14",
+      "slot": "evening",
+      "scripture_ref": "Galatians 2:20"
+    },
+    {
+      "path": "data/readings/2026-12-14-morning.md",
+      "date": "12-14",
+      "slot": "morning",
+      "scripture_ref": "Psalm 84:7"
+    },
+    {
+      "path": "data/readings/2026-12-15-evening.md",
+      "date": "12-15",
+      "slot": "evening",
+      "scripture_ref": "Isaiah 54:11"
+    },
+    {
+      "path": "data/readings/2026-12-15-morning.md",
+      "date": "12-15",
+      "slot": "morning",
+      "scripture_ref": "Ruth 1:14"
+    },
+    {
+      "path": "data/readings/2026-12-16-evening.md",
+      "date": "12-16",
+      "slot": "evening",
+      "scripture_ref": "Isaiah 48:8"
+    },
+    {
+      "path": "data/readings/2026-12-16-morning.md",
+      "date": "12-16",
+      "slot": "morning",
+      "scripture_ref": "Matthew 11:28"
+    },
+    {
+      "path": "data/readings/2026-12-17-evening.md",
+      "date": "12-17",
+      "slot": "evening",
+      "scripture_ref": "John 10:9"
+    },
+    {
+      "path": "data/readings/2026-12-17-morning.md",
+      "date": "12-17",
+      "slot": "morning",
+      "scripture_ref": "Jeremiah 2:2"
+    },
+    {
+      "path": "data/readings/2026-12-18-evening.md",
+      "date": "12-18",
+      "slot": "evening",
+      "scripture_ref": "Proverbs 27:23"
+    },
+    {
+      "path": "data/readings/2026-12-18-morning.md",
+      "date": "12-18",
+      "slot": "morning",
+      "scripture_ref": "Joel 2:13"
+    },
+    {
+      "path": "data/readings/2026-12-19-evening.md",
+      "date": "12-19",
+      "slot": "evening",
+      "scripture_ref": "Revelation 21:1"
+    },
+    {
+      "path": "data/readings/2026-12-19-morning.md",
+      "date": "12-19",
+      "slot": "morning",
+      "scripture_ref": "Proverbs 16:33"
+    },
+    {
+      "path": "data/readings/2026-12-20-evening.md",
+      "date": "12-20",
+      "slot": "evening",
+      "scripture_ref": "Matthew 20:8"
+    },
+    {
+      "path": "data/readings/2026-12-20-morning.md",
+      "date": "12-20",
+      "slot": "morning",
+      "scripture_ref": "Jeremiah 31:3"
+    },
+    {
+      "path": "data/readings/2026-12-21-evening.md",
+      "date": "12-21",
+      "slot": "evening",
+      "scripture_ref": "Ezekiel 16:10"
+    },
+    {
+      "path": "data/readings/2026-12-21-morning.md",
+      "date": "12-21",
+      "slot": "morning",
+      "scripture_ref": "2 Samuel 23:5"
+    },
+    {
+      "path": "data/readings/2026-12-22-evening.md",
+      "date": "12-22",
+      "slot": "evening",
+      "scripture_ref": "Deuteronomy 32:5"
+    },
+    {
+      "path": "data/readings/2026-12-22-morning.md",
+      "date": "12-22",
+      "slot": "morning",
+      "scripture_ref": "Isaiah 41:10"
+    },
+    {
+      "path": "data/readings/2026-12-23-evening.md",
+      "date": "12-23",
+      "slot": "evening",
+      "scripture_ref": "Psalm 74:16"
+    },
+    {
+      "path": "data/readings/2026-12-23-morning.md",
+      "date": "12-23",
+      "slot": "morning",
+      "scripture_ref": "Luke 14:10"
+    },
+    {
+      "path": "data/readings/2026-12-24-evening.md",
+      "date": "12-24",
+      "slot": "evening",
+      "scripture_ref": "Isaiah 40:5"
+    },
+    {
+      "path": "data/readings/2026-12-24-morning.md",
+      "date": "12-24",
+      "slot": "morning",
+      "scripture_ref": "2 Corinthians 8:9"
+    },
+    {
+      "path": "data/readings/2026-12-25-evening.md",
+      "date": "12-25",
+      "slot": "evening",
+      "scripture_ref": "Job 1:5"
+    },
+    {
+      "path": "data/readings/2026-12-25-morning.md",
+      "date": "12-25",
+      "slot": "morning",
+      "scripture_ref": "Isaiah 7:14"
+    },
+    {
+      "path": "data/readings/2026-12-26-evening.md",
+      "date": "12-26",
+      "slot": "evening",
+      "scripture_ref": "Matthew 28:20"
+    },
+    {
+      "path": "data/readings/2026-12-26-morning.md",
+      "date": "12-26",
+      "slot": "morning",
+      "scripture_ref": "1 Corinthians 15:45"
+    },
+    {
+      "path": "data/readings/2026-12-27-evening.md",
+      "date": "12-27",
+      "slot": "evening",
+      "scripture_ref": "Isaiah 58:11"
+    },
+    {
+      "path": "data/readings/2026-12-27-morning.md",
+      "date": "12-27",
+      "slot": "morning",
+      "scripture_ref": "Job 8:11"
+    },
+    {
+      "path": "data/readings/2026-12-28-evening.md",
+      "date": "12-28",
+      "slot": "evening",
+      "scripture_ref": "Matthew 10:34"
+    },
+    {
+      "path": "data/readings/2026-12-28-morning.md",
+      "date": "12-28",
+      "slot": "morning",
+      "scripture_ref": "Galatians 2:20"
+    },
+    {
+      "path": "data/readings/2026-12-29-evening.md",
+      "date": "12-29",
+      "slot": "evening",
+      "scripture_ref": "Matthew 22:42"
+    },
+    {
+      "path": "data/readings/2026-12-29-morning.md",
+      "date": "12-29",
+      "slot": "morning",
+      "scripture_ref": "1 Samuel 7:12"
+    },
+    {
+      "path": "data/readings/2026-12-30-evening.md",
+      "date": "12-30",
+      "slot": "evening",
+      "scripture_ref": "2 Samuel 2:26"
+    },
+    {
+      "path": "data/readings/2026-12-30-morning.md",
+      "date": "12-30",
+      "slot": "morning",
+      "scripture_ref": "Ecclesiastes 7:8"
+    },
+    {
+      "path": "data/readings/2026-12-31-evening.md",
+      "date": "12-31",
+      "slot": "evening",
+      "scripture_ref": "Jeremiah 8:20"
+    },
+    {
+      "path": "data/readings/2026-12-31-morning.md",
+      "date": "12-31",
+      "slot": "morning",
+      "scripture_ref": "John 7:37"
+    }
+  ]
+}
