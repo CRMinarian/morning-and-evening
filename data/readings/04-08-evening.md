@@ -1,0 +1,19 @@
+---
+date: "04-08"
+slot: evening
+title: "Evening | April 8"
+scripture_ref: "Psalm 23:4"
+scripture_ref_as_printed: "Psalm 23:4"
+scripture_text: "I will fear no evil: for thou art with me."
+source: "https://www.ccel.org/ccel/spurgeon/morneve.d0408pm.html"
+edition: "Morning and Evening: Daily Readings, C. H. Spurgeon. CCEL electronic edition of the public-domain combined text (Morning by Morning, 1865; Evening by Evening, 1868)."
+public_domain: "Charles Haddon Spurgeon (1834-1892). This text is in the public domain in the United States."
+---
+
+# Evening | April 8
+
+**Psalm 23:4**
+
+"I will fear no evil: for thou art with me."
+
+Behold, how independent of outward circumstances the Holy Ghost can make the Christian! What a bright light may shine within us when it is all dark without! How firm, how happy, how calm, how peaceful we may be, when the world shakes to and fro, and the pillars of the earth are removed! Even death itself, with all its terrible influences, has no power to suspend the music of a Christian's heart, but rather makes that music become more sweet, more clear, more heavenly, till the last kind act which death can do is to let the earthly strain melt into the heavenly chorus, the temporal joy into the eternal bliss! Let us have confidence, then, in the blessed Spirit's power to comfort us. Dear reader, are you looking forward to poverty? Fear not; the divine Spirit can give you, in your want, a greater plenty than the rich have in their abundance. You know not what joys may be stored up for you in the cottage around which grace will plant the roses of content. Are you conscious of a growing failure of your bodily powers? Do you expect to suffer long nights of languishing and days of pain? O be not sad! That bed may become a throne to you. You little know how every pang that shoots through your body may be a refining fire to consume your dross--a beam of glory to light up the secret parts of your soul. Are the eyes growing dim? Jesus will be your light. Do the ears fail you? Jesus' name will be your soul's best music, and his person your dear delight. Socrates used to say, "Philosophers can be happy without music;" and Christians can be happier than philosophers when all outward causes of rejoicing are withdrawn. In thee, my God, my heart shall triumph, come what may of ills without! By thy power, O blessed Spirit, my heart shall be exceeding glad, though all things should fail me here below.

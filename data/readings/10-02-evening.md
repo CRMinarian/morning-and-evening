@@ -1,0 +1,19 @@
+---
+date: "10-02"
+slot: evening
+title: "Evening | October 2"
+scripture_ref: "Daniel 10:11"
+scripture_ref_as_printed: "Daniel 10:11"
+scripture_text: "A man greatly beloved."
+source: "https://www.ccel.org/ccel/spurgeon/morneve.d1002pm.html"
+edition: "Morning and Evening: Daily Readings, C. H. Spurgeon. CCEL electronic edition of the public-domain combined text (Morning by Morning, 1865; Evening by Evening, 1868)."
+public_domain: "Charles Haddon Spurgeon (1834-1892). This text is in the public domain in the United States."
+---
+
+# Evening | October 2
+
+**Daniel 10:11**
+
+"A man greatly beloved."
+
+Child of God, do you hesitate to appropriate this title? Ah! has your unbelief made you forget that you are greatly beloved too? Must you not have been greatly beloved, to have been bought with the precious blood of Christ, as of a lamb without blemish and without spot? When God smote his only begotten Son for you, what was this but being greatly beloved? You lived in sin, and rioted in it, must you not have been greatly beloved for God to have borne so patiently with you? You were called by grace and led to a Saviour, and made a child of God and an heir of heaven. All this proves, does it not, a very great and superabounding love? Since that time, whether your path has been rough with troubles, or smooth with mercies, it has been full of proofs that you are a man greatly beloved. If the Lord has chastened you, yet not in anger; if he has made you poor, yet in grace you have been rich. The more unworthy you feel yourself to be, the more evidence have you that nothing but unspeakable love could have led the Lord Jesus to save such a soul as yours. The more demerit you feel, the clearer is the display of the abounding love of God in having chosen you, and called you, and made you an heir of bliss. Now, if there be such love between God and us let us live in the influence and sweetness of it, and use the privilege of our position. Do not let us approach our Lord as though we were strangers, or as though he were unwilling to hear us--for we are greatly beloved by our loving Father. "He that spared not his own Son, but delivered him up for us all, how shall he not with him also freely give us all things?" Come boldly, O believer, for despite the whisperings of Satan and the doubtings of thine own heart, thou art greatly beloved. Meditate on the exceeding greatness and faithfulness of divine love this evening, and so go to thy bed in peace.

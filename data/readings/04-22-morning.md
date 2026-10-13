@@ -1,0 +1,19 @@
+---
+date: "04-22"
+slot: morning
+title: "Morning | April 22"
+scripture_ref: "Acts 5:31"
+scripture_ref_as_printed: "Acts 5:31"
+scripture_text: "Him hath God exalted."
+source: "https://www.ccel.org/ccel/spurgeon/morneve.d0422am.html"
+edition: "Morning and Evening: Daily Readings, C. H. Spurgeon. CCEL electronic edition of the public-domain combined text (Morning by Morning, 1865; Evening by Evening, 1868)."
+public_domain: "Charles Haddon Spurgeon (1834-1892). This text is in the public domain in the United States."
+---
+
+# Morning | April 22
+
+**Acts 5:31**
+
+"Him hath God exalted."
+
+Jesus, our Lord, once crucified, dead and buried, now sits upon the throne of glory. The highest place that heaven affords is his by undisputed right. It is sweet to remember that the exaltation of Christ in heaven is a representative exaltation. He is exalted at the Father's right hand, and though as Jehovah he had eminent glories, in which finite creatures cannot share, yet as the Mediator, the honours which Jesus wears in heaven are the heritage of all the saints. It is delightful to reflect how close is Christ's union with his people. We are actually one with him; we are members of his body; and his exaltation is our exaltation. He will give us to sit upon his throne, even as he has overcome, and is set down with his Father on his throne; he has a crown, and he gives us crowns too; he has a throne, but he is not content with having a throne to himself, on his right hand there must be his queen, arrayed in "gold of Ophir." He cannot be glorified without his bride. Look up, believer, to Jesus now; let the eye of your faith behold him with many crowns upon his head; and remember that you will one day be like him, when you shall see him as he is; you shall not be so great as he is, you shall not be so divine, but still you shall, in a measure, share the same honours, and enjoy the same happiness and the same dignity which he possesses. Be content to live unknown for a little while, and to walk your weary way through the fields of poverty, or up the hills of affliction; for by-and-by you shall reign with Christ, for he has "made us kings and priests unto God, and we shall reign forever and ever." Oh!, wonderful thought for the children of God! We have Christ for our glorious representative in heaven's courts now, and soon he will come and receive us to himself, to be with him there, to behold his glory, and to share his joy.

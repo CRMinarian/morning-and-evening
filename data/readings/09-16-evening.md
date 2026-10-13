@@ -1,0 +1,19 @@
+---
+date: "09-16"
+slot: evening
+title: "Evening | September 16"
+scripture_ref: "Job 7:12"
+scripture_ref_as_printed: "Job 7:12"
+scripture_text: "Am I a sea, or a whale, that thou settest a watch over me?"
+source: "https://www.ccel.org/ccel/spurgeon/morneve.d0916pm.html"
+edition: "Morning and Evening: Daily Readings, C. H. Spurgeon. CCEL electronic edition of the public-domain combined text (Morning by Morning, 1865; Evening by Evening, 1868)."
+public_domain: "Charles Haddon Spurgeon (1834-1892). This text is in the public domain in the United States."
+---
+
+# Evening | September 16
+
+**Job 7:12**
+
+"Am I a sea, or a whale, that thou settest a watch over me?"
+
+This was a strange question for Job to ask of the Lord. He felt himself to be too insignificant to be so strictly watched and chastened, and he hoped that he was not so unruly as to need to be so restrained. The enquiry was natural from one surrounded with such insupportable miseries, but after all, it is capable of a very humbling answer. It is true man is not the sea, but he is even more troublesome and unruly. The sea obediently respects its boundary, and though it be but a belt of sand, it does not overleap the limit. Mighty as it is, it hears the divine hitherto, and when most raging with tempest it respects the word; but self-willed man defies heaven and oppresses earth, neither is there any end to this rebellious rage. The sea, obedient to the moon, ebbs and flows with ceaseless regularity, and thus renders an active as well as a passive obedience; but man, restless beyond his sphere, sleeps within the lines of duty, indolent where he should be active. He will neither come nor go at the divine command, but sullenly prefers to do what he should not, and to leave undone that which is required of him. Every drop in the ocean, every beaded bubble, and every yeasty foam-flake, every shell and pebble, feel the power of law, and yield or move at once. O that our nature were but one thousandth part as much conformed to the will of God! We call the sea fickle and false, but how constant it is! Since our fathers' days, and the old time before them, the sea is where it was, beating on the same cliffs to the same tune; we know where to find it, it forsakes not its bed, and changes not in its ceaseless boom; but where is man-vain, fickle man? Can the wise man guess by what folly he will next be seduced from his obedience? We need more watching than the billowy sea, and are far more rebellious. Lord, rule us for thine own glory. Amen.

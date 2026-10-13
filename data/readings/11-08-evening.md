@@ -1,0 +1,19 @@
+---
+date: "11-08"
+slot: evening
+title: "Evening | November 8"
+scripture_ref: "Mark 14:14"
+scripture_ref_as_printed: "Mark 14:14"
+scripture_text: "The Master saith, Where is the guestchamber, where I shall eat the passover with my disciples?"
+source: "https://www.ccel.org/ccel/spurgeon/morneve.d1108pm.html"
+edition: "Morning and Evening: Daily Readings, C. H. Spurgeon. CCEL electronic edition of the public-domain combined text (Morning by Morning, 1865; Evening by Evening, 1868)."
+public_domain: "Charles Haddon Spurgeon (1834-1892). This text is in the public domain in the United States."
+---
+
+# Evening | November 8
+
+**Mark 14:14**
+
+"The Master saith, Where is the guestchamber, where I shall eat the passover with my disciples?"
+
+Jerusalem at the time of the passover was one great inn; each householder had invited his own friends, but no one had invited the Saviour, and he had no dwelling of his own. It was by his own supernatural power that he found himself an upper room in which to keep the feast. It is so even to this day--Jesus is not received among the sons of men save only where by his supernatural power and grace he makes the heart anew. All doors are open enough to the prince of darkness, but Jesus must clear a way for himself or lodge in the streets. It was through the mysterious power exerted by our Lord that the householder raised no question, but at once cheerfully and joyfully opened his guestchamber. Who he was, and what he was, we do not know, but he readily accepted the honour which the Redeemer proposed to confer upon him. In like manner it is still discovered who are the Lord's chosen, and who are not; for when the gospel comes to some, they fight against it, and will not have it, but where men receive it, welcoming it, this is a sure indication that there is a secret work going on in the soul, and that God has chosen them unto eternal life. Are you willing, dear reader, to receive Christ? then there is no difficulty in the way; Christ will be your guest; his own power is working with you, making you willing. What an honour to entertain the Son of God! The heaven of heavens cannot contain him, and yet he condescends to find a house within our hearts! We are not worthy that he should come under our roof, but what an unutterable privilege when he condescends to enter! for then he makes a feast, and causes us to feast with him upon royal dainties, we sit at a banquet where the viands are immortal, and give immortality to those who feed thereon. Blessed among the sons of Adam is he who entertains the angels' Lord.

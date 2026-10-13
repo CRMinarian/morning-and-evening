@@ -1,0 +1,19 @@
+---
+date: "05-18"
+slot: morning
+title: "Morning | May 18"
+scripture_ref: "Colossians 2:9, 10"
+scripture_ref_as_printed: "Colossians 2:9, 10"
+scripture_text: "In him dwelleth all the fulness of the Godhead bodily. And ye are complete in him."
+source: "https://www.ccel.org/ccel/spurgeon/morneve.d0518am.html"
+edition: "Morning and Evening: Daily Readings, C. H. Spurgeon. CCEL electronic edition of the public-domain combined text (Morning by Morning, 1865; Evening by Evening, 1868)."
+public_domain: "Charles Haddon Spurgeon (1834-1892). This text is in the public domain in the United States."
+---
+
+# Morning | May 18
+
+**Colossians 2:9, 10**
+
+"In him dwelleth all the fulness of the Godhead bodily. And ye are complete in him."
+
+All the attributes of Christ, as God and man, are at our disposal. All the fulness of the Godhead, whatever that marvellous term may comprehend, is ours to make us complete. He cannot endow us with the attributes of Deity; but he has done all that can be done, for he has made even his divine power and Godhead subservient to our salvation. His omnipotence, omniscience, omnipresence, immutability and infallibility, are all combined for our defence. Arise, believer, and behold the Lord Jesus yoking the whole of his divine Godhead to the chariot of salvation! How vast his grace, how firm his faithfulness, how unswerving his immutability, how infinite his power, how limitless his knowledge! All these are by the Lord Jesus made the pillars of the temple of salvation; and all, without diminution of their infinity, are covenanted to us as our perpetual inheritance. The fathomless love of the Saviour's heart is every drop of it ours; every sinew in the arm of might, every jewel in the crown of majesty, the immensity of divine knowledge, and the sternness of divine justice, all are ours, and shall be employed for us. The whole of Christ, in his adorable character as the Son of God, is by himself made over to us most richly to enjoy. His wisdom is our direction, his knowledge our instruction, his power our protection, his justice our surety, his love our comfort, his mercy our solace, and his immutability our trust. He makes no reserve, but opens the recesses of the Mount of God and bids us dig in its mines for the hidden treasures. "All, all, all are yours," saith he, "be ye satisfied with favour and full of the goodness of the Lord." Oh! how sweet thus to behold Jesus, and to call upon him with the certain confidence that in seeking the interposition of his love or power, we are but asking for that which he has already faithfully promised.

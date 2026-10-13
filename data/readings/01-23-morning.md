@@ -1,0 +1,27 @@
+---
+date: "01-23"
+slot: morning
+title: "Morning | January 23"
+scripture_ref: "Psalm 89:19"
+scripture_ref_as_printed: "Psalm 89:19"
+scripture_text: "I have exalted one chosen out of the people."
+source: "https://www.ccel.org/ccel/spurgeon/morneve.d0123am.html"
+edition: "Morning and Evening: Daily Readings, C. H. Spurgeon. CCEL electronic edition of the public-domain combined text (Morning by Morning, 1865; Evening by Evening, 1868)."
+public_domain: "Charles Haddon Spurgeon (1834-1892). This text is in the public domain in the United States."
+---
+
+# Morning | January 23
+
+**Psalm 89:19**
+
+"I have exalted one chosen out of the people."
+
+Why was Christ chosen out of the people? Speak, my heart, for heart-thoughts are best. Was it not that he might be able to be our brother, in the blest tie of kindred blood? Oh, what relationship there is between Christ and the believer! The believer can say, "I have a Brother in heaven; I may be poor, but I have a Brother who is rich, and is a King, and will he suffer me to want while he is on his throne? Oh, no! He loves me; he is my Brother." Believer, wear this blessed thought, like a necklace of diamonds, around the neck of thy memory; put it, as a golden ring, on the finger of recollection, and use it as the King's own seal, stamping the petitions of thy faith with confidence of success. He is a brother born for adversity, treat him as such.
+
+Christ was also chosen out of the people that he might know our wants and sympathize with us. "He was tempted in all points like as we are, yet without sin." In all our sorrows we have his sympathy. Temptation, pain, disappointment, weakness, weariness, poverty--he knows them all, for he has felt all. Remember this, Christian, and let it comfort thee. However difficult and painful thy road, it is marked by the footsteps of thy Saviour; and even when thou reachest the dark valley of the shadow of death, and the deep waters of the swelling Jordan, thou wilt find his footprints there. In all places whithersoever we go, he has been our forerunner; each burden we have to carry, has once been laid on the shoulders of Immanuel.
+
+"His way was much rougher and darker than mine
+
+Did Christ, my Lord, suffer, and shall I repine?"
+
+Take courage! Royal feet have left a blood-red track upon the road, and consecrated the thorny path forever.

@@ -1,0 +1,21 @@
+---
+date: "12-03"
+slot: evening
+title: "Evening | December 3"
+scripture_ref: "Psalm 24:8"
+scripture_ref_as_printed: "Psalm 24:8"
+scripture_text: "The Lord mighty in battle."
+source: "https://www.ccel.org/ccel/spurgeon/morneve.d1203pm.html"
+edition: "Morning and Evening: Daily Readings, C. H. Spurgeon. CCEL electronic edition of the public-domain combined text (Morning by Morning, 1865; Evening by Evening, 1868)."
+public_domain: "Charles Haddon Spurgeon (1834-1892). This text is in the public domain in the United States."
+---
+
+# Evening | December 3
+
+**Psalm 24:8**
+
+"The Lord mighty in battle."
+
+Well may our God be glorious in the eyes of his people, seeing that he has wrought such wonders for them, in them, and by them. For them, the Lord Jesus upon Calvary routed every foe, breaking all the weapons of the enemy in pieces by his finished work of satisfactory obedience; by his triumphant resurrection and ascension he completely overturned the hopes of hell, leading captivity captive, making a show of our enemies openly, triumphing over them by his cross. Every arrow of guilt which Satan might have shot at us is broken, for who can lay anything to the charge of God's elect? Vain are the sharp swords of infernal malice, and the perpetual battles of the serpent's seed, for in the midst of the church the lame take the prey, and the feeblest warriors are crowned.
+
+The saved may well adore their Lord for his conquests in them, since the arrows of their natural hatred are snapped, and the weapons of their rebellion broken. What victories has grace won in our evil hearts! How glorious is Jesus when the will is subdued, and sin dethroned! As for our remaining corruptions, they shall sustain an equally sure defeat, and every temptation, and doubt, and fear, shall be utterly destroyed. In the Salem of our peaceful hearts, the name of Jesus is great beyond compare: he has won our love, and he shall wear it. Even thus securely may we look for victories by us. We are more than conquerors through him that loved us. We shall cast down the powers of darkness which are in the world, by our faith, and zeal, and holiness; we shall win sinners to Jesus, we shall overturn false systems, we shall convert nations, for God is with us, and none shall stand before us. This evening let the Christian warrior chant the war song, and prepare for to-morrow's fight. Greater is he that is in us than he that is in the world.

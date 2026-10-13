@@ -1,0 +1,19 @@
+---
+date: "05-25"
+slot: evening
+title: "Evening | May 25"
+scripture_ref: "Luke 24:33,35"
+scripture_ref_as_printed: "Luke 24:33,35"
+scripture_text: "And they rose up the same hour, and returned to Jerusalem ... and they told what things were done in the way, and how he was known of them."
+source: "https://www.ccel.org/ccel/spurgeon/morneve.d0525pm.html"
+edition: "Morning and Evening: Daily Readings, C. H. Spurgeon. CCEL electronic edition of the public-domain combined text (Morning by Morning, 1865; Evening by Evening, 1868)."
+public_domain: "Charles Haddon Spurgeon (1834-1892). This text is in the public domain in the United States."
+---
+
+# Evening | May 25
+
+**Luke 24:33,35**
+
+"And they rose up the same hour, and returned to Jerusalem ... and they told what things were done in the way, and how he was known of them."
+
+When the two disciples had reached Emmaus, and were refreshing themselves at the evening meal, the mysterious stranger who had so enchanted them upon the road, took bread and brake it, made himself known to them, and then vanished out of their sight. They had constrained him to abide with them, because the day was far spent; but now, although it was much later, their love was a lamp to their feet, yea, wings also; they forgot the darkness, their weariness was all gone, and forthwith they journeyed back the threescore furlongs to tell the gladsome news of a risen Lord, who had appeared to them by the way. They reached the Christians in Jerusalem, and were received by a burst of joyful news before they could tell their own tale. These early Christians were all on fire to speak of Christ's resurrection, and to proclaim what they knew of the Lord; they made common property of their experiences. This evening let their example impress us deeply. We too must bear our witness concerning Jesus. John's account of the sepulchre needed to be supplemented by Peter; and Mary could speak of something further still; combined, we have a full testimony from which nothing can be spared. We have each of us peculiar gifts and special manifestations; but the one object God has in view is the perfecting of the whole body of Christ. We must, therefore, bring our spiritual possessions and lay them at the apostle's feet, and make distribution unto all of what God has given to us. Keep back no part of the precious truth, but speak what you know, and testify what you have seen. Let not the toil or darkness, or possible unbelief of your friends, weigh one moment in the scale. Up, and be marching to the place of duty, and there tell what great things God has shown to your soul.

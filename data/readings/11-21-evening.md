@@ -1,0 +1,21 @@
+---
+date: "11-21"
+slot: evening
+title: "Evening | November 21"
+scripture_ref: "John 12:2"
+scripture_ref_as_printed: "John 12:2"
+scripture_text: "Lazarus was one of them that sat at the table with him."
+source: "https://www.ccel.org/ccel/spurgeon/morneve.d1121pm.html"
+edition: "Morning and Evening: Daily Readings, C. H. Spurgeon. CCEL electronic edition of the public-domain combined text (Morning by Morning, 1865; Evening by Evening, 1868)."
+public_domain: "Charles Haddon Spurgeon (1834-1892). This text is in the public domain in the United States."
+---
+
+# Evening | November 21
+
+**John 12:2**
+
+"Lazarus was one of them that sat at the table with him."
+
+He is to be envied. It was well to be Martha and serve, but better to be Lazarus and commune. There are times for each purpose, and each is comely in its season, but none of the trees of the garden yield such clusters as the vine of fellowship. To sit with Jesus, to hear his words, to mark his acts, and receive his smiles, was such a favour as must have made Lazarus as happy as the angels. When it has been our happy lot to feast with our Beloved in his banqueting-hall, we would not have given half a sigh for all the kingdoms of the world, if so much breath could have bought them.
+
+He is to be imitated. It would have been a strange thing if Lazarus had not been at the table where Jesus was, for he had been dead, and Jesus had raised him. For the risen one to be absent when the Lord who gave him life was at his house, would have been ungrateful indeed. We too were once dead, yea, and like Lazarus stinking in the grave of sin; Jesus raised us, and by his life we live--can we be content to live at a distance from him? Do we omit to remember him at his table, where he deigns to feast with his brethren? Oh, this is cruel! It behoves us to repent, and do as he has bidden us, for his least wish should be law to us. To have lived without constant intercourse with one of whom the Jews said, "Behold how he loved him," would have been disgraceful to Lazarus; is it excusable in us whom Jesus has loved with an everlasting love? To have been cold to him who wept over his lifeless corpse, would have argued great brutishness in Lazarus. What does it argue in us over whom the Saviour has not only wept, but bled? Come, brethren, who read this portion, let us return unto our heavenly Bridegroom, and ask for his Spirit that we may be on terms of closer intimacy with him, and henceforth sit at the table with him.

@@ -1,0 +1,27 @@
+---
+date: "07-30"
+slot: evening
+title: "Evening | July 30"
+scripture_ref: "John 6:37"
+scripture_ref_as_printed: "John 6:37"
+scripture_text: "Him that cometh to me I will in no wise cast out."
+source: "https://www.ccel.org/ccel/spurgeon/morneve.d0730pm.html"
+edition: "Morning and Evening: Daily Readings, C. H. Spurgeon. CCEL electronic edition of the public-domain combined text (Morning by Morning, 1865; Evening by Evening, 1868)."
+public_domain: "Charles Haddon Spurgeon (1834-1892). This text is in the public domain in the United States."
+---
+
+# Evening | July 30
+
+**John 6:37**
+
+"Him that cometh to me I will in no wise cast out."
+
+No limit is set to the duration of this promise. It does not merely say, "I will not cast out a sinner at his first coming," but, "I will in no wise cast out." The original reads, "I will not, not cast out," or "I will never, never cast out." The text means, that Christ will not at first reject a believer; and that as he will not do it at first, so he will not to the last.
+
+But suppose the believer sins after coming? "If any man sin we have an advocate with the Father, Jesus Christ the righteous." But suppose that believers backslide? "I will heal their backsliding, I will love them freely: for mine anger is turned away from him." But believers may fall under temptation! "God is faithful, who will not suffer you to be tempted above that ye are able; but will with the temptation also make a way to escape, that ye may be able to bear it." But the believer may fall into sin as David did! Yes, but he will "Purge them with hyssop, and they shall be clean; he will wash them and they shall be whiter than snow"; "From all their iniquities will I cleanse them."
+
+"Once in Christ, in Christ forever,
+
+Nothing from his love can sever."
+
+"I give unto my sheep," saith he, "eternal life; and they shall never perish, neither shall any man pluck them out of my hand." What sayest thou to this, O trembling feeble mind? Is not this a precious mercy, that coming to Christ, thou dost not come to One who will treat thee well for a little while, and then send thee about thy business, but he will receive thee and make thee his bride, and thou shalt be his forever? Receive no longer the spirit of bondage again to fear, but the spirit of adoption whereby thou shalt cry, Abba, Father! Oh! the grace of these words: "I will in no wise cast out."

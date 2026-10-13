@@ -1,0 +1,27 @@
+---
+date: "08-29"
+slot: morning
+title: "Morning | August 29"
+scripture_ref: "Psalm 51:1"
+scripture_ref_as_printed: "Psalm 51:1"
+scripture_text: "Have mercy upon me, O God."
+source: "https://www.ccel.org/ccel/spurgeon/morneve.d0829am.html"
+edition: "Morning and Evening: Daily Readings, C. H. Spurgeon. CCEL electronic edition of the public-domain combined text (Morning by Morning, 1865; Evening by Evening, 1868)."
+public_domain: "Charles Haddon Spurgeon (1834-1892). This text is in the public domain in the United States."
+---
+
+# Morning | August 29
+
+**Psalm 51:1**
+
+"Have mercy upon me, O God."
+
+When Dr. Carey was suffering from a dangerous illness, the enquiry was made, "If this sickness should prove fatal, what passage would you select as the text for your funeral sermon?" He replied, "Oh, I feel that such a poor sinful creature is unworthy to have anything said about him; but if a funeral sermon must be preached, let it be from the words, Have mercy upon me, O God, according to thy lovingkindness; according unto the multitude of thy tender mercies blot out my transgressions.'" In the same spirit of humility he directed in his will that the following inscription and nothing more should be cut on his gravestone:--
+
+William Carey, Born August 17th, 1761: Died - -
+
+"A wretched, poor, and helpless worm
+
+On thy kind arms I fall."
+
+Only on the footing of free grace can the most experienced and most honoured of the saints approach their God. The best of men are conscious above all others that they are men at the best. Empty boats float high, but heavily laden vessels are low in the water; mere professors can boast, but true children of God cry for mercy upon their unprofitableness. We have need that the Lord should have mercy upon our good works, our prayers, our preachings, our alms-givings, and our holiest things. The blood was not only sprinkled upon the doorposts of Israel's dwelling houses, but upon the sanctuary, the mercy-seat, and the altar, because as sin intrudes into our holiest things, the blood of Jesus is needed to purify them from defilement. If mercy be needed to be exercised towards our duties, what shall be said of our sins? How sweet the remembrance that inexhaustible mercy is waiting to be gracious to us, to restore our backslidings, and make our broken bones rejoice!

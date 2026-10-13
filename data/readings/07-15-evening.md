@@ -1,0 +1,19 @@
+---
+date: "07-15"
+slot: evening
+title: "Evening | July 15"
+scripture_ref: "Mark 16:9"
+scripture_ref_as_printed: "Mark 16:9"
+scripture_text: "He appeared first to Mary Magdalene."
+source: "https://www.ccel.org/ccel/spurgeon/morneve.d0715pm.html"
+edition: "Morning and Evening: Daily Readings, C. H. Spurgeon. CCEL electronic edition of the public-domain combined text (Morning by Morning, 1865; Evening by Evening, 1868)."
+public_domain: "Charles Haddon Spurgeon (1834-1892). This text is in the public domain in the United States."
+---
+
+# Evening | July 15
+
+**Mark 16:9**
+
+"He appeared first to Mary Magdalene."
+
+Jesus "appeared first to Mary Magdalene," probably not only on account of her great love and persevering seeking, but because, as the context intimates,she had been a special trophy of Christ's delivering power. Learn from this, that the greatness of our sin before conversion should not make us imagine that we may not be specially favoured with the very highest grade of fellowship. She was one who had left all to become a constant attendant on the Saviour. He was her first, her chief object. Many who were on Christ's side did not take up Christ's cross; she did. She spent her substance in relieving his wants. If we would see much of Christ, let us serve him. Tell me who they are that sit oftenest under the banner of his love, and drink deepest draughts from the cup of communion, and I am sure they will be those who give most, who serve best, and who abide closest to the bleeding heart of their dear Lord. But notice how Christ revealed himself to this sorrowing one--by a word, "Mary." It needed but one word in his voice, and at once she knew him, and her heart owned allegiance by another word, her heart was too full to say more. That one word would naturally be the most fitting for the occasion. It implies obedience. She said, "Master." There is no state of mind in which this confession of allegiance will be too cold. No, when your spirit glows most with the heavenly fire, then you will say, "I am thy servant, thou hast loosed my bonds." If you can say, "Master," if you feel that his will is your will, then you stand in a happy, holy place. He must have said, "Mary," or else you could not have said, "Rabboni." See, then, from all this, how Christ honours those who honour him, how love draws our Beloved, how it needs but one word of his to turn our weeping to rejoicing, how his presence makes the heart's sunshine.

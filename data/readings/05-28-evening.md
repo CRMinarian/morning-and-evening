@@ -1,0 +1,19 @@
+---
+date: "05-28"
+slot: evening
+title: "Evening | May 28"
+scripture_ref: "Lamentations 3:21"
+scripture_ref_as_printed: "Lamentations 3:21"
+scripture_text: "This I recall to my mind, therefore have I hope."
+source: "https://www.ccel.org/ccel/spurgeon/morneve.d0528pm.html"
+edition: "Morning and Evening: Daily Readings, C. H. Spurgeon. CCEL electronic edition of the public-domain combined text (Morning by Morning, 1865; Evening by Evening, 1868)."
+public_domain: "Charles Haddon Spurgeon (1834-1892). This text is in the public domain in the United States."
+---
+
+# Evening | May 28
+
+**Lamentations 3:21**
+
+"This I recall to my mind, therefore have I hope."
+
+Memory is frequently the bond slave of despondency. Dispairing minds call to remembrance every dark foreboding in the past, and dilate upon every gloomy feature in the present; thus memory, clothed in sackcloth, presents to the mind a cup of mingled gall and wormwood. There is, however, no necessity for this. Wisdom can readily transform memory into an angel of comfort. That same recollection which in its left hand brings so many gloomy omens, may be trained to bear in its right a wealth of hopeful signs. She need not wear a crown of iron, she may encircle her brow with a fillet of gold, all spangled with stars. Thus it was in Jeremiah's experience: in the previous verse memory had brought him to deep humiliation of soul: "My soul hath them still in remembrance, and is humbled in me;" and now this same memory restored him to life and comfort. "This I recall to my mind, therefore have I hope." Like a two-edged sword, his memory first killed his pride with one edge, and then slew his despair with the other. As a general principle, if we would exercise our memories more wisely, we might, in our very darkest distress, strike a match which would instantaneously kindle the lamp of comfort. There is no need for God to create a new thing upon the earth in order to restore believers to joy; if they would prayerfully rake the ashes of the past, they would find light for the present; and if they would turn to the book of truth and the throne of grace, their candle would soon shine as aforetime. Be it ours to remember the lovingkindness of the Lord, and to rehearse his deeds of grace. Let us open the volume of recollection which is so richly illuminated with memorials of mercy, and we shall soon be happy. Thus memory may be, as Coleridge calls it, "the bosom-spring of joy," and when the Divine Comforter bends it to his service, it may be chief among earthly comforters.

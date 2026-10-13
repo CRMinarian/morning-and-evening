@@ -1,0 +1,19 @@
+---
+date: "07-26"
+slot: evening
+title: "Evening | July 26"
+scripture_ref: "Psalm 113:8"
+scripture_ref_as_printed: "Psalm 113:8"
+scripture_text: "That he may set him with princes."
+source: "https://www.ccel.org/ccel/spurgeon/morneve.d0726pm.html"
+edition: "Morning and Evening: Daily Readings, C. H. Spurgeon. CCEL electronic edition of the public-domain combined text (Morning by Morning, 1865; Evening by Evening, 1868)."
+public_domain: "Charles Haddon Spurgeon (1834-1892). This text is in the public domain in the United States."
+---
+
+# Evening | July 26
+
+**Psalm 113:8**
+
+"That he may set him with princes."
+
+Our spiritual privileges are of the highest order. "Among princes" is the place of select society. "Truly our fellowship is with the Father, and with his Son Jesus Christ." Speak of select society, there is none like this! "We are a chosen generation, a peculiar people, a royal priesthood." "We are come unto the general assembly and church of the first-born, whose names are written in heaven." The saints have courtly audience: princes have admittance to royalty when common people must stand afar off. The child of God has free access to the inner courts of heaven. "For through him we both have access by one Spirit unto the Father." "Let us come boldly," says the apostle, "to the throne of the heavenly grace." Among princes there is abundant wealth, but what is the abundance of princes compared with the riches of believers? for "all things are yours, and ye are Christ's, and Christ is God's." "He that spared not his own Son, but delivered him up for us all, how shall he not with him also freely give us all things?" Princes have peculiar power. A prince of heaven's empire has great influence: he wields a sceptre in his own domain; he sits upon Jesus' throne, for "He hath made us kings and priests unto God, and we shall reign forever and ever." We reign over the united kingdom of time and eternity. Princes, again, have special honour. We may look down upon all earth-born dignity from the eminence upon which grace has placed us. For what is human grandeur to this, "He hath raised us up together, and made us sit together in heavenly places in Christ Jesus"? We share the honour of Christ, and compared with this, earthly splendours are not worth a thought. Communion with Jesus is a richer gem than ever glittered in imperial diadem. Union with the Lord is a coronet of beauty outshining all the blaze of imperial pomp.

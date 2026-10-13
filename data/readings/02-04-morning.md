@@ -1,0 +1,19 @@
+---
+date: "02-04"
+slot: morning
+title: "Morning | February 4"
+scripture_ref: "Hosea 3:1"
+scripture_ref_as_printed: "Hosea 3:1"
+scripture_text: "The love of the Lord."
+source: "https://www.ccel.org/ccel/spurgeon/morneve.d0204am.html"
+edition: "Morning and Evening: Daily Readings, C. H. Spurgeon. CCEL electronic edition of the public-domain combined text (Morning by Morning, 1865; Evening by Evening, 1868)."
+public_domain: "Charles Haddon Spurgeon (1834-1892). This text is in the public domain in the United States."
+---
+
+# Morning | February 4
+
+**Hosea 3:1**
+
+"The love of the Lord."
+
+Believer, look back through all thine experience, and think of the way whereby the Lord thy God has led thee in the wilderness, and how he hath fed and clothed thee every day--how he hath borne with thine ill manners--how he hath put up with all thy murmurings, and all thy longings after the flesh-pots of Egypt--how he has opened the rock to supply thee, and fed thee with manna that came down from heaven. Think of how his grace has been sufficient for thee in all thy troubles--how his blood has been a pardon to thee in all thy sins--how his rod and his staff have comforted thee. When thou hast thus looked back upon the love of the Lord, then let faith survey his love in the future, for remember that Christ's covenant and blood have something more in them than the past. He who has loved thee and pardoned thee, shall never cease to love and pardon. He is Alpha, and he shall be Omega also: he is first, and he shall be last. Therefore, bethink thee, when thou shalt pass through the valley of the shadow of death, thou needest fear no evil, for he is with thee. When thou shalt stand in the cold floods of Jordan, thou needest not fear, for death cannot separate thee from his love; and when thou shalt come into the mysteries of eternity thou needest not tremble, "For I am persuaded, that neither death; nor life, nor angels, nor principalities, nor powers, nor things present, nor things to come, nor height, nor depth, nor any other creature, shall be able to separate us from the love of God, which is in Christ Jesus our Lord." Now, soul, is not thy love refreshed? Does not this make thee love Jesus? Doth not a flight through illimitable plains of the ether of love inflame thy heart and compel thee to delight thyself in the Lord thy God? Surely as we meditate on "the love of the Lord," our hearts burn within us, and we long to love him more.

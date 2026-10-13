@@ -1,0 +1,19 @@
+---
+date: "02-14"
+slot: evening
+title: "Evening | February 14"
+scripture_ref: "Luke 8:47"
+scripture_ref_as_printed: "Luke 8:47"
+scripture_text: "She was healed immediately."
+source: "https://www.ccel.org/ccel/spurgeon/morneve.d0214pm.html"
+edition: "Morning and Evening: Daily Readings, C. H. Spurgeon. CCEL electronic edition of the public-domain combined text (Morning by Morning, 1865; Evening by Evening, 1868)."
+public_domain: "Charles Haddon Spurgeon (1834-1892). This text is in the public domain in the United States."
+---
+
+# Evening | February 14
+
+**Luke 8:47**
+
+"She was healed immediately."
+
+One of the most touching and teaching of the Saviour's miracles is before us tonight. The woman was very ignorant. She imagined that virtue came out of Christ by a law of necessity, without his knowledge or direct will. Moreover, she was a stranger to the generosity of Jesus' character, or she would not have gone behind to steal the cure which he was so ready to bestow. Misery should always place itself right in the face of mercy. Had she known the love of Jesus' heart, she would have said, "I have but to put myself where he can see me--his omniscience will teach him my case, and his love at once will work my cure." We admire her faith, but we marvel at her ignorance. After she had obtained the cure, she rejoiced with trembling: glad was she that the divine virtue had wrought a marvel in her; but she feared lest Christ should retract the blessing, and put a negative upon the grant of his grace: little did she comprehend the fulness of his love! We have not so clear a view of him as we could wish; we know not the heights and depths of his love; but we know of a surety that he is too good to withdraw from a trembling soul the gift which it has been able to obtain. But here is the marvel of it: little as was her knowledge, her faith, because it was real faith, saved her, and saved her at once. There was no tedious delay--faith's miracle was instantaneous. If we have faith as a grain of mustard seed, salvation is our present and eternal possession. If in the list of the Lord's children we are written as the feeblest of the family, yet, being heirs through faith, no power, human or devilish, can eject us from salvation. If we dare not lean our heads upon his bosom with John, yet if we can venture in the press behind him, and touch the hem of his garment, we are made whole. Courage, timid one! thy faith hath saved thee; go in peace. "Being justified by faith, we have peace with God."

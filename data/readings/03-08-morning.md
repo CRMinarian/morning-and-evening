@@ -1,0 +1,19 @@
+---
+date: "03-08"
+slot: morning
+title: "Morning | March 8"
+scripture_ref: "Acts 14:22"
+scripture_ref_as_printed: "Acts 14:22"
+scripture_text: "We must through much tribulation enter into the kingdom of God."
+source: "https://www.ccel.org/ccel/spurgeon/morneve.d0308am.html"
+edition: "Morning and Evening: Daily Readings, C. H. Spurgeon. CCEL electronic edition of the public-domain combined text (Morning by Morning, 1865; Evening by Evening, 1868)."
+public_domain: "Charles Haddon Spurgeon (1834-1892). This text is in the public domain in the United States."
+---
+
+# Morning | March 8
+
+**Acts 14:22**
+
+"We must through much tribulation enter into the kingdom of God."
+
+God's people have their trials. It was never designed by God, when he chose his people, that they should be an untried people. They were chosen in the furnace of affliction; they were never chosen to worldly peace and earthly joy. Freedom from sickness and the pains of mortality was never promised them; but when their Lord drew up the charter of privileges, he included chastisements amongst the things to which they should inevitably be heirs. Trials are a part of our lot; they were predestinated for us in Christ's last legacy. So surely as the stars are fashioned by his hands, and their orbits fixed by him, so surely are our trials allotted to us: he has ordained their season and their place, their intensity and the effect they shall have upon us. Good men must never expect to escape troubles; if they do, they will be disappointed, for none of their predecessors have been without them. Mark the patience of Job; remember Abraham, for he had his trials, and by his faith under them, he became the "Father of the faithful." Note well the biographies of all the patriarchs, prophets, apostles, and martyrs, and you shall discover none of those whom God made vessels of mercy, who were not made to pass through the fire of affliction. It is ordained of old that the cross of trouble should be engraved on every vessel of mercy, as the royal mark whereby the King's vessels of honour are distinguished. But although tribulation is thus the path of God's children, they have the comfort of knowing that their Master has traversed it before them; they have his presence and sympathy to cheer them, his grace to support them, and his example to teach them how to endure; and when they reach "the kingdom," it will more than make amends for the "much tribulation" through which they passed to enter it.

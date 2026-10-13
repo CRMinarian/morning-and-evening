@@ -1,0 +1,19 @@
+---
+date: "05-05"
+slot: morning
+title: "Morning | May 5"
+scripture_ref: "2 Corinthians 6:16"
+scripture_ref_as_printed: "2 Corinthians 6:16"
+scripture_text: "I will be their God, and they shall be my people."
+source: "https://www.ccel.org/ccel/spurgeon/morneve.d0505am.html"
+edition: "Morning and Evening: Daily Readings, C. H. Spurgeon. CCEL electronic edition of the public-domain combined text (Morning by Morning, 1865; Evening by Evening, 1868)."
+public_domain: "Charles Haddon Spurgeon (1834-1892). This text is in the public domain in the United States."
+---
+
+# Morning | May 5
+
+**2 Corinthians 6:16**
+
+"I will be their God, and they shall be my people."
+
+What a sweet title: "My people!" What a cheering revelation: "Their God!" How much of meaning is couched in those two words, "My people!" Here is speciality. The whole world is God's; the heaven, even the heaven of heavens is the Lord's, and he reigneth among the children of men; but of those whom he hath chosen, whom he hath purchased to himself, he saith what he saith not of others--"My people." In this word there is the idea of proprietorship. In a special manner the "Lord's portion is his people; Jacob is the lot of his inheritance." All the nations upon earth are his; the whole world is in his power; yet are his people, his chosen, more especially his possession; for he has done more for them than others; he has bought them with his blood; he has brought them nigh to himself; he has set his great heart upon them; he has loved them with an everlasting love, a love which many waters cannot quench, and which the revolutions of time shall never suffice in the least degree to diminish. Dear friends, can you, by faith, see yourselves in that number? Can you look up to heaven and say, "My Lord and my God: mine by that sweet relationship which entitles me to call thee Father; mine by that hallowed fellowship which I delight to hold with thee when thou art pleased to manifest thyself unto me as thou dost not unto the world?" Canst thou read the Book of Inspiration, and find there the indentures of thy salvation? Canst thou read thy title writ in precious blood? Canst thou, by humble faith, lay hold of Jesus' garments, and say, "My Christ"? If thou canst, then God saith of thee, and of others like thee, "My people;" for, if God be your God, and Christ your Christ, the Lord has a special, peculiar favour to you; you are the object of his choice, accepted in his beloved Son.

@@ -1,0 +1,19 @@
+---
+date: "06-26"
+slot: morning
+title: "Morning | June 26"
+scripture_ref: "Isaiah 14:10"
+scripture_ref_as_printed: "Isaiah 14:10"
+scripture_text: "Art thou become like unto us?"
+source: "https://www.ccel.org/ccel/spurgeon/morneve.d0626am.html"
+edition: "Morning and Evening: Daily Readings, C. H. Spurgeon. CCEL electronic edition of the public-domain combined text (Morning by Morning, 1865; Evening by Evening, 1868)."
+public_domain: "Charles Haddon Spurgeon (1834-1892). This text is in the public domain in the United States."
+---
+
+# Morning | June 26
+
+**Isaiah 14:10**
+
+"Art thou become like unto us?"
+
+What must be the apostate professor's doom when his naked soul appears before God? How will he bear that voice, "Depart, ye cursed; thou hast rejected me, and I reject thee; thou hast played the harlot, and departed from me: I also have banished thee forever from my presence, and will not have mercy upon thee." What will be this wretch's shame at the last great day when, before assembled multitudes, the apostate shall be unmasked? See the profane, and sinners who never professed religion, lifting themselves up from their beds of fire to point at him. "There he is," says one, "will he preach the gospel in hell?" "There he is," says another, "he rebuked me for cursing, and was a hypocrite himself!" "Aha!" says another, "here comes a psalm-singing Methodist--one who was always at his meeting; he is the man who boasted of his being sure of everlasting life; and here he is!" No greater eagerness will ever be seen among Satanic tormentors, than in that day when devils drag the hypocrite's soul down to perdition. Bunyan pictures this with massive but awful grandeur of poetry when he speaks of the back-way to hell. Seven devils bound the wretch with nine cords, and dragged him from the road to heaven, in which he had professed to walk, and thrust him through the back-door into hell. Mind that back-way to hell, professors! "Examine yourselves, whether ye be in the faith." Look well to your state; see whether you be in Christ or not. It is the easiest thing in the world to give a lenient verdict when oneself is to be tried; but O, be just and true here. Be just to all, but be rigorous to yourself. Remember if it be not a rock on which you build, when the house shall fall, great will be the fall of it. O may the Lord give you sincerity, constancy, and firmness; and in no day, however evil, may you be led to turn aside.

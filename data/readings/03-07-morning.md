@@ -1,0 +1,19 @@
+---
+date: "03-07"
+slot: morning
+title: "Morning | March 7"
+scripture_ref: "Mark 11:22"
+scripture_ref_as_printed: "Mark 11:22"
+scripture_text: "Have faith in God."
+source: "https://www.ccel.org/ccel/spurgeon/morneve.d0307am.html"
+edition: "Morning and Evening: Daily Readings, C. H. Spurgeon. CCEL electronic edition of the public-domain combined text (Morning by Morning, 1865; Evening by Evening, 1868)."
+public_domain: "Charles Haddon Spurgeon (1834-1892). This text is in the public domain in the United States."
+---
+
+# Morning | March 7
+
+**Mark 11:22**
+
+"Have faith in God."
+
+Faith is the foot of the soul by which it can march along the road of the commandments. Love can make the feet move more swiftly; but faith is the foot which carries the soul. Faith is the oil enabling the wheels of holy devotion and of earnest piety to move well; and without faith the wheels are taken from the chariot, and we drag heavily. With faith I can do all things; without faith I shall neither have the inclination nor the power to do anything in the service of God. If you would find the men who serve God the best, you must look for the men of the most faith. Little faith will save a man, but little faith cannot do great things for God. Poor Little-faith could not have fought "Apollyon;" it needed "Christian" to do that. Poor Little-faith could not have slain "Giant Despair;" it required "Great-heart's" arm to knock that monster down. Little faith will go to heaven most certainly, but it often has to hide itself in a nut-shell, and it frequently loses all but its jewels. Little-faith says, "It is a rough road, beset with sharp thorns, and full of dangers; I am afraid to go;" but Great-faith remembers the promise, "Thy shoes shall be iron and brass; as thy days, so shall thy strength be:" and so she boldly ventures. Little-faith stands desponding, mingling her tears with the flood; but Great-faith sings, "When thou passest through the waters, I will be with thee; and through the rivers, they shall not overflow thee:" and she fords the stream at once. Would you be comfortable and happy? Would you enjoy religion? Would you have the religion of cheerfulness and not that of gloom? Then "have faith in God." If you love darkness, and are satisfied to dwell in gloom and misery, then be content with little faith; but if you love the sunshine, and would sing songs of rejoicing, covet earnestly this best gift, "great faith."

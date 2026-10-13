@@ -1,0 +1,19 @@
+---
+date: "10-26"
+slot: evening
+title: "Evening | October 26"
+scripture_ref: "Ecclesiastes 1:7"
+scripture_ref_as_printed: "Ecclesiastes 1:7"
+scripture_text: "All the rivers run into the sea; yet the sea is not full; unto the place from whence the rivers come, thither they return again."
+source: "https://www.ccel.org/ccel/spurgeon/morneve.d1026pm.html"
+edition: "Morning and Evening: Daily Readings, C. H. Spurgeon. CCEL electronic edition of the public-domain combined text (Morning by Morning, 1865; Evening by Evening, 1868)."
+public_domain: "Charles Haddon Spurgeon (1834-1892). This text is in the public domain in the United States."
+---
+
+# Evening | October 26
+
+**Ecclesiastes 1:7**
+
+"All the rivers run into the sea; yet the sea is not full; unto the place from whence the rivers come, thither they return again."
+
+Everything sublunary is on the move, time knows nothing of rest. The solid earth is a rolling ball, and the great sun himself a star obediently fulfilling its course around some greater luminary. Tides move the sea, winds stir the airy ocean, friction wears the rock: change and death rule everywhere. The sea is not a miser's storehouse for a wealth of waters, for as by one force the waters flow into it, by another they are lifted from it. Men are born but to die: everything is hurry, worry, and vexation of spirit. Friend of the unchanging Jesus, what a joy it is to reflect upon thy changeless heritage; thy sea of bliss which will be forever full, since God himself shall pour eternal rivers of pleasure into it. We seek an abiding city beyond the skies, and we shall not be disappointed. The passage before us may well teach us gratitude. Father Ocean is a great receiver, but he is a generous distributor. What the rivers bring him he returns to the earth in the form of clouds and rain. That man is out of joint with the universe who takes all but makes no return. To give to others is but sowing seed for ourselves. He who is so good a steward as to be willing to use his substance for his Lord, shall be entrusted with more. Friend of Jesus, art thou rendering to him according to the benefit received? Much has been given thee, what is thy fruit? Hast thou done all? Canst thou not do more? To be selfish is to be wicked. Suppose the ocean gave up none of its watery treasure, it would bring ruin upon our race. God forbid that any of us should follow the ungenerous and destructive policy of living unto ourselves. Jesus pleased not himself. All fulness dwells in him, but of his fulness have all we received. O for Jesus' spirit, that henceforth we may live not unto ourselves!

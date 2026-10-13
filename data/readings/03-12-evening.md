@@ -1,0 +1,23 @@
+---
+date: "03-12"
+slot: evening
+title: "Evening | March 12"
+scripture_ref: "1 Samuel 30:13"
+scripture_ref_as_printed: "1 Samuel 30:13"
+scripture_text: "To whom belongest thou?"
+source: "https://www.ccel.org/ccel/spurgeon/morneve.d0312pm.html"
+edition: "Morning and Evening: Daily Readings, C. H. Spurgeon. CCEL electronic edition of the public-domain combined text (Morning by Morning, 1865; Evening by Evening, 1868)."
+public_domain: "Charles Haddon Spurgeon (1834-1892). This text is in the public domain in the United States."
+---
+
+# Evening | March 12
+
+**1 Samuel 30:13**
+
+"To whom belongest thou?"
+
+No neutralities can exist in religion. We are either ranked under the banner of Prince Immanuel, to serve and fight his battles, or we are vassals of the black prince, Satan. "To whom belongest thou?"
+
+Reader, let me assist you in your response. Have you been "born again"? If you have, you belong to Christ, but without the new birth you cannot be his. In whom do you trust? For those who believe in Jesus are the sons of God. Whose work are you doing? You are sure to serve your master, for he whom you serve is thereby owned to be your lord. What company do you keep? If you belong to Jesus, you will fraternize with those who wear the livery of the cross. "Birds of a feather flock together." What is your conversation? Is it heavenly or is it earthly? What have you learned of your Master?--for servants learn much from their masters to whom they are apprenticed. If you have served your time with Jesus, it will be said of you, as it was of Peter and John, "They took knowledge of them, that they had been with Jesus."
+
+We press the question, "To whom belongest thou?" Answer honestly before you give sleep to your eyes. If you are not Christ's you are in a hard service--Run away from your cruel master! Enter into the service of the Lord of Love, and you shall enjoy a life of blessedness. If you are Christ's let me advise you to do four things. You belong to Jesus--obey him; let his word be your law; let his wish be your will. You belong to the Beloved, then love him; let your heart embrace him; let your whole soul be filled with him. You belong to the Son of God, then trust him; rest nowhere but on him. You belong to the King of kings, then be decided for him. Thus, without your being branded upon the brow, all will know to whom you belong.

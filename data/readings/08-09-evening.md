@@ -1,0 +1,19 @@
+---
+date: "08-09"
+slot: evening
+title: "Evening | August 9"
+scripture_ref: "Mark 16:9"
+scripture_ref_as_printed: "Mark 16:9"
+scripture_text: "He appeared first to Mary Magdalene, out of whom he had cast seven devils."
+source: "https://www.ccel.org/ccel/spurgeon/morneve.d0809pm.html"
+edition: "Morning and Evening: Daily Readings, C. H. Spurgeon. CCEL electronic edition of the public-domain combined text (Morning by Morning, 1865; Evening by Evening, 1868)."
+public_domain: "Charles Haddon Spurgeon (1834-1892). This text is in the public domain in the United States."
+---
+
+# Evening | August 9
+
+**Mark 16:9**
+
+"He appeared first to Mary Magdalene, out of whom he had cast seven devils."
+
+Mary of Magdala was the victim of a fearful evil. She was possessed by not one devil only, but seven. These dreadful inmates caused much pain and pollution to the poor frame in which they had found a lodging. Hers was a hopeless, horrible case. She could not help herself, neither could any human succour avail. But Jesus passed that way, and unsought, and probably even resisted by the poor demoniac, he uttered the word of power, and Mary of Magdala became a trophy of the healing power of Jesus. All the seven demons left her, left her never to return, forcibly ejected by the Lord of all. What a blessed deliverance! What a happy change! From delirium to delight, from despair to peace, from hell to heaven! Straightway she became a constant follower of Jesus, catching his every word, following his devious steps, sharing his toilsome life; and withal she became his generous helper, first among that band of healed and grateful women who ministered unto him of their substance. When Jesus was lifted up in crucifixion, Mary remained the sharer of his shame: we find her first beholding from afar, and then drawing near to the foot of the cross. She could not die on the cross with Jesus, but she stood as near it as she could, and when his blessed body was taken down, she watched to see how and where it was laid. She was the faithful and watchful believer, last at the sepulchre where Jesus slept, first at the grave whence he arose. Her holy fidelity made her a favoured beholder of her beloved Rabboni, who deigned to call her by her name, and to make her his messenger of good news to the trembling disciples and Peter. Thus grace found her a maniac and made her a minister, cast out devils and gave her to behold angels, delivered her from Satan, and united her forever to the Lord Jesus. May I also be such a miracle of grace!

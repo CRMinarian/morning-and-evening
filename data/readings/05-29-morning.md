@@ -1,0 +1,19 @@
+---
+date: "05-29"
+slot: morning
+title: "Morning | May 29"
+scripture_ref: "Psalm 45:7"
+scripture_ref_as_printed: "Psalm 45:7"
+scripture_text: "Thou hatest wickedness."
+source: "https://www.ccel.org/ccel/spurgeon/morneve.d0529am.html"
+edition: "Morning and Evening: Daily Readings, C. H. Spurgeon. CCEL electronic edition of the public-domain combined text (Morning by Morning, 1865; Evening by Evening, 1868)."
+public_domain: "Charles Haddon Spurgeon (1834-1892). This text is in the public domain in the United States."
+---
+
+# Morning | May 29
+
+**Psalm 45:7**
+
+"Thou hatest wickedness."
+
+"Be ye angry, and sin not." There can hardly be goodness in a man if he be not angry at sin; he who loves truth must hate every false way. How our Lord Jesus hated it when the temptation came! Thrice it assailed him in different forms, but ever he met it with, "Get thee behind me, Satan." He hated it in others; none the less fervently because he showed his hate oftener in tears of pity than in words of rebuke; yet what language could be more stern, more Elijah-like, than the words, "Woe unto you, scribes and Pharisees, hypocrites! for ye devour widows' houses, and for a pretence make long prayer." He hated wickedness, so much that he bled to wound it to the heart; he died that it might die; he was buried that he might bury it in his tomb; and he rose that he might forever trample it beneath his feet. Christ is in the Gospel, and that Gospel is opposed to wickedness in every shape. Wickedness arrays itself in fair garments, and imitates the language of holiness; but the precepts of Jesus, like his famous scourge of small cords, chase it out of the temple, and will not tolerate it in the Church. So, too, in the heart where Jesus reigns, what war there is between Christ and Belial! And when our Redeemer shall come to be our Judge, those thundering words, "Depart, ye cursed" which are, indeed, but a prolongation of his life-teaching concerning sin, shall manifest his abhorrence of iniquity. As warm as is his love to sinners, so hot is his hatred of sin; as perfect as is his righteousness, so complete shall be the destruction of every form of wickedness. O thou glorious champion of right, and destroyer of wrong, for this cause hath God, even thy God, anointed thee with the oil of gladness above thy fellows.

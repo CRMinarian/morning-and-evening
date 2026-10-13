@@ -1,0 +1,19 @@
+---
+date: "05-20"
+slot: evening
+title: "Evening | May 20"
+scripture_ref: "Hosea 11:4"
+scripture_ref_as_printed: "Hosea 11:4"
+scripture_text: "I drew them with cords of a man, with bands of love."
+source: "https://www.ccel.org/ccel/spurgeon/morneve.d0520pm.html"
+edition: "Morning and Evening: Daily Readings, C. H. Spurgeon. CCEL electronic edition of the public-domain combined text (Morning by Morning, 1865; Evening by Evening, 1868)."
+public_domain: "Charles Haddon Spurgeon (1834-1892). This text is in the public domain in the United States."
+---
+
+# Evening | May 20
+
+**Hosea 11:4**
+
+"I drew them with cords of a man, with bands of love."
+
+Our heavenly Father often draws us with the cords of love; but ah! how backward we are to run towards him! How slowly do we respond to his gentle impulses! He draws us to exercise a more simple faith in him; but we have not yet attained to Abraham's confidence; we do not leave our worldly cares with God, but, like Martha, we cumber ourselves with much serving. Our meagre faith brings leanness into our souls; we do not open our mouths wide, though God has promised to fill them. Does he not this evening draw us to trust him? Can we not hear him say, "Come, my child, and trust me. The veil is rent; enter into my presence, and approach boldly to the throne of my grace. I am worthy of thy fullest confidence, cast thy cares on me. Shake thyself from the dust of thy cares, and put on thy beautiful garments of joy." But, alas! though called with tones of love to the blessed exercise of this comforting grace, we will not come. At another time he draws us to closer communion with himself. We have been sitting on the doorstep of God's house, and he bids us advance into the banqueting hall and sup with him, but we decline the honour. There are secret rooms not yet opened to us; Jesus invites us to enter them, but we hold back. Shame on our cold hearts! We are but poor lovers of our sweet Lord Jesus, not fit to be his servants, much less to be his brides, and yet he hath exalted us to be bone of his bone and flesh of his flesh, married to him by a glorious marriage-covenant. Herein is love! But it is love which takes no denial. If we obey not the gentle drawings of his love, he will send affliction to drive us into closer intimacy with himself. Have us nearer he will. What foolish children we are to refuse those bands of love, and so bring upon our backs that scourge of small cords, which Jesus knows how to use!

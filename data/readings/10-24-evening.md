@@ -1,0 +1,19 @@
+---
+date: "10-24"
+slot: evening
+title: "Evening | October 24"
+scripture_ref: "John 13:5"
+scripture_ref_as_printed: "John 13:5"
+scripture_text: "He began to wash the disciples' feet."
+source: "https://www.ccel.org/ccel/spurgeon/morneve.d1024pm.html"
+edition: "Morning and Evening: Daily Readings, C. H. Spurgeon. CCEL electronic edition of the public-domain combined text (Morning by Morning, 1865; Evening by Evening, 1868)."
+public_domain: "Charles Haddon Spurgeon (1834-1892). This text is in the public domain in the United States."
+---
+
+# Evening | October 24
+
+**John 13:5**
+
+"He began to wash the disciples' feet."
+
+The Lord Jesus loves his people so much, that every day he is still doing for them much that is analogous to washing their soiled feet. Their poorest actions he accepts; their deepest sorrow he feels; their slenderest wish he hears, and their every transgression he forgives. He is still their servant as well as their Friend and Master. He not only performs majestic deeds for them, as wearing the mitre on his brow, and the precious jewels glittering on his breastplate, and standing up to plead for them, but humbly, patiently, he yet goes about among his people with the basin and the towel. He does this when he puts away from us day by day our constant infirmities and sins. Last night, when you bowed the knee, you mournfully confessed that much of your conduct was not worthy of your profession; and even tonight, you must mourn afresh that you have fallen again into the selfsame folly and sin from which special grace delivered you long ago; and yet Jesus will have great patience with you; he will hear your confession of sin; he will say, "I will, be thou clean"; he will again apply the blood of sprinkling, and speak peace to your conscience, and remove every spot. It is a great act of eternal love when Christ once for all absolves the sinner, and puts him into the family of God; but what condescending patience there is when the Saviour with much long-suffering bears the oft recurring follies of his wayward disciple; day by day, and hour by hour, washing away the multiplied transgressions of his erring but yet beloved child! To dry up a flood of rebellion is something marvellous, but to endure the constant dropping of repeated offences--to bear with a perpetual trying of patience, this is divine indeed! While we find comfort and peace in our Lord's daily cleansing, its legitimate influence upon us will be to increase our watchfulness, and quicken our desire for holiness. Is it so?

@@ -1,0 +1,21 @@
+---
+date: "08-04"
+slot: evening
+title: "Evening | August 4"
+scripture_ref: "Haggai 2:17"
+scripture_ref_as_printed: "Haggai 2:17"
+scripture_text: "I smote you with blasting and with mildew and with hail in all the labours of your hands."
+source: "https://www.ccel.org/ccel/spurgeon/morneve.d0804pm.html"
+edition: "Morning and Evening: Daily Readings, C. H. Spurgeon. CCEL electronic edition of the public-domain combined text (Morning by Morning, 1865; Evening by Evening, 1868)."
+public_domain: "Charles Haddon Spurgeon (1834-1892). This text is in the public domain in the United States."
+---
+
+# Evening | August 4
+
+**Haggai 2:17**
+
+"I smote you with blasting and with mildew and with hail in all the labours of your hands."
+
+How destructive is the hail to the standing crops, beating out the precious grain upon the ground! How grateful ought we to be when the corn is spared so terrible a ruin! Let us offer unto the Lord thanksgiving. Even more to be dreaded are those mysterious destroyers--smut, bunt, rust, and mildew. These turn the ear into a mass of soot, or render it putrid, or dry up the grain, and all in a manner so beyond all human control that the farmer is compelled to cry, "This is the finger of God." Innumerable minute fungi cause the mischief, and were it not for the goodness of God, the rider on the black horse would soon scatter famine over the land. Infinite mercy spares the food of men, but in view of the active agents which are ready to destroy the harvest, right wisely are we taught to pray, "Give us this day our daily bread." The curse is abroad; we have constant need of the blessing. When blight and mildew come they are chastisements from heaven, and men must learn to bear the rod, and him that hath appointed it.
+
+Spiritually, mildew is no uncommon evil. When our work is most promising this blight appears. We hoped for many conversions, and lo! a general apathy, an abounding worldliness, or a cruel hardness of heart! There may be no open sin in those for whom we are labouring, but there is a deficiency of sincerity and decision sadly disappointing our desires. We learn from this our dependence upon the Lord, and the need of prayer that no blight may fall upon our work. Spiritual pride or sloth will soon bring upon us the dreadful evil, and only the Lord of the harvest can remove it. Mildew may even attack our own hearts, and shrivel our prayers and religious exercises. May it please the great Husbandman to avert so serious a calamity. Shine, blessed Sun of Righteousness, and drive the blights away.

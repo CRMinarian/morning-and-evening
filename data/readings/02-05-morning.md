@@ -1,0 +1,19 @@
+---
+date: "02-05"
+slot: morning
+title: "Morning | February 5"
+scripture_ref: "1 John 4:14"
+scripture_ref_as_printed: "1 John 4:14"
+scripture_text: "The Father sent the Son to be the Saviour of the world."
+source: "https://www.ccel.org/ccel/spurgeon/morneve.d0205am.html"
+edition: "Morning and Evening: Daily Readings, C. H. Spurgeon. CCEL electronic edition of the public-domain combined text (Morning by Morning, 1865; Evening by Evening, 1868)."
+public_domain: "Charles Haddon Spurgeon (1834-1892). This text is in the public domain in the United States."
+---
+
+# Morning | February 5
+
+**1 John 4:14**
+
+"The Father sent the Son to be the Saviour of the world."
+
+It is a sweet thought that Jesus Christ did not come forth without his Father's permission, authority, consent, and assistance. He was sent of the Father, that he might be the Saviour of men. We are too apt to forget that, while there are distinctions as to the persons in the Trinity, there are no distinctions of honour. We too frequently ascribe the honour of our salvation, or at least the depths of its benevolence, more to Jesus Christ than we do the Father. This is a very great mistake. What if Jesus came? Did not his Father send him? If he spake wondrously, did not his Father pour grace into his lips, that he might be an able minister of the new covenant? He who knoweth the Father, and the Son, and the Holy Ghost as he should know them, never setteth one before another in his love; he sees them at Bethlehem, at Gethsemane, and on Calvary, all equally engaged in the work of salvation. O Christian, hast thou put thy confidence in the Man Christ Jesus? Hast thou placed thy reliance solely on him? And art thou united with him? Then believe that thou art united unto the God of heaven. Since to the Man Christ Jesus thou art brother, and holdest closest fellowship, thou art linked thereby with God the Eternal, and "the Ancient of days" is thy Father and thy friend. Didst thou ever consider the depth of love in the heart of Jehovah, when God the Father equipped his Son for the great enterprise of mercy? If not, be this thy day's meditation. The Father sent him! Contemplate that subject. Think how Jesus works what the Father wills. In the wounds of the dying Saviour see the love of the great I AM. Let every thought of Jesus be also connected with the Eternal, ever-blessed God, for "It pleased the Lord to bruise him; he hath put him to grief."

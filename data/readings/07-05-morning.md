@@ -1,0 +1,19 @@
+---
+date: "07-05"
+slot: morning
+title: "Morning | July 5"
+scripture_ref: "Romans 1:7"
+scripture_ref_as_printed: "Romans 1:7"
+scripture_text: "Called to be saints."
+source: "https://www.ccel.org/ccel/spurgeon/morneve.d0705am.html"
+edition: "Morning and Evening: Daily Readings, C. H. Spurgeon. CCEL electronic edition of the public-domain combined text (Morning by Morning, 1865; Evening by Evening, 1868)."
+public_domain: "Charles Haddon Spurgeon (1834-1892). This text is in the public domain in the United States."
+---
+
+# Morning | July 5
+
+**Romans 1:7**
+
+"Called to be saints."
+
+We are very apt to regard the apostolic saints as if they were "saints" in a more especial manner than the other children of God. All are "saints" whom God has called by His grace, and sanctified by His Spirit; but we are apt to look upon the apostles as extraordinary beings, scarcely subject to the same weaknesses and temptations as ourselves. Yet in so doing we are forgetful of this truth, that the nearer a man lives to God the more intensely has he to mourn over his own evil heart; and the more his Master honours him in his service, the more also doth the evil of the flesh vex and tease him day by day. The fact is, if we had seen the apostle Paul, we should have thought him remarkably like the rest of the chosen family: and if we had talked with him, we should have said, "We find that his experience and ours are much the same. He is more faithful, more holy, and more deeply taught than we are, but he has the selfsame trials to endure. Nay, in some respects he is more sorely tried than ourselves." Do not, then, look upon the ancient saints as being exempt either from infirmities or sins; and do not regard them with that mystic reverence which will almost make us idolaters. Their holiness is attainable even by us. We are "called to be saints" by that same voice which constrained them to their high vocation. It is a Christian's duty to force his way into the inner circle of saintship; and if these saints were superior to us in their attainments, as they certainly were, let us follow them; let us emulate their ardour and holiness. We have the same light that they had, the same grace is accessible to us, and why should we rest satisfied until we have equalled them in heavenly character? They lived with Jesus, they lived for Jesus, therefore they grew like Jesus. Let us live by the same Spirit as they did, "looking unto Jesus," and our saintship will soon be apparent.

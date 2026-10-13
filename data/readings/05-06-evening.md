@@ -1,0 +1,19 @@
+---
+date: "05-06"
+slot: evening
+title: "Evening | May 6"
+scripture_ref: "Job 14:14"
+scripture_ref_as_printed: "Job 14:14"
+scripture_text: "All the days of my appointed time will I wait."
+source: "https://www.ccel.org/ccel/spurgeon/morneve.d0506pm.html"
+edition: "Morning and Evening: Daily Readings, C. H. Spurgeon. CCEL electronic edition of the public-domain combined text (Morning by Morning, 1865; Evening by Evening, 1868)."
+public_domain: "Charles Haddon Spurgeon (1834-1892). This text is in the public domain in the United States."
+---
+
+# Evening | May 6
+
+**Job 14:14**
+
+"All the days of my appointed time will I wait."
+
+A little stay on earth will make heaven more heavenly. Nothing makes rest so sweet as toil; nothing renders security so pleasant as exposure to alarms. The bitter quassia cups of earth will give a relish to the new wine which sparkles in the golden bowls of glory. Our battered armour and scarred countenances will render more illustrious our victory above, when we are welcomed to the seats of those who have overcome the world. We should not have full fellowship with Christ if we did not for awhile sojourn below, for he was baptized with a baptism of suffering among men, and we must be baptized with the same if we would share his kingdom. Fellowship with Christ is so honourable that the sorest sorrow is a light price by which to procure it. Another reason for our lingering here is for the good of others. We would not wish to enter heaven till our work is done, and it may be that we are yet ordained to minister light to souls benighted in the wilderness of sin. Our prolonged stay here is doubtless for God's glory. A tried saint, like a well-cut diamond, glitters much in the King's crown. Nothing reflects so much honour on a workman as a protracted and severe trial of his work, and its triumphant endurance of the ordeal without giving way in any part. We are God's workmanship, in whom he will be glorified by our afflictions. It is for the honour of Jesus that we endure the trial of our faith with sacred joy. Let each man surrender his own longings to the glory of Jesus, and feel, "If my lying in the dust would elevate my Lord by so much as an inch, let me still lie among the pots of earth. If to live on earth forever would make my Lord more glorious, it should be my heaven to be shut out of heaven." Our time is fixed and settled by eternal decree. Let us not be anxious about it, but wait with patience till the gates of pearl shall open.

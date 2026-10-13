@@ -1,0 +1,33 @@
+---
+date: "09-09"
+slot: evening
+title: "Evening | September 9"
+scripture_ref: "Revelation 4:4"
+scripture_ref_as_printed: "Revelation 4:4"
+scripture_text: "And round about the throne were four and twenty seats: and upon the seats I saw four and twenty elders sitting, clothed in white raiment."
+source: "https://www.ccel.org/ccel/spurgeon/morneve.d0909pm.html"
+edition: "Morning and Evening: Daily Readings, C. H. Spurgeon. CCEL electronic edition of the public-domain combined text (Morning by Morning, 1865; Evening by Evening, 1868)."
+public_domain: "Charles Haddon Spurgeon (1834-1892). This text is in the public domain in the United States."
+---
+
+# Evening | September 9
+
+**Revelation 4:4**
+
+"And round about the throne were four and twenty seats: and upon the seats I saw four and twenty elders sitting, clothed in white raiment."
+
+These representatives of the saints in heaven are said to be around the throne. In the passage in Canticles, where Solomon sings of the King sitting at his table, some render it "a round table." From this, some expositors, I think, without straining the text, have said, "There is an equality among the saints." That idea is conveyed by the equal nearness of the four and twenty elders. The condition of glorified spirits in heaven is that of nearness to Christ, clear vision of his glory, constant access to his court, and familiar fellowship with his person: nor is there any difference in this respect between one saint and another, but all the people of God, apostles, martyrs, ministers, or private and obscure Christians, shall all be seated near the throne, where they shall forever gaze upon their exalted Lord, and be satisfied with his love. They shall all be near to Christ, all ravished with his love, all eating and drinking at the same table with him, all equally beloved as his favourites and friends even if not all equally rewarded as servants.
+
+Let believers on earth imitate the saints in heaven in their nearness to Christ. Let us on earth be as the elders are in heaven, sitting around the throne. May Christ be the object of our thoughts, the centre of our lives. How can we endure to live at such a distance from our Beloved? Lord Jesus, draw us nearer to thyself. Say unto us, "Abide in me, and I in you"; and permit us to sing, "His left hand is under my head, and his right hand doth embrace me."
+
+O lift me higher, nearer thee,
+
+And as I rise more pure and meet,
+
+O let my soul's humility
+
+Make me lie lower at thy feet;
+
+Less trusting self, the more I prove
+
+The blessed comfort of thy love.

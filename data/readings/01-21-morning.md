@@ -1,0 +1,35 @@
+---
+date: "01-21"
+slot: morning
+title: "Morning | January 21"
+scripture_ref: "Romans 11:26"
+scripture_ref_as_printed: "Romans 11:26"
+scripture_text: "And so all Israel shall be saved."
+source: "https://www.ccel.org/ccel/spurgeon/morneve.d0121am.html"
+edition: "Morning and Evening: Daily Readings, C. H. Spurgeon. CCEL electronic edition of the public-domain combined text (Morning by Morning, 1865; Evening by Evening, 1868)."
+public_domain: "Charles Haddon Spurgeon (1834-1892). This text is in the public domain in the United States."
+---
+
+# Morning | January 21
+
+**Romans 11:26**
+
+"And so all Israel shall be saved."
+
+When Moses sang at the Red Sea, it was his joy to know that all Israel were safe. Not a drop of spray fell from that solid wall until the last of God's Israel had safely planted his foot on the other side the flood. That done, immediately the floods dissolved into their proper place again, but not till then. Part of that song was, "Thou in thy mercy hast led forth the people which thou hast redeemed." In the last time, when the elect shall sing the song of Moses, the servant of God, and of the Lamb, it shall be the boast of Jesus, "Of all whom thou hast given me, I have lost none." In heaven there shall not be a vacant throne.
+
+"For all the chosen race
+
+Shall meet around the throne,
+
+Shall bless the conduct of his grace,
+
+And make his glories known."
+
+As many as God hath chosen, as many as Christ hath redeemed, as many as the Spirit hath called, as many as believe in Jesus, shall safely cross the dividing sea. We are not all safely landed yet:
+
+"Part of the host have crossed the flood,
+
+And part are crossing now."
+
+The vanguard of the army has already reached the shore. We are marching through the depths; we are at this day following hard after our Leader into the heart of the sea. Let us be of good cheer: the rear-guard shall soon be where the vanguard already is; the last of the chosen ones shall soon have crossed the sea, and then shall be heard the song of triumph, when all are secure. But oh! if one were absent--oh! if one of his chosen family should be cast away--it would make an everlasting discord in the song of the redeemed, and cut the strings of the harps of paradise, so that music could never be extorted from them.

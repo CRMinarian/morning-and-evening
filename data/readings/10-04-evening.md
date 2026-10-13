@@ -1,0 +1,19 @@
+---
+date: "10-04"
+slot: evening
+title: "Evening | October 4"
+scripture_ref: "1 John 2:1"
+scripture_ref_as_printed: "1 John 2:1"
+scripture_text: "If any man sin, we have an advocate with the Father, Jesus Christ the righteous."
+source: "https://www.ccel.org/ccel/spurgeon/morneve.d1004pm.html"
+edition: "Morning and Evening: Daily Readings, C. H. Spurgeon. CCEL electronic edition of the public-domain combined text (Morning by Morning, 1865; Evening by Evening, 1868)."
+public_domain: "Charles Haddon Spurgeon (1834-1892). This text is in the public domain in the United States."
+---
+
+# Evening | October 4
+
+**1 John 2:1**
+
+"If any man sin, we have an advocate with the Father, Jesus Christ the righteous."
+
+"If any man sin, we have an advocate." Yes, though we sin, we have him still. John does not say, "If any man sin he has forfeited his advocate," but "we have an advocate," sinners though we are. All the sin that a believer ever did, or can be allowed to commit, cannot destroy his interest in the Lord Jesus Christ, as his advocate. The name here given to our Lord is suggestive. "Jesus." Ah! then he is an advocate such as we need, for Jesus is the name of one whose business and delight it is to save. "They shall call his name Jesus, for he shall save his people from their sins." His sweetest name implies his success. Next, it is "Jesus Christ"--Christos, the anointed. This shows his authority to plead. The Christ has a right to plead, for he is the Father's own appointed advocate and elected priest. If he were of our choosing he might fail, but if God hath laid help upon one that is mighty, we may safely lay our trouble where God has laid his help. He is Christ, and therefore authorized; he is Christ, and therefore qualified, for the anointing has fully fitted him for his work. He can plead so as to move the heart of God and prevail. What words of tenderness, what sentences of persuasion will the anointed use when he stands up to plead for me! One more letter of his name remains, "Jesus Christ the righteous." This is not only his character but his plea. It is his character, and if the Righteous One be my advocate, then my cause is good, or he would not have espoused it. It is his plea, for he meets the charge of unrighteousness against me by the plea that he is righteous. He declares himself my substitute and puts his obedience to my account. My soul, thou hast a friend well fitted to be thine advocate, he cannot but succeed; leave thyself entirely in his hands.

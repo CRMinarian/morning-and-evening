@@ -1,0 +1,19 @@
+---
+date: "07-19"
+slot: evening
+title: "Evening | July 19"
+scripture_ref: "Matthew 12:20"
+scripture_ref_as_printed: "Matthew 12:20"
+scripture_text: "A bruised reed shall he not break, and smoking flax shall he not quench."
+source: "https://www.ccel.org/ccel/spurgeon/morneve.d0719pm.html"
+edition: "Morning and Evening: Daily Readings, C. H. Spurgeon. CCEL electronic edition of the public-domain combined text (Morning by Morning, 1865; Evening by Evening, 1868)."
+public_domain: "Charles Haddon Spurgeon (1834-1892). This text is in the public domain in the United States."
+---
+
+# Evening | July 19
+
+**Matthew 12:20**
+
+"A bruised reed shall he not break, and smoking flax shall he not quench."
+
+What is weaker than the bruised reed or the smoking flax? A reed that groweth in the fen or marsh, let but the wild duck light upon it, and it snaps; let but the foot of man brush against it, and it is bruised and broken; every wind that flits across the river moves it to and fro. You can conceive of nothing more frail or brittle, or whose existence is more in jeopardy, than a bruised reed. Then look at the smoking flax--what is it? It has a spark within it, it is true, but it is almost smothered; an infant's breath might blow it out; nothing has a more precarious existence than its flame. Weak things are here described, yet Jesus says of them, "The smoking flax I will not quench; the bruised reed I will not break." Some of God's children are made strong to do mighty works for him; God has his Samsons here and there who can pull up Gaza's gates, and carry them to the top of the hill; he has a few mighties who are lion-like men, but the majority of his people are a timid, trembling race. They are like starlings, frightened at every passer by; a little fearful flock. If temptation comes, they are taken like birds in a snare; if trial threatens, they are ready to faint; their frail skiff is tossed up and down by every wave, they are drifted along like a sea bird on the crest of the billows--weak things, without strength, without wisdom, without foresight. Yet, weak as they are, and because they are so weak, they have this promise made specially to them. Herein is grace and graciousness! Herein is love and lovingkindness! How it opens to us the compassion of Jesus--so gentle, tender, considerate! We need never shrink back from his touch. We need never fear a harsh word from him; though he might well chide us for our weakness, he rebuketh not. Bruised reeds shall have no blows from him, and the smoking flax no damping frowns.

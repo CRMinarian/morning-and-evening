@@ -1,0 +1,27 @@
+---
+date: "04-13"
+slot: evening
+title: "Evening | April 13"
+scripture_ref: "Leviticus 1:4"
+scripture_ref_as_printed: "Leviticus 1:4"
+scripture_text: "And he shall put his hand upon the head of the burnt offering; and it shall be accepted for him to make atonement for him."
+source: "https://www.ccel.org/ccel/spurgeon/morneve.d0413pm.html"
+edition: "Morning and Evening: Daily Readings, C. H. Spurgeon. CCEL electronic edition of the public-domain combined text (Morning by Morning, 1865; Evening by Evening, 1868)."
+public_domain: "Charles Haddon Spurgeon (1834-1892). This text is in the public domain in the United States."
+---
+
+# Evening | April 13
+
+**Leviticus 1:4**
+
+"And he shall put his hand upon the head of the burnt offering; and it shall be accepted for him to make atonement for him."
+
+Our Lord's being made "sin for us" is set forth here by the very significant transfer of sin to the bullock, which was made by the elders of the people. The laying of the hand was not a mere touch of contact, for in some other places of Scripture the original word has the meaning of leaning heavily, as in the expression, "thy wrath lieth hard upon me" (Psalm 88:7). Surely this is the very essence and nature of faith, which doth not only bring us into contact with the great Substitute, but teaches us to lean upon him with all the burden of our guilt. Jehovah made to meet upon the head of the Substitute all the offences of his covenant people, but each one of the chosen is brought personally to ratify this solemn covenant act, when by grace he is enabled by faith to lay his hand upon the head of the "Lamb slain from before the foundation of the world." Believer, do you remember that rapturous day when you first realized pardon through Jesus the sin-bearer? Can you not make glad confession, and join with the writer in saying, "My soul recalls her day of deliverance with delight. Laden with guilt and full of fears, I saw my Saviour as my Substitute, and I laid my hand upon him; oh! how timidly at first, but courage grew and confidence was confirmed until I leaned my soul entirely upon him; and now it is my unceasing joy to know that my sins are no longer imputed to me, but laid on him, and like the debts of the wounded traveller, Jesus, like the good Samaritan, has said of all my future sinfulness, Set that to my account.'" Blessed discovery! Eternal solace of a grateful heart!
+
+"My numerous sins transferr'd to him,
+
+Shall never more be found,
+
+Lost in his blood's atoning stream,
+
+Where every crime is drown'd!"

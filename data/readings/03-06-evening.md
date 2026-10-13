@@ -1,0 +1,19 @@
+---
+date: "03-06"
+slot: evening
+title: "Evening | March 6"
+scripture_ref: "Proverbs 18:12"
+scripture_ref_as_printed: "Proverbs 18:12"
+scripture_text: "Before destruction the heart of man is haughty."
+source: "https://www.ccel.org/ccel/spurgeon/morneve.d0306pm.html"
+edition: "Morning and Evening: Daily Readings, C. H. Spurgeon. CCEL electronic edition of the public-domain combined text (Morning by Morning, 1865; Evening by Evening, 1868)."
+public_domain: "Charles Haddon Spurgeon (1834-1892). This text is in the public domain in the United States."
+---
+
+# Evening | March 6
+
+**Proverbs 18:12**
+
+"Before destruction the heart of man is haughty."
+
+It is an old and common saying, that "coming events cast their shadows before them;" the wise man teaches us that a haughty heart is the prophetic prelude of evil. Pride is as safely the sign of destruction as the change of mercury in the weather-glass is the sign of rain; and far more infallibly so than that. When men have ridden the high horse, destruction has always overtaken them. Let David's aching heart show that there is an eclipse of a man's glory when he dotes upon his own greatness. 2 Sam. 24:10. See Nebuchadnezzar, the mighty builder of Babylon, creeping on the earth, devouring grass like oxen, until his nails had grown like bird's claws, and his hair like eagle's feathers. Dan. 4:33. Pride made the boaster a beast, as once before it made an angel a devil. God hates high looks, and never fails to bring them down. All the arrows of God are aimed at proud hearts. O Christian, is thine heart haughty this evening? For pride can get into the Christian's heart as well as into the sinner's; it can delude him into dreaming that he is "rich and increased in goods, and hath need of nothing." Art thou glorying in thy graces or thy talents? Art thou proud of thyself, that thou hast had holy frames and sweet experiences? Mark thee, reader, there is a destruction coming to thee also. Thy flaunting poppies of self-conceit will be pulled up by the roots, thy mushroom graces will wither in the burning heat, and thy self-sufficiency shall become as straw for the dunghill. If we forget to live at the foot of the cross in deepest lowliness of spirit, God will not forget to make us smart under his rod. A destruction will come to thee, O unduly exalted believer, the destruction of thy joys and of thy comforts, though there can be no destruction of thy soul. Wherefore, "He that glorieth, let him glory in the Lord."

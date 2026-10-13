@@ -1,0 +1,21 @@
+---
+date: "09-17"
+slot: morning
+title: "Morning | September 17"
+scripture_ref: "Mark 9:19"
+scripture_ref_as_printed: "Mark 9:19"
+scripture_text: "Bring him unto me."
+source: "https://www.ccel.org/ccel/spurgeon/morneve.d0917am.html"
+edition: "Morning and Evening: Daily Readings, C. H. Spurgeon. CCEL electronic edition of the public-domain combined text (Morning by Morning, 1865; Evening by Evening, 1868)."
+public_domain: "Charles Haddon Spurgeon (1834-1892). This text is in the public domain in the United States."
+---
+
+# Morning | September 17
+
+**Mark 9:19**
+
+"Bring him unto me."
+
+Despairingly the poor disappointed father turned away from the disciples to their Master. His son was in the worst possible condition, and all means had failed, but the miserable child was soon delivered from the evil one when the parent in faith obeyed the Lord Jesus' word, "Bring him unto me." Children are a precious gift from God, but much anxiety comes with them. They may be a great joy or a great bitterness to their parents; they may be filled with the Spirit of God, or possessed with the spirit of evil. In all cases, the Word of God gives us one receipt for the curing of all their ills, "Bring him unto me." O for more agonizing prayer on their behalf while they are yet babes! Sin is there, let our prayers begin to attack it. Our cries for our offspring should precede those cries which betoken their actual advent into a world of sin. In the days of their youth we shall see sad tokens of that dumb and deaf spirit which will neither pray aright, nor hear the voice of God in the soul, but Jesus still commands, "Bring them unto me." When they are grown up they may wallow in sin and foam with enmity against God; then when our hearts are breaking we should remember the great Physician's words, "Bring them unto me." Never must we cease to pray until they cease to breathe. No case is hopeless while Jesus lives.
+
+The Lord sometimes suffers his people to be driven into a corner that they may experimentally know how necessary he is to them. Ungodly children, when they show us our own powerlessness against the depravity of their hearts, drive us to flee to the strong for strength, and this is a great blessing to us. Whatever our morning's need may be, let it like a strong current bear us to the ocean of divine love. Jesus can soon remove our sorrow, he delights to comfort us. Let us hasten to him while he waits to meet us.

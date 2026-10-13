@@ -1,0 +1,21 @@
+---
+date: "07-23"
+slot: morning
+title: "Morning | July 23"
+scripture_ref: "Obadiah 1:11"
+scripture_ref_as_printed: "Obadiah 1:11"
+scripture_text: "Even thou wast as one of them."
+source: "https://www.ccel.org/ccel/spurgeon/morneve.d0723am.html"
+edition: "Morning and Evening: Daily Readings, C. H. Spurgeon. CCEL electronic edition of the public-domain combined text (Morning by Morning, 1865; Evening by Evening, 1868)."
+public_domain: "Charles Haddon Spurgeon (1834-1892). This text is in the public domain in the United States."
+---
+
+# Morning | July 23
+
+**Obadiah 1:11**
+
+"Even thou wast as one of them."
+
+Brotherly kindness was due from Edom to Israel in the time of need, but instead thereof, the men of Esau made common cause with Israel's foes. Special stress in the sentence before us is laid upon the word thou; as when Caesar cried to Brutus, "and thou Brutus"; a bad action may be all the worse, because of the person who has committed it. When we sin, who are the chosen favourites of heaven, we sin with an emphasis; ours is a crying offence, because we are so peculiarly indulged. If an angel should lay his hand upon us when we are doing evil, he need not use any other rebuke than the question, "What thou? What dost thou here?" Much forgiven, much delivered, much instructed, much enriched, much blessed, shall we dare to put forth our hand unto evil? God forbid!
+
+A few minutes of confession may be beneficial to thee, gentle reader, this morning. Hast thou never been as the wicked? At an evening party certain men laughed at uncleanness, and the joke was not altogether offensive to thine ear, even thou wast as one of them. When hard things were spoken concerning the ways of God, thou wast bashfully silent; and so, to on-lookers, thou wast as one of them. When worldlings were bartering in the market, and driving hard bargains, wast thou not as one of them? When they were pursuing vanity with a hunter's foot, wert thou not as greedy for gain as they were? Could any difference be discerned between thee and them? Is there any difference? Here we come to close quarters. Be honest with thine own soul, and make sure that thou art a new creature in Christ Jesus; but when this is sure, walk jealously, lest any should again be able to say, "Even thou wast as one of them." Thou wouldst not desire to share their eternal doom, why then be like them here? Come not thou into their secret, lest thou come into their ruin. Side with the afflicted people of God, and not with the world.

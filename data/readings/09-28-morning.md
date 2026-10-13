@@ -1,0 +1,27 @@
+---
+date: "09-28"
+slot: morning
+title: "Morning | September 28"
+scripture_ref: "Psalm 33:13"
+scripture_ref_as_printed: "Psalm 33:13"
+scripture_text: "The Lord looketh from heaven; he beholdeth all the sons of men."
+source: "https://www.ccel.org/ccel/spurgeon/morneve.d0928am.html"
+edition: "Morning and Evening: Daily Readings, C. H. Spurgeon. CCEL electronic edition of the public-domain combined text (Morning by Morning, 1865; Evening by Evening, 1868)."
+public_domain: "Charles Haddon Spurgeon (1834-1892). This text is in the public domain in the United States."
+---
+
+# Morning | September 28
+
+**Psalm 33:13**
+
+"The Lord looketh from heaven; he beholdeth all the sons of men."
+
+Perhaps no figure of speech represents God in a more gracious light than when he is spoken of as stooping from his throne, and coming down from heaven to attend to the wants and to behold the woes of mankind. We love him, who, when Sodom and Gomorrah were full of iniquity, would not destroy those cities until he had made a personal visitation of them. We cannot help pouring out our heart in affection for our Lord who inclines his ear from the highest glory, and puts it to the lip of the dying sinner, whose failing heart longs after reconciliation. How can we but love him when we know that he numbers the very hairs of our heads, marks our path, and orders our ways? Specially is this great truth brought near to our heart, when we recollect how attentive he is, not merely to the temporal interests of his creatures, but to their spiritual concerns. Though leagues of distance lie between the finite creature and the infinite Creator, yet there are links uniting both. When a tear is wept by thee, think not that God doth not behold; for, "Like as a father pitieth his children, so the Lord pitieth them that fear him." Thy sigh is able to move the heart of Jehovah; thy whisper can incline his ear unto thee; thy prayer can stay his hand; thy faith can move his arm. Think not that God sits on high taking no account of thee. Remember that however poor and needy thou art, yet the Lord thinketh upon thee. For the eyes of the Lord run to and fro throughout the whole earth, to show himself strong in the behalf of them whose heart is perfect towards him.
+
+Oh! then repeat the truth that never tires;
+
+No God is like the God my soul desires;
+
+He at whose voice heaven trembles, even he,
+
+Great as he is, knows how to stoop to me.

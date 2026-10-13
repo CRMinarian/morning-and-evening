@@ -1,0 +1,27 @@
+---
+date: "07-12"
+slot: morning
+title: "Morning | July 12"
+scripture_ref: "Jude 1:1"
+scripture_ref_as_printed: "Jude 1"
+scripture_text: "Sanctified by God the Father."
+source: "https://www.ccel.org/ccel/spurgeon/morneve.d0712am.html"
+edition: "Morning and Evening: Daily Readings, C. H. Spurgeon. CCEL electronic edition of the public-domain combined text (Morning by Morning, 1865; Evening by Evening, 1868)."
+public_domain: "Charles Haddon Spurgeon (1834-1892). This text is in the public domain in the United States."
+---
+
+# Morning | July 12
+
+**Jude 1:1**
+
+"Sanctified by God the Father."
+
+"Sanctified in Christ Jesus."
+
+1 Corinthians 1:2
+
+"Through sanctification of the Spirit."
+
+1 Peter 1:2
+
+Mark the union of the Three Divine Persons in all their gracious acts. How unwisely do those believers talk who make preferences in the Persons of the Trinity; who think of Jesus as if he were the embodiment of everything lovely and gracious, while the Father they regard as severely just, but destitute of kindness. Equally wrong are those who magnify the decree of the Father, and the atonement of the Son, so as to depreciate the work of the Spirit. In deeds of grace none of the Persons of the Trinity act apart from the rest. They are as united in their deeds as in their essence. In their love towards the chosen they are one, and in the actions which flow from that great central source they are still undivided. Specially notice this in the matter of sanctification. While we may without mistake speak of sanctification as the work of the Spirit, yet we must take heed that we do not view it as if the Father and the Son had no part therein. It is correct to speak of sanctification as the work of the Father, of the Son, and of the Spirit. Still doth Jehovah say, "Let us make man in our own image after our likeness," and thus we are "his workmanship, created in Christ Jesus unto good works, which God hath before ordained that we should walk in them." See the value which God sets upon real holiness, since the Three Persons in the Trinity are represented as co-working to produce a Church without "spot, or wrinkle, or any such thing." And you, believer, as the follower of Christ, must also set a high value on holiness--upon purity of life and godliness of conversation. Value the blood of Christ as the foundation of your hope, but never speak disparagingly of the work of the Spirit which is your meetness for the inheritance of the saints in light. This day let us so live as to manifest the work of the Triune God in us.

@@ -1,0 +1,19 @@
+---
+date: "11-06"
+slot: morning
+title: "Morning | November 6"
+scripture_ref: "Isaiah 44:3"
+scripture_ref_as_printed: "Isaiah 44:3"
+scripture_text: "I will pour water upon him that is thirsty."
+source: "https://www.ccel.org/ccel/spurgeon/morneve.d1106am.html"
+edition: "Morning and Evening: Daily Readings, C. H. Spurgeon. CCEL electronic edition of the public-domain combined text (Morning by Morning, 1865; Evening by Evening, 1868)."
+public_domain: "Charles Haddon Spurgeon (1834-1892). This text is in the public domain in the United States."
+---
+
+# Morning | November 6
+
+**Isaiah 44:3**
+
+"I will pour water upon him that is thirsty."
+
+When a believer has fallen into a low, sad state of feeling, he often tries to lift himself out of it by chastening himself with dark and doleful fears. Such is not the way to rise from the dust, but to continue in it. As well chain the eagle's wing to make it mount, as doubt in order to increase our grace. It is not the law, but the gospel which saves the seeking soul at first; and it is not a legal bondage, but gospel liberty which can restore the fainting believer afterwards. Slavish fear brings not back the backslider to God, but the sweet wooings of love allure him to Jesus' bosom. Are you this morning thirsting for the living God, and unhappy because you cannot find him to the delight of your heart? Have you lost the joy of religion, and is this your prayer, "Restore unto me the joy of thy salvation"? Are you conscious also that you are barren, like the dry ground; that you are not bringing forth the fruit unto God which he has a right to expect of you; that you are not so useful in the Church, or in the world, as your heart desires to be? Then here is exactly the promise which you need, "I will pour water upon him that is thirsty." You shall receive the grace you so much require, and you shall have it to the utmost reach of your needs. Water refreshes the thirsty: you shall be refreshed; your desires shall be gratified. Water quickens sleeping vegetable life: your life shall be quickened by fresh grace. Water swells the buds and makes the fruits ripen; you shall have fructifying grace: you shall be made fruitful in the ways of God. Whatever good quality there is in divine grace, you shall enjoy it to the full. All the riches of divine grace you shall receive in plenty; you shall be as it were drenched with it: and as sometimes the meadows become flooded by the bursting rivers, and the fields are turned into pools, so shall you be--the thirsty land shall be springs of water.

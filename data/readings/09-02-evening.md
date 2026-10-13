@@ -1,0 +1,19 @@
+---
+date: "09-02"
+slot: evening
+title: "Evening | September 2"
+scripture_ref: "John 4:48"
+scripture_ref_as_printed: "John 4:48"
+scripture_text: "Except ye see signs and wonders, ye will not believe."
+source: "https://www.ccel.org/ccel/spurgeon/morneve.d0902pm.html"
+edition: "Morning and Evening: Daily Readings, C. H. Spurgeon. CCEL electronic edition of the public-domain combined text (Morning by Morning, 1865; Evening by Evening, 1868)."
+public_domain: "Charles Haddon Spurgeon (1834-1892). This text is in the public domain in the United States."
+---
+
+# Evening | September 2
+
+**John 4:48**
+
+"Except ye see signs and wonders, ye will not believe."
+
+A craving after marvels was a symptom of the sickly state of men's minds in our Lord's day; they refused solid nourishment, and pined after mere wonder. The gospel which they so greatly needed they would not have; the miracles which Jesus did not always choose to give they eagerly demanded. Many nowadays must see signs and wonders, or they will not believe. Some have said in their heart, "I must feel deep horror of soul, or I never will believe in Jesus." But what if you never should feel it, as probably you never may? Will you go to hell out of spite against God, because he will not treat you like another? One has said to himself, "If I had a dream, or if I could feel a sudden shock of I know not what, then I would believe." Thus you undeserving mortals dream that my Lord is to be dictated to by you! You are beggars at his gate, asking for mercy, and you must needs draw up rules and regulations as to how he shall give that mercy. Think you that he will submit to this? My Master is of a generous spirit, but he has a right royal heart, he spurns all dictation, and maintains his sovereignty of action. Why, dear reader, if such be your case, do you crave for signs and wonders? Is not the gospel its own sign and wonder? Is not this a miracle of miracles, that "God so loved the world that he gave his only begotten Son, that whosoever believeth in him might not perish"? Surely that precious word, "Whosoever will, let him come and take the water of life freely" and that solemn promise, "Him that cometh unto me, I will in no wise cast out," are better than signs and wonders! A truthful Saviour ought to be believed. He is truth itself. Why will you ask proof of the veracity of One who cannot lie? The devils themselves declared him to be the Son of God; will you mistrust him?

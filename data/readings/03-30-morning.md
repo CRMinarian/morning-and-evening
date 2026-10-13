@@ -1,0 +1,19 @@
+---
+date: "03-30"
+slot: morning
+title: "Morning | March 30"
+scripture_ref: "Isaiah 53:12"
+scripture_ref_as_printed: "Isaiah 53:12"
+scripture_text: "He was numbered with the transgressors."
+source: "https://www.ccel.org/ccel/spurgeon/morneve.d0330am.html"
+edition: "Morning and Evening: Daily Readings, C. H. Spurgeon. CCEL electronic edition of the public-domain combined text (Morning by Morning, 1865; Evening by Evening, 1868)."
+public_domain: "Charles Haddon Spurgeon (1834-1892). This text is in the public domain in the United States."
+---
+
+# Morning | March 30
+
+**Isaiah 53:12**
+
+"He was numbered with the transgressors."
+
+Why did Jesus suffer himself to be enrolled amongst sinners? This wonderful condescension was justified by many powerful reasons. In such a character he could the better become their advocate. In some trials there is an identification of the counsellor with the client, nor can they be looked upon in the eye of the law as apart from one another. Now, when the sinner is brought to the bar, Jesus appears there himself. He stands to answer the accusation. He points to his side, his hands, his feet, and challenges Justice to bring anything against the sinners whom he represents; he pleads his blood, and pleads so triumphantly, being numbered with them and having a part with them, that the Judge proclaims, "Let them go their way; deliver them from going down into the pit, for he hath found a ransom." Our Lord Jesus was numbered with the transgressors in order that they might feel their hearts drawn towards him. Who can be afraid of one who is written in the same list with us? Surely we may come boldly to him, and confess our guilt. He who is numbered with us cannot condemn us. Was he not put down in the transgressor's list that we might be written in the red roll of the saints? He was holy, and written among the holy; we were guilty, and numbered among the guilty; he transfers his name from yonder list to this black indictment, and our names are taken from the indictment and written in the roll of acceptance, for there is a complete transfer made between Jesus and his people. All our estate of misery and sin Jesus has taken; and all that Jesus has comes to us. His righteousness, his blood, and everything that he hath he gives us as our dowry. Rejoice, believer, in your union to him who was numbered among the transgressors; and prove that you are truly saved by being manifestly numbered with those who are new creatures in him.

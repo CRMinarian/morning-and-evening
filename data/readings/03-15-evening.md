@@ -1,0 +1,19 @@
+---
+date: "03-15"
+slot: evening
+title: "Evening | March 15"
+scripture_ref: "2 Chronicles 31:21"
+scripture_ref_as_printed: "2 Chronicles 31:21"
+scripture_text: "He did it with all his heart and prospered."
+source: "https://www.ccel.org/ccel/spurgeon/morneve.d0315pm.html"
+edition: "Morning and Evening: Daily Readings, C. H. Spurgeon. CCEL electronic edition of the public-domain combined text (Morning by Morning, 1865; Evening by Evening, 1868)."
+public_domain: "Charles Haddon Spurgeon (1834-1892). This text is in the public domain in the United States."
+---
+
+# Evening | March 15
+
+**2 Chronicles 31:21**
+
+"He did it with all his heart and prospered."
+
+This is no unusual occurrence; it is the general rule of the moral universe that those men prosper who do their work with all their hearts, while those are almost certain to fail who go to their labour leaving half their hearts behind them. God does not give harvests to idle men except harvests of thistles, nor is he pleased to send wealth to those who will not dig in the field to find its hid treasure. It is universally confessed that if a man would prosper, he must be diligent in business. It is the same in religion as it is in other things. If you would prosper in your work for Jesus, let it be heart work, and let it be done with all your heart. Put as much force, energy, heartiness, and earnestness into religion as ever you do into business, for it deserves far more. The Holy Spirit helps our infirmities, but he does not encourage our idleness; he loves active believers. Who are the most useful men in the Christian church? The men who do what they undertake for God with all their hearts. Who are the most successful Sabbath-school teachers? The most talented? No; the most zealous; the men whose hearts are on fire, those are the men who see their Lord riding forth prosperously in the majesty of his salvation. Whole-heartedness shows itself in perseverance; there may be failure at first, but the earnest worker will say, "It is the Lord's work, and it must be done; my Lord has bidden me do it, and in his strength I will accomplish it." Christian, art thou thus "with all thine heart" serving thy Master? Remember the earnestness of Jesus! Think what heart-work was his! He could say, "The zeal of thine house hath eaten me up." When he sweat great drops of blood, it was no light burden he had to carry upon those blessed shoulders; and when he poured out his heart, it was no weak effort he was making for the salvation of his people. Was Jesus in earnest, and are we lukewarm?

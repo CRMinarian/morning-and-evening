@@ -1,0 +1,23 @@
+---
+date: "11-01"
+slot: evening
+title: "Evening | November 1"
+scripture_ref: "Matthew 24:39"
+scripture_ref_as_printed: "Matthew 24:39"
+scripture_text: "And knew not until the flood came, and took them all away: so shall also the coming of the Son of man be."
+source: "https://www.ccel.org/ccel/spurgeon/morneve.d1101pm.html"
+edition: "Morning and Evening: Daily Readings, C. H. Spurgeon. CCEL electronic edition of the public-domain combined text (Morning by Morning, 1865; Evening by Evening, 1868)."
+public_domain: "Charles Haddon Spurgeon (1834-1892). This text is in the public domain in the United States."
+---
+
+# Evening | November 1
+
+**Matthew 24:39**
+
+"And knew not until the flood came, and took them all away: so shall also the coming of the Son of man be."
+
+Universal was the doom, neither rich nor poor escaped: the learned and the illiterate, the admired and the abhorred, the religious and the profane, the old and the young, all sank in one common ruin. Some had doubtless ridiculed the patriarch--where now their merry jests? Others had threatened him for his zeal which they counted madness--where now their boastings and hard speeches? The critic who judged the old man's work is drowned in the same sea which covers his sneering companions. Those who spoke patronizingly of the good man's fidelity to his convictions, but shared not in them, have sunk to rise no more, and the workers who for pay helped to build the wondrous ark, are all lost also. The flood swept them all away, and made no single exception. Even so, out of Christ, final destruction is sure to every man of woman born; no rank, possession, or character, shall suffice to save a single soul who has not believed in the Lord Jesus. My soul, behold this wide-spread judgment and tremble at it.
+
+How marvellous the general apathy! they were all eating and drinking, marrying and giving in marriage, till the awful morning dawned. There was not one wise man upon earth out of the ark. Folly duped the whole race, folly as to self-preservation--the most foolish of all follies. Folly in doubting the most true God--the most malignant of fooleries. Strange, my soul, is it not? All men are negligent of their souls till grace gives them reason, then they leave their madness and act like rational beings, but not till then.
+
+All, blessed be God, were safe in the ark, no ruin entered there. From the huge elephant down to the tiny mouse all were safe. The timid hare was equally secure with the courageous lion, the helpless cony as safe as the laborious ox. All are safe in Jesus. My soul, art thou in him?

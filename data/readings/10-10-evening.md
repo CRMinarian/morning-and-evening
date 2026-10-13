@@ -1,0 +1,19 @@
+---
+date: "10-10"
+slot: evening
+title: "Evening | October 10"
+scripture_ref: "Jeremiah 15:21"
+scripture_ref_as_printed: "Jeremiah 15:21"
+scripture_text: "And I will deliver thee out of the hand of the wicked, and I will redeem thee out of the hand of the terrible."
+source: "https://www.ccel.org/ccel/spurgeon/morneve.d1010pm.html"
+edition: "Morning and Evening: Daily Readings, C. H. Spurgeon. CCEL electronic edition of the public-domain combined text (Morning by Morning, 1865; Evening by Evening, 1868)."
+public_domain: "Charles Haddon Spurgeon (1834-1892). This text is in the public domain in the United States."
+---
+
+# Evening | October 10
+
+**Jeremiah 15:21**
+
+"And I will deliver thee out of the hand of the wicked, and I will redeem thee out of the hand of the terrible."
+
+Note the glorious personality of the promise. I will, I will. The Lord Jehovah himself interposes to deliver and redeem his people. He pledges himself personally to rescue them. His own arm shall do it, that he may have the glory. Here is not a word said of any effort of our own which may be needed to assist the Lord. Neither our strength nor our weakness is taken into the account, but the lone I, like the sun in the heavens, shines out resplendent in all-sufficience. Why then do we calculate our forces, and consult with flesh and blood to our grievous wounding? Jehovah has power enough without borrowing from our puny arm. Peace, ye unbelieving thoughts, be still, and know that the Lord reigneth. Nor is there a hint concerning secondary means and causes. The Lord says nothing of friends and helpers: he undertakes the work alone, and feels no need of human arms to aid him. Vain are all our lookings around to companions and relatives; they are broken reeds if we lean upon them--often unwilling when able, and unable when they are willing. Since the promise comes alone from God, it would be well to wait only upon him; and when we do so, our expectation never fails us. Who are the wicked that we should fear them? The Lord will utterly consume them; they are to be pitied rather than feared. As for terrible ones, they are only terrors to those who have no God to fly to, for when the Lord is on our side, whom shall we fear? If we run into sin to please the wicked, we have cause to be alarmed, but if we hold fast our integrity, the rage of tyrants shall be overruled for our good. When the fish swallowed Jonah, he found him a morsel which he could not digest; and when the world devours the church, it is glad to be rid of it again. In all times of fiery trial, in patience let us possess our souls.

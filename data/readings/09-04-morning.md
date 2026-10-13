@@ -1,0 +1,19 @@
+---
+date: "09-04"
+slot: morning
+title: "Morning | September 4"
+scripture_ref: "Mark 1:41"
+scripture_ref_as_printed: "Mark 1:41"
+scripture_text: "I will; be thou clean."
+source: "https://www.ccel.org/ccel/spurgeon/morneve.d0904am.html"
+edition: "Morning and Evening: Daily Readings, C. H. Spurgeon. CCEL electronic edition of the public-domain combined text (Morning by Morning, 1865; Evening by Evening, 1868)."
+public_domain: "Charles Haddon Spurgeon (1834-1892). This text is in the public domain in the United States."
+---
+
+# Morning | September 4
+
+**Mark 1:41**
+
+"I will; be thou clean."
+
+Primeval darkness heard the Almighty fiat, "light be," and straightway light was, and the word of the Lord Jesus is equal in majesty to that ancient word of power. Redemption like Creation has its word of might. Jesus speaks and it is done. Leprosy yielded to no human remedies, but it fled at once at the Lord's "I will." The disease exhibited no hopeful signs or tokens of recovery, nature contributed nothing to its own healing, but the unaided word effected the entire work on the spot and forever. The sinner is in a plight more miserable than the leper; let him imitate his example and go to Jesus, "beseeching him and kneeling down to him." Let him exercise what little faith he has, even though it should go no further than "Lord, if thou wilt, thou canst make me clean;" and there need be no doubt as to the result of the application. Jesus heals all who come, and casts out none. In reading the narrative in which our morning's text occurs, it is worthy of devout notice that Jesus touched the leper. This unclean person had broken through the regulations of the ceremonial law and pressed into the house, but Jesus so far from chiding him broke through the law himself in order to meet him. He made an interchange with the leper, for while he cleansed him, he contracted by that touch a Levitical defilement. Even so Jesus Christ was made sin for us, although in himself he knew no sin, that we might be made the righteousness of God in him. O that poor sinners would go to Jesus, believing in the power of his blessed substitutionary work, and they would soon learn the power of his gracious touch. That hand which multiplied the loaves, which saved sinking Peter, which upholds afflicted saints, which crowns believers, that same hand will touch every seeking sinner, and in a moment make him clean. The love of Jesus is the source of salvation. He loves, he looks, he touches us, we live.

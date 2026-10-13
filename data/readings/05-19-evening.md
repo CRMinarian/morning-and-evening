@@ -1,0 +1,19 @@
+---
+date: "05-19"
+slot: evening
+title: "Evening | May 19"
+scripture_ref: "1 Kings 19:4"
+scripture_ref_as_printed: "1 Kings 19:4"
+scripture_text: "And he requested for himself that he might die."
+source: "https://www.ccel.org/ccel/spurgeon/morneve.d0519pm.html"
+edition: "Morning and Evening: Daily Readings, C. H. Spurgeon. CCEL electronic edition of the public-domain combined text (Morning by Morning, 1865; Evening by Evening, 1868)."
+public_domain: "Charles Haddon Spurgeon (1834-1892). This text is in the public domain in the United States."
+---
+
+# Evening | May 19
+
+**1 Kings 19:4**
+
+"And he requested for himself that he might die."
+
+It was a remarkable thing that the man who was never to die, for whom God had ordained an infinitely better lot, the man who should be carried to heaven in a chariot of fire, and be translated, that he should not see death--should thus pray, "Let me die, I am no better than my fathers." We have here a memorable proof that God does not always answer prayer in kind, though he always does in effect. He gave Elias something better than that which he asked for, and thus really heard and answered him. Strange was it that the lion-hearted Elijah should be so depressed by Jezebel's threat as to ask to die, and blessedly kind was it on the part of our heavenly Father that he did not take his desponding servant at his word. There is a limit to the doctrine of the prayer of faith. We are not to expect that God will give us everything we choose to ask for. We know that we sometimes ask, and do not receive, because we ask amiss. If we ask for that which is not promised--if we run counter to the spirit which the Lord would have us cultivate--if we ask contrary to his will, or to the decrees of his providence--if we ask merely for the gratification of our own ease, and without an eye to his glory, we must not expect that we shall receive. Yet, when we ask in faith, nothing doubting, if we receive not the precise thing asked for, we shall receive an equivalent, and more than an equivalent, for it. As one remarks, "If the Lord does not pay in silver, he will in gold; and if he does not pay in gold, he will in diamonds." If he does not give you precisely what you ask for, he will give you that which is tantamount to it, and that which you will greatly rejoice to receive in lieu thereof. Be then, dear reader, much in prayer, and make this evening a season of earnest intercession, but take heed what you ask.

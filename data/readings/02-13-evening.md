@@ -1,0 +1,35 @@
+---
+date: "02-13"
+slot: evening
+title: "Evening | February 13"
+scripture_ref: "Romans 8:1"
+scripture_ref_as_printed: "Romans 8:1"
+scripture_text: "There is therefore now no condemnation."
+source: "https://www.ccel.org/ccel/spurgeon/morneve.d0213pm.html"
+edition: "Morning and Evening: Daily Readings, C. H. Spurgeon. CCEL electronic edition of the public-domain combined text (Morning by Morning, 1865; Evening by Evening, 1868)."
+public_domain: "Charles Haddon Spurgeon (1834-1892). This text is in the public domain in the United States."
+---
+
+# Evening | February 13
+
+**Romans 8:1**
+
+"There is therefore now no condemnation."
+
+Come, my soul, think thou of this. Believing in Jesus, thou art actually and effectually cleared from guilt; thou art led out of thy prison. Thou art no more in fetters as a bond-slave; thou art delivered now from the bondage of the law; thou art freed from sin, and canst walk at large as a freeman; thy Saviour's blood has procured thy full discharge. Thou hast a right now to approach thy Father's throne. No flames of vengeance are there to scare thee now; no fiery sword; justice cannot smite the innocent. Thy disabilities are taken away: thou wast once unable to see thy Father's face: thou canst see it now. Thou couldst not speak with him: but now thou hast access with boldness. Once there was a fear of hell upon thee; but thou hast no fear of it now, for how can there be punishment for the guiltless? He who believeth is not condemned, and cannot be punished. And more than all, the privileges thou mightst have enjoyed, if thou hadst never sinned, are thine now that thou art justified. All the blessings which thou wouldst have had if thou hadst kept the law, and more, are thine, because Christ has kept it for thee. All the love and the acceptance which perfect obedience could have obtained of God, belong to thee, because Christ was perfectly obedient on thy behalf, and hath imputed all his merits to thy account, that thou mightst be exceeding rich through him, who for thy sake became exceeding poor. Oh! how great the debt of love and gratitude thou owest to thy Saviour!
+
+"A debtor to mercy alone,
+
+Of covenant mercy I sing;
+
+Nor fear with thy righteousness on,
+
+My person and offerings to bring:
+
+The terrors of law and of God,
+
+With me can have nothing to do;
+
+My Saviour's obedience and blood
+
+Hide all my transgressions from view."

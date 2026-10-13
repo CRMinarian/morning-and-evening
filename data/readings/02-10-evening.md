@@ -1,0 +1,23 @@
+---
+date: "02-10"
+slot: evening
+title: "Evening | February 10"
+scripture_ref: "Isaiah 44:22"
+scripture_ref_as_printed: "Isaiah 44:22"
+scripture_text: "I have blotted out, as a thick cloud, thy transgressions, and, as a cloud, thy sins: return unto me; for I have redeemed thee."
+source: "https://www.ccel.org/ccel/spurgeon/morneve.d0210pm.html"
+edition: "Morning and Evening: Daily Readings, C. H. Spurgeon. CCEL electronic edition of the public-domain combined text (Morning by Morning, 1865; Evening by Evening, 1868)."
+public_domain: "Charles Haddon Spurgeon (1834-1892). This text is in the public domain in the United States."
+---
+
+# Evening | February 10
+
+**Isaiah 44:22**
+
+"I have blotted out, as a thick cloud, thy transgressions, and, as a cloud, thy sins: return unto me; for I have redeemed thee."
+
+Attentively observe the instructive similitude: our sins are like a cloud. As clouds are of many shapes and shades, so are our transgressions. As clouds obscure the light of the sun, and darken the landscape beneath, so do our sins hide from us the light of Jehovah's face, and cause us to sit in the shadow of death. They are earth-born things, and rise from the miry places of our nature; and when so collected that their measure is full, they threaten us with storm and tempest. Alas! that, unlike clouds, our sins yield us no genial showers, but rather threaten to deluge us with a fiery flood of destruction. O ye black clouds of sin, how can it be fair weather with our souls while ye remain?
+
+Let our joyful eye dwell upon the notable act of divine mercy--"blotting out." God himself appears upon the scene, and in divine benignity, instead of manifesting his anger, reveals his grace: he at once and forever effectually removes the mischief, not by blowing away the cloud, but by blotting it out from existence once for all. Against the justified man no sin remains, the great transaction of the cross has eternally removed his transgressions from him. On Calvary's summit the great deed, by which the sin of all the chosen was forever put away, was completely and effectually performed.
+
+Practically let us obey the gracious command, "return unto me." Why should pardoned sinners live at a distance from their God? If we have been forgiven all our sins, let no legal fear withhold us from the boldest access to our Lord. Let backslidings be bemoaned, but let us not persevere in them. To the greatest possible nearness of communion with the Lord, let us, in the power of the Holy Spirit, strive mightily to return. O Lord, this night restore us!

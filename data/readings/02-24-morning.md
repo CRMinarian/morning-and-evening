@@ -1,0 +1,19 @@
+---
+date: "02-24"
+slot: morning
+title: "Morning | February 24"
+scripture_ref: "Ezekiel 34:26"
+scripture_ref_as_printed: "Ezekiel 34:26"
+scripture_text: "I will cause the shower to come down in his season; there shall be showers of blessing."
+source: "https://www.ccel.org/ccel/spurgeon/morneve.d0224am.html"
+edition: "Morning and Evening: Daily Readings, C. H. Spurgeon. CCEL electronic edition of the public-domain combined text (Morning by Morning, 1865; Evening by Evening, 1868)."
+public_domain: "Charles Haddon Spurgeon (1834-1892). This text is in the public domain in the United States."
+---
+
+# Morning | February 24
+
+**Ezekiel 34:26**
+
+"I will cause the shower to come down in his season; there shall be showers of blessing."
+
+Here is sovereign mercy--"I will give them the shower in its season." Is it not sovereign, divine mercy?--for who can say, "I will give them showers," except God? There is only one voice which can speak to the clouds, and bid them beget the rain. Who sendeth down the rain upon the earth? Who scattereth the showers upon the green herb? Do not I, the Lord? So grace is the gift of God, and is not to be created by man. It is also needed grace. What would the ground do without showers? You may break the clods, you may sow your seeds, but what can you do without the rain? As absolutely needful is the divine blessing. In vain you labour, until God the plenteous shower bestows, and sends salvation down. Then, it is plenteous grace. "I will send them showers." It does not say, "I will send them drops," but "showers." So it is with grace. If God gives a blessing, he usually gives it in such a measure that there is not room enough to receive it. Plenteous grace! Ah! we want plenteous grace to keep us humble, to make us prayerful, to make us holy; plenteous grace to make us zealous, to preserve us through this life, and at last to land us in heaven. We cannot do without saturating showers of grace. Again, it is seasonable grace. "I will cause the shower to come down in his season." What is thy season this morning? Is it the season of drought? Then that is the season for showers. Is it a season of great heaviness and black clouds? Then that is the season for showers. "As thy days so shall thy strength be." And here is a varied blessing. "I will give thee showers of blessing." The word is in the plural. All kinds of blessings God will send. All God's blessings go together, like links in a golden chain. If he gives converting grace, he will also give comforting grace. He will send "showers of blessing." Look up today, O parched plant, and open thy leaves and flowers for a heavenly watering.

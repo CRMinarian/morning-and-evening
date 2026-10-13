@@ -1,0 +1,27 @@
+---
+date: "01-03"
+slot: evening
+title: "Evening | January 3"
+scripture_ref: "Luke 3:4"
+scripture_ref_as_printed: "Luke 3:4"
+scripture_text: "The voice of one crying in the wilderness, Prepare ye the way of the Lord, make his paths straight."
+source: "https://www.ccel.org/ccel/spurgeon/morneve.d0103pm.html"
+edition: "Morning and Evening: Daily Readings, C. H. Spurgeon. CCEL electronic edition of the public-domain combined text (Morning by Morning, 1865; Evening by Evening, 1868)."
+public_domain: "Charles Haddon Spurgeon (1834-1892). This text is in the public domain in the United States."
+---
+
+# Evening | January 3
+
+**Luke 3:4**
+
+"The voice of one crying in the wilderness, Prepare ye the way of the Lord, make his paths straight."
+
+The voice crying in the wilderness demanded a way for the Lord, a way prepared, and a way prepared in the wilderness. I would be attentive to the Master's proclamation, and give him a road into my heart, cast up by gracious operations, through the desert of my nature. The four directions in the text must have my serious attention.
+
+Every valley must be exalted. Low and grovelling thoughts of God must be given up; doubting and despairing must be removed; and self-seeking and carnal delights must be forsaken. Across these deep valleys a glorious causeway of grace must be raised.
+
+Every mountain and hill shall be laid low. Proud creature-sufficiency, and boastful self-righteousness, must be levelled, to make a highway for the King of kings. Divine fellowship is never vouchsafed to haughty, highminded sinners. The Lord hath respect unto the lowly, and visits the contrite in heart, but the lofty are an abomination unto him. My soul, beseech the Holy Spirit to set thee right in this respect.
+
+The crooked shall be made straight. The wavering heart must have a straight path of decision for God and holiness marked out for it. Double-minded men are strangers to the God of truth. My soul, take heed that thou be in all things honest and true, as in the sight of the heart-searching God.
+
+The rough places shall be made smooth. Stumbling-blocks of sin must be removed, and thorns and briers of rebellion must be uprooted. So great a visitor must not find miry ways and stony places when he comes to honour his favoured ones with his company. Oh that this evening the Lord may find in my heart a highway made ready by his grace, that he may make a triumphal progress through the utmost bounds of my soul, from the beginning of this year even to the end of it.

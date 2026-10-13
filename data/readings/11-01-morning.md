@@ -1,0 +1,21 @@
+---
+date: "11-01"
+slot: morning
+title: "Morning | November 1"
+scripture_ref: "Philemon 1:2"
+scripture_ref_as_printed: "Philemon 2"
+scripture_text: "The church in thy house."
+source: "https://www.ccel.org/ccel/spurgeon/morneve.d1101am.html"
+edition: "Morning and Evening: Daily Readings, C. H. Spurgeon. CCEL electronic edition of the public-domain combined text (Morning by Morning, 1865; Evening by Evening, 1868)."
+public_domain: "Charles Haddon Spurgeon (1834-1892). This text is in the public domain in the United States."
+---
+
+# Morning | November 1
+
+**Philemon 1:2**
+
+"The church in thy house."
+
+Is there a Church in this house? Are parents, children, friends, servants, all members of it? or are some still unconverted? Let us pause here and let the question go round--Am I a member of the Church in this house? How would father's heart leap for joy, and mother's eyes fill with holy tears if from the eldest to the youngest all were saved! Let us pray for this great mercy until the Lord shall grant it to us. Probably it had been the dearest object of Philemon's desires to have all his household saved; but it was not at first granted him in its fulness. He had a wicked servant, Onesimus, who, having wronged him, ran away from his service. His master's prayers followed him, and at last, as God would have it, Onesimus was led to hear Paul preach; his heart was touched, and he returned to Philemon, not only to be a faithful servant, but a brother beloved, adding another member to the Church in Philemon's house. Is there an unconverted servant or child absent this morning? Make special supplication that such may, on their return to their home, gladden all hearts with good news of what grace has done! Is there one present? Let him partake in the same earnest entreaty.
+
+If there be such a Church in our house, let us order it well, and let all act as in the sight of God. Let us move in the common affairs of life with studied holiness, diligence, kindness, and integrity. More is expected of a Church than of an ordinary household; family worship must, in such a case, be more devout and hearty; internal love must be more warm and unbroken, and external conduct must be more sanctified and Christlike. We need not fear that the smallness of our number will put us out of the list of Churches, for the Holy Spirit has here enrolled a family-church in the inspired book of remembrance. As a Church let us now draw nigh to the great head of the one Church universal, and let us beseech him to give us grace to shine before men to the glory of his name.

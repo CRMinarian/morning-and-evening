@@ -1,0 +1,19 @@
+---
+date: "12-30"
+slot: morning
+title: "Morning | December 30"
+scripture_ref: "Ecclesiastes 7:8"
+scripture_ref_as_printed: "Ecclesiastes 7:8"
+scripture_text: "Better is the end of a thing than the beginning thereof."
+source: "https://www.ccel.org/ccel/spurgeon/morneve.d1230am.html"
+edition: "Morning and Evening: Daily Readings, C. H. Spurgeon. CCEL electronic edition of the public-domain combined text (Morning by Morning, 1865; Evening by Evening, 1868)."
+public_domain: "Charles Haddon Spurgeon (1834-1892). This text is in the public domain in the United States."
+---
+
+# Morning | December 30
+
+**Ecclesiastes 7:8**
+
+"Better is the end of a thing than the beginning thereof."
+
+Look at David's Lord and Master; see his beginning. He was despised and rejected of men; a man of sorrows and acquainted with grief. Would you see the end? He sits at his Father's right hand, expecting until his enemies be made his footstool. "As he is, so are we also in this world." You must bear the cross, or you shall never wear the crown; you must wade through the mire, or you shall never walk the golden pavement. Cheer up, then, poor Christian. "Better is the end of a thing than the beginning thereof." See that creeping worm, how contemptible its appearance! It is the beginning of a thing. Mark that insect with gorgeous wings, playing in the sunbeams, sipping at the flower bells, full of happiness and life; that is the end thereof. That caterpillar is yourself, until you are wrapped up in the chrysalis of death; but when Christ shall appear you shall be like him, for you shall see him as he is. Be content to be like him, a worm and no man, that like him you may be satisfied when you wake up in his likeness. That rough-looking diamond is put upon the wheel of the lapidary. He cuts it on all sides. It loses much--much that seemed costly to itself. The king is crowned; the diadem is put upon the monarch's head with trumpet's joyful sound. A glittering ray flashes from that coronet, and it beams from that very diamond which was just now so sorely vexed by the lapidary. You may venture to compare yourself to such a diamond, for you are one of God's people; and this is the time of the cutting process. Let faith and patience have their perfect work, for in the day when the crown shall be set upon the head of the King, Eternal, Immortal, Invisible, one ray of glory shall stream from you. "They shall be mine," saith the Lord, "in the day when I make up my jewels." "Better is the end of a thing than the beginning thereof."

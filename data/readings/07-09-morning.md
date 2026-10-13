@@ -1,0 +1,19 @@
+---
+date: "07-09"
+slot: morning
+title: "Morning | July 9"
+scripture_ref: "Psalm 103:2"
+scripture_ref_as_printed: "Psalm 103:2"
+scripture_text: "Forget not all His benefits."
+source: "https://www.ccel.org/ccel/spurgeon/morneve.d0709am.html"
+edition: "Morning and Evening: Daily Readings, C. H. Spurgeon. CCEL electronic edition of the public-domain combined text (Morning by Morning, 1865; Evening by Evening, 1868)."
+public_domain: "Charles Haddon Spurgeon (1834-1892). This text is in the public domain in the United States."
+---
+
+# Morning | July 9
+
+**Psalm 103:2**
+
+"Forget not all His benefits."
+
+It is a delightful and profitable occupation to mark the hand of God in the lives of ancient saints, and to observe his goodness in delivering them, his mercy in pardoning them, and his faithfulness in keeping his covenant with them. But would it not be even more interesting and profitable for us to remark the hand of God in our own lives? Ought we not to look upon our own history as being at least as full of God, as full of his goodness and of his truth, as much a proof of his faithfulness and veracity, as the lives of any of the saints who have gone before? We do our Lord an injustice when we suppose that he wrought all his mighty acts, and showed himself strong for those in the early time, but doth not perform wonders or lay bare his arm for the saints who are now upon the earth. Let us review our own lives. Surely in these we may discover some happy incidents, refreshing to ourselves and glorifying to our God. Have you had no deliverances? Have you passed through no rivers, supported by the divine presence? Have you walked through no fires unharmed? Have you had no manifestations? Have you had no choice favours? The God who gave Solomon the desire of his heart, hath he never listened to you and answered your requests? That God of lavish bounty of whom David sang, "Who satisfieth thy mouth with good things," hath he never satiated you with fatness? Have you never been made to lie down in green pastures? Have you never been led by the still waters? Surely the goodness of God has been the same to us as to the saints of old. Let us, then, weave his mercies into a song. Let us take the pure gold of thankfulness, and the jewels of praise and make them into another crown for the head of Jesus. Let our souls give forth music as sweet and as exhilarating as came from David's harp, while we praise the Lord whose mercy endureth forever.

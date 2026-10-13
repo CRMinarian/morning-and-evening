@@ -1,0 +1,21 @@
+---
+date: "09-04"
+slot: evening
+title: "Evening | September 4"
+scripture_ref: "Leviticus 19:36"
+scripture_ref_as_printed: "Leviticus 19:36"
+scripture_text: "Just balances, just weights, a just ephah, and a just hin, shall ye have."
+source: "https://www.ccel.org/ccel/spurgeon/morneve.d0904pm.html"
+edition: "Morning and Evening: Daily Readings, C. H. Spurgeon. CCEL electronic edition of the public-domain combined text (Morning by Morning, 1865; Evening by Evening, 1868)."
+public_domain: "Charles Haddon Spurgeon (1834-1892). This text is in the public domain in the United States."
+---
+
+# Evening | September 4
+
+**Leviticus 19:36**
+
+"Just balances, just weights, a just ephah, and a just hin, shall ye have."
+
+Weights, and scales, and measures were to be all according to the standard of justice. Surely no Christian man will need to be reminded of this in his business, for if righteousness were banished from all the world beside, it should find a shelter in believing hearts. There are, however, other balances which weigh moral and spiritual things, and these often need examining. We will call in the officer tonight.
+
+The balances in which we weigh our own and other men's characters, are they quite accurate? Do we not turn our own ounces of goodness into pounds, and other persons' bushels of excellence into pecks? See to weights and measures here, Christian. The scales in which we measure our trials and troubles, are they according to standard? Paul, who had more to suffer than we have, called his afflictions light, and yet we often consider ours to be heavy--surely something must be amiss with the weights! We must see to this matter, lest we get reported to the court above for unjust dealing. Those weights with which we measure our doctrinal belief, are they quite fair? The doctrines of grace should have the same weight with us as the precepts of the word, no more and no less; but it is to be feared that with many one scale or the other is unfairly weighted. It is a grand matter to give just measure in truth. Christian, be careful here. Those measures in which we estimate our obligations and responsibilities look rather small. When a rich man gives no more to the cause of God than the poor contribute, is that a just ephah and a just hin? When ministers are half starved, is that honest dealing? When the poor are despised, while ungodly rich men are held in admiration, is that a just balance? Reader, we might lengthen the list, but we prefer to leave it as your evening's work to find out and destroy all unrighteous balances, weights, and measures.

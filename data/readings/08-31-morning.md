@@ -1,0 +1,19 @@
+---
+date: "08-31"
+slot: morning
+title: "Morning | August 31"
+scripture_ref: "Isaiah 51:5"
+scripture_ref_as_printed: "Isaiah 51:5"
+scripture_text: "On mine arm shall they trust."
+source: "https://www.ccel.org/ccel/spurgeon/morneve.d0831am.html"
+edition: "Morning and Evening: Daily Readings, C. H. Spurgeon. CCEL electronic edition of the public-domain combined text (Morning by Morning, 1865; Evening by Evening, 1868)."
+public_domain: "Charles Haddon Spurgeon (1834-1892). This text is in the public domain in the United States."
+---
+
+# Morning | August 31
+
+**Isaiah 51:5**
+
+"On mine arm shall they trust."
+
+In seasons of severe trial, the Christian has nothing on earth that he can trust to, and is therefore compelled to cast himself on his God alone. When his vessel is on its beam-ends, and no human deliverance can avail, he must simply and entirely trust himself to the providence and care of God. Happy storm that wrecks a man on such a rock as this! O blessed hurricane that drives the soul to God and God alone! There is no getting at our God sometimes because of the multitude of our friends; but when a man is so poor, so friendless, so helpless that he has nowhere else to turn, he flies into his Father's arms, and is blessedly clasped therein! When he is burdened with troubles so pressing and so peculiar, that he cannot tell them to any but his God, he may be thankful for them; for he will learn more of his Lord then than at any other time. Oh, tempest-tossed believer, it is a happy trouble that drives thee to thy Father! Now that thou hast only thy God to trust to, see that thou puttest thy full confidence in him. Dishonour not thy Lord and Master by unworthy doubts and fears; but be strong in faith, giving glory to God. Show the world that thy God is worth ten thousand worlds to thee. Show rich men how rich thou art in thy poverty when the Lord God is thy helper. Show the strong man how strong thou art in thy weakness when underneath thee are the everlasting arms. Now is the time for feats of faith and valiant exploits. Be strong and very courageous, and the Lord thy God shall certainly, as surely as he built the heavens and the earth, glorify himself in thy weakness, and magnify his might in the midst of thy distress. The grandeur of the arch of heaven would be spoiled if the sky were supported by a single visible column, and your faith would lose its glory if it rested on anything discernible by the carnal eye. May the Holy Spirit give you to rest in Jesus this closing day of the month.

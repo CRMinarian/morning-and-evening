@@ -1,0 +1,27 @@
+---
+date: "08-24"
+slot: morning
+title: "Morning | August 24"
+scripture_ref: "Micah 2:13"
+scripture_ref_as_printed: "Micah 2:13"
+scripture_text: "The breaker is come up before them."
+source: "https://www.ccel.org/ccel/spurgeon/morneve.d0824am.html"
+edition: "Morning and Evening: Daily Readings, C. H. Spurgeon. CCEL electronic edition of the public-domain combined text (Morning by Morning, 1865; Evening by Evening, 1868)."
+public_domain: "Charles Haddon Spurgeon (1834-1892). This text is in the public domain in the United States."
+---
+
+# Morning | August 24
+
+**Micah 2:13**
+
+"The breaker is come up before them."
+
+Inasmuch as Jesus has gone before us, things remain not as they would have been had he never passed that way. He has conquered every foe that obstructed the way. Cheer up now thou faint-hearted warrior. Not only has Christ travelled the road, but he has slain thine enemies. Dost thou dread sin? He has nailed it to his cross. Dost thou fear death? He has been the death of Death. Art thou afraid of hell? He has barred it against the advent of any of his children; they shall never see the gulf of perdition. Whatever foes may be before the Christian, they are all overcome. There are lions, but their teeth are broken; there are serpents, but their fangs are extracted; there are rivers, but they are bridged or fordable; there are flames, but we wear that matchless garment which renders us invulnerable to fire. The sword that has been forged against us is already blunted; the instruments of war which the enemy is preparing have already lost their point. God has taken away in the person of Christ all the power that anything can have to hurt us. Well then, the army may safely march on, and you may go joyously along your journey, for all your enemies are conquered beforehand. What shall you do but march on to take the prey? They are beaten, they are vanquished; all you have to do is to divide the spoil. You shall, it is true, often engage in combat; but your fight shall be with a vanquished foe. His head is broken; he may attempt to injure you, but his strength shall not be sufficient for his malicious design. Your victory shall be easy, and your treasure shall be beyond all count.
+
+"Proclaim aloud the Saviour's fame,
+
+Who bears the Breaker's wond'rous name;
+
+Sweet name; and it becomes him well,
+
+Who breaks down earth, sin, death, and hell."

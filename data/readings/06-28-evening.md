@@ -1,0 +1,19 @@
+---
+date: "06-28"
+slot: evening
+title: "Evening | June 28"
+scripture_ref: "Exodus 7:12"
+scripture_ref_as_printed: "Exodus 7:12"
+scripture_text: "But Aaron's rod swallowed up their rods."
+source: "https://www.ccel.org/ccel/spurgeon/morneve.d0628pm.html"
+edition: "Morning and Evening: Daily Readings, C. H. Spurgeon. CCEL electronic edition of the public-domain combined text (Morning by Morning, 1865; Evening by Evening, 1868)."
+public_domain: "Charles Haddon Spurgeon (1834-1892). This text is in the public domain in the United States."
+---
+
+# Evening | June 28
+
+**Exodus 7:12**
+
+"But Aaron's rod swallowed up their rods."
+
+This incident is an instructive emblem of the sure victory of the divine handiwork over all opposition. Whenever a divine principle is cast into the heart, though the devil may fashion a counterfeit, and produce swarms of opponents, as sure as ever God is in the work, it will swallow up all its foes. If God's grace takes possession of a man, the world's magicians may throw down all their rods; and every rod may be as cunning and poisonous as a serpent, but Aaron's rod will swallow up their rods. The sweet attractions of the cross will woo and win the man's heart, and he who lived only for this deceitful earth will now have an eye for the upper spheres, and a wing to mount into celestial heights. When grace has won the day the worldling seeks the world to come. The same fact is to be observed in the life of the believer. What multitudes of foes has our faith had to meet! Our old sins--the devil threw them down before us, and they turned to serpents. What hosts of them! Ah, but the cross of Jesus destroys them all. Faith in Christ makes short work of all our sins. Then the devil has launched forth another host of serpents in the form of worldly trials, temptations, unbelief; but faith in Jesus is more than a match for them, and overcomes them all. The same absorbing principle shines in the faithful service of God! With an enthusiastic love for Jesus difficulties are surmounted, sacrifices become pleasures, sufferings are honours. But if religion is thus a consuming passion in the heart, then it follows that there are many persons who profess religion but have it not; for what they have will not bear this test. Examine yourself, my reader, on this point. Aaron's rod proved its heaven-given power. Is your religion doing so? If Christ be anything he must be everything. O rest not till love and faith in Jesus be the master passions of your soul!

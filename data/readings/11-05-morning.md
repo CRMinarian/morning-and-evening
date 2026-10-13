@@ -1,0 +1,31 @@
+---
+date: "11-05"
+slot: morning
+title: "Morning | November 5"
+scripture_ref: "Isaiah 54:17"
+scripture_ref_as_printed: "Isaiah 54:17"
+scripture_text: "No weapon that is formed against thee shall prosper."
+source: "https://www.ccel.org/ccel/spurgeon/morneve.d1105am.html"
+edition: "Morning and Evening: Daily Readings, C. H. Spurgeon. CCEL electronic edition of the public-domain combined text (Morning by Morning, 1865; Evening by Evening, 1868)."
+public_domain: "Charles Haddon Spurgeon (1834-1892). This text is in the public domain in the United States."
+---
+
+# Morning | November 5
+
+**Isaiah 54:17**
+
+"No weapon that is formed against thee shall prosper."
+
+This day is notable in English history for two great deliverances wrought by God for us. On this day the plot of the Papists to destroy our Houses of Parliament was discovered, 1605.
+
+"While for our princes they prepare
+
+In caverns deep a burning snare,
+
+He shot from heaven a piercing ray,
+
+And the dark treachery brought to day."
+
+And secondly--today is the anniversary of the landing of King William III, at Torbay, by which the hope of Popish ascendancy was quashed, and religious liberty was secured, 1688.
+
+This day ought to be celebrated, not by the saturnalia of striplings, but by the songs of saints. Our Puritan forefathers most devoutly made it a special time of thanksgiving. There is extant a record of the annual sermons preached by Matthew Henry on this day. Our Protestant feeling, and our love of liberty, should make us regard its anniversary with holy gratitude. Let our hearts and lips exclaim, "We have heard with our ears, and our fathers have told us the wondrous things which thou didst in their day, and in the old time before them." Thou hast made this nation the home of the gospel; and when the foe has risen against her, thou hast shielded her. Help us to offer repeated songs for repeated deliverances. Grant us more and more a hatred of Antichrist, and hasten on the day of her entire extinction. Till then and ever, we believe the promise, "No weapon that is formed against thee shall prosper." Should it not be laid upon the heart of every lover of the gospel of Jesus on this day to plead for the overturning of false doctrines and the extension of divine truth? Would it not be well to search our own hearts, and turn out any of the Popish lumber of self-righteousness which may lie concealed therein?

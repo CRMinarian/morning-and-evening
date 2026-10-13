@@ -1,0 +1,19 @@
+---
+date: "11-29"
+slot: evening
+title: "Evening | November 29"
+scripture_ref: "Exodus 35:8"
+scripture_ref_as_printed: "Exodus 35:8"
+scripture_text: "Spices for anointing oil."
+source: "https://www.ccel.org/ccel/spurgeon/morneve.d1129pm.html"
+edition: "Morning and Evening: Daily Readings, C. H. Spurgeon. CCEL electronic edition of the public-domain combined text (Morning by Morning, 1865; Evening by Evening, 1868)."
+public_domain: "Charles Haddon Spurgeon (1834-1892). This text is in the public domain in the United States."
+---
+
+# Evening | November 29
+
+**Exodus 35:8**
+
+"Spices for anointing oil."
+
+Much use was made of this anointing oil under the law, and that which it represents is of primary importance under the gospel. The Holy Spirit, who anoints us for all holy service, is indispensable to us if we would serve the Lord acceptably. Without his aid our religious services are but a vain oblation, and our inward experience is a dead thing. Whenever our ministry is without unction, what miserable stuff it becomes! nor are the prayers, praises, meditations, and efforts of private Christians one jot superior. A holy anointing is the soul and life of piety, its absence the most grievous of all calamities. To go before the Lord without anointing is as though some common Levite had thrust himself into the priest's office--his ministrations would rather have been sins than services. May we never venture upon hallowed exercises without sacred anointings. They drop upon us from our glorious Head; from his anointing we who are as the skirts of his garments partake of a plenteous unction. Choice spices were compounded with rarest art of the apothecary to form the anointing oil, to show forth to us how rich are all the influences of the Holy Spirit. All good things are found in the divine Comforter. Matchless consolation, infallible instruction, immortal quickening, spiritual energy, and divine sanctification all lie compounded with other excellencies in that sacred eye-salve, the heavenly anointing oil of the Holy Spirit. It imparts a delightful fragrance to the character and person of the man upon whom it is poured. Nothing like it can be found in all the treasuries of the rich, or the secrets of the wise. It is not to be imitated. It comes alone from God, and it is freely given, through Jesus Christ, to every waiting soul. Let us seek it, for we may have it, may have it this very evening. O Lord, anoint thy servants.

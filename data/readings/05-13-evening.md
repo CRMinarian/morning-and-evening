@@ -1,0 +1,19 @@
+---
+date: "05-13"
+slot: evening
+title: "Evening | May 13"
+scripture_ref: "Psalm 119:57"
+scripture_ref_as_printed: "Psalm 119:57"
+scripture_text: "Thou art my portion, O Lord."
+source: "https://www.ccel.org/ccel/spurgeon/morneve.d0513pm.html"
+edition: "Morning and Evening: Daily Readings, C. H. Spurgeon. CCEL electronic edition of the public-domain combined text (Morning by Morning, 1865; Evening by Evening, 1868)."
+public_domain: "Charles Haddon Spurgeon (1834-1892). This text is in the public domain in the United States."
+---
+
+# Evening | May 13
+
+**Psalm 119:57**
+
+"Thou art my portion, O Lord."
+
+Look at thy possessions, O believer, and compare thy portion with the lot of thy fellowmen. Some of them have their portion in the field; they are rich, and their harvests yield them a golden increase; but what are harvests compared with thy God, who is the God of harvests? What are bursting granaries compared with him, who is the Husbandman, and feeds thee with the bread of heaven? Some have their portion in the city; their wealth is abundant, and flows to them in constant streams, until they become a very reservoir of gold; but what is gold compared with thy God? Thou couldst not live on it; thy spiritual life could not be sustained by it. Put it on a troubled conscience, and could it allay its pangs? Apply it to a desponding heart, and see if it could stay a solitary groan, or give one grief the less? But thou hast God, and in him thou hast more than gold or riches ever could buy. Some have their portion in that which most men love--applause and fame; but ask thyself, is not thy God more to thee than that? What if a myriad clarions should be loud in thine applause, would this prepare thee to pass the Jordan, or cheer thee in prospect of judgment? No, there are griefs in life which wealth cannot alleviate; and there is the deep need of a dying hour, for which no riches can provide. But when thou hast God for thy portion, thou hast more than all else put together. In him every want is met, whether in life or in death. With God for thy portion thou art rich indeed, for he will supply thy need, comfort thy heart, assuage thy grief, guide thy steps, be with thee in the dark valley, and then take thee home, to enjoy him as thy portion forever. "I have enough," said Esau; this is the best thing a worldly man can say, but Jacob replies, "I have all things," which is a note too high for carnal minds.

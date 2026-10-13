@@ -1,0 +1,19 @@
+---
+date: "07-14"
+slot: evening
+title: "Evening | July 14"
+scripture_ref: "Matthew 28:1"
+scripture_ref_as_printed: "Matthew 28:1"
+scripture_text: "As it began to dawn, came Magdalene, to see the sepulchre."
+source: "https://www.ccel.org/ccel/spurgeon/morneve.d0714pm.html"
+edition: "Morning and Evening: Daily Readings, C. H. Spurgeon. CCEL electronic edition of the public-domain combined text (Morning by Morning, 1865; Evening by Evening, 1868)."
+public_domain: "Charles Haddon Spurgeon (1834-1892). This text is in the public domain in the United States."
+---
+
+# Evening | July 14
+
+**Matthew 28:1**
+
+"As it began to dawn, came Magdalene, to see the sepulchre."
+
+Let us learn from Mary Magdalene how to obtain fellowship with the Lord Jesus. Notice how she sought. She sought the Saviour very early in the morning. If thou canst wait for Christ, and be patient in the hope of having fellowship with him at some distant season, thou wilt never have fellowship at all; for the heart that is fitted for communion is a hungering and a thirsting heart. She sought him also with very great boldness. Other disciples fled from the sepulchre, for they trembled and were amazed; but Mary, it is said, "stood" at the sepulchre. If you would have Christ with you, seek him boldly. Let nothing hold you back. Defy the world. Press on where others flee. She sought Christ faithfully--she stood at the sepulchre. Some find it hard to stand by a living Saviour, but she stood by a dead one. Let us seek Christ after this mode, cleaving to the very least thing that has to do with him, remaining faithful though all others should forsake him. Note further, she sought Jesus earnestly--she stood "weeping". Those tear-droppings were as spells that led the Saviour captive, and made him come forth and show himself to her. If you desire Jesus' presence, weep after it! If you cannot be happy unless he come and say to you, "Thou art my beloved," you will soon hear his voice. Lastly, she sought the Saviour only. What cared she for angels, she turned herself back from them; her search was only for her Lord. If Christ be your one and only love, if your heart has cast out all rivals, you will not long lack the comfort of his presence. Mary Magdalene sought thus because she loved much. Let us arouse ourselves to the same intensity of affection; let our heart, like Mary's, be full of Christ, and our love, like hers, will be satisfied with nothing short of himself. O Lord, reveal thyself to us this evening!

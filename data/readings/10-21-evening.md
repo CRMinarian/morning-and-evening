@@ -1,0 +1,19 @@
+---
+date: "10-21"
+slot: evening
+title: "Evening | October 21"
+scripture_ref: "Luke 24:38"
+scripture_ref_as_printed: "Luke 24:38"
+scripture_text: "Why are ye troubled? and why do thoughts arise in your hearts?"
+source: "https://www.ccel.org/ccel/spurgeon/morneve.d1021pm.html"
+edition: "Morning and Evening: Daily Readings, C. H. Spurgeon. CCEL electronic edition of the public-domain combined text (Morning by Morning, 1865; Evening by Evening, 1868)."
+public_domain: "Charles Haddon Spurgeon (1834-1892). This text is in the public domain in the United States."
+---
+
+# Evening | October 21
+
+**Luke 24:38**
+
+"Why are ye troubled? and why do thoughts arise in your hearts?"
+
+"Why sayest thou, O Jacob, and speakest O Israel, my way is hid from the Lord, and my judgment is passed over from my God?" The Lord cares for all things, and the meanest creatures share in his universal providence, but his particular providence is over his saints. "The angel of the Lord encampeth round about them that fear him." "Precious shall their blood be in his sight." "Precious in the sight of the Lord is the death of his saints." "We know that all things work together for good to them that love God, to them that are the called according to his purpose." Let the fact that, while he is the Saviour of all men, he is specially the Saviour of them that believe, cheer and comfort you. You are his peculiar care; his regal treasure which he guards as the apple of his eye; his vineyard over which he watches day and night. "The very hairs of your head are all numbered." Let the thought of his special love to you be a spiritual pain-killer, a dear quietus to your woe: "I will never leave thee, nor forsake thee." God says that as much to you as to any saint of old. "Fear not, I am thy shield, and thy exceeding great reward." We lose much consolation by the habit of reading his promises for the whole church, instead of taking them directly home to ourselves. Believer, grasp the divine word with a personal, appropriating faith. Think that you hear Jesus say, "I have prayed for thee that thy faith fail not." Think you see him walking on the waters of thy trouble, for he is there, and he is saying, "Fear not, it is I; be not afraid." Oh, those sweet words of Christ! May the Holy Ghost make you feel them as spoken to you; forget others for awhile--accept the voice of Jesus as addressed to you, and say, "Jesus whispers consolation; I cannot refuse it; I will sit under his shadow with great delight."

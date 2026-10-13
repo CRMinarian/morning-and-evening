@@ -1,0 +1,19 @@
+---
+date: "03-16"
+slot: evening
+title: "Evening | March 16"
+scripture_ref: "Psalm 19:13"
+scripture_ref_as_printed: "Psalm 19:13"
+scripture_text: "Keep back thy servant also from presumptuous sins."
+source: "https://www.ccel.org/ccel/spurgeon/morneve.d0316pm.html"
+edition: "Morning and Evening: Daily Readings, C. H. Spurgeon. CCEL electronic edition of the public-domain combined text (Morning by Morning, 1865; Evening by Evening, 1868)."
+public_domain: "Charles Haddon Spurgeon (1834-1892). This text is in the public domain in the United States."
+---
+
+# Evening | March 16
+
+**Psalm 19:13**
+
+"Keep back thy servant also from presumptuous sins."
+
+Such was the prayer of the "man after God's own heart." Did holy David need to pray thus? How needful, then, must such a prayer be for us babes in grace! It is as if he said, "Keep me back, or I shall rush headlong over the precipice of sin." Our evil nature, like an ill-tempered horse, is apt to run away. May the grace of God put the bridle upon it, and hold it in, that it rush not into mischief. What might not the best of us do if it were not for the checks which the Lord sets upon us both in providence and in grace! The psalmist's prayer is directed against the worst form of sin--that which is done with deliberation and wilfulness. Even the holiest need to be "kept back" from the vilest transgressions. It is a solemn thing to find the apostle Paul warning saints against the most loathsome sins. "Mortify therefore your members which are upon the earth; fornication, uncleanness, inordinate affection, evil concupiscence, and covetousness, which is idolatry." What! do saints want warning against such sins as these? Yes, they do. The whitest robes, unless their purity be preserved by divine grace, will be defiled by the blackest spots. Experienced Christian, boast not in your experience; you will trip yet if you look away from him who is able to keep you from falling. Ye whose love is fervent, whose faith is constant, whose hopes are bright, say not, "We shall never sin," but rather cry, "Lead us not into temptation." There is enough tinder in the heart of the best of men to light a fire that shall burn to the lowest hell, unless God shall quench the sparks as they fall. Who would have dreamed that righteous Lot could be found drunken, and committing uncleanness? Hazael said, "Is thy servant a dog, that he should do this thing?" and we are very apt to use the same self-righteous question. May infinite wisdom cure us of the madness of self-confidence.

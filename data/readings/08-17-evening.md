@@ -1,0 +1,25 @@
+---
+date: "08-17"
+slot: evening
+title: "Evening | August 17"
+scripture_ref: "John 11:4"
+scripture_ref_as_printed: "John 11:4"
+scripture_text: "This sickness is not unto death."
+source: "https://www.ccel.org/ccel/spurgeon/morneve.d0817pm.html"
+edition: "Morning and Evening: Daily Readings, C. H. Spurgeon. CCEL electronic edition of the public-domain combined text (Morning by Morning, 1865; Evening by Evening, 1868)."
+public_domain: "Charles Haddon Spurgeon (1834-1892). This text is in the public domain in the United States."
+---
+
+# Evening | August 17
+
+**John 11:4**
+
+"This sickness is not unto death."
+
+From our Lord's words we learn that there is a limit to sickness. Here is an "unto" within which its ultimate end is restrained, and beyond which it cannot go. Lazarus might pass through death, but death was not to be the ultimatum of his sickness. In all sickness, the Lord saith to the waves of pain, "Hitherto shall ye go, but no further." His fixed purpose is not the destruction, but the instruction of his people. Wisdom hangs up the thermometer at the furnace mouth, and regulates the heat.
+
+1. The limit is encouragingly comprehensive. The God of providence has limited the time, manner, intensity, repetition, and effects of all our sicknesses; each throb is decreed, each sleepless hour predestinated, each relapse ordained, each depression of spirit foreknown, and each sanctifying result eternally purposed. Nothing great or small escapes the ordaining hand of him who numbers the hairs of our head.
+
+2. This limit is wisely adjusted to our strength, to the end designed, and to the grace apportioned. Affliction comes not at haphazard--the weight of every stroke of the rod is accurately measured. He who made no mistakes in balancing the clouds and meting out the heavens, commits no errors in measuring out the ingredients which compose the medicine of souls. We cannot suffer too much nor be relieved too late.
+
+3. The limit is tenderly appointed. The knife of the heavenly Surgeon never cuts deeper than is absolutely necessary. "He doth not afflict willingly, nor grieve the children of men." A mother's heart cries, "Spare my child;" but no mother is more compassionate than our gracious God. When we consider how hard-mouthed we are, it is a wonder that we are not driven with a sharper bit. The thought is full of consolation, that he who has fixed the bounds of our habitation, has also fixed the bounds of our tribulation.

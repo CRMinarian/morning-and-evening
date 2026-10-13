@@ -1,0 +1,35 @@
+---
+date: "05-13"
+slot: morning
+title: "Morning | May 13"
+scripture_ref: "Psalm 30:5"
+scripture_ref_as_printed: "Psalm 30:5"
+scripture_text: "Weeping may endure for a night, but joy cometh in the morning."
+source: "https://www.ccel.org/ccel/spurgeon/morneve.d0513am.html"
+edition: "Morning and Evening: Daily Readings, C. H. Spurgeon. CCEL electronic edition of the public-domain combined text (Morning by Morning, 1865; Evening by Evening, 1868)."
+public_domain: "Charles Haddon Spurgeon (1834-1892). This text is in the public domain in the United States."
+---
+
+# Morning | May 13
+
+**Psalm 30:5**
+
+"Weeping may endure for a night, but joy cometh in the morning."
+
+Christian! If thou art in a night of trial, think of the morrow; cheer up thy heart with the thought of the coming of thy Lord. Be patient, for
+
+"Lo! He comes with clouds descending."
+
+Be patient! The Husbandman waits until he reaps his harvest. Be patient; for you know who has said, "Behold, I come quickly; and my reward is with me, to give to every man according as his work shall be." If you are never so wretched now, remember
+
+"A few more rolling suns, at most,
+
+Will land thee on fair Canaan's coast."
+
+Thy head may be crowned with thorny troubles now, but it shall wear a starry crown ere long; thy hand may be filled with cares--it shall sweep the strings of the harp of heaven soon. Thy garments may be soiled with dust now; they shall be white by-and-by. Wait a little longer. Ah! how despicable our troubles and trials will seem when we look back upon them! Looking at them here in the prospect, they seem immense; but when we get to heaven we shall then
+
+"With transporting joys recount,
+
+The labours of our feet."
+
+Our trials will then seem light and momentary afflictions. Let us go on boldly; if the night be never so dark, the morning cometh, which is more than they can say who are shut up in the darkness of hell. Do you know what it is thus to live on the future--to live on expectation--to antedate heaven? Happy believer, to have so sure, so comforting a hope. It may be all dark now, but it will soon be light; it may be all trial now, but it will soon be all happiness. What matters it though "weeping may endure for a night," when "joy cometh in the morning?"

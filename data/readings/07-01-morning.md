@@ -1,0 +1,25 @@
+---
+date: "07-01"
+slot: morning
+title: "Morning | July 1"
+scripture_ref: "Zechariah 14:8"
+scripture_ref_as_printed: "Zechariah 14:8"
+scripture_text: "In summer and in winter shall it be."
+source: "https://www.ccel.org/ccel/spurgeon/morneve.d0701am.html"
+edition: "Morning and Evening: Daily Readings, C. H. Spurgeon. CCEL electronic edition of the public-domain combined text (Morning by Morning, 1865; Evening by Evening, 1868)."
+public_domain: "Charles Haddon Spurgeon (1834-1892). This text is in the public domain in the United States."
+---
+
+# Morning | July 1
+
+**Zechariah 14:8**
+
+"In summer and in winter shall it be."
+
+The streams of living water which flow from Jerusalem are not dried up by the parching heats of sultry midsummer any more than they were frozen by the cold winds of blustering winter. Rejoice, O my soul, that thou art spared to testify of the faithfulness of the Lord. The seasons change and thou changest, but thy Lord abides evermore the same, and the streams of his love are as deep, as broad and as full as ever. The heats of business cares and scorching trials make me need the cooling influences of the river of His grace; I may go at once and drink to the full from the inexhaustible fountain, for in summer and in winter it pours forth its flood. The upper springs are never scanty, and blessed be the name of the Lord, the nether springs cannot fail either. Elijah found Cherith dry up, but Jehovah was still the same God of providence. Job said his brethren were like deceitful brooks, but he found his God an overflowing river of consolation. The Nile is the great confidence of Egypt, but its floods are variable; our Lord is evermore the same. By turning the course of the Euphrates, Cyrus took the city of Babylon, but no power, human or infernal, can divert the current of divine grace. The tracks of ancient rivers have been found all dry and desolate, but the streams which take their rise on the mountains of divine sovereignty and infinite love shall ever be full to the brim. Generations melt away, but the course of grace is unaltered. The river of God may sing with greater truth than the brook in the poem--
+
+"Men may come, and men may go,
+
+But I go on forever."
+
+How happy art thou, my soul, to be led beside such still waters! never wander to other streams, lest thou hear the Lord's rebuke, "What hast thou to do in the way of Egypt to drink of the muddy river?"

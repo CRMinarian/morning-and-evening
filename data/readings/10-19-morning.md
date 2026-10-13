@@ -1,0 +1,19 @@
+---
+date: "10-19"
+slot: morning
+title: "Morning | October 19"
+scripture_ref: "1 Corinthians 3:1"
+scripture_ref_as_printed: "1 Corinthians 3:1"
+scripture_text: "Babes in Christ."
+source: "https://www.ccel.org/ccel/spurgeon/morneve.d1019am.html"
+edition: "Morning and Evening: Daily Readings, C. H. Spurgeon. CCEL electronic edition of the public-domain combined text (Morning by Morning, 1865; Evening by Evening, 1868)."
+public_domain: "Charles Haddon Spurgeon (1834-1892). This text is in the public domain in the United States."
+---
+
+# Morning | October 19
+
+**1 Corinthians 3:1**
+
+"Babes in Christ."
+
+Are you mourning, believer, because you are so weak in the divine life: because your faith is so little, your love so feeble? Cheer up, for you have cause for gratitude. Remember that in some things you are equal to the greatest and most full-grown Christian. You are as much bought with blood as he is. You are as much an adopted child of God as any other believer. An infant is as truly a child of its parents as is the full-grown man. You are as completely justified, for your justification is not a thing of degrees: your little faith has made you clean every whit. You have as much right to the precious things of the covenant as the most advanced believers, for your right to covenant mercies lies not in your growth, but in the covenant itself; and your faith in Jesus is not the measure, but the token of your inheritance in him. You are as rich as the richest, if not in enjoyment, yet in real possession. The smallest star that gleams is set in heaven; the faintest ray of light has affinity with the great orb of day. In the family register of glory the small and the great are written with the same pen. You are as dear to your Father's heart as the greatest in the family. Jesus is very tender over you. You are like the smoking flax; a rougher spirit would say, "put out that smoking flax, it fills the room with an offensive odour!" but the smoking flax he will not quench. You are like a bruised reed; and any less tender hand than that of the Chief Musician would tread upon you or throw you away, but he will never break the bruised reed. Instead of being downcast by reason of what you are, you should triumph in Christ. Am I but little in Israel? Yet in Christ I am made to sit in heavenly places. Am I poor in faith? Still in Jesus I am heir of all things. Though "less than nothing I can boast, and vanity confess." Yet, if the root of the matter be in me I will rejoice in the Lord, and glory in the God of my salvation.

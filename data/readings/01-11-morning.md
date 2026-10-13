@@ -1,0 +1,19 @@
+---
+date: "01-11"
+slot: morning
+title: "Morning | January 11"
+scripture_ref: "Luke 8:13"
+scripture_ref_as_printed: "Luke 8:13"
+scripture_text: "These have no root."
+source: "https://www.ccel.org/ccel/spurgeon/morneve.d0111am.html"
+edition: "Morning and Evening: Daily Readings, C. H. Spurgeon. CCEL electronic edition of the public-domain combined text (Morning by Morning, 1865; Evening by Evening, 1868)."
+public_domain: "Charles Haddon Spurgeon (1834-1892). This text is in the public domain in the United States."
+---
+
+# Morning | January 11
+
+**Luke 8:13**
+
+"These have no root."
+
+My soul, examine thyself this morning by the light of this text. Thou hast received the word with joy; thy feelings have been stirred and a lively impression has been made; but, remember, that to receive the word in the ear is one thing, and to receive Jesus into thy very soul is quite another; superficial feeling is often joined to inward hardness of heart, and a lively impression of the word is not always a lasting one. In the parable, the seed in one case fell upon ground having a rocky bottom, covered over with a thin layer of earth; when the seed began to take root, its downward growth was hindered by the hard stone and therefore it spent its strength in pushing its green shoot aloft as high as it could, but having no inward moisture derived from root nourishment, it withered away. Is this my case? Have I been making a fair show in the flesh without having a corresponding inner life? Good growth takes place upwards and downwards at the same time. Am I rooted in sincere fidelity and love to Jesus? If my heart remains unsoftened and unfertilized by grace, the good seed may germinate for a season, but it must ultimately wither, for it cannot flourish on a rocky, unbroken, unsanctified heart. Let me dread a godliness as rapid in growth and as wanting in endurance as Jonah's gourd; let me count the cost of being a follower of Jesus, above all let me feel the energy of his Holy Spirit, and then I shall possess an abiding and enduring seed in my soul. If my mind remains as obdurate as it was by nature, the sun of trial will scorch, and my hard heart will help to cast the heat the more terribly upon the ill-covered seed, and my religion will soon die, and my despair will be terrible; therefore, O heavenly Sower, plough me first, and then cast the truth into me, and let me yield thee a bounteous harvest.

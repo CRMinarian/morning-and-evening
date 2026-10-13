@@ -1,0 +1,19 @@
+---
+date: "09-26"
+slot: morning
+title: "Morning | September 26"
+scripture_ref: "Zechariah 1:8"
+scripture_ref_as_printed: "Zechariah 1:8"
+scripture_text: "The myrtle trees that were in the bottom."
+source: "https://www.ccel.org/ccel/spurgeon/morneve.d0926am.html"
+edition: "Morning and Evening: Daily Readings, C. H. Spurgeon. CCEL electronic edition of the public-domain combined text (Morning by Morning, 1865; Evening by Evening, 1868)."
+public_domain: "Charles Haddon Spurgeon (1834-1892). This text is in the public domain in the United States."
+---
+
+# Morning | September 26
+
+**Zechariah 1:8**
+
+"The myrtle trees that were in the bottom."
+
+The vision in this chapter describes the condition of Israel in Zechariah's day; but being interpreted in its aspect towards us, it describes the Church of God as we find it now in the world. The Church is compared to a myrtle grove flourishing in a valley. It is hidden, unobserved, secreted; courting no honour and attracting no observation from the careless gazer. The Church, like her head, has a glory, but it is concealed from carnal eyes, for the time of her breaking forth in all her splendour is not yet come. The idea of tranquil security is also suggested to us: for the myrtle grove in the valley is still and calm, while the storm sweeps over the mountain summits. Tempests spend their force upon the craggy peaks of the Alps, but down yonder where flows the stream which maketh glad the city of our God, the myrtles flourish by the still waters, all unshaken by the impetuous wind. How great is the inward tranquility of God's Church! Even when opposed and persecuted, she has a peace which the world gives not, and which, therefore, it cannot take away: the peace of God which passeth all understanding keeps the hearts and minds of God's people. Does not the metaphor forcibly picture the peaceful, perpetual growth of the saints? The myrtle sheds not her leaves, she is always green; and the Church in her worst time still hath a blessed verdure of grace about her; nay, she has sometimes exhibited most verdure when her winter has been sharpest. She has prospered most when her adversities have been most severe. Hence the text hints at victory. The myrtle is the emblem of peace, and a significant token of triumph. The brows of conquerors were bound with myrtle and with laurel; and is not the Church ever victorious? Is not every Christian more than a conqueror through him that loved him? Living in peace, do not the saints fall asleep in the arms of victory?

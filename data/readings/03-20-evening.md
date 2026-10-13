@@ -1,0 +1,19 @@
+---
+date: "03-20"
+slot: evening
+title: "Evening | March 20"
+scripture_ref: "Ephesians 5:25"
+scripture_ref_as_printed: "Ephesians 5:25"
+scripture_text: "Husbands, love your wives, even as Christ also loved the church."
+source: "https://www.ccel.org/ccel/spurgeon/morneve.d0320pm.html"
+edition: "Morning and Evening: Daily Readings, C. H. Spurgeon. CCEL electronic edition of the public-domain combined text (Morning by Morning, 1865; Evening by Evening, 1868)."
+public_domain: "Charles Haddon Spurgeon (1834-1892). This text is in the public domain in the United States."
+---
+
+# Evening | March 20
+
+**Ephesians 5:25**
+
+"Husbands, love your wives, even as Christ also loved the church."
+
+What a golden example Christ gives to his disciples! Few masters could venture to say, "If you would practise my teaching, imitate my life;" but as the life of Jesus is the exact transcript of perfect virtue, he can point to himself as the paragon of holiness, as well as the teacher of it. The Christian should take nothing short of Christ for his model. Under no circumstances ought we to be content unless we reflect the grace which was in him. As a husband, the Christian is to look upon the portrait of Christ Jesus, and he is to paint according to that copy. The true Christian is to be such a husband as Christ was to his church. The love of a husband is special. The Lord Jesus cherishes for the church a peculiar affection, which is set upon her above the rest of mankind: "I pray for them, I pray not for the world." The elect church is the favourite of heaven, the treasure of Christ, the crown of his head, the bracelet of his arm, the breastplate of his heart, the very centre and core of his love. A husband should love his wife with a constant love, for thus Jesus loves his church. He does not vary in his affection. He may change in his display of affection, but the affection itself is still the same. A husband should love his wife with an enduring love, for nothing "shall be able to separate us from the love of God, which is in Christ Jesus our Lord." A true husband loves his wife with a hearty love, fervent and intense. It is not mere lip-service. Ah! beloved, what more could Christ have done in proof of his love than he has done? Jesus has a delighted love towards his spouse: He prizes her affection, and delights in her with sweet complacence. Believer, you wonder at Jesus' love; you admire it--are you imitating it? In your domestic relationships is the rule and measure of your love--"even as Christ loved the church?"

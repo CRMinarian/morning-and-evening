@@ -1,0 +1,21 @@
+---
+date: "12-04"
+slot: morning
+title: "Morning | December 4"
+scripture_ref: "Acts 18:10"
+scripture_ref_as_printed: "Acts 18:10"
+scripture_text: "I have much people in this city."
+source: "https://www.ccel.org/ccel/spurgeon/morneve.d1204am.html"
+edition: "Morning and Evening: Daily Readings, C. H. Spurgeon. CCEL electronic edition of the public-domain combined text (Morning by Morning, 1865; Evening by Evening, 1868)."
+public_domain: "Charles Haddon Spurgeon (1834-1892). This text is in the public domain in the United States."
+---
+
+# Morning | December 4
+
+**Acts 18:10**
+
+"I have much people in this city."
+
+This should be a great encouragement to try to do good, since God has among the vilest of the vile, the most reprobate, the most debauched and drunken, an elect people who must be saved. When you take the Word to them, you do so because God has ordained you to be the messenger of life to their souls, and they must receive it, for so the decree of predestination runs. They are as much redeemed by blood as the saints before the eternal throne. They are Christ's property, and yet perhaps they are lovers of the ale-house, and haters of holiness; but if Jesus Christ purchased them he will have them. God is not unfaithful to forget the price which his Son has paid. He will not suffer his substitution to be in any case an ineffectual, dead thing. Tens of thousands of redeemed ones are not regenerated yet, but regenerated they must be; and this is our comfort when we go forth to them with the quickening Word of God.
+
+Nay, more, these ungodly ones are prayed for by Christ before the throne. "Neither pray I for these alone," saith the great Intercessor, "but for them also which shall believe on me through their word." Poor, ignorant souls, they know nothing about prayer for themselves, but Jesus prays for them. Their names are on his breastplate, and ere long they must bow their stubborn knee, breathing the penitential sigh before the throne of grace. "The time of figs is not yet." The predestinated moment has not struck; but, when it comes, they shall obey, for God will have his own; they must, for the Spirit is not to be withstood when he cometh forth with fulness of power--they must become the willing servants of the living God. "My people shall be willing in the day of my power." "He shall justify many." "He shall see of the travail of his soul." "I will divide him a portion with the great, and he shall divide the spoil with the strong."

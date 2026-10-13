@@ -1,0 +1,29 @@
+---
+date: "12-23"
+slot: morning
+title: "Morning | December 23"
+scripture_ref: "Luke 14:10"
+scripture_ref_as_printed: "Luke 14:10"
+scripture_text: "Friend, go up higher."
+source: "https://www.ccel.org/ccel/spurgeon/morneve.d1223am.html"
+edition: "Morning and Evening: Daily Readings, C. H. Spurgeon. CCEL electronic edition of the public-domain combined text (Morning by Morning, 1865; Evening by Evening, 1868)."
+public_domain: "Charles Haddon Spurgeon (1834-1892). This text is in the public domain in the United States."
+---
+
+# Morning | December 23
+
+**Luke 14:10**
+
+"Friend, go up higher."
+
+When first the life of grace begins in the soul, we do indeed draw near to God, but it is with great fear and trembling. The soul conscious of guilt, and humbled thereby, is overawed with the solemnity of its position; it is cast to the earth by a sense of the grandeur of Jehovah, in whose presence it stands. With unfeigned bashfulness it takes the lowest room.
+
+But, in after life, as the Christian grows in grace, although he will never forget the solemnity of his position, and will never lose that holy awe which must encompass a gracious man when he is in the presence of the God who can create or can destroy; yet his fear has all its terror taken out of it; it becomes a holy reverence, and no more an overshadowing dread. He is called up higher, to greater access to God in Christ Jesus. Then the man of God, walking amid the splendours of Deity, and veiling his face like the glorious cherubim, with those twin wings, the blood and righteousness of Jesus Christ, will, reverent and bowed in spirit, approach the throne; and seeing there a God of love, of goodness, and of mercy, he will realize rather the covenant character of God than his absolute Deity. He will see in God rather his goodness than his greatness, and more of his love than of his majesty. Then will the soul, bowing still as humbly as aforetime, enjoy a more sacred liberty of intercession; for while prostrate before the glory of the Infinite God, it will be sustained by the refreshing consciousness of being in the presence of boundless mercy and infinite love, and by the realization of acceptance "in the Beloved." Thus the believer is bidden to come up higher, and is enabled to exercise the privilege of rejoicing in God, and drawing near to him in holy confidence, saying, "Abba, Father."
+
+"So may we go from strength to strength,
+
+And daily grow in grace,
+
+Till in thine image raised at length,
+
+We see thee face to face."

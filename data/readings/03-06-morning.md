@@ -1,0 +1,19 @@
+---
+date: "03-06"
+slot: morning
+title: "Morning | March 6"
+scripture_ref: "John 3:7"
+scripture_ref_as_printed: "John 3:7"
+scripture_text: "Ye must be born again."
+source: "https://www.ccel.org/ccel/spurgeon/morneve.d0306am.html"
+edition: "Morning and Evening: Daily Readings, C. H. Spurgeon. CCEL electronic edition of the public-domain combined text (Morning by Morning, 1865; Evening by Evening, 1868)."
+public_domain: "Charles Haddon Spurgeon (1834-1892). This text is in the public domain in the United States."
+---
+
+# Morning | March 6
+
+**John 3:7**
+
+"Ye must be born again."
+
+Regeneration is a subject which lies at the very basis of salvation, and we should be very diligent to take heed that we really are "born again," for there are many who fancy they are, who are not. Be assured that the name of a Christian is not the nature of a Christian; and that being born in a Christian land, and being recognized as professing the Christian religion is of no avail whatever, unless there be something more added to it--the being "born again," is a matter so mysterious, that human words cannot describe it. "The wind bloweth where it listeth, and thou hearest the sound thereof, but canst not tell whence it cometh, and whither it goeth: so is every one that is born of the Spirit." Nevertheless, it is a change which is known and felt: known by works of holiness, and felt by a gracious experience. This great work is supernatural. It is not an operation which a man performs for himself: a new principle is infused, which works in the heart, renews the soul, and affects the entire man. It is not a change of my name, but a renewal of my nature, so that I am not the man I used to be, but a new man in Christ Jesus. To wash and dress a corpse is a far different thing from making it alive: man can do the one, God alone can do the other. If you have then, been "born again," your acknowledgment will be, "O Lord Jesus, the everlasting Father, thou art my spiritual Parent; unless thy Spirit had breathed into me the breath of a new, holy, and spiritual life, I had been to this day dead in trespasses and sins.' My heavenly life is wholly derived from thee, to thee I ascribe it. My life is hid with Christ in God.' It is no longer I who live, but Christ who liveth in me." May the Lord enable us to be well assured on this vital point, for to be unregenerate is to be unsaved, unpardoned, without God, and without hope.

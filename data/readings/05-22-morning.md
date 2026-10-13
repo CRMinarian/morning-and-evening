@@ -1,0 +1,27 @@
+---
+date: "05-22"
+slot: morning
+title: "Morning | May 22"
+scripture_ref: "Psalm 107:7"
+scripture_ref_as_printed: "Psalm 107:7"
+scripture_text: "He led them forth by the right way."
+source: "https://www.ccel.org/ccel/spurgeon/morneve.d0522am.html"
+edition: "Morning and Evening: Daily Readings, C. H. Spurgeon. CCEL electronic edition of the public-domain combined text (Morning by Morning, 1865; Evening by Evening, 1868)."
+public_domain: "Charles Haddon Spurgeon (1834-1892). This text is in the public domain in the United States."
+---
+
+# Morning | May 22
+
+**Psalm 107:7**
+
+"He led them forth by the right way."
+
+Changeful experience often leads the anxious believer to inquire "Why is it thus with me?" I looked for light, but lo, darkness came; for peace, but behold, trouble. I said in my heart, my mountain standeth firm; I shall never be moved. Lord, thou dost hide thy face, and I am troubled. It was but yesterday that I could read my title clear; today my evidences are bedimmed, and my hopes are clouded. Yesterday, I could climb to Pisgah's top, and view the landscape o'er, and rejoice with confidence in my future inheritance; today, my spirit has no hopes, but many fears; no joys, but much distress. Is this part of God's plan with me? Can this be the way in which God would bring me to heaven? Yes, it is even so. The eclipse of your faith, the darkness of your mind, the fainting of your hope, all these things are but parts of God's method of making you ripe for the great inheritance upon which you shall soon enter. These trials are for the testing and strengthening of your faith--they are waves that wash you further upon the rock--they are winds which waft your ship the more swiftly towards the desired haven. According to David's words, so it might be said of you, "So he bringeth them to their desired haven." By honour and dishonour, by evil report and by good report, by plenty and by poverty, by joy and by distress, by persecution and by peace, by all these things is the life of your souls maintained, and by each of these are you helped on your way. Oh, think not, believer, that your sorrows are out of God's plan; they are necessary parts of it. "We must, through much tribulation, enter the kingdom." Learn, then, even to "count it all joy when ye fall into divers temptations."
+
+"O let my trembling soul be still,
+
+And wait thy wise, thy holy will!
+
+I cannot, Lord, thy purpose see,
+
+Yet all is well since ruled by thee."

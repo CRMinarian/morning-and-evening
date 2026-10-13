@@ -1,0 +1,19 @@
+---
+date: "04-06"
+slot: morning
+title: "Morning | April 6"
+scripture_ref: "Hebrews 13:13"
+scripture_ref_as_printed: "Hebrews 13:13"
+scripture_text: "Let us go forth therefore unto him without the camp."
+source: "https://www.ccel.org/ccel/spurgeon/morneve.d0406am.html"
+edition: "Morning and Evening: Daily Readings, C. H. Spurgeon. CCEL electronic edition of the public-domain combined text (Morning by Morning, 1865; Evening by Evening, 1868)."
+public_domain: "Charles Haddon Spurgeon (1834-1892). This text is in the public domain in the United States."
+---
+
+# Morning | April 6
+
+**Hebrews 13:13**
+
+"Let us go forth therefore unto him without the camp."
+
+Jesus, bearing his cross, went forth to suffer without the gate. The Christian's reason for leaving the camp of the world's sin and religion is not because he loves to be singular, but because Jesus did so; and the disciple must follow his Master. Christ was "not of the world:" his life and his testimony were a constant protest against conformity with the world. Never was such overflowing affection for men as you find in him; but still he was separate from sinners. In like manner Christ's people must "go forth unto him." They must take their position "without the camp," as witness-bearers for the truth. They must be prepared to tread the straight and narrow path. They must have bold, unflinching, lion-like hearts, loving Christ first, and his truth next, and Christ and his truth beyond all the world. Jesus would have his people "go forth without the camp" for their own sanctification. You cannot grow in grace to any high degree while you are conformed to the world. The life of separation may be a path of sorrow, but it is the highway of safety; and though the separated life may cost you many pangs, and make every day a battle, yet it is a happy life after all. No joy can excel that of the soldier of Christ: Jesus reveals himself so graciously, and gives such sweet refreshment, that the warrior feels more calm and peace in his daily strife than others in their hours of rest. The highway of holiness is the highway of communion. It is thus we shall hope to win the crown if we are enabled by divine grace faithfully to follow Christ "without the camp." The crown of glory will follow the cross of separation. A moment's shame will be well recompensed by eternal honour; a little while of witness-bearing will seem nothing when we are "forever with the Lord."

@@ -1,0 +1,27 @@
+---
+date: "04-22"
+slot: evening
+title: "Evening | April 22"
+scripture_ref: "Psalm 91:5"
+scripture_ref_as_printed: "Psalm 91:5"
+scripture_text: "Thou shalt not be afraid for the terror by night."
+source: "https://www.ccel.org/ccel/spurgeon/morneve.d0422pm.html"
+edition: "Morning and Evening: Daily Readings, C. H. Spurgeon. CCEL electronic edition of the public-domain combined text (Morning by Morning, 1865; Evening by Evening, 1868)."
+public_domain: "Charles Haddon Spurgeon (1834-1892). This text is in the public domain in the United States."
+---
+
+# Evening | April 22
+
+**Psalm 91:5**
+
+"Thou shalt not be afraid for the terror by night."
+
+What is this terror? It may be the cry of fire, or the noise of thieves, or fancied appearances, or the shriek of sudden sickness or death. We live in the world of death and sorrow, we may therefore look for ills as well in the night-watches as beneath the glare of the broiling sun. Nor should this alarm us, for be the terror what it may, the promise is that the believer shall not be afraid. Why should he? Let us put it more closely, why should we? God our Father is here, and will be here all through the lonely hours; he is an almighty Watcher, a sleepless Guardian, a faithful Friend. Nothing can happen without his direction, for even hell itself is under his control. Darkness is not dark to him. He has promised to be a wall of fire around his people--and who can break through such a barrier? Worldlings may well be afraid, for they have an angry God above them, a guilty conscience within them, and a yawning hell beneath them; but we who rest in Jesus are saved from all these through rich mercy. If we give way to foolish fear we shall dishonour our profession, and lead others to doubt the reality of godliness. We ought to be afraid of being afraid, lest we should vex the Holy Spirit by foolish distrust. Down, then, ye dismal forebodings and groundless apprehensions, God has not forgotten to be gracious, nor shut up his tender mercies; it may be night in the soul, but there need be no terror, for the God of love changes not. Children of light may walk in darkness, but they are not therefore cast away, nay, they are now enabled to prove their adoption by trusting in their heavenly Father as hypocrites cannot do.
+
+"Though the night be dark and dreary,
+
+Darkness cannot hide from thee;
+
+Thou art he, who, never weary,
+
+Watchest where thy people be."

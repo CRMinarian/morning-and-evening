@@ -1,0 +1,21 @@
+---
+date: "01-20"
+slot: evening
+title: "Evening | January 20"
+scripture_ref: "Psalm 119:37"
+scripture_ref_as_printed: "Psalm 119:37"
+scripture_text: "Turn away mine eyes from beholding vanity; and quicken thou me in thy way."
+source: "https://www.ccel.org/ccel/spurgeon/morneve.d0120pm.html"
+edition: "Morning and Evening: Daily Readings, C. H. Spurgeon. CCEL electronic edition of the public-domain combined text (Morning by Morning, 1865; Evening by Evening, 1868)."
+public_domain: "Charles Haddon Spurgeon (1834-1892). This text is in the public domain in the United States."
+---
+
+# Evening | January 20
+
+**Psalm 119:37**
+
+"Turn away mine eyes from beholding vanity; and quicken thou me in thy way."
+
+There are divers kinds of vanity. The cap and bells of the fool, the mirth of the world, the dance, the lyre, and the cup of the dissolute, all these men know to be vanities; they wear upon their forefront their proper name and title. Far more treacherous are those equally vain things, the cares of this world and the deceitfulness of riches. A man may follow vanity as truly in the counting-house as in the theatre. If he be spending his life in amassing wealth, he passes his days in a vain show. Unless we follow Christ, and make our God the great object of life, we only differ in appearance from the most frivolous. It is clear that there is much need of the first prayer of our text.
+
+"Quicken thou me in thy way." The Psalmist confesses that he is dull, heavy, lumpy, all but dead. Perhaps, dear reader, you feel the same. We are so sluggish that the best motives cannot quicken us, apart from the Lord himself. What! will not hell quicken me? Shall I think of sinners perishing, and yet not be awakened? Will not heaven quicken me? Can I think of the reward that awaiteth the righteous, and yet be cold? Will not death quicken me? Can I think of dying, and standing before my God, and yet be slothful in my Master's service? Will not Christ's love constrain me? Can I think of his dear wounds, can I sit at the foot of his cross, and not be stirred with fervency and zeal? It seems so! No mere consideration can quicken us to zeal, but God Himself must do it, hence the cry, "Quicken thou me." The Psalmist breathes out his whole soul in vehement pleadings: his body and his soul unite in prayer. "Turn away mine eyes," says the body: "Quicken thou me," cries the soul. This is a fit prayer for every day. O Lord, hear it in my case this night.

@@ -1,0 +1,35 @@
+---
+date: "07-21"
+slot: morning
+title: "Morning | July 21"
+scripture_ref: "Isaiah 37:22"
+scripture_ref_as_printed: "Isaiah 37:22"
+scripture_text: "The daughter of Jerusalem hath shaken her head at thee."
+source: "https://www.ccel.org/ccel/spurgeon/morneve.d0721am.html"
+edition: "Morning and Evening: Daily Readings, C. H. Spurgeon. CCEL electronic edition of the public-domain combined text (Morning by Morning, 1865; Evening by Evening, 1868)."
+public_domain: "Charles Haddon Spurgeon (1834-1892). This text is in the public domain in the United States."
+---
+
+# Morning | July 21
+
+**Isaiah 37:22**
+
+"The daughter of Jerusalem hath shaken her head at thee."
+
+Reassured by the Word of the Lord, the poor trembling citizens of Zion grew bold, and shook their heads at Sennacherib's boastful threats. Strong faith enables the servants of God to look with calm contempt upon their most haughty foes. We know that our enemies are attempting impossibilities. They seek to destroy the eternal life, which cannot die while Jesus lives; to overthrow the citadel, against which the gates of hell shall not prevail. They kick against the pricks to their own wounding, and rush upon the bosses of Jehovah's buckler to their own hurt.
+
+We know their weakness. What are they but men? And what is man but a worm? They roar and swell like waves of the sea, foaming out their own shame. When the Lord ariseth, they shall fly as chaff before the wind, and be consumed as crackling thorns. Their utter powerlessness to do damage to the cause of God and his truth, may make the weakest soldiers in Zion's ranks laugh them to scorn.
+
+Above all, we know that the Most High is with us, and when he dresses himself in arms, where are his enemies? If he cometh forth from his place, the potsherds of the earth will not long contend with their Maker. His rod of iron shall dash them in pieces like a potter's vessel, and their very remembrance shall perish from the earth. Away, then, all fears, the kingdom is safe in the King's hands. Let us shout for joy, for the Lord reigneth, and his foes shall be as straw for the dunghill.
+
+"As true as God's own word is true;
+
+Nor earth, nor hell, with all their crew,
+
+Against us shall prevail.
+
+A jest, and by-word, are they grown;
+
+God is with us, we are his own,
+
+Our victory cannot fail."

@@ -1,0 +1,19 @@
+---
+date: "02-19"
+slot: evening
+title: "Evening | February 19"
+scripture_ref: "John 1:41"
+scripture_ref_as_printed: "John 1:41"
+scripture_text: "He first findeth his own brother Simon."
+source: "https://www.ccel.org/ccel/spurgeon/morneve.d0219pm.html"
+edition: "Morning and Evening: Daily Readings, C. H. Spurgeon. CCEL electronic edition of the public-domain combined text (Morning by Morning, 1865; Evening by Evening, 1868)."
+public_domain: "Charles Haddon Spurgeon (1834-1892). This text is in the public domain in the United States."
+---
+
+# Evening | February 19
+
+**John 1:41**
+
+"He first findeth his own brother Simon."
+
+This case is an excellent pattern of all cases where spiritual life is vigorous. As soon as a man has found Christ, he begins to find others. I will not believe that thou hast tasted of the honey of the gospel if thou canst eat it all thyself. True grace puts an end to all spiritual monopoly. Andrew first found his own brother Simon, and then others. Relationship has a very strong demand upon our first individual efforts. Andrew, thou didst well to begin with Simon. I doubt whether there are not some Christians giving away tracts at other people's houses who would do well to give away a tract at their own--whether there are not some engaged in works of usefulness abroad who are neglecting their special sphere of usefulness at home. Thou mayst or thou mayst not be called to evangelize the people in any particular locality, but certainly thou art called to see after thine own servants, thine own kinsfolk and acquaintance. Let thy religion begin at home. Many tradesmen export their best commodities--the Christian should not. He should have all his conversation everywhere of the best savour; but let him have a care to put forth the sweetest fruit of spiritual life and testimony in his own family. When Andrew went to find his brother, he little imagined how eminent Simon would become. Simon Peter was worth ten Andrews so far as we can gather from sacred history, and yet Andrew was instrumental in bringing him to Jesus. You may be very deficient in talent yourself, and yet you may be the means of drawing to Christ one who shall become eminent in grace and service. Ah! dear friend, you little know the possibilities which are in you. You may but speak a word to a child, and in that child there may be slumbering a noble heart which shall stir the Christian church in years to come. Andrew has only two talents, but he finds Peter. Go thou and do likewise.

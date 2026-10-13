@@ -1,0 +1,19 @@
+---
+date: "11-20"
+slot: evening
+title: "Evening | November 20"
+scripture_ref: "Proverbs 30:26"
+scripture_ref_as_printed: "Proverbs 30:26"
+scripture_text: "The conies are but a feeble folk, yet make they their houses in the rocks."
+source: "https://www.ccel.org/ccel/spurgeon/morneve.d1120pm.html"
+edition: "Morning and Evening: Daily Readings, C. H. Spurgeon. CCEL electronic edition of the public-domain combined text (Morning by Morning, 1865; Evening by Evening, 1868)."
+public_domain: "Charles Haddon Spurgeon (1834-1892). This text is in the public domain in the United States."
+---
+
+# Evening | November 20
+
+**Proverbs 30:26**
+
+"The conies are but a feeble folk, yet make they their houses in the rocks."
+
+Conscious of their own natural defencelessness, the conies resort to burrows in the rocks, and are secure from their enemies. My heart, be willing to gather a lesson from these feeble folk. Thou art as weak and as exposed to peril as the timid cony; be as wise to seek a shelter. My best security is within the munitions of an immutable Jehovah, where his unalterable promises stand like giant walls of rock. It will be well with thee, my heart, if thou canst always hide thyself in the bulwarks of his glorious attributes, all of which are guarantees of safety for those who put their trust in him. Blessed be the name of the Lord, I have so done, and have found myself like David in Adullam, safe from the cruelty of my enemy; I have not now to find out the blessedness of the man who puts his trust in the Lord, for long ago, when Satan and my sins pursued me, I fled to the cleft of the rock Christ Jesus, and in his riven side I found a delightful resting-place. My heart, run to him anew tonight, whatever thy present grief may be; Jesus feels for thee; Jesus consoles thee; Jesus will help thee. No monarch in his impregnable fortress is more secure than the cony in his rocky burrow. The master of ten thousand chariots is not one whit better protected than the little dweller in the mountain's cleft. In Jesus the weak are strong, and the defenceless safe; they could not be more strong if they were giants, or more safe if they were in heaven. Faith gives to men on earth the protection of the God of heaven. More they cannot need, and need not wish. The conies cannot build a castle, but they avail themselves of what is there already: I cannot make myself a refuge, but Jesus has provided it, his Father has given it, his Spirit has revealed it, and lo, again tonight I enter it, and am safe from every foe.

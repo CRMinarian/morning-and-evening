@@ -1,0 +1,27 @@
+---
+date: "11-03"
+slot: morning
+title: "Morning | November 3"
+scripture_ref: "Acts 9:11"
+scripture_ref_as_printed: "Acts 9:11"
+scripture_text: "Behold, he prayeth."
+source: "https://www.ccel.org/ccel/spurgeon/morneve.d1103am.html"
+edition: "Morning and Evening: Daily Readings, C. H. Spurgeon. CCEL electronic edition of the public-domain combined text (Morning by Morning, 1865; Evening by Evening, 1868)."
+public_domain: "Charles Haddon Spurgeon (1834-1892). This text is in the public domain in the United States."
+---
+
+# Morning | November 3
+
+**Acts 9:11**
+
+"Behold, he prayeth."
+
+Prayers are instantly noticed in heaven. The moment Saul began to pray the Lord heard him. Here is comfort for the distressed but praying soul. Oftentimes a poor broken-hearted one bends his knee, but can only utter his wailing in the language of sighs and tears; yet that groan has made all the harps of heaven thrill with music; that tear has been caught by God and treasured in the lachrymatory of heaven. "Thou puttest my tears into thy bottle," implies that they are caught as they flow. The suppliant, whose fears prevent his words, will be well understood by the Most High. He may only look up with misty eye; but "prayer is the falling of a tear." Tears are the diamonds of heaven; sighs are a part of the music of Jehovah's court, and are numbered with "the sublimest strains that reach the majesty on high." Think not that your prayer, however weak or trembling, will be unregarded. Jacob's ladder is lofty, but our prayers shall lean upon the Angel of the covenant and so climb its starry rounds. Our God not only hears prayer but also loves to hear it. "He forgetteth not the cry of the humble." True, He regards not high looks and lofty words; He cares not for the pomp and pageantry of kings; He listens not to the swell of martial music; He regards not the triumph and pride of man; but wherever there is a heart big with sorrow, or a lip quivering with agony, or a deep groan, or a penitential sigh, the heart of Jehovah is open; He marks it down in the registry of His memory; He puts our prayers, like rose leaves, between the pages of His book of remembrance, and when the volume is opened at last, there shall be a precious fragrance springing up therefrom.
+
+"Faith asks no signal from the skies,
+
+To show that prayers accepted rise,
+
+Our Priest is in His holy place,
+
+And answers from the throne of grace."
