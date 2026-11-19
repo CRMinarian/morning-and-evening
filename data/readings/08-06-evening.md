@@ -1,0 +1,19 @@
+---
+date: "08-06"
+slot: evening
+title: "Evening | August 6"
+scripture_ref: "Psalm 72:19"
+scripture_ref_as_printed: "Psalm 72:19"
+scripture_text: "Let the whole earth be filled with his glory; Amen, and Amen."
+source: "https://www.ccel.org/ccel/spurgeon/morneve.d0806pm.html"
+edition: "Morning and Evening: Daily Readings, C. H. Spurgeon. CCEL electronic edition of the public-domain combined text (Morning by Morning, 1865; Evening by Evening, 1868)."
+public_domain: "Charles Haddon Spurgeon (1834-1892). This text is in the public domain in the United States."
+---
+
+# Evening | August 6
+
+**Psalm 72:19**
+
+"Let the whole earth be filled with his glory; Amen, and Amen."
+
+This is a large petition. To intercede for a whole city needs a stretch of faith, and there are times when a prayer for one man is enough to stagger us. But how far-reaching was the psalmist's dying intercession! How comprehensive! How sublime! "Let the whole earth be filled with his glory." It doth not exempt a single country however crushed by the foot of superstition; it doth not exclude a single nation however barbarous. For the cannibal as well as for the civilized, for all climes and races this prayer is uttered: the whole circle of the earth it encompasses, and omits no son of Adam. We must be up and doing for our Master, or we cannot honestly offer such a prayer. The petition is not asked with a sincere heart unless we endeavour, as God shall help us, to extend the kingdom of our Master. Are there not some who neglect both to plead and to labour? Reader, is it your prayer? Turn your eyes to Calvary. Behold the Lord of Life nailed to a cross, with the thorn-crown about his brow, with bleeding head, and hands, and feet. What! can you look upon this miracle of miracles, the death of the Son of God, without feeling within your bosom a marvellous adoration that language never can express? And when you feel the blood applied to your conscience, and know that he has blotted out your sins, you are not a man unless you start from your knees and cry, "Let the whole earth be filled with his glory; Amen, and Amen." Can you bow before the Crucified in loving homage, and not wish to see your Monarch master of the world? Out on you if you can pretend to love your Prince, and desire not to see him the universal ruler. Your piety is worthless unless it leads you to wish that the same mercy which has been extended to you may bless the whole world. Lord, it is harvest-time, put in thy sickle and reap.

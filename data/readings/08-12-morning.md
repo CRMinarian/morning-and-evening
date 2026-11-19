@@ -1,0 +1,47 @@
+---
+date: "08-12"
+slot: morning
+title: "Morning | August 12"
+scripture_ref: "Psalm 97:1"
+scripture_ref_as_printed: "Psalm 97:1"
+scripture_text: "The Lord reigneth, let the earth rejoice."
+source: "https://www.ccel.org/ccel/spurgeon/morneve.d0812am.html"
+edition: "Morning and Evening: Daily Readings, C. H. Spurgeon. CCEL electronic edition of the public-domain combined text (Morning by Morning, 1865; Evening by Evening, 1868)."
+public_domain: "Charles Haddon Spurgeon (1834-1892). This text is in the public domain in the United States."
+---
+
+# Morning | August 12
+
+**Psalm 97:1**
+
+"The Lord reigneth, let the earth rejoice."
+
+Causes for disquietude there are none so long as this blessed sentence is true. On earth the Lord's power as readily controls the rage of the wicked as the rage of the sea; his love as easily refreshes the poor with mercy as the earth with showers. Majesty gleams in flashes of fire amid the tempest's horrors, and the glory of the Lord is seen in its grandeur in the fall of empires, and the crash of thrones. In all our conflicts and tribulations, we may behold the hand of the divine King.
+
+"God is God; he sees and hears
+
+All our troubles, all our tears.
+
+Soul, forget not, 'mid thy pains,
+
+God o'er all forever reigns."
+
+In hell, evil spirits own, with misery, his undoubted supremacy. When permitted to roam abroad, it is with a chain at their heel; the bit is in the mouth of behemoth, and the hook in the jaws of leviathan. Death's darts are under the Lord's lock, and the grave's prisons have divine power as their warder. The terrible vengeance of the Judge of all the earth makes fiends cower down and tremble, even as dogs in the kennel fear the hunter's whip.
+
+"Fear not death, nor Satan's thrusts,
+
+God defends who in him trusts;
+
+Soul, remember, in thy pains,
+
+God o'er all forever reigns."
+
+In heaven none doubt the sovereignty of the King Eternal, but all fall on their faces to do him homage. Angels are his courtiers, the redeemed his favourites, and all delight to serve him day and night. May we soon reach the city of the great King!
+
+"For this life's long night of sadness
+
+He will give us peace and gladness.
+
+Soul, remember, in thy pains,
+
+God o'er all forever reigns."

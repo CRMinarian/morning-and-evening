@@ -1,0 +1,19 @@
+---
+date: "02-12"
+slot: morning
+title: "Morning | February 12"
+scripture_ref: "2 Corinthians 1:5"
+scripture_ref_as_printed: "2 Corinthians 1:5"
+scripture_text: "For as the sufferings of Christ abound in us, so our consolation also aboundeth by Christ."
+source: "https://www.ccel.org/ccel/spurgeon/morneve.d0212am.html"
+edition: "Morning and Evening: Daily Readings, C. H. Spurgeon. CCEL electronic edition of the public-domain combined text (Morning by Morning, 1865; Evening by Evening, 1868)."
+public_domain: "Charles Haddon Spurgeon (1834-1892). This text is in the public domain in the United States."
+---
+
+# Morning | February 12
+
+**2 Corinthians 1:5**
+
+"For as the sufferings of Christ abound in us, so our consolation also aboundeth by Christ."
+
+There is a blessed proportion. The Ruler of Providence bears a pair of scales--in this side he puts his people's trials, and in that he puts their consolations. When the scale of trial is nearly empty, you will always find the scale of consolation in nearly the same condition; and when the scale of trials is full, you will find the scale of consolation just as heavy. When the black clouds gather most, the light is the more brightly revealed to us. When the night lowers and the tempest is coming on, the Heavenly Captain is always closest to his crew. It is a blessed thing, that when we are most cast down, then it is that we are most lifted up by the consolations of the Spirit. One reason is, because trials make more room for consolation. Great hearts can only be made by great troubles. The spade of trouble digs the reservoir of comfort deeper, and makes more room for consolation. God comes into our heart--he finds it full--he begins to break our comforts and to make it empty; then there is more room for grace. The humbler a man lies, the more comfort he will always have, because he will be more fitted to receive it. Another reason why we are often most happy in our troubles, is this--then we have the closest dealings with God. When the barn is full, man can live without God: when the purse is bursting with gold, we try to do without so much prayer. But once take our gourds away, and we want our God; once cleanse the idols out of the house, then we are compelled to honour Jehovah. "Out of the depths have I cried unto thee, O Lord." There is no cry so good as that which comes from the bottom of the mountains; no prayer half so hearty as that which comes up from the depths of the soul, through deep trials and afflictions. Hence they bring us to God, and we are happier; for nearness to God is happiness. Come, troubled believer, fret not over your heavy troubles, for they are the heralds of weighty mercies.

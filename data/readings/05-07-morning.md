@@ -1,0 +1,21 @@
+---
+date: "05-07"
+slot: morning
+title: "Morning | May 7"
+scripture_ref: "Matthew 12:15"
+scripture_ref_as_printed: "Matthew 12:15"
+scripture_text: "Great multitudes followed him, and he healed them all."
+source: "https://www.ccel.org/ccel/spurgeon/morneve.d0507am.html"
+edition: "Morning and Evening: Daily Readings, C. H. Spurgeon. CCEL electronic edition of the public-domain combined text (Morning by Morning, 1865; Evening by Evening, 1868)."
+public_domain: "Charles Haddon Spurgeon (1834-1892). This text is in the public domain in the United States."
+---
+
+# Morning | May 7
+
+**Matthew 12:15**
+
+"Great multitudes followed him, and he healed them all."
+
+What a mass of hideous sickness must have thrust itself under the eye of Jesus! Yet we read not that he was disgusted, but patiently waited on every case. What a singular variety of evils must have met at his feet! What sickening ulcers and putrefying sores! Yet he was ready for every new shape of the monster evil, and was victor over it in every form. Let the arrow fly from what quarter it might, he quenched its fiery power. The heat of fever, or the cold of dropsy; the lethargy of palsy, or the rage of madness; the filth of leprosy, or the darkness of ophthalmia--all knew the power of his word, and fled at his command. In every corner of the field he was triumphant over evil, and received the homage of delivered captives. He came, he saw, he conquered everywhere. It is even so this morning. Whatever my own case may be, the beloved Physician can heal me; and whatever may be the state of others whom I may remember at this moment in prayer, I may have hope in Jesus that he will be able to heal them of their sins. My child, my friend, my dearest one, I can have hope for each, for all, when I remember the healing power of my Lord; and on my own account, however severe my struggle with sins and infirmities, I may yet be of good cheer. He who on earth walked the hospitals, still dispenses his grace, and works wonders among the sons of men: let me go to him at once in right earnest.
+
+Let me praise him, this morning, as I remember how he wrought his spiritual cures, which bring him most renown. It was by taking upon himself our sicknesses. "By his stripes we are healed." The Church on earth is full of souls healed by our beloved Physician; and the inhabitants of heaven itself confess that "He healed them all." Come, then, my soul, publish abroad the virtue of his grace, and let it be "to the Lord for a name, for an everlasting sign which shall not be cut off."

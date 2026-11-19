@@ -1,0 +1,19 @@
+---
+date: "06-30"
+slot: evening
+title: "Evening | June 30"
+scripture_ref: "Jeremiah 32:17"
+scripture_ref_as_printed: "Jeremiah 32:17"
+scripture_text: "Ah Lord God, behold, thou hast made the heaven and the earth by thy great power and stretched out arm, and there is nothing too hard for thee."
+source: "https://www.ccel.org/ccel/spurgeon/morneve.d0630pm.html"
+edition: "Morning and Evening: Daily Readings, C. H. Spurgeon. CCEL electronic edition of the public-domain combined text (Morning by Morning, 1865; Evening by Evening, 1868)."
+public_domain: "Charles Haddon Spurgeon (1834-1892). This text is in the public domain in the United States."
+---
+
+# Evening | June 30
+
+**Jeremiah 32:17**
+
+"Ah Lord God, behold, thou hast made the heaven and the earth by thy great power and stretched out arm, and there is nothing too hard for thee."
+
+At the very time when the Chaldeans surrounded Jerusalem, and when the sword, famine and pestilence had desolated the land, Jeremiah was commanded by God to purchase a field, and have the deed of transfer legally sealed and witnessed. This was a strange purchase for a rational man to make. Prudence could not justify it, for it was buying with scarcely a probability that the person purchasing could ever enjoy the possession. But it was enough for Jeremiah that his God had bidden him, for well he knew that God will be justified of all his children. He reasoned thus: "Ah, Lord God! thou canst make this plot of ground of use to me; thou canst rid this land of these oppressors; thou canst make me yet sit under my vine and my fig-tree in the heritage which I have bought; for thou didst make the heavens and the earth, and there is nothing too hard for thee." This gave a majesty to the early saints, that they dared to do at God's command things which carnal reason would condemn. Whether it be a Noah who is to build a ship on dry land, an Abraham who is to offer up his only son, or a Moses who is to despise the treasures of Egypt, or a Joshua who is to besiege Jericho seven days, using no weapons but the blasts of rams' horns, they all act upon God's command, contrary to the dictates of carnal reason; and the Lord gives them a rich reward as the result of their obedient faith. Would to God we had in the religion of these modern times a more potent infusion of this heroic faith in God. If we would venture more upon the naked promise of God, we should enter a world of wonders to which as yet we are strangers. Let Jeremiah's place of confidence be ours--nothing is too hard for the God that created the heavens and the earth.

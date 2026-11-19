@@ -1,0 +1,23 @@
+---
+date: "08-30"
+slot: evening
+title: "Evening | August 30"
+scripture_ref: "Jeremiah 17:14"
+scripture_ref_as_printed: "Jeremiah 17:14"
+scripture_text: "Heal me, O Lord, and I shall be healed."
+source: "https://www.ccel.org/ccel/spurgeon/morneve.d0830pm.html"
+edition: "Morning and Evening: Daily Readings, C. H. Spurgeon. CCEL electronic edition of the public-domain combined text (Morning by Morning, 1865; Evening by Evening, 1868)."
+public_domain: "Charles Haddon Spurgeon (1834-1892). This text is in the public domain in the United States."
+---
+
+# Evening | August 30
+
+**Jeremiah 17:14**
+
+"Heal me, O Lord, and I shall be healed."
+
+"I have seen his ways, and will heal him."
+
+Isaiah 57:18
+
+It is the sole prerogative of God to remove spiritual disease. Natural disease may be instrumentally healed by men, but even then the honour is to be given to God who giveth virtue unto medicine, and bestoweth power unto the human frame to cast off disease. As for spiritual sicknesses, these remain with the great Physician alone; he claims it as his prerogative, "I kill and I make alive, I wound and I heal;" and one of the Lord's choice titles is Jehovah-Rophi, the Lord that healeth thee. "I will heal thee of thy wounds," is a promise which could not come from the lip of man, but only from the mouth of the eternal God. On this account the psalmist cried unto the Lord, "O Lord, heal me, for my bones are sore vexed," and again, "Heal my soul, for I have sinned against thee." For this, also, the godly praise the name of the Lord, saying, "He healeth all our diseases." He who made man can restore man; he who was at first the creator of our nature can new create it. What a transcendent comfort it is that in the person of Jesus "dwelleth all the fulness of the Godhead bodily!" My soul, whatever thy disease may be, this great Physician can heal thee. If he be God, there can be no limit to his power. Come then with the blind eye of darkened understanding, come with the limping foot of wasted energy, come with the maimed hand of weak faith, the fever of an angry temper, or the ague of shivering despondency, come just as thou art, for he who is God can certainly restore thee of thy plague. None shall restrain the healing virtue which proceeds from Jesus our Lord. Legions of devils have been made to own the power of the beloved Physician, and never once has he been baffled. All his patients have been cured in the past and shall be in the future, and thou shalt be one among them, my friend, if thou wilt but rest thyself in him this night.

@@ -1,0 +1,19 @@
+---
+date: "07-28"
+slot: evening
+title: "Evening | July 28"
+scripture_ref: "Acts 10:38"
+scripture_ref_as_printed: "Acts 10:38"
+scripture_text: "Who went about doing good."
+source: "https://www.ccel.org/ccel/spurgeon/morneve.d0728pm.html"
+edition: "Morning and Evening: Daily Readings, C. H. Spurgeon. CCEL electronic edition of the public-domain combined text (Morning by Morning, 1865; Evening by Evening, 1868)."
+public_domain: "Charles Haddon Spurgeon (1834-1892). This text is in the public domain in the United States."
+---
+
+# Evening | July 28
+
+**Acts 10:38**
+
+"Who went about doing good."
+
+Few words, but yet an exquisite miniature of the Lord Jesus Christ. There are not many touches, but they are the strokes of a master's pencil. Of the Saviour and only of the Saviour is it true in the fullest, broadest, and most unqualified sense. "He went about doing good." From this description it is evident that he did good personally. The evangelists constantly tell us that he touched the leper with his own finger, that he anointed the eyes of the blind, and that in cases where he was asked to speak the word only at a distance, he did not usually comply, but went himself to the sick bed, and there personally wrought the cure. A lesson to us, if we would do good, to do it ourselves. Give alms with your own hand; a kind look, or word, will enhance the value of the gift. Speak to a friend about his soul; your loving appeal will have more influence than a whole library of tracts. Our Lord's mode of doing good sets forth his incessant activity! He did not only the good which came close to hand, but he "went about" on his errands of mercy. Throughout the whole land of Judea there was scarcely a village or a hamlet which was not gladdened by the sight of him. How this reproves the creeping, loitering manner, in which many professors serve the Lord. Let us gird up the loins of our mind, and be not weary in well doing. Does not the text imply that Jesus Christ went out of his way to do good? "He went about doing good." He was never deterred by danger or difficulty. He sought out the objects of his gracious intentions. So must we. If old plans will not answer, we must try new ones, for fresh experiments sometimes achieve more than regular methods. Christ's perseverance, and the unity of his purpose, are also hinted at, and the practical application of the subject may be summed up in the words, "He hath left us an example that we should follow in his steps."

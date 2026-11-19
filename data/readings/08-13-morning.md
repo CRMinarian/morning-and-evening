@@ -1,0 +1,19 @@
+---
+date: "08-13"
+slot: morning
+title: "Morning | August 13"
+scripture_ref: "Psalm 104:16"
+scripture_ref_as_printed: "Psalm 104:16"
+scripture_text: "The cedars of Lebanon which he hath planted."
+source: "https://www.ccel.org/ccel/spurgeon/morneve.d0813am.html"
+edition: "Morning and Evening: Daily Readings, C. H. Spurgeon. CCEL electronic edition of the public-domain combined text (Morning by Morning, 1865; Evening by Evening, 1868)."
+public_domain: "Charles Haddon Spurgeon (1834-1892). This text is in the public domain in the United States."
+---
+
+# Morning | August 13
+
+**Psalm 104:16**
+
+"The cedars of Lebanon which he hath planted."
+
+Lebanon's cedars are emblematic of the Christian, in that they owe their planting entirely to the Lord. This is quite true of every child of God. He is not man-planted, nor self-planted, but God-planted. The mysterious hand of the divine Spirit dropped the living seed into a heart which he had himself prepared for its reception. Every true heir of heaven owns the great Husbandman as his planter. Moreover, the cedars of Lebanon are not dependent upon man for their watering; they stand on the lofty rock, unmoistened by human irrigation; and yet our heavenly Father supplieth them. Thus it is with the Christian who has learned to live by faith. He is independent of man, even in temporal things; for his continued maintenance he looks to the Lord his God, and to him alone. The dew of heaven is his portion, and the God of heaven is his fountain. Again, the cedars of Lebanon are not protected by any mortal power. They owe nothing to man for their preservation from stormy wind and tempest. They are God's trees, kept and preserved by him, and by him alone. It is precisely the same with the Christian. He is not a hot-house plant, sheltered from temptation; he stands in the most exposed position; he has no shelter, no protection, except this, that the broad wings of the eternal God always cover the cedars which he himself has planted. Like cedars, believers are full of sap, having vitality enough to be ever green, even amid winter's snows. Lastly, the flourishing and majestic condition of the cedar is to the praise of God only. The Lord, even the Lord alone hath been everything unto the cedars, and, therefore David very sweetly puts it in one of the psalms, "Praise ye the Lord, fruitful trees and all cedars." In the believer there is nothing that can magnify man; he is planted, nourished, and protected by the Lord's own hand, and to him let all the glory be ascribed.

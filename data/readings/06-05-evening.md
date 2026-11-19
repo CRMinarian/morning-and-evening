@@ -1,0 +1,19 @@
+---
+date: "06-05"
+slot: evening
+title: "Evening | June 5"
+scripture_ref: "1 John 4:8"
+scripture_ref_as_printed: "1 John 4:8"
+scripture_text: "He that loveth not knoweth not God."
+source: "https://www.ccel.org/ccel/spurgeon/morneve.d0605pm.html"
+edition: "Morning and Evening: Daily Readings, C. H. Spurgeon. CCEL electronic edition of the public-domain combined text (Morning by Morning, 1865; Evening by Evening, 1868)."
+public_domain: "Charles Haddon Spurgeon (1834-1892). This text is in the public domain in the United States."
+---
+
+# Evening | June 5
+
+**1 John 4:8**
+
+"He that loveth not knoweth not God."
+
+The distinguishing mark of a Christian is his confidence in the love of Christ, and the yielding of his affections to Christ in return. First, faith sets her seal upon the man by enabling the soul to say with the apostle, "Christ loved me and gave himself for me." Then love gives the countersign, and stamps upon the heart gratitude and love to Jesus in return. "We love him because he first loved us." In those grand old ages, which are the heroic period of the Christian religion, this double mark was clearly to be seen in all believers in Jesus; they were men who knew the love of Christ, and rested upon it as a man leaneth upon a staff whose trustiness he has tried. The love which they felt towards the Lord was not a quiet emotion which they hid within themselves in the secret chamber of their souls, and which they only spake of in their private assemblies when they met on the first day of the week, and sang hymns in honour of Christ Jesus the crucified, but it was a passion with them of such a vehement and all-consuming energy, that it was visible in all their actions, spoke in their common talk, and looked out of their eyes even in their commonest glances. Love to Jesus was a flame which fed upon the core and heart of their being; and, therefore, from its own force burned its way into the outer man, and shone there. Zeal for the glory of King Jesus was the seal and mark of all genuine Christians. Because of their dependence upon Christ's love they dared much, and because of their love to Christ they did much, and it is the same now. The children of God are ruled in their inmost powers by love--the love of Christ constraineth them; they rejoice that divine love is set upon them, they feel it shed abroad in their hearts by the Holy Ghost, which is given unto them, and then by force of gratitude they love the Saviour with a pure heart, fervently. My reader, do you love him? Ere you sleep give an honest answer to a weighty question!

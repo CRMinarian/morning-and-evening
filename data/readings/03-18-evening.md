@@ -1,0 +1,19 @@
+---
+date: "03-18"
+slot: evening
+title: "Evening | March 18"
+scripture_ref: "John 15:9"
+scripture_ref_as_printed: "John 15:9"
+scripture_text: "As the Father hath loved me, so have I loved you."
+source: "https://www.ccel.org/ccel/spurgeon/morneve.d0318pm.html"
+edition: "Morning and Evening: Daily Readings, C. H. Spurgeon. CCEL electronic edition of the public-domain combined text (Morning by Morning, 1865; Evening by Evening, 1868)."
+public_domain: "Charles Haddon Spurgeon (1834-1892). This text is in the public domain in the United States."
+---
+
+# Evening | March 18
+
+**John 15:9**
+
+"As the Father hath loved me, so have I loved you."
+
+As the Father loves the Son, in the same manner Jesus loves his people. What is that divine method? He loved him without beginning, and thus Jesus loves his members. "I have loved thee with an everlasting love." You can trace the beginning of human affection; you can easily find the beginning of your love to Christ, but his love to us is a stream whose source is hidden in eternity. God the Father loves Jesus without any change. Christian, take this for your comfort, that there is no change in Jesus Christ's love to those who rest in him. Yesterday you were on Tabor's top, and you said, "He loves me:" today you are in the valley of humiliation, but he loves you still the same. On the hill Mizar, and among the Hermons, you heard his voice, which spake so sweetly with the turtle-notes of love; and now on the sea, or even in the sea, when all his waves and billows go over you, his heart is faithful to his ancient choice. The Father loves the Son without any end, and thus does the Son love his people. Saint, thou needest not fear the loosing of the silver cord, for his love for thee will never cease. Rest confident that even down to the grave Christ will go with you, and that up again from it he will be your guide to the celestial hills. Moreover, the Father loves the Son without any measure, and the same immeasurable love the Son bestows upon his chosen ones. The whole heart of Christ is dedicated to his people. He "loved us and gave himself for us." His is a love which passeth knowledge. Ah! we have indeed an immutable Saviour, a precious Saviour, one who loves without measure, without change, without beginning, and without end, even as the Father loves him! There is much food here for those who know how to digest it. May the Holy Ghost lead us into its marrow and fatness!

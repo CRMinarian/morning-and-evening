@@ -1,0 +1,19 @@
+---
+date: "09-01"
+slot: morning
+title: "Morning | September 1"
+scripture_ref: "Psalm 73:24"
+scripture_ref_as_printed: "Psalm 73:24"
+scripture_text: "Thou shalt guide me with thy counsel, and afterward receive me to glory."
+source: "https://www.ccel.org/ccel/spurgeon/morneve.d0901am.html"
+edition: "Morning and Evening: Daily Readings, C. H. Spurgeon. CCEL electronic edition of the public-domain combined text (Morning by Morning, 1865; Evening by Evening, 1868)."
+public_domain: "Charles Haddon Spurgeon (1834-1892). This text is in the public domain in the United States."
+---
+
+# Morning | September 1
+
+**Psalm 73:24**
+
+"Thou shalt guide me with thy counsel, and afterward receive me to glory."
+
+The Psalmist felt his need of divine guidance. He had just been discovering the foolishness of his own heart, and lest he should be constantly led astray by it, he resolved that God's counsel should henceforth guide him. A sense of our own folly is a great step towards being wise, when it leads us to rely on the wisdom of the Lord. The blind man leans on his friend's arm and reaches home in safety, and so would we give ourselves up implicitly to divine guidance, nothing doubting; assured that though we cannot see, it is always safe to trust the all-seeing God. "Thou shalt," is a blessed expression of confidence. He was sure that the Lord would not decline the condescending task. There is a word for thee, O believer; rest thou in it. Be assured that thy God will be thy counsellor and friend; he shall guide thee; he will direct all thy ways. In his written Word thou hast this assurance in part fulfilled, for holy Scripture is his counsel to thee. Happy are we to have God's Word always to guide us! What were the mariner without his compass? And what were the Christian without the Bible? This is the unerring chart, the map in which every shoal is described, and all the channels from the quicksands of destruction to the haven of salvation mapped and marked by one who knows all the way. Blessed be thou, O God, that we may trust thee to guide us now, and guide us even to the end! After this guidance through life, the Psalmist anticipates a divine reception at last--"and afterward receive me to glory." What a thought for thee, believer! God himself will receive thee to glory--thee! Wandering, erring, straying, yet he will bring thee safe at last to glory! This is thy portion; live on it this day, and if perplexities should surround thee, go in the strength of this text straight to the throne.

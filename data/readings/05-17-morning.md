@@ -1,0 +1,19 @@
+---
+date: "05-17"
+slot: morning
+title: "Morning | May 17"
+scripture_ref: "1 John 2:6"
+scripture_ref_as_printed: "1 John 2:6"
+scripture_text: "So to walk even as he walked."
+source: "https://www.ccel.org/ccel/spurgeon/morneve.d0517am.html"
+edition: "Morning and Evening: Daily Readings, C. H. Spurgeon. CCEL electronic edition of the public-domain combined text (Morning by Morning, 1865; Evening by Evening, 1868)."
+public_domain: "Charles Haddon Spurgeon (1834-1892). This text is in the public domain in the United States."
+---
+
+# Morning | May 17
+
+**1 John 2:6**
+
+"So to walk even as he walked."
+
+Why should Christians imitate Christ? They should do it for their own sakes. If they desire to be in a healthy state of soul--if they would escape the sickness of sin, and enjoy the vigour of growing grace, let Jesus be their model. For their own happiness' sake, if they would drink wine on the lees, well refined; if they would enjoy holy and happy communion with Jesus; if they would be lifted up above the cares and troubles of this world, let them walk even as he walked. There is nothing which can so assist you to walk towards heaven with good speed, as wearing the image of Jesus on your heart to rule all its motions. It is when, by the power of the Holy Spirit, you are enabled to walk with Jesus in his very footsteps, that you are most happy, and most known to be the sons of God. Peter afar off is both unsafe and uneasy. Next, for religion's sake, strive to be like Jesus. Ah! poor religion, thou hast been sorely shot at by cruel foes, but thou hast not been wounded one-half so dangerously by thy foes as by thy friends. Who made those wounds in the fair hand of Godliness? The professor who used the dagger of hypocrisy. The man who with pretences, enters the fold, being nought but a wolf in sheep's clothing, worries the flock more than the lion outside. There is no weapon half so deadly as a Judas-kiss. Inconsistent professors injure the gospel more than the sneering critic or the infidel. But, especially for Christ's own sake, imitate his example. Christian, lovest thou thy Saviour? Is his name precious to thee? Is his cause dear to thee? Wouldst thou see the kingdoms of the world become his? Is it thy desire that he should be glorified? Art thou longing that souls should be won to him? If so, imitate Jesus; be an "epistle of Christ, known and read of all men."

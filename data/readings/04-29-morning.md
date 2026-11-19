@@ -1,0 +1,19 @@
+---
+date: "04-29"
+slot: morning
+title: "Morning | April 29"
+scripture_ref: "Jeremiah 17:17"
+scripture_ref_as_printed: "Jeremiah 17:17"
+scripture_text: "Thou art my hope in the day of evil."
+source: "https://www.ccel.org/ccel/spurgeon/morneve.d0429am.html"
+edition: "Morning and Evening: Daily Readings, C. H. Spurgeon. CCEL electronic edition of the public-domain combined text (Morning by Morning, 1865; Evening by Evening, 1868)."
+public_domain: "Charles Haddon Spurgeon (1834-1892). This text is in the public domain in the United States."
+---
+
+# Morning | April 29
+
+**Jeremiah 17:17**
+
+"Thou art my hope in the day of evil."
+
+The path of the Christian is not always bright with sunshine; he has his seasons of darkness and of storm. True, it is written in God's Word, "Her ways are ways of pleasantness, and all her paths are peace;" and it is a great truth, that religion is calculated to give a man happiness below as well as bliss above; but experience tells us that if the course of the just be "As the shining light that shineth more and more unto the perfect day," yet sometimes that light is eclipsed. At certain periods clouds cover the believer's sun, and he walks in darkness and sees no light. There are many who have rejoiced in the presence of God for a season; they have basked in the sunshine in the earlier stages of their Christian career; they have walked along the "green pastures" by the side of the "still waters," but suddenly they find the glorious sky is clouded; instead of the Land of Goshen they have to tread the sandy desert; in the place of sweet waters, they find troubled streams, bitter to their taste, and they say, "Surely, if I were a child of God, this would not happen." Oh! say not so, thou who art walking in darkness. The best of God's saints must drink the wormwood; the dearest of his children must bear the cross. No Christian has enjoyed perpetual prosperity; no believer can always keep his harp from the willows. Perhaps the Lord allotted you at first a smooth and unclouded path, because you were weak and timid. He tempered the wind to the shorn lamb, but now that you are stronger in the spiritual life, you must enter upon the riper and rougher experience of God's full-grown children. We need winds and tempests to exercise our faith, to tear off the rotten bough of self-dependence, and to root us more firmly in Christ. The day of evil reveals to us the value of our glorious hope.

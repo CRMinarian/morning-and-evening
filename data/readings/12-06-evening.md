@@ -1,0 +1,21 @@
+---
+date: "12-06"
+slot: evening
+title: "Evening | December 6"
+scripture_ref: "Revelation 1:13"
+scripture_ref_as_printed: "Revelation 1:13"
+scripture_text: "Girt about the paps with a golden girdle."
+source: "https://www.ccel.org/ccel/spurgeon/morneve.d1206pm.html"
+edition: "Morning and Evening: Daily Readings, C. H. Spurgeon. CCEL electronic edition of the public-domain combined text (Morning by Morning, 1865; Evening by Evening, 1868)."
+public_domain: "Charles Haddon Spurgeon (1834-1892). This text is in the public domain in the United States."
+---
+
+# Evening | December 6
+
+**Revelation 1:13**
+
+"Girt about the paps with a golden girdle."
+
+"One like unto the Son of Man" appeared to John in Patmos, and the beloved disciple marked that he wore a girdle of gold. A girdle, for Jesus never was ungirt while upon earth, but stood always ready for service, and now before the eternal throne he stays not His holy ministry, but as a priest is girt about with "the curious girdle of the ephod." Well it is for us that he has not ceased to fulfil his offices of love for us, since this is one of our choicest safeguards that he ever liveth to make intercession for us. Jesus is never an idler; his garments are never loose as though his offices were ended; he diligently carries on the cause of his people. A golden girdle, to manifest the superiority of his service, the royalty of his person, the dignity of his state, the glory of his reward. No longer does he cry out of the dust, but he pleads with authority, a King as well as a Priest. Safe enough is our cause in the hands of our enthroned Melchizedek.
+
+Our Lord presents all his people with an example. We must never unbind our girdles. This is not the time for lying down at ease, it is the season of service and warfare. We need to bind the girdle of truth more and more tightly around our loins. It is a golden girdle, and so will be our richest ornament, and we greatly need it, for a heart that is not well braced up with the truth as it is in Jesus, and with the fidelity which is wrought of the Spirit, will be easily entangled with the things of this life, and tripped up by the snares of temptation. It is in vain that we possess the Scriptures unless we bind them around us like a girdle, surrounding our entire nature, keeping each part of our character in order, and giving compactness to our whole man. If in heaven Jesus unbinds not the girdle, much less may we upon earth. Stand, therefore, having your loins girt about with truth.

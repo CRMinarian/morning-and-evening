@@ -1,0 +1,19 @@
+---
+date: "09-28"
+slot: evening
+title: "Evening | September 28"
+scripture_ref: "1 Kings 18:43"
+scripture_ref_as_printed: "1 Kings 18:43"
+scripture_text: "Go again seven times."
+source: "https://www.ccel.org/ccel/spurgeon/morneve.d0928pm.html"
+edition: "Morning and Evening: Daily Readings, C. H. Spurgeon. CCEL electronic edition of the public-domain combined text (Morning by Morning, 1865; Evening by Evening, 1868)."
+public_domain: "Charles Haddon Spurgeon (1834-1892). This text is in the public domain in the United States."
+---
+
+# Evening | September 28
+
+**1 Kings 18:43**
+
+"Go again seven times."
+
+Success is certain when the Lord has promised it. Although you may have pleaded month after month without evidence of answer, it is not possible that the Lord should be deaf when his people are earnest in a matter which concerns his glory. The prophet on the top of Carmel continued to wrestle with God, and never for a moment gave way to a fear that he should be non-suited in Jehovah's courts. Six times the servant returned, but on each occasion no word was spoken but "Go again." We must not dream of unbelief, but hold to our faith even to seventy times seven. Faith sends expectant hope to look from Carmel's brow, and if nothing is beheld, she sends again and again. So far from being crushed by repeated disappointment, faith is animated to plead more fervently with her God. She is humbled, but not abashed: her groans are deeper, and her sighings more vehement, but she never relaxes her hold or stays her hand. It would be more agreeable to flesh and blood to have a speedy answer, but believing souls have learned to be submissive, and to find it good to wait for as well as upon the Lord. Delayed answers often set the heart searching itself, and so lead to contrition and spiritual reformation: deadly blows are thus struck at our corruption, and the chambers of imagery are cleansed. The great danger is lest men should faint, and miss the blessing. Reader, do not fall into that sin, but continue in prayer and watching. At last the little cloud was seen, the sure forerunner of torrents of rain, and even so with you, the token for good shall surely be given, and you shall rise as a prevailing prince to enjoy the mercy you have sought. Elijah was a man of like passions with us: his power with God did not lie in his own merits. If his believing prayer availed so much, why not yours? Plead the precious blood with unceasing importunity, and it shall be with you according to your desire.

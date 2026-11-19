@@ -1,0 +1,19 @@
+---
+date: "08-01"
+slot: evening
+title: "Evening | August 1"
+scripture_ref: "Psalm 65:11"
+scripture_ref_as_printed: "Psalm 65:11"
+scripture_text: "Thou crownest the year with thy goodness."
+source: "https://www.ccel.org/ccel/spurgeon/morneve.d0801pm.html"
+edition: "Morning and Evening: Daily Readings, C. H. Spurgeon. CCEL electronic edition of the public-domain combined text (Morning by Morning, 1865; Evening by Evening, 1868)."
+public_domain: "Charles Haddon Spurgeon (1834-1892). This text is in the public domain in the United States."
+---
+
+# Evening | August 1
+
+**Psalm 65:11**
+
+"Thou crownest the year with thy goodness."
+
+All the year round, every hour of every day, God is richly blessing us; both when we sleep and when we wake his mercy waits upon us. The sun may leave us a legacy of darkness, but our God never ceases to shine upon his children with beams of love. Like a river, his lovingkindness is always flowing, with a fulness inexhaustible as his own nature. Like the atmosphere which constantly surrounds the earth, and is always ready to support the life of man, the benevolence of God surrounds all his creatures; in it, as in their element, they live, and move, and have their being. Yet as the sun on summer days gladdens us with beams more warm and bright than at other times, and as rivers are at certain seasons swollen by the rain, and as the atmosphere itself is sometimes fraught with more fresh, more bracing, or more balmy influences than heretofore, so is it with the mercy of God; it hath its golden hours; its days of overflow, when the Lord magnifieth his grace before the sons of men. Amongst the blessings of the nether springs, the joyous days of harvest are a special season of excessive favour. It is the glory of autumn that the ripe gifts of providence are then abundantly bestowed; it is the mellow season of realization, whereas all before was but hope and expectation. Great is the joy of harvest. Happy are the reapers who fill their arms with the liberality of heaven. The Psalmist tells us that the harvest is the crowning of the year. Surely these crowning mercies call for crowning thanksgiving! Let us render it by the inward emotions of gratitude. Let our hearts be warmed; let our spirits remember, meditate, and think upon this goodness of the Lord. Then let us praise him with our lips, and laud and magnify his name from whose bounty all this goodness flows. Let us glorify God by yielding our gifts to his cause. A practical proof of our gratitude is a special thank-offering to the Lord of the harvest.

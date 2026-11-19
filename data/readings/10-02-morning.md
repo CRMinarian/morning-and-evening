@@ -1,0 +1,19 @@
+---
+date: "10-02"
+slot: morning
+title: "Morning | October 2"
+scripture_ref: "Colossians 1:5"
+scripture_ref_as_printed: "Colossians 1:5"
+scripture_text: "The hope which is laid up for you in heaven."
+source: "https://www.ccel.org/ccel/spurgeon/morneve.d1002am.html"
+edition: "Morning and Evening: Daily Readings, C. H. Spurgeon. CCEL electronic edition of the public-domain combined text (Morning by Morning, 1865; Evening by Evening, 1868)."
+public_domain: "Charles Haddon Spurgeon (1834-1892). This text is in the public domain in the United States."
+---
+
+# Morning | October 2
+
+**Colossians 1:5**
+
+"The hope which is laid up for you in heaven."
+
+Our hope in Christ for the future is the mainspring and the mainstay of our joy here. It will animate our hearts to think often of heaven, for all that we can desire is promised there. Here we are weary and toilworn, but yonder is the land of rest where the sweat of labour shall no more bedew the worker's brow, and fatigue shall be forever banished. To those who are weary and spent, the word "rest" is full of heaven. We are always in the field of battle; we are so tempted within, and so molested by foes without, that we have little or no peace; but in heaven we shall enjoy the victory, when the banner shall be waved aloft in triumph, and the sword shall be sheathed, and we shall hear our Captain say, "Well done, good and faithful servant." We have suffered bereavement after bereavement, but we are going to the land of the immortal where graves are unknown things. Here sin is a constant grief to us, but there we shall be perfectly holy, for there shall by no means enter into that kingdom anything which defileth. Hemlock springs not up in the furrows of celestial fields. Oh! is it not joy, that you are not to be in banishment forever, that you are not to dwell eternally in this wilderness, but shall soon inherit Canaan? Nevertheless let it never be said of us, that we are dreaming about the future and forgetting the present, let the future sanctify the present to highest uses. Through the Spirit of God the hope of heaven is the most potent force for the product of virtue; it is a fountain of joyous effort, it is the corner stone of cheerful holiness. The man who has this hope in him goes about his work with vigour, for the joy of the Lord is his strength. He fights against temptation with ardour, for the hope of the next world repels the fiery darts of the adversary. He can labour without present reward, for he looks for a reward in the world to come.

@@ -1,0 +1,23 @@
+---
+date: "11-15"
+slot: morning
+title: "Morning | November 15"
+scripture_ref: "Deuteronomy 32:9"
+scripture_ref_as_printed: "Deuteronomy 32:9"
+scripture_text: "The Lord's portion is his people."
+source: "https://www.ccel.org/ccel/spurgeon/morneve.d1115am.html"
+edition: "Morning and Evening: Daily Readings, C. H. Spurgeon. CCEL electronic edition of the public-domain combined text (Morning by Morning, 1865; Evening by Evening, 1868)."
+public_domain: "Charles Haddon Spurgeon (1834-1892). This text is in the public domain in the United States."
+---
+
+# Morning | November 15
+
+**Deuteronomy 32:9**
+
+"The Lord's portion is his people."
+
+How are they his? By his own sovereign choice. He chose them, and set his love upon them. This he did altogether apart from any goodness in them at the time, or any goodness which he foresaw in them. He had mercy on whom he would have mercy, and ordained a chosen company unto eternal life; thus, therefore, are they his by his unconstrained election.
+
+They are not only his by choice, but by purchase. He has bought and paid for them to the utmost farthing, hence about his title there can be no dispute. Not with corruptible things, as with silver and gold, but with the precious blood of the Lord Jesus Christ, the Lord's portion has been fully redeemed. There is no mortgage on his estate; no suits can be raised by opposing claimants, the price was paid in open court, and the Church is the Lord's freehold forever. See the blood-mark upon all the chosen, invisible to human eye, but known to Christ, for "the Lord knoweth them that are his"; he forgetteth none of those whom he has redeemed from among men; he counts the sheep for whom he laid down his life, and remembers well the Church for which he gave himself.
+
+They are also his by conquest. What a battle he had in us before we would be won! How long he laid siege to our hearts! How often he sent us terms of capitulation! but we barred our gates, and fenced our walls against him. Do we not remember that glorious hour when he carried our hearts by storm? When he placed his cross against the wall, and scaled our ramparts, planting on our strongholds the blood-red flag of his omnipotent mercy? Yes, we are, indeed, the conquered captives of his omnipotent love. Thus chosen, purchased, and subdued, the rights of our divine possessor are inalienable: we rejoice that we never can be our own; and we desire, day by day, to do his will, and to show forth his glory.

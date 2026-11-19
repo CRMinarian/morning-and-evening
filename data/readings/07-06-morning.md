@@ -1,0 +1,19 @@
+---
+date: "07-06"
+slot: morning
+title: "Morning | July 6"
+scripture_ref: "Proverbs 1:33"
+scripture_ref_as_printed: "Proverbs 1:33"
+scripture_text: "Whoso hearkeneth unto me shall dwell safely, and shall be quiet from fear of evil."
+source: "https://www.ccel.org/ccel/spurgeon/morneve.d0706am.html"
+edition: "Morning and Evening: Daily Readings, C. H. Spurgeon. CCEL electronic edition of the public-domain combined text (Morning by Morning, 1865; Evening by Evening, 1868)."
+public_domain: "Charles Haddon Spurgeon (1834-1892). This text is in the public domain in the United States."
+---
+
+# Morning | July 6
+
+**Proverbs 1:33**
+
+"Whoso hearkeneth unto me shall dwell safely, and shall be quiet from fear of evil."
+
+Divine love is rendered conspicuous when it shines in the midst of judgments. Fair is that lone star which smiles through the rifts of the thunder clouds; bright is the oasis which blooms in the wilderness of sand; so fair and so bright is love in the midst of wrath. When the Israelites provoked the Most High by their continued idolatry, he punished them by withholding both dew and rain, so that their land was visited by a sore famine; but while he did this, he took care that his own chosen ones should be secure. If all other brooks are dry, yet shall there be one reserved for Elijah; and when that fails, God shall still preserve for him a place of sustenance; nay, not only so, the Lord had not simply one "Elijah," but he had a remnant according to the election of grace, who were hidden by fifties in a cave, and though the whole land was subject to famine, yet these fifties in the cave were fed, and fed from Ahab's table too by His faithful, God-fearing steward, Obadiah. Let us from this draw the inference, that come what may, God's people are safe. Let convulsions shake the solid earth, let the skies themselves be rent in twain, yet amid the wreck of worlds the believer shall be as secure as in the calmest hour of rest. If God cannot save his people under heaven, he will save them in heaven. If the world becomes too hot to hold them, then heaven shall be the place of their reception and their safety. Be ye then confident, when ye hear of wars, and rumours of wars. Let no agitation distress you, but be quiet from fear of evil. Whatsoever cometh upon the earth, you, beneath the broad wings of Jehovah, shall be secure. Stay yourself upon his promise; rest in his faithfulness, and bid defiance to the blackest future, for there is nothing in it direful for you. Your sole concern should be to show forth to the world the blessedness of hearkening to the voice of wisdom.

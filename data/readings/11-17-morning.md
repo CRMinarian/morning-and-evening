@@ -1,0 +1,25 @@
+---
+date: "11-17"
+slot: morning
+title: "Morning | November 17"
+scripture_ref: "Romans 11:36"
+scripture_ref_as_printed: "Romans 11:36"
+scripture_text: "To whom be glory forever. Amen"
+source: "https://www.ccel.org/ccel/spurgeon/morneve.d1117am.html"
+edition: "Morning and Evening: Daily Readings, C. H. Spurgeon. CCEL electronic edition of the public-domain combined text (Morning by Morning, 1865; Evening by Evening, 1868)."
+public_domain: "Charles Haddon Spurgeon (1834-1892). This text is in the public domain in the United States."
+---
+
+# Morning | November 17
+
+**Romans 11:36**
+
+"To whom be glory forever. Amen"
+
+"To whom be glory forever." This should be the single desire of the Christian. All other wishes must be subservient and tributary to this one. The Christian may wish for prosperity in his business, but only so far as it may help him to promote this--"To him be glory forever." He may desire to attain more gifts and more graces, but it should only be that "To him may be glory forever." You are not acting as you ought to do when you are moved by any other motive than a single eye to your Lord's glory. As a Christian, you are "of God, and through God," then live "to God." Let nothing ever set your heart beating so mightily as love to him. Let this ambition fire your soul; be this the foundation of every enterprise upon which you enter, and this your sustaining motive whenever your zeal would grow chill; make God your only object. Depend upon it, where self begins sorrow begins; but if God be my supreme delight and only object,
+
+"To me 'tis equal whether love ordain
+
+My life or death--appoint me ease or pain."
+
+Let your desire for God's glory be a growing desire. You blessed him in your youth, do not be content with such praises as you gave him then. Has God prospered you in business? Give him more as he has given you more. Has God given you experience? Praise him by stronger faith than you exercised at first. Does your knowledge grow? Then sing more sweetly. Do you enjoy happier times than you once had? Have you been restored from sickness, and has your sorrow been turned into peace and joy? Then give him more music; put more coals and more sweet frankincense into the censer of your praise. Practically in your life give him honour, putting the "Amen" to this doxology to your great and gracious Lord, by your own individual service and increasing holiness.

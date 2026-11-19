@@ -1,0 +1,29 @@
+---
+date: "02-01"
+slot: morning
+title: "Morning | February 1"
+scripture_ref: "Psalm 138:5"
+scripture_ref_as_printed: "Psalm 138:5"
+scripture_text: "They shall sing in the ways of the Lord."
+source: "https://www.ccel.org/ccel/spurgeon/morneve.d0201am.html"
+edition: "Morning and Evening: Daily Readings, C. H. Spurgeon. CCEL electronic edition of the public-domain combined text (Morning by Morning, 1865; Evening by Evening, 1868)."
+public_domain: "Charles Haddon Spurgeon (1834-1892). This text is in the public domain in the United States."
+---
+
+# Morning | February 1
+
+**Psalm 138:5**
+
+"They shall sing in the ways of the Lord."
+
+The time when Christians begin to sing in the ways of the Lord is when they first lose their burden at the foot of the Cross. Not even the songs of the angels seem so sweet as the first song of rapture which gushes from the inmost soul of the forgiven child of God. You know how John Bunyan describes it. He says when poor Pilgrim lost his burden at the Cross, he gave three great leaps, and went on his way singing--
+
+"Blest Cross! blest Sepulchre! blest rather be
+
+The Man that there was put to shame for me!"
+
+Believer, do you recollect the day when your fetters fell off? Do you remember the place when Jesus met you, and said, "I have loved thee with an everlasting love; I have blotted out as a cloud thy transgressions, and as a thick cloud thy sins; they shall not be mentioned against thee any more forever." Oh! what a sweet season is that when Jesus takes away the pain of sin. When the Lord first pardoned my sin, I was so joyous that I could scarce refrain from dancing. I thought on my road home from the house where I had been set at liberty, that I must tell the stones in the street the story of my deliverance. So full was my soul of joy, that I wanted to tell every snow-flake that was falling from heaven of the wondrous love of Jesus, who had blotted out the sins of one of the chief of rebels. But it is not only at the commencement of the Christian life that believers have reason for song; as long as they live they discover cause to sing in the ways of the Lord, and their experience of his constant lovingkindness leads them to say, "I will bless the Lord at all times: his praise shall continually be in my mouth." See to it, brother, that thou magnifiest the Lord this day.
+
+"Long as we tread this desert land,
+
+New mercies shall new songs demand."

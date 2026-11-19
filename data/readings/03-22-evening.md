@@ -1,0 +1,19 @@
+---
+date: "03-22"
+slot: evening
+title: "Evening | March 22"
+scripture_ref: "John 17:24"
+scripture_ref_as_printed: "John 17:24"
+scripture_text: "Father, I will that they also, whom thou hast given me, be with me where I am."
+source: "https://www.ccel.org/ccel/spurgeon/morneve.d0322pm.html"
+edition: "Morning and Evening: Daily Readings, C. H. Spurgeon. CCEL electronic edition of the public-domain combined text (Morning by Morning, 1865; Evening by Evening, 1868)."
+public_domain: "Charles Haddon Spurgeon (1834-1892). This text is in the public domain in the United States."
+---
+
+# Evening | March 22
+
+**John 17:24**
+
+"Father, I will that they also, whom thou hast given me, be with me where I am."
+
+O death! why dost thou touch the tree beneath whose spreading branches weariness hath rest? Why dost thou snatch away the excellent of the earth, in whom is all our delight? If thou must use thine axe, use it upon the trees which yield no fruit; thou mightest be thanked then. But why wilt thou fell the goodly cedars of Lebanon? O stay thine axe, and spare the righteous. But no, it must not be; death smites the goodliest of our friends; the most generous, the most prayerful, the most holy, the most devoted must die. And why? It is through Jesus' prevailing prayer--"Father, I will that they also, whom thou hast given me, be with me where I am." It is that which bears them on eagle's wings to heaven. Every time a believer mounts from this earth to paradise, it is an answer to Christ's prayer. A good old divine remarks, "Many times Jesus and his people pull against one another in prayer. You bend your knee in prayer and say Father, I will that thy saints be with me where I am;' Christ says, Father, I will that they also, whom thou hast given me, be with me where I am.'" Thus the disciple is at cross-purposes with his Lord. The soul cannot be in both places: the beloved one cannot be with Christ and with you too. Now, which pleader shall win the day? If you had your choice; if the King should step from his throne, and say, "Here are two supplicants praying in opposition to one another, which shall be answered?" Oh! I am sure, though it were agony, you would start from your feet, and say, "Jesus, not my will, but thine be done." You would give up your prayer for your loved one's life, if you could realize the thoughts that Christ is praying in the opposite direction--"Father, I will that they also, whom thou hast given me, be with me where I am." Lord, thou shalt have them. By faith we let them go.

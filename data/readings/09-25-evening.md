@@ -1,0 +1,19 @@
+---
+date: "09-25"
+slot: evening
+title: "Evening | September 25"
+scripture_ref: "1 Corinthians 1:30"
+scripture_ref_as_printed: "1 Corinthians 1:30"
+scripture_text: "Who of God is made unto us wisdom."
+source: "https://www.ccel.org/ccel/spurgeon/morneve.d0925pm.html"
+edition: "Morning and Evening: Daily Readings, C. H. Spurgeon. CCEL electronic edition of the public-domain combined text (Morning by Morning, 1865; Evening by Evening, 1868)."
+public_domain: "Charles Haddon Spurgeon (1834-1892). This text is in the public domain in the United States."
+---
+
+# Evening | September 25
+
+**1 Corinthians 1:30**
+
+"Who of God is made unto us wisdom."
+
+Man's intellect seeks after rest, and by nature seeks it apart from the Lord Jesus Christ. Men of education are apt, even when converted, to look upon the simplicities of the cross of Christ with an eye too little reverent and loving. They are snared in the old net in which the Grecians were taken, and have a hankering to mix philosophy with revelation. The temptation with a man of refined thought and high education is to depart from the simple truth of Christ crucified, and to invent, as the term is, a more intellectual doctrine. This led the early Christian churches into Gnosticism, and bewitched them with all sorts of heresies. This is the root of Neology, and the other fine things which in days gone by were so fashionable in Germany, and are now so ensnaring to certain classes of divines. Whoever you are, good reader, and whatever your education may be, if you be the Lord's, be assured you will find no rest in philosophizing divinity. You may receive this dogma of one great thinker, or that dream of another profound reasoner, but what the chaff is to the wheat, that will these be to the pure word of God. All that reason, when best guided, can find out is but the A B C of truth, and even that lacks certainty, while in Christ Jesus there is treasured up all the fulness of wisdom and knowledge. All attempts on the part of Christians to be content with systems such as Unitarian and Broad-church thinkers would approve of, must fail; true heirs of heaven must come back to the grandly simple reality which makes the ploughboy's eye flash with joy, and gladens the pious pauper's heart--"Jesus Christ came into the world to save sinners." Jesus satisfies the most elevated intellect when he is believingly received, but apart from him the mind of the regenerate discovers no rest. "The fear of the Lord is the beginning of knowledge." "A good understanding have all they that do his commandments."

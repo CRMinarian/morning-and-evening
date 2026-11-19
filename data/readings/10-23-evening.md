@@ -1,0 +1,19 @@
+---
+date: "10-23"
+slot: evening
+title: "Evening | October 23"
+scripture_ref: "Luke 22:46"
+scripture_ref_as_printed: "Luke 22:46"
+scripture_text: "Why sleep ye? rise and pray, lest ye enter into temptation."
+source: "https://www.ccel.org/ccel/spurgeon/morneve.d1023pm.html"
+edition: "Morning and Evening: Daily Readings, C. H. Spurgeon. CCEL electronic edition of the public-domain combined text (Morning by Morning, 1865; Evening by Evening, 1868)."
+public_domain: "Charles Haddon Spurgeon (1834-1892). This text is in the public domain in the United States."
+---
+
+# Evening | October 23
+
+**Luke 22:46**
+
+"Why sleep ye? rise and pray, lest ye enter into temptation."
+
+When is the Christian most liable to sleep? Is it not when his temporal circumstances are prosperous? Have you not found it so? When you had daily troubles to take to the throne of grace, were you not more wakeful than you are now? Easy roads make sleepy travellers. Another dangerous time is when all goes pleasantly in spiritual matters. Christian went not to sleep when lions were in the way, or when he was wading through the river, or when fighting with Apollyon, but when he had climbed half way up the Hill Difficulty, and came to a delightful arbour, he sat down, and forthwith fell asleep, to his great sorrow and loss. The enchanted ground is a place of balmy breezes, laden with fragrant odours and soft influences, all tending to lull pilgrims to sleep. Remember Bunyan's description: "Then they came to an arbour, warm, and promising much refreshing to the weary pilgrims; for it was finely wrought above head, beautified with greens, and furnished with benches and settles. It had also in it a soft couch, where the weary might lean." "The arbour was called the Slothful's Friend, and was made on purpose to allure, if it might be, some of the pilgrims to take up their rest there when weary." Depend upon it, it is in easy places that men shut their eyes and wander into the dreamy land of forgetfulness. Old Erskine wisely remarked, "I like a roaring devil better than a sleeping devil." There is no temptation half so dangerous as not being tempted. The distressed soul does not sleep; it is after we enter into peaceful confidence and full assurance that we are in danger of slumbering. The disciples fell asleep after they had seen Jesus transfigured on the mountain top. Take heed, joyous Christian, good frames are near neighbours to temptations: be as happy as you will, only be watchful.

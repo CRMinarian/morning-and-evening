@@ -1,0 +1,23 @@
+---
+date: "09-15"
+slot: morning
+title: "Morning | September 15"
+scripture_ref: "Psalm 112:7"
+scripture_ref_as_printed: "Psalm 112:7"
+scripture_text: "He shall not be afraid of evil tidings."
+source: "https://www.ccel.org/ccel/spurgeon/morneve.d0915am.html"
+edition: "Morning and Evening: Daily Readings, C. H. Spurgeon. CCEL electronic edition of the public-domain combined text (Morning by Morning, 1865; Evening by Evening, 1868)."
+public_domain: "Charles Haddon Spurgeon (1834-1892). This text is in the public domain in the United States."
+---
+
+# Morning | September 15
+
+**Psalm 112:7**
+
+"He shall not be afraid of evil tidings."
+
+Christian, you ought not to dread the arrival of evil tidings; because if you are distressed by them, what do you more than other men? Other men have not your God to fly to; they have never proved his faithfulness as you have done, and it is no wonder if they are bowed down with alarm and cowed with fear: but you profess to be of another spirit; you have been begotten again unto a lively hope, and your heart lives in heaven and not on earthly things; now, if you are seen to be distracted as other men, what is the value of that grace which you profess to have received? Where is the dignity of that new nature which you claim to possess?
+
+Again, if you should be filled with alarm, as others are, you would, doubtless, be led into the sins so common to others under trying circumstances. The ungodly, when they are overtaken by evil tidings, rebel against God; they murmur, and think that God deals hardly with them. Will you fall into that same sin? Will you provoke the Lord as they do?
+
+Moreover, unconverted men often run to wrong means in order to escape from difficulties, and you will be sure to do the same if your mind yields to the present pressure. Trust in the Lord, and wait patiently for him. Your wisest course is to do as Moses did at the Red Sea, "Stand still and see the salvation of God." For if you give way to fear when you hear of evil tidings, you will be unable to meet the trouble with that calm composure which nerves for duty, and sustains under adversity. How can you glorify God if you play the coward? Saints have often sung God's high praises in the fires, but will your doubting and desponding, as if you had none to help you, magnify the Most High? Then take courage, and relying in sure confidence upon the faithfulness of your covenant God, "let not your heart be troubled, neither let it be afraid."

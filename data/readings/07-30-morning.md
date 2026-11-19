@@ -1,0 +1,19 @@
+---
+date: "07-30"
+slot: morning
+title: "Morning | July 30"
+scripture_ref: "Mark 14:72"
+scripture_ref_as_printed: "Mark 14:72"
+scripture_text: "And when he thought thereon, he wept."
+source: "https://www.ccel.org/ccel/spurgeon/morneve.d0730am.html"
+edition: "Morning and Evening: Daily Readings, C. H. Spurgeon. CCEL electronic edition of the public-domain combined text (Morning by Morning, 1865; Evening by Evening, 1868)."
+public_domain: "Charles Haddon Spurgeon (1834-1892). This text is in the public domain in the United States."
+---
+
+# Morning | July 30
+
+**Mark 14:72**
+
+"And when he thought thereon, he wept."
+
+It has been thought by some that as long as Peter lived, the fountain of his tears began to flow whenever he remembered his denying his Lord. It is not unlikely that it was so, for his sin was very great, and grace in him had afterwards a perfect work. This same experience is common to all the redeemed family according to the degree in which the Spirit of God has removed the natural heart of stone. We, like Peter, remember our boastful promise: "Though all men shall forsake thee, yet will not I." We eat our own words with the bitter herbs of repentance. When we think of what we vowed we would be, and of what we have been, we may weep whole showers of grief. He thought on his denying his Lord. The place in which he did it, the little cause which led him into such heinous sin, the oaths and blasphemies with which he sought to confirm his falsehood, and the dreadful hardness of heart which drove him to do so again and yet again. Can we, when we are reminded of our sins, and their exceeding sinfulness, remain stolid and stubborn? Will we not make our house a Bochim, and cry unto the Lord for renewed assurances of pardoning love? May we never take a dry-eyed look at sin, lest ere long we have a tongue parched in the flames of hell. Peter also thought upon his Master's look of love. The Lord followed up the cock's warning voice with an admonitory look of sorrow, pity, and love. That glance was never out of Peter's mind so long as he lived. It was far more effectual than ten thousand sermons would have been without the Spirit. The penitent apostle would be sure to weep when he recollected the Saviour's full forgiveness, which restored him to his former place. To think that we have offended so kind and good a Lord is more than sufficient reason for being constant weepers. Lord, smite our rocky hearts, and make the waters flow.

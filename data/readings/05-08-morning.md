@@ -1,0 +1,19 @@
+---
+date: "05-08"
+slot: morning
+title: "Morning | May 8"
+scripture_ref: "John 5:13"
+scripture_ref_as_printed: "John 5:13"
+scripture_text: "He that was healed wist not who it was."
+source: "https://www.ccel.org/ccel/spurgeon/morneve.d0508am.html"
+edition: "Morning and Evening: Daily Readings, C. H. Spurgeon. CCEL electronic edition of the public-domain combined text (Morning by Morning, 1865; Evening by Evening, 1868)."
+public_domain: "Charles Haddon Spurgeon (1834-1892). This text is in the public domain in the United States."
+---
+
+# Morning | May 8
+
+**John 5:13**
+
+"He that was healed wist not who it was."
+
+Years are short to the happy and healthy; but thirty-eight years of disease must have dragged a very weary length along the life of the poor impotent man. When Jesus, therefore, healed him by a word, while he lay at the pool of Bethesda, he was delightfully sensible of a change. Even so the sinner who has for weeks and months been paralysed with despair, and has wearily sighed for salvation, is very conscious of the change when the Lord Jesus speaks the word of power, and gives joy and peace in believing. The evil removed is too great to be removed without our discerning it; the life imparted is too remarkable to be possessed and remain inoperative; and the change wrought is too marvellous not to be perceived. Yet the poor man was ignorant of the author of his cure; he knew not the sacredness of his person, the offices which he sustained, or the errand which brought him among men. Much ignorance of Jesus may remain in hearts which yet feel the power of his blood. We must not hastily condemn men for lack of knowledge; but where we can see the faith which saves the soul, we must believe that salvation has been bestowed. The Holy Spirit makes men penitents long before he makes them divines; and he who believes what he knows, shall soon know more clearly what he believes. Ignorance is, however, an evil; for this poor man was much tantalized by the Pharisees, and was quite unable to cope with them. It is good to be able to answer gainsayers; but we cannot do so if we know not the Lord Jesus clearly and with understanding. The cure of his ignorance, however, soon followed the cure of his infirmity, for he was visited by the Lord in the temple; and after that gracious manifestation, he was found testifying that "it was Jesus who had made him whole." Lord, if thou hast saved me, show me thyself, that I may declare thee to the sons of men.

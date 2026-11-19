@@ -1,0 +1,19 @@
+---
+date: "07-06"
+slot: evening
+title: "Evening | July 6"
+scripture_ref: "Job 13:23"
+scripture_ref_as_printed: "Job 13:23"
+scripture_text: "How many are mine iniquities and sins?"
+source: "https://www.ccel.org/ccel/spurgeon/morneve.d0706pm.html"
+edition: "Morning and Evening: Daily Readings, C. H. Spurgeon. CCEL electronic edition of the public-domain combined text (Morning by Morning, 1865; Evening by Evening, 1868)."
+public_domain: "Charles Haddon Spurgeon (1834-1892). This text is in the public domain in the United States."
+---
+
+# Evening | July 6
+
+**Job 13:23**
+
+"How many are mine iniquities and sins?"
+
+Have you ever really weighed and considered how great the sin of God's people is? Think how heinous is your own transgression, and you will find that not only does a sin here and there tower up like an alp, but that your iniquities are heaped upon each other, as in the old fable of the giants who piled Pelion upon Ossa, mountain upon mountain. What an aggregate of sin there is in the life of one of the most sanctified of God's children! Attempt to multiply this, the sin of one only, by the multitude of the redeemed, "a number which no man can number," and you will have some conception of the great mass of the guilt of the people for whom Jesus shed his blood. But we arrive at a more adequate idea of the magnitude of sin by the greatness of the remedy provided. It is the blood of Jesus Christ, God's only and well-beloved Son. God's Son! Angels cast their crowns before him! All the choral symphonies of heaven surround his glorious throne. "God over all, blessed forever. Amen." And yet he takes upon himself the form of a servant, and is scourged and pierced, bruised and torn, and at last slain; since nothing but the blood of the incarnate Son of God could make atonement for our offences. No human mind can adequately estimate the infinite value of the divine sacrifice, for great as is the sin of God's people, the atonement which takes it away is immeasurably greater. Therefore, the believer, even when sin rolls like a black flood, and the remembrance of the past is bitter, can yet stand before the blazing throne of the great and holy God, and cry, "Who is he that condemneth? It is Christ that died; yea rather, that hath risen again." While the recollection of his sin fills him with shame and sorrow, he at the same time makes it a foil to show the brightness of mercy--guilt is the dark night in which the fair star of divine love shines with serene splendour.

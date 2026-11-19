@@ -1,0 +1,19 @@
+---
+date: "06-04"
+slot: evening
+title: "Evening | June 4"
+scripture_ref: "1 Timothy 3:16"
+scripture_ref_as_printed: "1 Timothy 3:16"
+scripture_text: "Received up into glory."
+source: "https://www.ccel.org/ccel/spurgeon/morneve.d0604pm.html"
+edition: "Morning and Evening: Daily Readings, C. H. Spurgeon. CCEL electronic edition of the public-domain combined text (Morning by Morning, 1865; Evening by Evening, 1868)."
+public_domain: "Charles Haddon Spurgeon (1834-1892). This text is in the public domain in the United States."
+---
+
+# Evening | June 4
+
+**1 Timothy 3:16**
+
+"Received up into glory."
+
+We have seen our well-beloved Lord in the days of his flesh, humiliated and sore vexed; for he was "despised and rejected of men, a man of sorrows, and acquainted with grief." He whose brightness is as the morning, wore the sackcloth of sorrow as his daily dress: shame was his mantle, and reproach was his vesture. Yet now, inasmuch as he has triumphed over all the powers of darkness upon the bloody tree, our faith beholds our King returning with dyed garments from Edom, robed in the splendour of victory. How glorious must he have been in the eyes of seraphs, when a cloud received him out of mortal sight, and he ascended up to heaven! Now he wears the glory which he had with God or ever the earth was, and yet another glory above all--that which he has well earned in the fight against sin, death, and hell. As victor he wears the illustrious crown. Hark how the song swells high! It is a new and sweeter song: "Worthy is the Lamb that was slain, for he hath redeemed us unto God by his blood!" He wears the glory of an Intercessor who can never fail, of a Prince who can never be defeated, of a Conqueror who has vanquished every foe, of a Lord who has the heart's allegiance of every subject. Jesus wears all the glory which the pomp of heaven can bestow upon him, which ten thousand times ten thousand angels can minister to him. You cannot with your utmost stretch of imagination conceive his exceeding greatness; yet there will be a further revelation of it when he shall descend from heaven in great power, with all the holy angels--"Then shall he sit upon the throne of his glory." Oh, the splendour of that glory! It will ravish his people's hearts. Nor is this the close, for eternity shall sound his praise, "Thy throne, O God, is forever and ever!" Reader, if you would joy in Christ's glory hereafter, he must be glorious in your sight now. Is he so?

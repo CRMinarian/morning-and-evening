@@ -1,0 +1,19 @@
+---
+date: "05-09"
+slot: evening
+title: "Evening | May 9"
+scripture_ref: "Song of Solomon 7:11,12"
+scripture_ref_as_printed: "Song of Solomon 7:11,12"
+scripture_text: "Come, my beloved, let us go forth into the field ... let us see if the vine flourish."
+source: "https://www.ccel.org/ccel/spurgeon/morneve.d0509pm.html"
+edition: "Morning and Evening: Daily Readings, C. H. Spurgeon. CCEL electronic edition of the public-domain combined text (Morning by Morning, 1865; Evening by Evening, 1868)."
+public_domain: "Charles Haddon Spurgeon (1834-1892). This text is in the public domain in the United States."
+---
+
+# Evening | May 9
+
+**Song of Solomon 7:11,12**
+
+"Come, my beloved, let us go forth into the field ... let us see if the vine flourish."
+
+The church was about to engage in earnest labour, and desired her Lord's company in it. She does not say, "I will go," but "let us go." It is blessed working when Jesus is at our side! It is the business of God's people to be trimmers of God's vines. Like our first parents, we are put into the garden of the Lord for usefulness; let us therefore go forth into the field. Observe that the church, when she is in her right mind, in all her many labours desires to enjoy communion with Christ. Some imagine that they cannot serve Christ actively, and yet have fellowship with him: they are mistaken. Doubtless it is very easy to fritter away our inward life in outward exercises, and come to complain with the spouse, "They made me keeper of the vineyards; but mine own vineyard have I not kept;" but there is no reason why this should be the case except our own folly and neglect. Certain is it that a professor may do nothing, and yet grow quite as lifeless in spiritual things as those who are most busy. Mary was not praised for sitting still; but for her sitting at Jesus' feet. Even so, Christians are not to be praised for neglecting duties under the pretence of having secret fellowship with Jesus: it is not sitting, but sitting at Jesus' feet which is commendable. Do not think that activity is in itself an evil: it is a great blessing, and a means of grace to us. Paul called it a grace given to him to be allowed to preach; and every form of Christian service may become a personal blessing to those engaged in it. Those who have most fellowship with Christ are not recluses or hermits, who have much time to spare, but indefatigable labourers who are toiling for Jesus, and who, in their toil, have him side by side with them, so that they are workers together with God. Let us remember then, in anything we have to do for Jesus, that we can do it, and should do it in close communion with him.

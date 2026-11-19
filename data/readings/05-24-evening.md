@@ -1,0 +1,19 @@
+---
+date: "05-24"
+slot: evening
+title: "Evening | May 24"
+scripture_ref: "Philippians 1:27"
+scripture_ref_as_printed: "Philippians 1:27"
+scripture_text: "Only let your conversation be as it becometh the gospel of Christ."
+source: "https://www.ccel.org/ccel/spurgeon/morneve.d0524pm.html"
+edition: "Morning and Evening: Daily Readings, C. H. Spurgeon. CCEL electronic edition of the public-domain combined text (Morning by Morning, 1865; Evening by Evening, 1868)."
+public_domain: "Charles Haddon Spurgeon (1834-1892). This text is in the public domain in the United States."
+---
+
+# Evening | May 24
+
+**Philippians 1:27**
+
+"Only let your conversation be as it becometh the gospel of Christ."
+
+The word "conversation" does not merely mean our talk and converse with one another, but the whole course of our life and behaviour in the world. The Greek word signifies the actions and the privileges of citizenship: and thus we are commanded to let our actions, as citizens of the New Jerusalem, be such as becometh the gospel of Christ. What sort of conversation is this? In the first place, the gospel is very simple. So Christians should be simple and plain in their habits. There should be about our manner, our speech, our dress, our whole behaviour, that simplicity which is the very soul of beauty. The gospel is pre-eminently true, it is gold without dross; and the Christian's life will be lustreless and valueless without the jewel of truth. The gospel is a very fearless gospel, it boldly proclaims the truth, whether men like it or not: we must be equally faithful and unflinching. But the gospel is also very gentle. Mark this spirit in its Founder: "a bruised reed he will not break." Some professors are sharper than a thorn-hedge; such men are not like Jesus. Let us seek to win others by the gentleness of our words and acts. The gospel is very loving. It is the message of the God of love to a lost and fallen race. Christ's last command to his disciples was, "Love one another." O for more real, hearty union and love to all the saints; for more tender compassion towards the souls of the worst and vilest of men! We must not forget that the gospel of Christ is holy. It never excuses sin: it pardons it, but only through an atonement. If our life is to resemble the gospel, we must shun, not merely the grosser vices, but everything that would hinder our perfect conformity to Christ. For his sake, for our own sakes, and for the sakes of others, we must strive day by day to let our conversation be more in accordance with his gospel.

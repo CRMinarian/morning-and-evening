@@ -1,0 +1,19 @@
+---
+date: "04-28"
+slot: evening
+title: "Evening | April 28"
+scripture_ref: "Ezekiel 3:7"
+scripture_ref_as_printed: "Ezekiel 3:7"
+scripture_text: "All the house of Israel are impudent and hardhearted."
+source: "https://www.ccel.org/ccel/spurgeon/morneve.d0428pm.html"
+edition: "Morning and Evening: Daily Readings, C. H. Spurgeon. CCEL electronic edition of the public-domain combined text (Morning by Morning, 1865; Evening by Evening, 1868)."
+public_domain: "Charles Haddon Spurgeon (1834-1892). This text is in the public domain in the United States."
+---
+
+# Evening | April 28
+
+**Ezekiel 3:7**
+
+"All the house of Israel are impudent and hardhearted."
+
+Are there no exceptions? No, not one. Even the favoured race are thus described. Are the best so bad?--then what must the worst be? Come, my heart, consider how far thou hast a share in this universal accusation, and while considering, be ready to take shame unto thyself wherein thou mayst have been guilty. The first charge is impudence, or hardness of forehead, a want of holy shame, an unhallowed boldness in evil. Before my conversion, I could sin and feel no compunction, hear of my guilt and yet remain unhumbled, and even confess my iniquity and manifest no inward humiliation on account of it. For a sinner to go to God's house and pretend to pray to him and praise him argues a brazen-facedness of the worst kind! Alas! since the day of my new birth I have doubted my Lord to his face, murmured unblushingly in his presence, worshipped before him in a slovenly manner, and sinned without bewailing myself concerning it. If my forehead were not as an adamant, harder than flint, I should have far more holy fear, and a far deeper contrition of spirit. Woe is me, I am one of the impudent house of Israel. The second charge is hardheartedness, and I must not venture to plead innocent here. Once I had nothing but a heart of stone, and although through grace I now have a new and fleshy heart, much of my former obduracy remains. I am not affected by the death of Jesus as I ought to be; neither am I moved by the ruin of my fellow men, the wickedness of the times, the chastisement of my heavenly Father, and my own failures, as I should be. O that my heart would melt at the recital of my Saviour's sufferings and death. Would to God I were rid of this nether millstone within me, this hateful body of death. Blessed be the name of the Lord, the disease is not incurable, the Saviour's precious blood is the universal solvent, and me, even me, it will effectually soften, till my heart melts as wax before the fire.

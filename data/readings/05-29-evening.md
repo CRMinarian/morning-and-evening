@@ -1,0 +1,19 @@
+---
+date: "05-29"
+slot: evening
+title: "Evening | May 29"
+scripture_ref: "Joshua 6:26"
+scripture_ref_as_printed: "Joshua 6:26"
+scripture_text: "Cursed be the man before the Lord, that riseth up and buildeth this city Jericho."
+source: "https://www.ccel.org/ccel/spurgeon/morneve.d0529pm.html"
+edition: "Morning and Evening: Daily Readings, C. H. Spurgeon. CCEL electronic edition of the public-domain combined text (Morning by Morning, 1865; Evening by Evening, 1868)."
+public_domain: "Charles Haddon Spurgeon (1834-1892). This text is in the public domain in the United States."
+---
+
+# Evening | May 29
+
+**Joshua 6:26**
+
+"Cursed be the man before the Lord, that riseth up and buildeth this city Jericho."
+
+Since he was cursed who rebuilt Jericho, much more the man who labours to restore Popery among us. In our fathers' days the gigantic walls of Popery fell by the power of their faith, the perseverance of their efforts, and the blast of their gospel trumpets; and now there are some who would rebuild that accursed system upon its old foundation. O Lord, be pleased to thwart their unrighteous endeavours, and pull down every stone which they build. It should be a serious business with us to be thoroughly purged of every error which may have a tendency to foster the spirit of Popery, and when we have made a clean sweep at home we should seek in every way to oppose its all too rapid spread abroad in the church and in the world. This last can be done in secret by fervent prayer, and in public by decided testimony. We must warn with judicious boldness those who are inclined towards the errors of Rome; we must instruct the young in gospel truth, and tell them of the black doings of Popery in the olden times. We must aid in spreading the light more thoroughly through the land, for priests, like owls, hate daylight. Are we doing all we can for Jesus and the gospel? If not, our negligence plays into the hands of the priestcraft. What are we doing to spread the Bible, which is the Pope's bane and poison? Are we casting abroad good, sound gospel writings? Luther once said, "The devil hates goose quills" and, doubtless, he has good reason, for ready writers, by the Holy Spirit's blessing, have done his kingdom much damage. If the thousands who will read this short word this night will do all they can to hinder the rebuilding of this accursed Jericho, the Lord's glory shall speed among the sons of men. Reader, what can you do? What will you do?

@@ -1,0 +1,23 @@
+---
+date: "07-02"
+slot: morning
+title: "Morning | July 2"
+scripture_ref: "Psalm 33:21"
+scripture_ref_as_printed: "Psalm 33:21"
+scripture_text: "Our heart shall rejoice in Him."
+source: "https://www.ccel.org/ccel/spurgeon/morneve.d0702am.html"
+edition: "Morning and Evening: Daily Readings, C. H. Spurgeon. CCEL electronic edition of the public-domain combined text (Morning by Morning, 1865; Evening by Evening, 1868)."
+public_domain: "Charles Haddon Spurgeon (1834-1892). This text is in the public domain in the United States."
+---
+
+# Morning | July 2
+
+**Psalm 33:21**
+
+"Our heart shall rejoice in Him."
+
+Blessed is the fact that Christians can rejoice even in the deepest distress; although trouble may surround them, they still sing; and, like many birds, they sing best in their cages. The waves may roll over them, but their souls soon rise to the surface and see the light of God's countenance; they have a buoyancy about them which keeps their head always above the water, and helps them to sing amid the tempest, "God is with me still." To whom shall the glory be given? Oh! to Jesus--it is all by Jesus. Trouble does not necessarily bring consolation with it to the believer, but the presence of the Son of God in the fiery furnace with him fills his heart with joy. He is sick and suffering, but Jesus visits him and makes his bed for him. He is dying, and the cold chilly waters of Jordan are gathering about him up to the neck, but Jesus puts His arms around him, and cries, "Fear not, beloved; to die is to be blessed; the waters of death have their fountain-head in heaven; they are not bitter, they are sweet as nectar, for they flow from the throne of God." As the departing saint wades through the stream, and the billows gather around him, and heart and flesh fail him, the same voice sounds in his ears, "Fear not; I am with thee; be not dismayed; I am thy God." As he nears the borders of the infinite unknown, and is almost affrighted to enter the realm of shades, Jesus says, "Fear not, it is your Father's good pleasure to give you the kingdom." Thus strengthened and consoled, the believer is not afraid to die; nay, he is even willing to depart, for since he has seen Jesus as the morning star, he longs to gaze upon Him as the sun in his strength. Truly, the presence of Jesus is all the heaven we desire. He is at once
+
+"The glory of our brightest days;
+
+The comfort of our nights."

@@ -1,0 +1,19 @@
+---
+date: "12-09"
+slot: morning
+title: "Morning | December 9"
+scripture_ref: "Isaiah 30:18"
+scripture_ref_as_printed: "Isaiah 30:18"
+scripture_text: "Therefore will the Lord wait that he may be gracious unto you."
+source: "https://www.ccel.org/ccel/spurgeon/morneve.d1209am.html"
+edition: "Morning and Evening: Daily Readings, C. H. Spurgeon. CCEL electronic edition of the public-domain combined text (Morning by Morning, 1865; Evening by Evening, 1868)."
+public_domain: "Charles Haddon Spurgeon (1834-1892). This text is in the public domain in the United States."
+---
+
+# Morning | December 9
+
+**Isaiah 30:18**
+
+"Therefore will the Lord wait that he may be gracious unto you."
+
+God often delays in answering prayer. We have several instances of this in sacred Scripture. Jacob did not get the blessing from the angel until near the dawn of day--he had to wrestle all night for it. The poor woman of Syrophoenicia was answered not a word for a long while. Paul besought the Lord thrice that "the thorn in the flesh" might be taken from him, and he received no assurance that it should be taken away, but instead thereof a promise that God's grace should be sufficient for him. If thou hast been knocking at the gate of mercy, and hast received no answer, shall I tell thee why the mighty Maker hath not opened the door and let thee in? Our Father has reasons peculiar to himself for thus keeping us waiting. Sometimes it is to show his power and his sovereignty, that men may know that Jehovah has a right to give or to withhold. More frequently the delay is for our profit. Thou art perhaps kept waiting in order that thy desires may be more fervent. God knows that delay will quicken and increase desire, and that if he keeps thee waiting thou wilt see thy necessity more clearly, and wilt seek more earnestly; and that thou wilt prize the mercy all the more for its long tarrying. There may also be something wrong in thee which has need to be removed, before the joy of the Lord is given. Perhaps thy views of the Gospel plan are confused, or thou mayest be placing some little reliance on thyself, instead of trusting simply and entirely to the Lord Jesus. Or, God makes thee tarry awhile that he may the more fully display the riches of his grace to thee at last. Thy prayers are all filed in heaven, and if not immediately answered they are certainly not forgotten, but in a little while shall be fulfilled to thy delight and satisfaction. Let not despair make thee silent, but continue instant in earnest supplication.

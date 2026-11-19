@@ -1,0 +1,21 @@
+---
+date: "08-23"
+slot: evening
+title: "Evening | August 23"
+scripture_ref: "Ephesians 3:17"
+scripture_ref_as_printed: "Ephesians 3:17"
+scripture_text: "That Christ may dwell in your hearts by faith."
+source: "https://www.ccel.org/ccel/spurgeon/morneve.d0823pm.html"
+edition: "Morning and Evening: Daily Readings, C. H. Spurgeon. CCEL electronic edition of the public-domain combined text (Morning by Morning, 1865; Evening by Evening, 1868)."
+public_domain: "Charles Haddon Spurgeon (1834-1892). This text is in the public domain in the United States."
+---
+
+# Evening | August 23
+
+**Ephesians 3:17**
+
+"That Christ may dwell in your hearts by faith."
+
+Beyond measure it is desirable that we, as believers, should have the person of Jesus constantly before us, to inflame our love towards him, and to increase our knowledge of him. I would to God that my readers were all entered as diligent scholars in Jesus' college, students of Corpus Christi, or the body of Christ, resolved to attain unto a good degree in the learning of the cross. But to have Jesus ever near, the heart must be full of him, welling up with his love, even to overrunning; hence the apostle prays "that Christ may dwell in your hearts." See how near he would have Jesus to be! You cannot get a subject closer to you than to have it in the heart itself. "That he may dwell;" not that he may call upon you sometimes, as a casual visitor enters into a house and tarries for a night, but that he may dwell; that Jesus may become the Lord and Tenant of your inmost being, never more to go out.
+
+Observe the words--that he may dwell in your heart, that best room of the house of manhood; not in your thoughts alone, but in your affections; not merely in the mind's meditations, but in the heart's emotions. We should pant after love to Christ of a most abiding character, not a love that flames up and then dies out into the darkness of a few embers, but a constant flame, fed by sacred fuel, like the fire upon the altar which never went out. This cannot be accomplished except by faith. Faith must be strong, or love will not be fervent; the root of the flower must be healthy, or we cannot expect the bloom to be sweet. Faith is the lily's root, and love is the lily's bloom. Now, reader, Jesus cannot be in your heart's love except you have a firm hold of him by your heart's faith; and, therefore, pray that you may always trust Christ in order that you may always love him. If love be cold, be sure that faith is drooping.

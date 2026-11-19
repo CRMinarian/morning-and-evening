@@ -1,0 +1,19 @@
+---
+date: "04-12"
+slot: morning
+title: "Morning | April 12"
+scripture_ref: "Psalm 22:14"
+scripture_ref_as_printed: "Psalm 22:14"
+scripture_text: "My heart is like wax; it is melted in the midst of my bowels."
+source: "https://www.ccel.org/ccel/spurgeon/morneve.d0412am.html"
+edition: "Morning and Evening: Daily Readings, C. H. Spurgeon. CCEL electronic edition of the public-domain combined text (Morning by Morning, 1865; Evening by Evening, 1868)."
+public_domain: "Charles Haddon Spurgeon (1834-1892). This text is in the public domain in the United States."
+---
+
+# Morning | April 12
+
+**Psalm 22:14**
+
+"My heart is like wax; it is melted in the midst of my bowels."
+
+Our blessed Lord experienced a terrible sinking and melting of soul. "The spirit of a man will sustain his infirmity, but a wounded spirit who can bear?" Deep depression of spirit is the most grievous of all trials; all besides is as nothing. Well might the suffering Saviour cry to his God, "Be not far from me," for above all other seasons a man needs his God when his heart is melted within him because of heaviness. Believer, come near the cross this morning, and humbly adore the King of glory as having once been brought far lower, in mental distress and inward anguish, than any one among us; and mark his fitness to become a faithful High Priest, who can be touched with a feeling of our infirmities. Especially let those of us whose sadness springs directly from the withdrawal of a present sense of our Father's love, enter into near and intimate communion with Jesus. Let us not give way to despair, since through this dark room the Master has passed before us. Our souls may sometimes long and faint, and thirst even to anguish, to behold the light of the Lord's countenance: at such times let us stay ourselves with the sweet fact of the sympathy of our great High Priest. Our drops of sorrow may well be forgotten in the ocean of his griefs; but how high ought our love to rise! Come in, O strong and deep love of Jesus, like the sea at the flood in spring tides, cover all my powers, drown all my sins, wash out all my cares, lift up my earth-bound soul, and float it right up to my Lord's feet, and there let me lie, a poor broken shell, washed up by his love, having no virtue or value; and only venturing to whisper to him that if he will put his ear to me, he will hear within my heart faint echoes of the vast waves of his own love which have brought me where it is my delight to lie, even at his feet forever.

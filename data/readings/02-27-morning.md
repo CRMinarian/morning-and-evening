@@ -1,0 +1,19 @@
+---
+date: "02-27"
+slot: morning
+title: "Morning | February 27"
+scripture_ref: "Psalm 91:9"
+scripture_ref_as_printed: "Psalm 91:9"
+scripture_text: "Thou hast made the Lord, which is my refuge, even the most High, thy habitation."
+source: "https://www.ccel.org/ccel/spurgeon/morneve.d0227am.html"
+edition: "Morning and Evening: Daily Readings, C. H. Spurgeon. CCEL electronic edition of the public-domain combined text (Morning by Morning, 1865; Evening by Evening, 1868)."
+public_domain: "Charles Haddon Spurgeon (1834-1892). This text is in the public domain in the United States."
+---
+
+# Morning | February 27
+
+**Psalm 91:9**
+
+"Thou hast made the Lord, which is my refuge, even the most High, thy habitation."
+
+The Israelites in the wilderness were continually exposed to change. Whenever the pillar stayed its motion, the tents were pitched; but tomorrow, ere the morning sun had risen, the trumpet sounded, the ark was in motion, and the fiery, cloudy pillar was leading the way through the narrow defiles of the mountain, up the hill side, or along the arid waste of the wilderness. They had scarcely time to rest a little before they heard the sound of "Away! this is not your rest; you must still be onward journeying towards Canaan!" They were never long in one place. Even wells and palm trees could not detain them. Yet they had an abiding home in their God, his cloudy pillar was their roof-tree, and its flame by night their household fire. They must go onward from place to place, continually changing, never having time to settle, and to say, "Now we are secure; in this place we shall dwell." "Yet," says Moses, "though we are always changing, Lord, thou hast been our dwelling-place throughout all generations." The Christian knows no change with regard to God. He may be rich today and poor to-morrow; he may be sickly today and well to-morrow; he may be in happiness today, to-morrow he may be distressed--but there is no change with regard to his relationship to God. If he loved me yesterday, he loves me today. My unmoving mansion of rest is my blessed Lord. Let prospects be blighted; let hopes be blasted; let joy be withered; let mildews destroy everything; I have lost nothing of what I have in God. He is "my strong habitation whereunto I can continually resort." I am a pilgrim in the world, but at home in my God. In the earth I wander, but in God I dwell in a quiet habitation.

@@ -1,0 +1,19 @@
+---
+date: "12-10"
+slot: evening
+title: "Evening | December 10"
+scripture_ref: "Acts 16:14"
+scripture_ref_as_printed: "Acts 16:14"
+scripture_text: "Whose heart the Lord opened."
+source: "https://www.ccel.org/ccel/spurgeon/morneve.d1210pm.html"
+edition: "Morning and Evening: Daily Readings, C. H. Spurgeon. CCEL electronic edition of the public-domain combined text (Morning by Morning, 1865; Evening by Evening, 1868)."
+public_domain: "Charles Haddon Spurgeon (1834-1892). This text is in the public domain in the United States."
+---
+
+# Evening | December 10
+
+**Acts 16:14**
+
+"Whose heart the Lord opened."
+
+In Lydia's conversion there are many points of interest. It was brought about by providential circumstances. She was a seller of purple, of the city of Thyatira, but just at the right time for hearing Paul we find her at Philippi; providence, which is the handmaid of grace, led her to the right spot. Again, grace was preparing her soul for the blessing--grace preparing for grace. She did not know the Saviour, but as a Jewess, she knew many truths which were excellent stepping-stones to a knowledge of Jesus. Her conversion took place in the use of the means. On the Sabbath she went when prayer was wont to be made, and there prayer was heard. Never neglect the means of grace; God may bless us when we are not in his house, but we have the greater reason to hope that he will when we are in communion with his saints. Observe the words, "Whose heart the Lord opened." She did not open her own heart. Her prayers did not do it; Paul did not do it. The Lord himself must open the heart, to receive the things which make for our peace. He alone can put the key into the hole of the door and open it, and get admittance for himself. He is the heart's master as he is the heart's maker. The first outward evidence of the opened heart was obedience. As soon as Lydia had believed in Jesus, she was baptized. It is a sweet sign of a humble and broken heart, when the child of God is willing to obey a command which is not essential to his salvation, which is not forced upon him by a selfish fear of condemnation, but is a simple act of obedience and of communion with his Master. The next evidence was love, manifesting itself in acts of grateful kindness to the apostles. Love to the saints has ever been a mark of the true convert. Those who do nothing for Christ or his church, give but sorry evidence of an "opened" heart. Lord, evermore give me an opened heart.

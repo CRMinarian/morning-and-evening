@@ -1,0 +1,19 @@
+---
+date: "02-23"
+slot: morning
+title: "Morning | February 23"
+scripture_ref: "Hebrews 13:5"
+scripture_ref_as_printed: "Hebrews 13:5"
+scripture_text: "I will never leave thee."
+source: "https://www.ccel.org/ccel/spurgeon/morneve.d0223am.html"
+edition: "Morning and Evening: Daily Readings, C. H. Spurgeon. CCEL electronic edition of the public-domain combined text (Morning by Morning, 1865; Evening by Evening, 1868)."
+public_domain: "Charles Haddon Spurgeon (1834-1892). This text is in the public domain in the United States."
+---
+
+# Morning | February 23
+
+**Hebrews 13:5**
+
+"I will never leave thee."
+
+No promise is of private interpretation. Whatever God has said to any one saint, he has said to all. When he opens a well for one, it is that all may drink. When he openeth a granary-door to give out food, there may be some one starving man who is the occasion of its being opened, but all hungry saints may come and feed too. Whether he gave the word to Abraham or to Moses, matters not, O believer; he has given it to thee as one of the covenanted seed. There is not a high blessing too lofty for thee, nor a wide mercy too extensive for thee. Lift up now thine eyes to the north and to the south, to the east and to the west, for all this is thine. Climb to Pisgah's top, and view the utmost limit of the divine promise, for the land is all thine own. There is not a brook of living water of which thou mayst not drink. If the land floweth with milk and honey, eat the honey and drink the milk, for both are thine. Be thou bold to believe, for he hath said, "I will never leave thee, nor forsake thee."In this promise, God gives to his people everything. "I will never leave thee." Then no attribute of God can cease to be engaged for us. Is he mighty? He will show himself strong on the behalf of them that trust him. Is he love? Then with lovingkindness will he have mercy upon us. Whatever attributes may compose the character of Deity, every one of them to its fullest extent shall be engaged on our side. To put everything in one, there is nothing you can want, there is nothing you can ask for, there is nothing you can need in time or in eternity, there is nothing living, nothing dying, there is nothing in this world, nothing in the next world, there is nothing now, nothing at the resurrection-morning, nothing in heaven which is not contained in this text--"I will never leave thee, nor forsake thee."

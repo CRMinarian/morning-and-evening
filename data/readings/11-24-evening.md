@@ -1,0 +1,19 @@
+---
+date: "11-24"
+slot: evening
+title: "Evening | November 24"
+scripture_ref: "Proverbs 24:33, 34"
+scripture_ref_as_printed: "Proverbs 24:33, 34"
+scripture_text: "Yet a little sleep, a little slumber, a little folding of the hands to sleep: so shall thy poverty come as one that travelleth; and thy want as an armed man."
+source: "https://www.ccel.org/ccel/spurgeon/morneve.d1124pm.html"
+edition: "Morning and Evening: Daily Readings, C. H. Spurgeon. CCEL electronic edition of the public-domain combined text (Morning by Morning, 1865; Evening by Evening, 1868)."
+public_domain: "Charles Haddon Spurgeon (1834-1892). This text is in the public domain in the United States."
+---
+
+# Evening | November 24
+
+**Proverbs 24:33, 34**
+
+"Yet a little sleep, a little slumber, a little folding of the hands to sleep: so shall thy poverty come as one that travelleth; and thy want as an armed man."
+
+The worst of sluggards only ask for a little slumber; they would be indignant if they were accused of thorough idleness. A little folding of the hands to sleep is all they crave, and they have a crowd of reasons to show that this indulgence is a very proper one. Yet by these littles the day ebbs out, and the time for labour is all gone, and the field is grown over with thorns. It is by little procrastinations that men ruin their souls. They have no intention to delay for years--a few months will bring the more convenient season--to-morrow if you will, they will attend to serious things; but the present hour is so occupied and altogether so unsuitable, that they beg to be excused. Like sands from an hour-glass, time passes, life is wasted by driblets, and seasons of grace lost by little slumbers. Oh, to be wise, to catch the flying hour, to use the moments on the wing! May the Lord teach us this sacred wisdom, for otherwise a poverty of the worst sort awaits us, eternal poverty which shall want even a drop of water, and beg for it in vain. Like a traveller steadily pursuing his journey, poverty overtakes the slothful, and ruin overthrows the undecided: each hour brings the dreaded pursuer nearer; he pauses not by the way, for he is on his master's business and must not tarry. As an armed man enters with authority and power, so shall want come to the idle, and death to the impenitent, and there will be no escape. O that men were wise be-times, and would seek diligently unto the Lord Jesus, or ere the solemn day shall dawn when it will be too late to plough and to sow, too late to repent and believe. In harvest, it is vain to lament that the seed time was neglected. As yet, faith and holy decision are timely. May we obtain them this night.

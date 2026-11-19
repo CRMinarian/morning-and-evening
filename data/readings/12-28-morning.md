@@ -1,0 +1,33 @@
+---
+date: "12-28"
+slot: morning
+title: "Morning | December 28"
+scripture_ref: "Galatians 2:20"
+scripture_ref_as_printed: "Galatians 2:20"
+scripture_text: "The life which I now live in the flesh, I live by the faith of the Son of God."
+source: "https://www.ccel.org/ccel/spurgeon/morneve.d1228am.html"
+edition: "Morning and Evening: Daily Readings, C. H. Spurgeon. CCEL electronic edition of the public-domain combined text (Morning by Morning, 1865; Evening by Evening, 1868)."
+public_domain: "Charles Haddon Spurgeon (1834-1892). This text is in the public domain in the United States."
+---
+
+# Morning | December 28
+
+**Galatians 2:20**
+
+"The life which I now live in the flesh, I live by the faith of the Son of God."
+
+When the Lord in mercy passed by and saw us in our blood, he first of all said, "Live;" and this he did first, because life is one of the absolutely essential things in spiritual matters, and until it be bestowed we are incapable of partaking in the things of the kingdom. Now the life which grace confers upon the saints at the moment of their quickening is none other than the life of Christ, which, like the sap from the stem, runs into us, the branches, and establishes a living connection between our souls and Jesus. Faith is the grace which perceives this union, having proceeded from it as its firstfruit. It is the neck which joins the body of the Church to its all-glorious Head.
+
+"Oh Faith! thou bond of union with the Lord,
+
+Is not this office thine? and thy fit name,
+
+In the economy of gospel types,
+
+And symbols apposite--the Church's neck;
+
+Identifying her in will and work
+
+With him ascended?"
+
+Faith lays hold upon the Lord Jesus with a firm and determined grasp. She knows his excellence and worth, and no temptation can induce her to repose her trust elsewhere; and Christ Jesus is so delighted with this heavenly grace, that he never ceases to strengthen and sustain her by the loving embrace and all-sufficient support of his eternal arms. Here, then, is established a living, sensible, and delightful union which casts forth streams of love, confidence, sympathy, complacency, and joy, whereof both the bride and bridegroom love to drink. When the soul can evidently perceive this oneness between itself and Christ, the pulse may be felt as beating for both, and the one blood as flowing through the veins of each. Then is the heart as near heaven as it can be on earth, and is prepared for the enjoyment of the most sublime and spiritual kind of fellowship.

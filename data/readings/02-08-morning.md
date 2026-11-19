@@ -1,0 +1,23 @@
+---
+date: "02-08"
+slot: morning
+title: "Morning | February 8"
+scripture_ref: "Matthew 1:21"
+scripture_ref_as_printed: "Matthew 1:21"
+scripture_text: "Thou shalt call his name Jesus."
+source: "https://www.ccel.org/ccel/spurgeon/morneve.d0208am.html"
+edition: "Morning and Evening: Daily Readings, C. H. Spurgeon. CCEL electronic edition of the public-domain combined text (Morning by Morning, 1865; Evening by Evening, 1868)."
+public_domain: "Charles Haddon Spurgeon (1834-1892). This text is in the public domain in the United States."
+---
+
+# Morning | February 8
+
+**Matthew 1:21**
+
+"Thou shalt call his name Jesus."
+
+When a person is dear, everything connected with him becomes dear for his sake. Thus, so precious is the person of the Lord Jesus in the estimation of all true believers, that everything about him they consider to be inestimable beyond all price. "All thy garments smell of myrrh, and aloes, and cassia," said David, as if the very vestments of the Saviour were so sweetened by his person that he could not but love them. Certain it is, that there is not a spot where that hallowed foot hath trodden--there is not a word which those blessed lips have uttered--nor a thought which his loving Word has revealed--which is not to us precious beyond all price. And this is true of the names of Christ--they are all sweet in the believer's ear. Whether he be called the Husband of the Church, her Bridegroom, her Friend; whether he be styled the Lamb slain from the foundation of the world--the King, the Prophet, or the Priest--every title of our Master--Shiloh, Emmanuel, Wonderful, the Mighty Counsellor--every name is like the honeycomb dropping with honey, and luscious are the drops that distil from it. But if there be one name sweeter than another in the believer's ear, it is the name of Jesus. Jesus! it is the name which moves the harps of heaven to melody. Jesus! the life of all our joys. If there be one name more charming, more precious than another, it is this name. It is woven into the very warp and woof of our psalmody. Many of our hymns begin with it, and scarcely any, that are good for anything, end without it. It is the sum total of all delights. It is the music with which the bells of heaven ring; a song in a word; an ocean for comprehension, although a drop for brevity; a matchless oratorio in two syllables; a gathering up of the hallelujahs of eternity in five letters.
+
+"Jesus, I love thy charming name,
+
+'Tis music to mine ear."

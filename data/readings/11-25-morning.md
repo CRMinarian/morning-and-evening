@@ -1,0 +1,19 @@
+---
+date: "11-25"
+slot: morning
+title: "Morning | November 25"
+scripture_ref: "Luke 4:18"
+scripture_ref_as_printed: "Luke 4:18"
+scripture_text: "To preach deliverance to the captives."
+source: "https://www.ccel.org/ccel/spurgeon/morneve.d1125am.html"
+edition: "Morning and Evening: Daily Readings, C. H. Spurgeon. CCEL electronic edition of the public-domain combined text (Morning by Morning, 1865; Evening by Evening, 1868)."
+public_domain: "Charles Haddon Spurgeon (1834-1892). This text is in the public domain in the United States."
+---
+
+# Morning | November 25
+
+**Luke 4:18**
+
+"To preach deliverance to the captives."
+
+None but Jesus can give deliverance to captives. Real liberty cometh from him only. It is a liberty righteously bestowed; for the Son, who is Heir of all things, has a right to make men free. The saints honour the justice of God, which now secures their salvation. It is a liberty which has been dearly purchased. Christ speaks it by his power, but he bought it by his blood. He makes thee free, but it is by his own bonds. Thou goest clear, because he bare thy burden for thee: thou art set at liberty, because he has suffered in thy stead. But, though dearly purchased, he freely gives it. Jesus asks nothing of us as a preparation for this liberty. He finds us sitting in sackcloth and ashes, and bids us put on the beautiful array of freedom; he saves us just as we are, and all without our help or merit. When Jesus sets free, the liberty is perpetually entailed; no chains can bind again. Let the Master say to me, "Captive, I have delivered thee," and it is done forever. Satan may plot to enslave us, but if the Lord be on our side, whom shall we fear? The world, with its temptations, may seek to ensnare us, but mightier is he who is for us than all they who be against us. The machinations of our own deceitful hearts may harass and annoy us, but he who hath begun the good work in us will carry it on and perfect it to the end. The foes of God and the enemies of man may gather their hosts together, and come with concentrated fury against us, but if God acquitteth, who is he that condemneth? Not more free is the eagle which mounts to his rocky eyrie, and afterwards outsoars the clouds, than the soul which Christ hath delivered. If we are no more under the law, but free from its curse, let our liberty be practically exhibited in our serving God with gratitude and delight. "I am thy servant, and the son of thine handmaid: thou hast loosed my bonds." "Lord, what wilt thou have me to do?"

@@ -1,0 +1,37 @@
+---
+date: "08-27"
+slot: evening
+title: "Evening | August 27"
+scripture_ref: "Psalm 31:5"
+scripture_ref_as_printed: "Psalm 31:5"
+scripture_text: "Into thine hand I commit my spirit: thou hast redeemed me, O Lord God of truth."
+source: "https://www.ccel.org/ccel/spurgeon/morneve.d0827pm.html"
+edition: "Morning and Evening: Daily Readings, C. H. Spurgeon. CCEL electronic edition of the public-domain combined text (Morning by Morning, 1865; Evening by Evening, 1868)."
+public_domain: "Charles Haddon Spurgeon (1834-1892). This text is in the public domain in the United States."
+---
+
+# Evening | August 27
+
+**Psalm 31:5**
+
+"Into thine hand I commit my spirit: thou hast redeemed me, O Lord God of truth."
+
+These words have been frequently used by holy men in their hour of departure. We may profitably consider them this evening. The object of the faithful man's solicitude in life and death is not his body or his estate, but his spirit; this is his choice treasure--if this be safe, all is well. What is this mortal state compared with the soul? The believer commits his soul to the hand of his God; it came from him, it is his own, he has aforetime sustained it, he is able to keep it, and it is most fit that he should receive it. All things are safe in Jehovah's hands; what we entrust to the Lord will be secure, both now and in that day of days towards which we are hastening. It is peaceful living, and glorious dying, to repose in the care of heaven. At all times we should commit our all to Jesus' faithful hand; then, though life may hang on a thread, and adversities may multiply as the sands of the sea, our soul shall dwell at ease, and delight itself in quiet resting places.
+
+"Thou hast redeemed me, O Lord God of truth." Redemption is a solid basis for confidence. David had not known Calvary as we have done, but temporal redemption cheered him; and shall not eternal redemption yet more sweetly console us? Past deliverances are strong pleas for present assistance. What the Lord has done he will do again, for he changes not. He is faithful to his promises, and gracious to his saints; he will not turn away from his people.
+
+"Though thou slay me I will trust,
+
+Praise thee even from the dust,
+
+Prove, and tell it as I prove,
+
+Thine unutterable love.
+
+Thou mayst chasten and correct,
+
+But thou never canst neglect;
+
+Since the ransom price is paid,
+
+On thy love my hope is stay'd."

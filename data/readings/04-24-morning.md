@@ -1,0 +1,19 @@
+---
+date: "04-24"
+slot: morning
+title: "Morning | April 24"
+scripture_ref: "Nehemiah 9:38"
+scripture_ref_as_printed: "Nehemiah 9:38"
+scripture_text: "And because of all this we make a sure covenant."
+source: "https://www.ccel.org/ccel/spurgeon/morneve.d0424am.html"
+edition: "Morning and Evening: Daily Readings, C. H. Spurgeon. CCEL electronic edition of the public-domain combined text (Morning by Morning, 1865; Evening by Evening, 1868)."
+public_domain: "Charles Haddon Spurgeon (1834-1892). This text is in the public domain in the United States."
+---
+
+# Morning | April 24
+
+**Nehemiah 9:38**
+
+"And because of all this we make a sure covenant."
+
+There are many occasions in our experience when we may very rightly, and with benefit, renew our covenant with God. After recovery from sickness when, like Hezekiah, we have had a new term of years added to our life, we may fitly do it. After any deliverance from trouble, when our joys bud forth anew, let us again visit the foot of the cross, and renew our consecration. Especially, let us do this after any sin which has grieved the Holy Spirit, or brought dishonour upon the cause of God; let us then look to that blood which can make us whiter than snow, and again offer ourselves unto the Lord. We should not only let our troubles confirm our dedication to God, but our prosperity should do the same. If we ever meet with occasions which deserve to be called "crowning mercies" then, surely, if he hath crowned us, we ought also to crown our God; let us bring forth anew all the jewels of the divine regalia which have been stored in the jewel-closet of our heart, and let our God sit upon the throne of our love, arrayed in royal apparel. If we would learn to profit by our prosperity, we should not need so much adversity. If we would gather from a kiss all the good it might confer upon us, we should not so often smart under the rod. Have we lately received some blessing which we little expected? Has the Lord put our feet in a large room? Can we sing of mercies multiplied? Then this is the day to put our hand upon the horns of the altar, and say, "Bind me here, my God; bind me here with cords, even forever." Inasmuch as we need the fulfilment of new promises from God, let us offer renewed prayers that our old vows may not be dishonoured. Let us this morning make with him a sure covenant, because of the pains of Jesus which for the last month we have been considering with gratitude.

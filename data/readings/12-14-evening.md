@@ -1,0 +1,21 @@
+---
+date: "12-14"
+slot: evening
+title: "Evening | December 14"
+scripture_ref: "Galatians 2:20"
+scripture_ref_as_printed: "Galatians 2:20"
+scripture_text: "I am crucified with Christ."
+source: "https://www.ccel.org/ccel/spurgeon/morneve.d1214pm.html"
+edition: "Morning and Evening: Daily Readings, C. H. Spurgeon. CCEL electronic edition of the public-domain combined text (Morning by Morning, 1865; Evening by Evening, 1868)."
+public_domain: "Charles Haddon Spurgeon (1834-1892). This text is in the public domain in the United States."
+---
+
+# Evening | December 14
+
+**Galatians 2:20**
+
+"I am crucified with Christ."
+
+The Lord Jesus Christ acted in what he did as a great public representative person, and his dying upon the cross was the virtual dying of all his people. Then all his saints rendered unto justice what was due, and made an expiation to divine vengeance for all their sins. The apostle of the Gentiles delighted to think that as one of Christ's chosen people, he died upon the cross in Christ. He did more than believe this doctrinally, he accepted it confidently, resting his hope upon it. He believed that by virtue of Christ's death, he had satisfied divine justice, and found reconciliation with God. Beloved, what a blessed thing it is when the soul can, as it were, stretch itself upon the cross of Christ, and feel, "I am dead; the law has slain me, and I am therefore free from its power, because in my Surety I have borne the curse, and in the person of my Substitute the whole that the law could do, by way of condemnation, has been executed upon me, for I am crucified with Christ."
+
+But Paul meant even more than this. He not only believed in Christ's death, and trusted in it, but he actually felt its power in himself in causing the crucifixion of his old corrupt nature. When he saw the pleasures of sin, he said, "I cannot enjoy these: I am dead to them." Such is the experience of every true Christian. Having received Christ, he is to this world as one who is utterly dead. Yet, while conscious of death to the world, he can, at the same time, exclaim with the apostle, "Nevertheless I live." He is fully alive unto God. The Christian's life is a matchless riddle. No worldling can comprehend it; even the believer himself cannot understand it. Dead, yet alive! crucified with Christ, and yet at the same time risen with Christ in newness of life! Union with the suffering, bleeding Saviour, and death to the world and sin, are soul-cheering things. O for more enjoyment of them!

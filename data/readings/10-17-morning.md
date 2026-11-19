@@ -1,0 +1,19 @@
+---
+date: "10-17"
+slot: morning
+title: "Morning | October 17"
+scripture_ref: "1 Samuel 27:1"
+scripture_ref_as_printed: "1 Samuel 27:1"
+scripture_text: "And David said in his heart, I shall now perish one day by the hand of Saul."
+source: "https://www.ccel.org/ccel/spurgeon/morneve.d1017am.html"
+edition: "Morning and Evening: Daily Readings, C. H. Spurgeon. CCEL electronic edition of the public-domain combined text (Morning by Morning, 1865; Evening by Evening, 1868)."
+public_domain: "Charles Haddon Spurgeon (1834-1892). This text is in the public domain in the United States."
+---
+
+# Morning | October 17
+
+**1 Samuel 27:1**
+
+"And David said in his heart, I shall now perish one day by the hand of Saul."
+
+The thought of David's heart at this time was a false thought, because he certainly had no ground for thinking that God's anointing him by Samuel was intended to be left as an empty unmeaning act. On no one occasion had the Lord deserted his servant; he had been placed in perilous positions very often, but not one instance had occurred in which divine interposition had not delivered him. The trials to which he had been exposed had been varied; they had not assumed one form only, but many--yet in every case he who sent the trial had also graciously ordained a way of escape. David could not put his finger upon any entry in his diary, and say of it, "Here is evidence that the Lord will forsake me," for the entire tenor of his past life proved the very reverse. He should have argued from what God had done for him, that God would be his defender still. But is it not just in the same way that we doubt God's help? Is it not mistrust without a cause? Have we ever had the shadow of a reason to doubt our Father's goodness? Have not his lovingkindnesses been marvellous? Has he once failed to justify our trust? Ah, no! our God has not left us at any time. We have had dark nights, but the star of love has shone forth amid the blackness; we have been in stern conflicts, but over our head he has held aloft the shield of our defence. We have gone through many trials, but never to our detriment, always to our advantage; and the conclusion from our past experience is, that he who has been with us in six troubles, will not forsake us in the seventh. What we have known of our faithful God, proves that he will keep us to the end. Let us not, then, reason contrary to evidence. How can we ever be so ungenerous as to doubt our God? Lord, throw down the Jezebel of our unbelief, and let the dogs devour it.

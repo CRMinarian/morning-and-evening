@@ -1,0 +1,29 @@
+---
+date: "06-22"
+slot: morning
+title: "Morning | June 22"
+scripture_ref: "Zechariah 6:13"
+scripture_ref_as_printed: "Zechariah 6:13"
+scripture_text: "He shall build the temple of the Lord; and he shall bear the glory."
+source: "https://www.ccel.org/ccel/spurgeon/morneve.d0622am.html"
+edition: "Morning and Evening: Daily Readings, C. H. Spurgeon. CCEL electronic edition of the public-domain combined text (Morning by Morning, 1865; Evening by Evening, 1868)."
+public_domain: "Charles Haddon Spurgeon (1834-1892). This text is in the public domain in the United States."
+---
+
+# Morning | June 22
+
+**Zechariah 6:13**
+
+"He shall build the temple of the Lord; and he shall bear the glory."
+
+Christ himself is the builder of his spiritual temple, and he has built it on the mountains of his unchangeable affection, his omnipotent grace, and his infallible truthfulness. But as it was in Solomon's temple, so in this; the materials need making ready. There are the "Cedars of Lebanon," but they are not framed for the building; they are not cut down, and shaped, and made into those planks of cedar, whose odoriferous beauty shall make glad the courts of the Lord's house in Paradise. There are also the rough stones still in the quarry, they must be hewn thence, and squared. All this is Christ's own work. Each individual believer is being prepared, and polished, and made ready for his place in the temple; but Christ's own hand performs the preparation-work. Afflictions cannot sanctify, excepting as they are used by him to this end. Our prayers and efforts cannot make us ready for heaven, apart from the hand of Jesus, who fashioneth our hearts aright.
+
+As in the building of Solomon's temple, "there was neither hammer, nor axe, nor any tool of iron, heard in the house," because all was brought perfectly ready for the exact spot it was to occupy--so is it with the temple which Jesus builds; the making ready is all done on earth. When we reach heaven, there will be no sanctifying us there, no squaring us with affliction, no planing us with suffering. No, we must be made meet here--all that Christ will do beforehand; and when he has done it, we shall be ferried by a loving hand across the stream of death, and brought to the heavenly Jerusalem, to abide as eternal pillars in the temple of our Lord.
+
+"Beneath his eye and care,
+
+The edifice shall rise,
+
+Majestic, strong, and fair,
+
+And shine above the skies."

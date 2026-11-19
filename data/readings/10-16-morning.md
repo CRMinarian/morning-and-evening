@@ -1,0 +1,19 @@
+---
+date: "10-16"
+slot: morning
+title: "Morning | October 16"
+scripture_ref: "John 21:12"
+scripture_ref_as_printed: "John 21:12"
+scripture_text: "Jesus saith unto them, Come and dine."
+source: "https://www.ccel.org/ccel/spurgeon/morneve.d1016am.html"
+edition: "Morning and Evening: Daily Readings, C. H. Spurgeon. CCEL electronic edition of the public-domain combined text (Morning by Morning, 1865; Evening by Evening, 1868)."
+public_domain: "Charles Haddon Spurgeon (1834-1892). This text is in the public domain in the United States."
+---
+
+# Morning | October 16
+
+**John 21:12**
+
+"Jesus saith unto them, Come and dine."
+
+In these words the believer is invited to a holy nearness to Jesus. "Come and dine," implies the same table, the same meat; aye, and sometimes it means to sit side by side, and lean our head upon the Saviour's bosom. It is being brought into the banqueting-house, where waves the banner of redeeming love. "Come and dine," gives us a vision of union with Jesus, because the only food that we can feast upon when we dine with Jesus is himself. Oh, what union is this! It is a depth which reason cannot fathom, that we thus feed upon Jesus. "He that eateth my flesh, and drinketh my blood, dwelleth in me, and I in him." It is also an invitation to enjoy fellowship with the saints. Christians may differ on a variety of points, but they have all one spiritual appetite; and if we cannot all feel alike, we can all feed alike on the bread of life sent down from heaven. At the table of fellowship with Jesus we are one bread and one cup. As the loving cup goes round we pledge one another heartily therein. Get nearer to Jesus, and you will find yourself linked more and more in spirit to all who are like yourself, supported by the same heavenly manna. If we were more near to Jesus we should be more near to one another. We likewise see in these words the source of strength for every Christian. To look at Christ is to live, but for strength to serve him you must "come and dine." We labour under much unnecessary weakness on account of neglecting this precept of the Master. We none of us need to put ourselves on low diet; on the contrary, we should fatten on the marrow and fatness of the gospel that we may accumulate strength therein, and urge every power to its full tension in the Master's service. Thus, then, if you would realize nearness to Jesus, union with Jesus, love to his people and strength from Jesus, "come and dine" with him by faith.

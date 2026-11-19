@@ -1,0 +1,37 @@
+---
+date: "08-06"
+slot: morning
+title: "Morning | August 6"
+scripture_ref: "Isaiah 21:11"
+scripture_ref_as_printed: "Isaiah 21:11"
+scripture_text: "Watchman, what of the night?"
+source: "https://www.ccel.org/ccel/spurgeon/morneve.d0806am.html"
+edition: "Morning and Evening: Daily Readings, C. H. Spurgeon. CCEL electronic edition of the public-domain combined text (Morning by Morning, 1865; Evening by Evening, 1868)."
+public_domain: "Charles Haddon Spurgeon (1834-1892). This text is in the public domain in the United States."
+---
+
+# Morning | August 6
+
+**Isaiah 21:11**
+
+"Watchman, what of the night?"
+
+What enemies are abroad? Errors are a numerous horde, and new ones appear every hour: against what heresy am I to be on my guard? Sins creep from their lurking places when the darkness reigns; I must myself mount the watch-tower, and watch unto prayer. Our heavenly Protector foresees all the attacks which are about to be made upon us, and when as yet the evil designed us is but in the desire of Satan, he prays for us that our faith fail not, when we are sifted as wheat. Continue O gracious Watchman, to forewarn us of our foes, and for Zion's sake hold not thy peace.
+
+"Watchman, what of the night?" What weather is coming for the Church? Are the clouds lowering, or is it all clear and fair overhead? We must care for the Church of God with anxious love; and now that Popery and infidelity are both threatening, let us observe the signs of the times and prepare for conflict.
+
+"Watchman, what of the night?" What stars are visible? What precious promises suit our present case? You sound the alarm, give us the consolation also. Christ, the polestar, is ever fixed in his place, and all the stars are secure in the right hand of their Lord.
+
+But watchman, when comes the morning? The Bridegroom tarries. Are there no signs of his coming forth as the Sun of Righteousness? Has not the morning star arisen as the pledge of day? When will the day dawn, and the shadows flee away? O Jesus, if thou come not in person to thy waiting Church this day, yet come in Spirit to my sighing heart, and make it sing for joy.
+
+"Now all the earth is bright and glad
+
+With the fresh morn;
+
+But all my heart is cold, and dark and sad:
+
+Sun of the soul, let me behold thy dawn!
+
+Come, Jesus, Lord,
+
+O quickly come, according to thy word."

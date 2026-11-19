@@ -4,14 +4,22 @@ These JSON files are the public-domain Spurgeon excerpts used to write
 the static Home and This Week pages. GitHub Pages serves the HTML; no
 build step is required.
 
-- `today.json` — featured morning and evening pair on `index.html` (2026-10-05)
-- `this-week.json` — seven-day title table for `week.html` (2026-10-05 through 2026-10-11)
-- `this-week-full.json` — seven days of full bodies on `week.html` (same week)
-- `readings/` — the 14 morning and evening markdown files for that week
+- `today.json`: featured morning and evening pair on `index.html` (2026-10-05)
+- `this-week.json`: seven-day title table for `week.html` (2026-10-05 through 2026-10-11)
+- `this-week-full.json`: seven days of full bodies on `week.html` (same week)
+- `year-index.json`: all 732 readings (path, date, slot, scripture_ref)
+- `readings/`: one year-less `MM-DD-slot.md` file per morning and evening, including 02-29
+- `readings/PROVENANCE.md`: source, edition, retrieval date, seed diffs, and parse notes
+- `source/ccel-morneve.txt`: cached CCEL plaintext used to regenerate and validate
 
-The August 2026 sample week (2026-08-13 through 2026-08-19) and the
-2026-09-10 featured pair were replaced by this October slice. Texts are
-calendar-day Spurgeon *Morning and Evening* (public domain via CCEL),
-refreshed because the full-year vault feed was offline.
+The October class-week indexes keep the same JSON keys the site already
+reads (`title`, `scripture`, `body`, `episode`, `id`, and
+`source_reading` on the full week file). Bodies are regenerated from the
+CCEL public-domain text.
+
+Texts are calendar-day Spurgeon *Morning and Evening* (public domain via
+CCEL). Rebuild the markdown and indexes with
+`python3 scripts/ingest_morning_evening.py`. Check counts with
+`python3 scripts/validate_readings.py`.
 
 Rights: Charles H. Spurgeon, *Morning and Evening*, public domain via CCEL.

@@ -1,0 +1,25 @@
+---
+date: "02-20"
+slot: morning
+title: "Morning | February 20"
+scripture_ref: "2 Corinthians 7:6"
+scripture_ref_as_printed: "2 Corinthians 7:6"
+scripture_text: "God, that comforteth those that are cast down."
+source: "https://www.ccel.org/ccel/spurgeon/morneve.d0220am.html"
+edition: "Morning and Evening: Daily Readings, C. H. Spurgeon. CCEL electronic edition of the public-domain combined text (Morning by Morning, 1865; Evening by Evening, 1868)."
+public_domain: "Charles Haddon Spurgeon (1834-1892). This text is in the public domain in the United States."
+---
+
+# Morning | February 20
+
+**2 Corinthians 7:6**
+
+"God, that comforteth those that are cast down."
+
+And who comforteth like him? Go to some poor, melancholy, distressed child of God; tell him sweet promises, and whisper in his ear choice words of comfort; he is like the deaf adder, he listens not to the voice of the charmer, charm he never so wisely. He is drinking gall and wormwood, and comfort him as you may, it will be only a note or two of mournful resignation that you will get from him; you will bring forth no psalms of praise, no hallelujahs, no joyful sonnets. But let God come to his child, let him lift up his countenance, and the mourner's eyes glisten with hope. Do you not hear him sing--
+
+"'Tis paradise, if thou art here;
+
+If thou depart, 'tis hell?"
+
+You could not have cheered him: but the Lord has done it; "He is the God of all comfort." There is no balm in Gilead, but there is balm in God. There is no physician among the creatures, but the Creator is Jehovah-rophi. It is marvellous how one sweet word of God will make whole songs for Christians. One word of God is like a piece of gold, and the Christian is the gold beater, and can hammer that promise out for whole weeks. So, then, poor Christian, thou needest not sit down in despair. Go to the Comforter, and ask him to give thee consolation. Thou art a poor dry well. You have heard it said, that when a pump is dry, you must pour water down it first of all, and then you will get water, and so, Christian, when thou art dry, go to God, ask him to shed abroad his joy in thy heart, and then thy joy shall be full. Do not go to earthly acquaintances, for you will find them Job's comforters after all; but go first and foremost to thy "God, that comforteth those that are cast down," and you will soon say, "In the multitude of my thoughts within me thy comforts delight my soul."

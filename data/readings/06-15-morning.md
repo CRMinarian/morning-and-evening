@@ -1,0 +1,21 @@
+---
+date: "06-15"
+slot: morning
+title: "Morning | June 15"
+scripture_ref: "Genesis 21:6"
+scripture_ref_as_printed: "Genesis 21:6"
+scripture_text: "And Sarah said, God hath made me to laugh, so that all that hear will laugh with me."
+source: "https://www.ccel.org/ccel/spurgeon/morneve.d0615am.html"
+edition: "Morning and Evening: Daily Readings, C. H. Spurgeon. CCEL electronic edition of the public-domain combined text (Morning by Morning, 1865; Evening by Evening, 1868)."
+public_domain: "Charles Haddon Spurgeon (1834-1892). This text is in the public domain in the United States."
+---
+
+# Morning | June 15
+
+**Genesis 21:6**
+
+"And Sarah said, God hath made me to laugh, so that all that hear will laugh with me."
+
+It was far above the power of nature, and even contrary to its laws, that the aged Sarah should be honoured with a son; and even so it is beyond all ordinary rules that I, a poor, helpless, undone sinner, should find grace to bear about in my soul the indwelling Spirit of the Lord Jesus. I, who once despaired, as well I might, for my nature was as dry, and withered, and barren, and accursed as a howling wilderness, even I have been made to bring forth fruit unto holiness. Well may my mouth be filled with joyous laughter, because of the singular, surprising grace which I have received of the Lord, for I have found Jesus, the promised seed, and he is mine forever. This day will I lift up psalms of triumph unto the Lord who has remembered my low estate, for "my heart rejoiceth in the Lord; mine horn is exalted in the Lord; my mouth is enlarged over mine enemies, because I rejoice in thy salvation."
+
+I would have all those that hear of my great deliverance from hell, and my most blessed visitation from on high, laugh for joy with me. I would surprise my family with my abundant peace; I would delight my friends with my ever-increasing happiness; I would edify the Church with my grateful confessions; and even impress the world with the cheerfulness of my daily conversation. Bunyan tells us that Mercy laughed in her sleep, and no wonder when she dreamed of Jesus; my joy shall not stop short of hers while my Beloved is the theme of my daily thoughts. The Lord Jesus is a deep sea of joy: my soul shall dive therein, shall be swallowed up in the delights of his society. Sarah looked on her Isaac, and laughed with excess of rapture, and all her friends laughed with her; and thou, my soul, look on thy Jesus, and bid heaven and earth unite in thy joy unspeakable.

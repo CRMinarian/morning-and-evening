@@ -1,0 +1,21 @@
+---
+date: "05-21"
+slot: morning
+title: "Morning | May 21"
+scripture_ref: "1 Peter 2:3"
+scripture_ref_as_printed: "1 Peter 2:3"
+scripture_text: "If so be ye have tasted that the Lord is gracious."
+source: "https://www.ccel.org/ccel/spurgeon/morneve.d0521am.html"
+edition: "Morning and Evening: Daily Readings, C. H. Spurgeon. CCEL electronic edition of the public-domain combined text (Morning by Morning, 1865; Evening by Evening, 1868)."
+public_domain: "Charles Haddon Spurgeon (1834-1892). This text is in the public domain in the United States."
+---
+
+# Morning | May 21
+
+**1 Peter 2:3**
+
+"If so be ye have tasted that the Lord is gracious."
+
+If:--then, this is not a matter to be taken for granted concerning every one of the human race. "If:"--then there is a possibility and a probability that some may not have tasted that the Lord is gracious. "If:"--then this is not a general but a special mercy; and it is needful to enquire whether we know the grace of God by inward experience. There is no spiritual favour which may not be a matter for heart-searching.
+
+But while this should be a matter of earnest and prayerful inquiry, no one ought to be content whilst there is any such thing as an "if" about his having tasted that the Lord is gracious. A jealous and holy distrust of self may give rise to the question even in the believer's heart, but the continuance of such a doubt would be an evil indeed. We must not rest without a desperate struggle to clasp the Saviour in the arms of faith, and say, "I know whom I have believed, and I am persuaded that he is able to keep that which I have committed unto him." Do not rest, O believer, till thou hast a full assurance of thine interest in Jesus. Let nothing satisfy thee till, by the infallible witness of the Holy Spirit bearing witness with thy spirit, thou art certified that thou art a child of God. Oh, trifle not here; let no "perhaps" and "peradventure" and "if" and "maybe" satisfy thy soul. Build on eternal verities, and verily build upon them. Get the sure mercies of David, and surely get them. Let thine anchor be cast into that which is within the veil, and see to it that thy soul be linked to the anchor by a cable that will not break. Advance beyond these dreary "ifs;" abide no more in the wilderness of doubts and fears; cross the Jordan of distrust, and enter the Canaan of peace, where the Canaanite still lingers, but where the land ceaseth not to flow with milk and honey.

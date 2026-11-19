@@ -1,0 +1,21 @@
+---
+date: "09-03"
+slot: morning
+title: "Morning | September 3"
+scripture_ref: "Song of Solomon 1:7"
+scripture_ref_as_printed: "Song of Solomon 1:7"
+scripture_text: "Thou whom my soul loveth."
+source: "https://www.ccel.org/ccel/spurgeon/morneve.d0903am.html"
+edition: "Morning and Evening: Daily Readings, C. H. Spurgeon. CCEL electronic edition of the public-domain combined text (Morning by Morning, 1865; Evening by Evening, 1868)."
+public_domain: "Charles Haddon Spurgeon (1834-1892). This text is in the public domain in the United States."
+---
+
+# Morning | September 3
+
+**Song of Solomon 1:7**
+
+"Thou whom my soul loveth."
+
+It is well to be able, without any "if" or "but," to say of the Lord Jesus--"Thou whom my soul loveth." Many can only say of Jesus that they hope they love him; they trust they love him; but only a poor and shallow experience will be content to stay here. No one ought to give any rest to his spirit till he feels quite sure about a matter of such vital importance. We ought not to be satisfied with a superficial hope that Jesus loves us, and with a bare trust that we love him. The old saints did not generally speak with "buts," and "ifs," and "hopes," and "trusts," but they spoke positively and plainly. "I know whom I have believed," saith Paul. "I know that my Redeemer liveth," saith Job. Get positive knowledge of your love of Jesus, and be not satisfied till you can speak of your interest in him as a reality, which you have made sure by having received the witness of the Holy Spirit, and his seal upon your soul by faith.
+
+True love to Christ is in every case the Holy Spirit's work, and must be wrought in the heart by him. He is the efficient cause of it; but the logical reason why we love Jesus lies in himself. Why do we love Jesus? Because he first loved us. Why do we love Jesus? Because he "gave himself for us." We have life through his death; we have peace through his blood. Though he was rich, yet for our sakes he became poor. Why do we love Jesus? Because of the excellency of his person. We are filled with a sense of his beauty! an admiration of his charms! a consciousness of his infinite perfection! His greatness, goodness, and loveliness, in one resplendent ray, combine to enchant the soul till it is so ravished that it exclaims, "Yea, he is altogether lovely." Blessed love this--a love which binds the heart with chains more soft than silk, and yet more firm than adamant!

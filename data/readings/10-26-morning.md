@@ -1,0 +1,19 @@
+---
+date: "10-26"
+slot: morning
+title: "Morning | October 26"
+scripture_ref: "Haggai 1:9"
+scripture_ref_as_printed: "Haggai 1:9"
+scripture_text: "Ye looked for much, and, lo, it came to little; and when ye brought it home, I did blow upon it. Why? saith the Lord of hosts. Because of mine house that is waste, and ye run every man unto his own house."
+source: "https://www.ccel.org/ccel/spurgeon/morneve.d1026am.html"
+edition: "Morning and Evening: Daily Readings, C. H. Spurgeon. CCEL electronic edition of the public-domain combined text (Morning by Morning, 1865; Evening by Evening, 1868)."
+public_domain: "Charles Haddon Spurgeon (1834-1892). This text is in the public domain in the United States."
+---
+
+# Morning | October 26
+
+**Haggai 1:9**
+
+"Ye looked for much, and, lo, it came to little; and when ye brought it home, I did blow upon it. Why? saith the Lord of hosts. Because of mine house that is waste, and ye run every man unto his own house."
+
+Churlish souls stint their contributions to the ministry and missionary operations, and call such saving good economy; little do they dream that they are thus impoverishing themselves. Their excuse is that they must care for their own families, and they forget that to neglect the house of God is the sure way to bring ruin upon their own houses. Our God has a method in providence by which he can succeed our endeavours beyond our expectation, or can defeat our plans to our confusion and dismay; by a turn of his hand he can steer our vessel in a profitable channel, or run it aground in poverty and bankruptcy. It is the teaching of Scripture that the Lord enriches the liberal and leaves the miserly to find out that withholding tendeth to poverty. In a very wide sphere of observation, I have noticed that the most generous Christians of my acquaintance have been always the most happy, and almost invariably the most prosperous. I have seen the liberal giver rise to wealth of which he never dreamed; and I have as often seen the mean, ungenerous churl descend to poverty by the very parsimony by which he thought to rise. Men trust good stewards with larger and larger sums, and so it frequently is with the Lord; he gives by cartloads to those who give by bushels. Where wealth is not bestowed the Lord makes the little much by the contentment which the sanctified heart feels in a portion of which the tithe has been dedicated to the Lord. Selfishness looks first at home, but godliness seeks first the kingdom of God and his righteousness, yet in the long run selfishness is loss, and godliness is great gain. It needs faith to act towards our God with an open hand, but surely he deserves it of us; and all that we can do is a very poor acknowledgment of our amazing indebtedness to his goodness.

@@ -1,0 +1,23 @@
+---
+date: "01-18"
+slot: evening
+title: "Evening | January 18"
+scripture_ref: "Luke 24:27"
+scripture_ref_as_printed: "Luke 24:27"
+scripture_text: "He expounded unto them in all the Scriptures the things concerning himself."
+source: "https://www.ccel.org/ccel/spurgeon/morneve.d0118pm.html"
+edition: "Morning and Evening: Daily Readings, C. H. Spurgeon. CCEL electronic edition of the public-domain combined text (Morning by Morning, 1865; Evening by Evening, 1868)."
+public_domain: "Charles Haddon Spurgeon (1834-1892). This text is in the public domain in the United States."
+---
+
+# Evening | January 18
+
+**Luke 24:27**
+
+"He expounded unto them in all the Scriptures the things concerning himself."
+
+The two disciples on the road to Emmaus had a most profitable journey. Their companion and teacher was the best of tutors; the interpreter one of a thousand, in whom are hid all the treasures of wisdom and knowledge. The Lord Jesus condescended to become a preacher of the gospel, and he was not ashamed to exercise his calling before an audience of two persons, neither does he now refuse to become the teacher of even one. Let us court the company of so excellent an Instructor, for till he is made unto us wisdom we shall never be wise unto salvation.
+
+This unrivalled tutor used as his class-book the best of books. Although able to reveal fresh truth, he preferred to expound the old. He knew by his omniscience what was the most instructive way of teaching, and by turning at once to Moses and the prophets, he showed us that the surest road to wisdom is not speculation, reasoning, or reading human books, but meditation upon the Word of God. The readiest way to be spiritually rich in heavenly knowledge is to dig in this mine of diamonds, to gather pearls from this heavenly sea. When Jesus himself sought to enrich others, he wrought in the quarry of Holy Scripture.
+
+The favoured pair were led to consider the best of subjects, for Jesus spake of Jesus, and expounded the things concerning himself. Here the diamond cut the diamond, and what could be more admirable? The Master of the House unlocked his own doors, conducted the guests to his table, and placed his own dainties upon it. He who hid the treasure in the field himself guided the searchers to it. Our Lord would naturally discourse upon the sweetest of topics, and he could find none sweeter than his own person and work: with an eye to these we should always search the Word. O for grace to study the Bible with Jesus as both our teacher and our lesson!

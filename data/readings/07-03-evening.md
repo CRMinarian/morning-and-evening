@@ -1,0 +1,19 @@
+---
+date: "07-03"
+slot: evening
+title: "Evening | July 3"
+scripture_ref: "2 Timothy 2:12"
+scripture_ref_as_printed: "2 Timothy 2:12"
+scripture_text: "If we suffer, we shall also reign with him."
+source: "https://www.ccel.org/ccel/spurgeon/morneve.d0703pm.html"
+edition: "Morning and Evening: Daily Readings, C. H. Spurgeon. CCEL electronic edition of the public-domain combined text (Morning by Morning, 1865; Evening by Evening, 1868)."
+public_domain: "Charles Haddon Spurgeon (1834-1892). This text is in the public domain in the United States."
+---
+
+# Evening | July 3
+
+**2 Timothy 2:12**
+
+"If we suffer, we shall also reign with him."
+
+We must not imagine that we are suffering for Christ, and with Christ, if we are not in Christ. Beloved friend, are you trusting to Jesus only? If not, whatever you may have to mourn over on earth, you are not "suffering with Christ," and have no hope of reigning with him in heaven. Neither are we to conclude that all a Christian's sufferings are sufferings with Christ, for it is essential that he be called by God to suffer. If we are rash and imprudent, and run into positions for which neither providence nor grace has fitted us, we ought to question whether we are not rather sinning than communing with Jesus. If we let passion take the place of judgment, and self-will reign instead of Scriptural authority, we shall fight the Lord's battles with the devil's weapons, and if we cut our own fingers we must not be surprised. Again, in troubles which come upon us as the result of sin, we must not dream that we are suffering with Christ. When Miriam spoke evil of Moses, and the leprosy polluted her, she was not suffering for God. Moreover, suffering which God accepts must have God's glory as its end. If I suffer that I may earn a name, or win applause, I shall get no other reward than that of the Pharisee. It is requisite also that love to Jesus, and love to his elect, be ever the mainspring of all our patience. We must manifest the Spirit of Christ in meekness, gentleness, and forgiveness. Let us search and see if we truly suffer with Jesus. And if we do thus suffer, what is our "light affliction" compared with reigning with him? Oh it is so blessed to be in the furnace with Christ, and such an honour to stand in the pillory with him, that if there were no future reward, we might count ourselves happy in present honour; but when the recompense is so eternal, so infinitely more than we had any right to expect, shall we not take up the cross with alacrity, and go on our way rejoicing?

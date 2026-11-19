@@ -1,0 +1,29 @@
+---
+date: "11-16"
+slot: morning
+title: "Morning | November 16"
+scripture_ref: "Lamentations 3:24"
+scripture_ref_as_printed: "Lamentations 3:24"
+scripture_text: "The Lord is my portion, saith my soul."
+source: "https://www.ccel.org/ccel/spurgeon/morneve.d1116am.html"
+edition: "Morning and Evening: Daily Readings, C. H. Spurgeon. CCEL electronic edition of the public-domain combined text (Morning by Morning, 1865; Evening by Evening, 1868)."
+public_domain: "Charles Haddon Spurgeon (1834-1892). This text is in the public domain in the United States."
+---
+
+# Morning | November 16
+
+**Lamentations 3:24**
+
+"The Lord is my portion, saith my soul."
+
+It is not "The Lord is partly my portion," nor "The Lord is in my portion"; but he himself makes up the sum total of my soul's inheritance. Within the circumference of that circle lies all that we possess or desire. The Lord is my portion. Not his grace merely, nor his love, nor his covenant, but Jehovah himself. He has chosen us for his portion, and we have chosen him for ours. It is true that the Lord must first choose our inheritance for us, or else we shall never choose it for ourselves; but if we are really called according to the purpose of electing love, we can sing--
+
+"Lov'd of my God for him again
+
+With love intense I burn;
+
+Chosen of him ere time began,
+
+I choose him in return."
+
+The Lord is our all-sufficient portion. God fills himself; and if God is all-sufficient in himself, he must be all- sufficient for us. It is not easy to satisfy man's desires. When he dreams that he is satisfied, anon he wakes to the perception that there is somewhat yet beyond, and straightway the horse-leech in his heart cries, "Give, give." But all that we can wish for is to be found in our divine portion, so that we ask, "Whom have I in heaven but thee? and there is none upon earth that I desire beside thee." Well may we "delight ourselves in the Lord" who makes us to drink of the river of his pleasures. Our faith stretches her wings and mounts like an eagle into the heaven of divine love as to her proper dwelling-place. "The lines have fallen to us in pleasant places; yea, we have a goodly heritage." Let us rejoice in the Lord always; let us show to the world that we are a happy and a blessed people, and thus induce them to exclaim, "We will go with you, for we have heard that God is with you."

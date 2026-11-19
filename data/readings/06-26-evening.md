@@ -1,0 +1,27 @@
+---
+date: "06-26"
+slot: evening
+title: "Evening | June 26"
+scripture_ref: "2 Peter 1:4"
+scripture_ref_as_printed: "2 Peter 1:4"
+scripture_text: "Having escaped the corruption that is in the world through lust."
+source: "https://www.ccel.org/ccel/spurgeon/morneve.d0626pm.html"
+edition: "Morning and Evening: Daily Readings, C. H. Spurgeon. CCEL electronic edition of the public-domain combined text (Morning by Morning, 1865; Evening by Evening, 1868)."
+public_domain: "Charles Haddon Spurgeon (1834-1892). This text is in the public domain in the United States."
+---
+
+# Evening | June 26
+
+**2 Peter 1:4**
+
+"Having escaped the corruption that is in the world through lust."
+
+Vanish forever all thought of indulging the flesh if you would live in the power of your risen Lord. It were ill that a man who is alive in Christ should dwell in the corruption of sin. "Why seek ye the living among the dead?" said the angel to Magdalene. Should the living dwell in the sepulchre? Should divine life be immured in the charnel house of fleshly lust? How can we partake of the cup of the Lord and yet drink the cup of Belial? Surely, believer, from open lusts and sins you are delivered: have you also escaped from the more secret and delusive lime-twigs of the Satanic fowler? Have you come forth from the lust of pride? Have you escaped from slothfulness? Have you clean escaped from carnal security? Are you seeking day by day to live above worldliness, the pride of life, and the ensnaring vice of avarice? Remember, it is for this that you have been enriched with the treasures of God. If you be indeed the chosen of God, and beloved by him, do not suffer all the lavish treasure of grace to be wasted upon you. Follow after holiness; it is the Christian's crown and glory. An unholy church! it is useless to the world, and of no esteem among men. It is an abomination, hell's laughter, heaven's abhorrence. The worst evils which have ever come upon the world have been brought upon her by an unholy church. O Christian, the vows of God are upon you. You are God's priest: act as such. You are God's king: reign over your lusts. You are God's chosen: do not associate with Belial. Heaven is your portion: live like a heavenly spirit, so shall you prove that you have true faith in Jesus, for there cannot be faith in the heart unless there be holiness in the life.
+
+"Lord, I desire to live as one
+
+Who bears a blood-bought name,
+
+As one who fears but grieving thee,
+
+And knows no other shame."

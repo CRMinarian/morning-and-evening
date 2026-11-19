@@ -1,0 +1,21 @@
+---
+date: "01-15"
+slot: evening
+title: "Evening | January 15"
+scripture_ref: "Psalm 109:4"
+scripture_ref_as_printed: "Psalm 109:4"
+scripture_text: "But I give myself unto prayer."
+source: "https://www.ccel.org/ccel/spurgeon/morneve.d0115pm.html"
+edition: "Morning and Evening: Daily Readings, C. H. Spurgeon. CCEL electronic edition of the public-domain combined text (Morning by Morning, 1865; Evening by Evening, 1868)."
+public_domain: "Charles Haddon Spurgeon (1834-1892). This text is in the public domain in the United States."
+---
+
+# Evening | January 15
+
+**Psalm 109:4**
+
+"But I give myself unto prayer."
+
+Lying tongues were busy against the reputation of David, but he did not defend himself; he moved the case into a higher court, and pleaded before the great King himself. Prayer is the safest method of replying to words of hatred. The Psalmist prayed in no cold-hearted manner, he gave himself to the exercise--threw his whole soul and heart into it--straining every sinew and muscle, as Jacob did when wrestling with the angel. Thus, and thus only, shall any of us speed at the throne of grace. As a shadow has no power because there is no substance in it, even so that supplication, in which a man's proper self is not thoroughly present in agonizing earnestness and vehement desire, is utterly ineffectual, for it lacks that which would give it force. "Fervent prayer," says an old divine, "like a cannon planted at the gates of heaven, makes them fly open." The common fault with the most of us is our readiness to yield to distractions. Our thoughts go roving hither and thither, and we make little progress towards our desired end. Like quicksilver our mind will not hold together, but rolls off this way and that. How great an evil this is! It injures us, and what is worse, it insults our God. What should we think of a petitioner, if, while having an audience with a prince, he should be playing with a feather or catching a fly?
+
+Continuance and perseverance are intended in the expression of our text. David did not cry once, and then relapse into silence; his holy clamour was continued till it brought down the blessing. Prayer must not be our chance work, but our daily business, our habit and vocation. As artists give themselves to their models, and poets to their classical pursuits, so must we addict ourselves to prayer. We must be immersed in prayer as in our element, and so pray without ceasing. Lord, teach us so to pray that we may be more and more prevalent in supplication.

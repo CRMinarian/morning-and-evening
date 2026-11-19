@@ -1,0 +1,21 @@
+---
+date: "10-07"
+slot: evening
+title: "Evening | October 7"
+scripture_ref: "Isaiah 36:5"
+scripture_ref_as_printed: "Isaiah 36:5"
+scripture_text: "Now on whom dost thou trust?"
+source: "https://www.ccel.org/ccel/spurgeon/morneve.d1007pm.html"
+edition: "Morning and Evening: Daily Readings, C. H. Spurgeon. CCEL electronic edition of the public-domain combined text (Morning by Morning, 1865; Evening by Evening, 1868)."
+public_domain: "Charles Haddon Spurgeon (1834-1892). This text is in the public domain in the United States."
+---
+
+# Evening | October 7
+
+**Isaiah 36:5**
+
+"Now on whom dost thou trust?"
+
+Reader, this is an important question. Listen to the Christian's answer, and see if it is yours. "On whom dost thou trust?" "I trust," says the Christian, "in a triune God. I trust the Father, believing that he has chosen me from before the foundations of the world; I trust him to provide for me in providence, to teach me, to guide me, to correct me if need be, and to bring me home to his own house where the many mansions are. I trust the Son. Very God of very God is he--the man Christ Jesus. I trust in him to take away all my sins by his own sacrifice, and to adorn me with his perfect righteousness. I trust him to be my Intercessor, to present my prayers and desires before his Father's throne, and I trust him to be my Advocate at the last great day, to plead my cause, and to justify me. I trust him for what he is, for what he has done, and for what he has promised yet to do. And I trust the Holy Spirit--he has begun to save me from my inbred sins; I trust him to drive them all out; I trust him to curb my temper, to subdue my will, to enlighten my understanding, to check my passions, to comfort my despondency, to help my weakness, to illuminate my darkness; I trust him to dwell in me as my life, to reign in me as my King, to sanctify me wholly, spirit, soul, and body, and then to take me up to dwell with the saints in light forever."
+
+Oh, blessed trust! To trust him whose power will never be exhausted, whose love will never wane, whose kindness will never change, whose faithfulness will never fail, whose wisdom will never be nonplussed, and whose perfect goodness can never know a diminution! Happy art thou, reader, if this trust is thine! So trusting, thou shalt enjoy sweet peace now, and glory hereafter, and the foundation of thy trust shall never be removed.

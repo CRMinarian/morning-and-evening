@@ -1,0 +1,19 @@
+---
+date: "06-22"
+slot: evening
+title: "Evening | June 22"
+scripture_ref: "Hebrews 12:27"
+scripture_ref_as_printed: "Hebrews 12:27"
+scripture_text: "That those things which cannot be shaken may remain."
+source: "https://www.ccel.org/ccel/spurgeon/morneve.d0622pm.html"
+edition: "Morning and Evening: Daily Readings, C. H. Spurgeon. CCEL electronic edition of the public-domain combined text (Morning by Morning, 1865; Evening by Evening, 1868)."
+public_domain: "Charles Haddon Spurgeon (1834-1892). This text is in the public domain in the United States."
+---
+
+# Evening | June 22
+
+**Hebrews 12:27**
+
+"That those things which cannot be shaken may remain."
+
+We have many things in our possession at the present moment which can be shaken, and it ill becomes a Christian man to set much store by them, for there is nothing stable beneath these rolling skies; change is written upon all things. Yet, we have certain "things which cannot be shaken," and I invite you this evening to think of them, that if the things which can be shaken should all be taken away, you may derive real comfort from the things that cannot be shaken, which will remain. Whatever your losses have been, or may be, you enjoy present salvation. You are standing at the foot of his cross, trusting alone in the merit of Jesus' precious blood, and no rise or fall of the markets can interfere with your salvation in him; no breaking of banks, no failures and bankruptcies can touch that. Then you are a child of God this evening. God is your Father. No change of circumstances can ever rob you of that. Although by losses brought to poverty, and stripped bare, you can say, "He is my Father still. In my Father's house are many mansions; therefore will I not be troubled." You have another permanent blessing, namely, the love of Jesus Christ. He who is God and Man loves you with all the strength of his affectionate nature--nothing can affect that. The fig tree may not blossom, and the flocks may cease from the field, it matters not to the man who can sing, "My Beloved is mine, and I am his." Our best portion and richest heritage we cannot lose. Whatever troubles come, let us play the man; let us show that we are not such little children as to be cast down by what may happen in this poor fleeting state of time. Our country is Immanuel's land, our hope is above the sky, and therefore, calm as the summer's ocean; we will see the wreck of everything earthborn, and yet rejoice in the God of our salvation.

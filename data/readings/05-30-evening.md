@@ -1,0 +1,19 @@
+---
+date: "05-30"
+slot: evening
+title: "Evening | May 30"
+scripture_ref: "Romans 6:6"
+scripture_ref_as_printed: "Romans 6:6"
+scripture_text: "That henceforth we should not serve sin."
+source: "https://www.ccel.org/ccel/spurgeon/morneve.d0530pm.html"
+edition: "Morning and Evening: Daily Readings, C. H. Spurgeon. CCEL electronic edition of the public-domain combined text (Morning by Morning, 1865; Evening by Evening, 1868)."
+public_domain: "Charles Haddon Spurgeon (1834-1892). This text is in the public domain in the United States."
+---
+
+# Evening | May 30
+
+**Romans 6:6**
+
+"That henceforth we should not serve sin."
+
+Christian, what hast thou to do with sin? Hath it not cost thee enough already? Burnt child, wilt thou play with the fire? What! when thou hast already been between the jaws of the lion, wilt thou step a second time into his den? Hast thou not had enough of the old serpent? Did he not poison all thy veins once, and wilt thou play upon the hole of the asp, and put thy hand upon the cockatrice's den a second time? Oh, be not so mad! so foolish! Did sin ever yield thee real pleasure? Didst thou find solid satisfaction in it? If so, go back to thine old drudgery, and wear the chain again, if it delight thee. But inasmuch as sin did never give thee what it promised to bestow, but deluded thee with lies, be not a second time snared by the old fowler--be free, and let the remembrance of thy ancient bondage forbid thee to enter the net again! It is contrary to the designs of eternal love, which all have an eye to thy purity and holiness; therefore run not counter to the purposes of thy Lord. Another thought should restrain thee from sin. Christians can never sin cheaply; they pay a heavy price for iniquity. Transgression destroys peace of mind, obscures fellowship with Jesus, hinders prayer, brings darkness over the soul; therefore be not the serf and bondman of sin. There is yet a higher argument: each time you "serve sin" you have "Crucified the Lord afresh, and put him to an open shame." Can you bear that thought? Oh! if you have fallen into any special sin during this day, it may be my Master has sent this admonition this evening, to bring you back before you have backslidden very far. Turn thee to Jesus anew; he has not forgotten his love to thee; his grace is still the same. With weeping and repentance, come thou to his footstool, and thou shalt be once more received into his heart; thou shalt be set upon a rock again, and thy goings shall be established.

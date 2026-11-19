@@ -1,0 +1,19 @@
+---
+date: "10-18"
+slot: evening
+title: "Evening | October 18"
+scripture_ref: "1 Samuel 15:22"
+scripture_ref_as_printed: "1 Samuel 15:22"
+scripture_text: "Behold, to obey is better than sacrifice."
+source: "https://www.ccel.org/ccel/spurgeon/morneve.d1018pm.html"
+edition: "Morning and Evening: Daily Readings, C. H. Spurgeon. CCEL electronic edition of the public-domain combined text (Morning by Morning, 1865; Evening by Evening, 1868)."
+public_domain: "Charles Haddon Spurgeon (1834-1892). This text is in the public domain in the United States."
+---
+
+# Evening | October 18
+
+**1 Samuel 15:22**
+
+"Behold, to obey is better than sacrifice."
+
+Saul had been commanded to slay utterly all the Amalekites and their cattle. Instead of doing so, he preserved the king, and suffered his people to take the best of the oxen and of the sheep. When called to account for this, he declared that he did it with a view of offering sacrifice to God; but Samuel met him at once with the assurance that sacrifices were no excuse for an act of direct rebellion. The sentence before us is worthy to be printed in letters of gold, and to be hung up before the eyes of the present idolatrous generation, who are very fond of the fineries of will-worship, but utterly neglect the laws of God. Be it ever in your remembrance, that to keep strictly in the path of your Saviour's command is better than any outward form of religion; and to hearken to his precept with an attentive ear is better than to bring the fat of rams, or any other precious thing to lay upon his altar. If you are failing to keep the least of Christ's commands to his disciples, I pray you be disobedient no longer. All the pretensions you make of attachment to your Master, and all the devout actions which you may perform, are no recompense for disobedience. "To obey," even in the slightest and smallest thing, "is better than sacrifice," however pompous. Talk not of Gregorian chants, sumptuous robes, incense, and banners; the first thing which God requires of his child is obedience; and though you should give your body to be burned, and all your goods to feed the poor, yet if you do not hearken to the Lord's precepts, all your formalities shall profit you nothing. It is a blessed thing to be teachable as a little child, but it is a much more blessed thing when one has been taught the lesson, to carry it out to the letter. How many adorn their temples and decorate their priests, but refuse to obey the word of the Lord! My soul, come not thou into their secret.

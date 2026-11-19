@@ -1,0 +1,29 @@
+---
+date: "02-02"
+slot: morning
+title: "Morning | February 2"
+scripture_ref: "Hebrews 9:22"
+scripture_ref_as_printed: "Hebrews 9:22"
+scripture_text: "Without the shedding of blood is no remission."
+source: "https://www.ccel.org/ccel/spurgeon/morneve.d0202am.html"
+edition: "Morning and Evening: Daily Readings, C. H. Spurgeon. CCEL electronic edition of the public-domain combined text (Morning by Morning, 1865; Evening by Evening, 1868)."
+public_domain: "Charles Haddon Spurgeon (1834-1892). This text is in the public domain in the United States."
+---
+
+# Morning | February 2
+
+**Hebrews 9:22**
+
+"Without the shedding of blood is no remission."
+
+This is the voice of unalterable truth. In none of the Jewish ceremonies were sins, even typically, removed without blood-shedding. In no case, by no means can sin be pardoned without atonement. It is clear, then, that there is no hope for me out of Christ; for there is no other blood-shedding which is worth a thought as an atonement for sin. Am I, then, believing in him? Is the blood of his atonement truly applied to my soul? All men are on a level as to their need of him. If we be never so moral, generous, amiable, or patriotic, the rule will not be altered to make an exception for us. Sin will yield to nothing less potent than the blood of him whom God hath set forth as a propitiation. What a blessing that there is the one way of pardon! Why should we seek another?
+
+Persons of merely formal religion cannot understand how we can rejoice that all our sins are forgiven us for Christ's sake. Their works, and prayers, and ceremonies, give them very poor comfort; and well may they be uneasy, for they are neglecting the one great salvation, and endeavouring to get remission without blood. My soul, sit down, and behold the justice of God as bound to punish sin; see that punishment all executed upon thy Lord Jesus, and fall down in humble joy, and kiss the dear feet of him whose blood has made atonement for thee. It is in vain when conscience is aroused to fly to feelings and evidences for comfort: this is a habit which we learned in the Egypt of our legal bondage. The only restorative for a guilty conscience is a sight of Jesus suffering on the cross. "The blood is the life thereof," says the Levitical law, and let us rest assured that it is the life of faith and joy and every other holy grace.
+
+"Oh! how sweet to view the flowing
+
+Of my Saviour's precious blood;
+
+With divine assurance knowing
+
+He has made my peace with God."

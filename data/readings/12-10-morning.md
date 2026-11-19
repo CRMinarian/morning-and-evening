@@ -1,0 +1,39 @@
+---
+date: "12-10"
+slot: morning
+title: "Morning | December 10"
+scripture_ref: "1 Thessalonians 4:17"
+scripture_ref_as_printed: "1 Thessalonians 4:17"
+scripture_text: "So shall we ever be with the Lord."
+source: "https://www.ccel.org/ccel/spurgeon/morneve.d1210am.html"
+edition: "Morning and Evening: Daily Readings, C. H. Spurgeon. CCEL electronic edition of the public-domain combined text (Morning by Morning, 1865; Evening by Evening, 1868)."
+public_domain: "Charles Haddon Spurgeon (1834-1892). This text is in the public domain in the United States."
+---
+
+# Morning | December 10
+
+**1 Thessalonians 4:17**
+
+"So shall we ever be with the Lord."
+
+Even the sweetest visits from Christ, how short they are--and how transitory! One moment our eyes see him, and we rejoice with joy unspeakable and full of glory, but again a little time and we do not see him, for our beloved withdraws himself from us; like a roe or a young hart he leaps over the mountains of division; he is gone to the land of spices, and feeds no more among the lilies.
+
+"If today he deigns to bless us
+
+With a sense of pardoned sin,
+
+He to-morrow may distress us,
+
+Make us feel the plague within."
+
+Oh, how sweet the prospect of the time when we shall not behold him at a distance, but see him face to face: when he shall not be as a wayfaring man tarrying but for a night, but shall eternally enfold us in the bosom of his glory. We shall not see him for a little season, but
+
+"Millions of years our wondering eyes,
+
+Shall o'er our Saviour's beauties rove;
+
+And myriad ages we'll adore,
+
+The wonders of his love."
+
+In heaven there shall be no interruptions from care or sin; no weeping shall dim our eyes; no earthly business shall distract our happy thoughts; we shall have nothing to hinder us from gazing forever on the Sun of Righteousness with unwearied eyes. Oh, if it be so sweet to see him now and then, how sweet to gaze on that blessed face for aye, and never have a cloud rolling between, and never have to turn one's eyes away to look on a world of weariness and woe! Blest day, when wilt thou dawn? Rise, O unsetting sun! The joys of sense may leave us as soon as they will, for this shall make glorious amends. If to die is but to enter into uninterrupted communion with Jesus, then death is indeed gain, and the black drop is swallowed up in a sea of victory.

@@ -1,0 +1,19 @@
+---
+date: "10-23"
+slot: morning
+title: "Morning | October 23"
+scripture_ref: "John 6:67"
+scripture_ref_as_printed: "John 6:67"
+scripture_text: "Will ye also go away?"
+source: "https://www.ccel.org/ccel/spurgeon/morneve.d1023am.html"
+edition: "Morning and Evening: Daily Readings, C. H. Spurgeon. CCEL electronic edition of the public-domain combined text (Morning by Morning, 1865; Evening by Evening, 1868)."
+public_domain: "Charles Haddon Spurgeon (1834-1892). This text is in the public domain in the United States."
+---
+
+# Morning | October 23
+
+**John 6:67**
+
+"Will ye also go away?"
+
+Many have forsaken Christ, and have walked no more with him; but what reason have you to make a change? Has there been any reason for it in the past? Has not Jesus proved himself all-sufficient? He appeals to you this morning--"Have I been a wilderness unto you?" When your soul has simply trusted Jesus, have you ever been confounded? Have you not up till now found your Lord to be a compassionate and generous friend to you, and has not simple faith in him given you all the peace your spirit could desire? Can you so much as dream of a better friend than he has been to you? Then change not the old and tried for new and false. As for the present, can that compel you to leave Christ? When we are hard beset with this world, or with the severer trials within the Church, we find it a most blessed thing to pillow our head upon the bosom of our Saviour. This is the joy we have today that we are saved in him; and if this joy be satisfying, wherefore should we think of changing? Who barters gold for dross? We will not forswear the sun till we find a better light, nor leave our Lord until a brighter lover shall appear; and, since this can never be, we will hold him with a grasp immortal, and bind his name as a seal upon our arm. As for the future, can you suggest anything which can arise that shall render it necessary for you to mutiny, or desert the old flag to serve under another captain? We think not. If life be long--he changes not. If we are poor, what better than to have Christ who can make us rich? When we are sick, what more do we want than Jesus to make our bed in our sickness? When we die, is it not written that "neither death, nor life, nor things present, nor things to come, shall be able to separate us from the love of God, which is in Christ Jesus our Lord!" We say with Peter, "Lord, to whom shall we go?"

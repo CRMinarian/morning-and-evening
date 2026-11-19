@@ -1,0 +1,19 @@
+---
+date: "03-31"
+slot: evening
+title: "Evening | March 31"
+scripture_ref: "2 Samuel 21:10"
+scripture_ref_as_printed: "2 Samuel 21:10"
+scripture_text: "And Rizpah the daughter of Aiah took sackcloth, and spread it for her upon the rock, from the beginning of harvest until water dropped upon them out of heaven, and suffered neither the birds of the air to rest on them by day, nor the beasts of the field by night."
+source: "https://www.ccel.org/ccel/spurgeon/morneve.d0331pm.html"
+edition: "Morning and Evening: Daily Readings, C. H. Spurgeon. CCEL electronic edition of the public-domain combined text (Morning by Morning, 1865; Evening by Evening, 1868)."
+public_domain: "Charles Haddon Spurgeon (1834-1892). This text is in the public domain in the United States."
+---
+
+# Evening | March 31
+
+**2 Samuel 21:10**
+
+"And Rizpah the daughter of Aiah took sackcloth, and spread it for her upon the rock, from the beginning of harvest until water dropped upon them out of heaven, and suffered neither the birds of the air to rest on them by day, nor the beasts of the field by night."
+
+If the love of a woman to her slain sons could make her prolong her mournful vigil for so long a period, shall we weary of considering the sufferings of our blessed Lord? She drove away the birds of prey, and shall not we chase from our meditations those worldly and sinful thoughts which defile both our minds and the sacred themes upon which we are occupied? Away, ye birds of evil wing! Leave ye the sacrifice alone! She bore the heats of summer, the night dews and the rains, unsheltered and alone. Sleep was chased from her weeping eyes: her heart was too full for slumber. Behold how she loved her children! Shall Rizpah thus endure, and shall we start at the first little inconvenience or trial? Are we such cowards that we cannot bear to suffer with our Lord? She chased away even the wild beasts, with courage unusual in her sex, and will not we be ready to encounter every foe for Jesus' sake? These her children were slain by other hands than hers, and yet she wept and watched: what ought we to do who have by our sins crucified our Lord? Our obligations are boundless, our love should be fervent and our repentance thorough. To watch with Jesus should be our business, to protect his honour our occupation, to abide by his cross our solace. Those ghastly corpses might well have affrighted Rizpah, especially by night, but in our Lord, at whose cross-foot we are sitting, there is nothing revolting, but everything attractive. Never was living beauty so enchanting as a dying Saviour. Jesus, we will watch with thee yet awhile, and do thou graciously unveil thyself to us; then shall we not sit beneath sackcloth, but in a royal pavilion.

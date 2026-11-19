@@ -1,0 +1,19 @@
+---
+date: "04-01"
+slot: evening
+title: "Evening | April 1"
+scripture_ref: "Hosea 10:12"
+scripture_ref_as_printed: "Hosea 10:12"
+scripture_text: "It is time to seek the Lord."
+source: "https://www.ccel.org/ccel/spurgeon/morneve.d0401pm.html"
+edition: "Morning and Evening: Daily Readings, C. H. Spurgeon. CCEL electronic edition of the public-domain combined text (Morning by Morning, 1865; Evening by Evening, 1868)."
+public_domain: "Charles Haddon Spurgeon (1834-1892). This text is in the public domain in the United States."
+---
+
+# Evening | April 1
+
+**Hosea 10:12**
+
+"It is time to seek the Lord."
+
+This month of April is said to derive its name from the Latin verb aperio, which signifies to open, because all the buds and blossoms are now opening, and we have arrived at the gates of the flowery year. Reader, if you are yet unsaved, may your heart, in accord with the universal awakening of nature, be opened to receive the Lord. Every blossoming flower warns you that it is time to seek the Lord; be not out of tune with nature, but let your heart bud and bloom with holy desires. Do you tell me that the warm blood of youth leaps in your veins? then, I entreat you, give your vigour to the Lord. It was my unspeakable happiness to be called in early youth, and I could fain praise the Lord every day for it. Salvation is priceless, let it come when it may, but oh! an early salvation has a double value in it. Young men and maidens, since you may perish ere you reach your prime, "It is time to seek the Lord." Ye who feel the first signs of decay, quicken your pace: that hollow cough, that hectic flush, are warnings which you must not trifle with; with you it is indeed time to seek the Lord. Did I observe a little grey mingled with your once luxurious tresses? Years are stealing on apace, and death is drawing nearer by hasty marches, let each return of spring arouse you to set your house in order. Dear reader, if you are now advanced in life, let me entreat and implore you to delay no longer. There is a day of grace for you now--be thankful for that, but it is a limited season and grows shorter every time that clock ticks. Here in this silent chamber, on this first night of another month, I speak to you as best I can by paper and ink, and from my inmost soul, as God's servant, I lay before you this warning, "It is time to seek the Lord." Slight not that work, it may be your last call from destruction, the final syllable from the lip of grace.

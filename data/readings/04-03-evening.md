@@ -1,0 +1,19 @@
+---
+date: "04-03"
+slot: evening
+title: "Evening | April 3"
+scripture_ref: "Isaiah 53:6"
+scripture_ref_as_printed: "Isaiah 53:6"
+scripture_text: "All we like sheep have gone astray; we have turned every one to his own way; and the Lord hath laid on him the iniquity of us all."
+source: "https://www.ccel.org/ccel/spurgeon/morneve.d0403pm.html"
+edition: "Morning and Evening: Daily Readings, C. H. Spurgeon. CCEL electronic edition of the public-domain combined text (Morning by Morning, 1865; Evening by Evening, 1868)."
+public_domain: "Charles Haddon Spurgeon (1834-1892). This text is in the public domain in the United States."
+---
+
+# Evening | April 3
+
+**Isaiah 53:6**
+
+"All we like sheep have gone astray; we have turned every one to his own way; and the Lord hath laid on him the iniquity of us all."
+
+Here a confession of sin common to all the elect people of God. They have all fallen, and therefore, in common chorus, they all say, from the first who entered heaven to the last who shall enter there, "All we like sheep have gone astray." The confession, while thus unanimous, is also special and particular: "We have turned every one to his own way." There is a peculiar sinfulness about every one of the individuals; all are sinful, but each one with some special aggravation not found in his fellow. It is the mark of genuine repentance that while it naturally associates itself with other penitents, it also takes up a position of loneliness. "We have turned every one to his own way," is a confession that each man had sinned against light peculiar to himself, or sinned with an aggravation which he could not perceive in others. This confession is unreserved; there is not a word to detract from its force, nor a syllable by way of excuse. The confession is a giving up of all pleas of self-righteousness. It is the declaration of men who are consciously guilty--guilty with aggravations, guilty without excuse: they stand with their weapons of rebellion broken in pieces, and cry, "All we like sheep have gone astray; we have turned every one to his own way." Yet we hear no dolorous wailings attending this confession of sin; for the next sentence makes it almost a song. "The Lord hath laid on him the iniquity of us all." It is the most grievous sentence of the three, but it overflows with comfort. Strange is it that where misery was concentrated mercy reigned; where sorrow reached her climax weary souls find rest. The Saviour bruised is the healing of bruised hearts. See how the lowliest penitence gives place to assured confidence through simply gazing at Christ on the cross!

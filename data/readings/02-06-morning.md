@@ -1,0 +1,19 @@
+---
+date: "02-06"
+slot: morning
+title: "Morning | February 6"
+scripture_ref: "Ephesians 6:18"
+scripture_ref_as_printed: "Ephesians 6:18"
+scripture_text: "Praying always."
+source: "https://www.ccel.org/ccel/spurgeon/morneve.d0206am.html"
+edition: "Morning and Evening: Daily Readings, C. H. Spurgeon. CCEL electronic edition of the public-domain combined text (Morning by Morning, 1865; Evening by Evening, 1868)."
+public_domain: "Charles Haddon Spurgeon (1834-1892). This text is in the public domain in the United States."
+---
+
+# Morning | February 6
+
+**Ephesians 6:18**
+
+"Praying always."
+
+What multitudes of prayers we have put up from the first moment when we learned to pray. Our first prayer was a prayer for ourselves; we asked that God would have mercy upon us, and blot out our sin. He heard us. But when he had blotted out our sins like a cloud, then we had more prayers for ourselves. We have had to pray for sanctifying grace, for constraining and restraining grace; we have been led to crave for a fresh assurance of faith, for the comfortable application of the promise, for deliverance in the hour of temptation, for help in the time of duty, and for succour in the day of trial. We have been compelled to go to God for our souls, as constant beggars asking for everything. Bear witness, children of God, you have never been able to get anything for your souls elsewhere. All the bread your soul has eaten has come down from heaven, and all the water of which it has drank has flowed from the living rock--Christ Jesus the Lord. Your soul has never grown rich in itself; it has always been a pensioner upon the daily bounty of God; and hence your prayers have ascended to heaven for a range of spiritual mercies all but infinite. Your wants were innumerable, and therefore the supplies have been infinitely great, and your prayers have been as varied as the mercies have been countless. Then have you not cause to say, "I love the Lord, because he hath heard the voice of my supplication"? For as your prayers have been many, so also have been God's answers to them. He has heard you in the day of trouble, has strengthened you, and helped you, even when you dishonoured him by trembling and doubting at the mercy-seat. Remember this, and let it fill your heart with gratitude to God, who has thus graciously heard your poor weak prayers. "Bless the Lord, O my soul, and forget not all his benefits."

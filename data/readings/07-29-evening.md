@@ -1,0 +1,21 @@
+---
+date: "07-29"
+slot: evening
+title: "Evening | July 29"
+scripture_ref: "John 6:37"
+scripture_ref_as_printed: "John 6:37"
+scripture_text: "All that the Father giveth me shall come to me."
+source: "https://www.ccel.org/ccel/spurgeon/morneve.d0729pm.html"
+edition: "Morning and Evening: Daily Readings, C. H. Spurgeon. CCEL electronic edition of the public-domain combined text (Morning by Morning, 1865; Evening by Evening, 1868)."
+public_domain: "Charles Haddon Spurgeon (1834-1892). This text is in the public domain in the United States."
+---
+
+# Evening | July 29
+
+**John 6:37**
+
+"All that the Father giveth me shall come to me."
+
+This declaration involves the doctrine of election: there are some whom the Father gave to Christ. It involves the doctrine of effectual calling: these who are given must and shall come; however stoutly they may set themselves against it, yet they shall be brought out of darkness into God's marvellous light. It teaches us the indispensable necessity of faith; for even those who are given to Christ are not saved except they come to Jesus. Even they must come, for there is no other way to heaven but by the door, Christ Jesus. All that the Father gives to our Redeemer must come to him, therefore none can come to heaven except they come to Christ.
+
+Oh! the power and majesty which rest in the words "shall come." He does not say they have power to come, nor they may come if they will, but they "shall come." The Lord Jesus doth by his messengers, his word, and his Spirit, sweetly and graciously compel men to come in that they may eat of his marriage supper; and this he does, not by any violation of the free agency of man, but by the power of his grace. I may exercise power over another man's will, and yet that other man's will may be perfectly free, because the constraint is exercised in a manner accordant with the laws of the human mind. Jehovah Jesus knows how, by irresistible arguments addressed to the understanding, by mighty reasons appealing to the affections, and by the mysterious influence of his Holy Spirit operating upon all the powers and passions of the soul, so to subdue the whole man, that whereas he was once rebellious, he yields cheerfully to his government, subdued by sovereign love. But how shall those be known whom God hath chosen? By this result: that they do willingly and joyfully accept Christ, and come to him with simple and unfeigned faith, resting upon him as all their salvation and all their desire. Reader, have you thus come to Jesus?

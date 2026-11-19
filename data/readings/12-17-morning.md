@@ -1,0 +1,19 @@
+---
+date: "12-17"
+slot: morning
+title: "Morning | December 17"
+scripture_ref: "Jeremiah 2:2"
+scripture_ref_as_printed: "Jeremiah 2:2"
+scripture_text: "I remember thee."
+source: "https://www.ccel.org/ccel/spurgeon/morneve.d1217am.html"
+edition: "Morning and Evening: Daily Readings, C. H. Spurgeon. CCEL electronic edition of the public-domain combined text (Morning by Morning, 1865; Evening by Evening, 1868)."
+public_domain: "Charles Haddon Spurgeon (1834-1892). This text is in the public domain in the United States."
+---
+
+# Morning | December 17
+
+**Jeremiah 2:2**
+
+"I remember thee."
+
+Let us note that Christ delights to think upon his Church, and to look upon her beauty. As the bird returneth often to its nest, and as the wayfarer hastens to his home, so doth the mind continually pursue the object of its choice. We cannot look too often upon that face which we love; we desire always to have our precious things in our sight. It is even so with our Lord Jesus. From all eternity "His delights were with the sons of men;" his thoughts rolled onward to the time when his elect should be born into the world; he viewed them in the mirror of his foreknowledge. "In thy book," he says, "all my members were written, which in continuance were fashioned, when as yet there was none of them" (Ps. 139:16). When the world was set upon its pillars, he was there, and he set the bounds of the people according to the number of the children of Israel. Many a time before his incarnation, he descended to this lower earth in the similitude of a man; on the plains of Mamre (Gen. 18), by the brook of Jabbok (Gen. 32:24-30), beneath the walls of Jericho (Jos. 5:13), and in the fiery furnace of Babylon (Dan. 3:19, 25), the Son of Man visited his people. Because his soul delighted in them, he could not rest away from them, for his heart longed after them. Never were they absent from his heart, for he had written their names upon his hands, and graven them upon his side. As the breastplate containing the names of the tribes of Israel was the most brilliant ornament worn by the high priest, so the names of Christ's elect were his most precious jewels, and glittered on his heart. We may often forget to meditate upon the perfections of our Lord, but he never ceases to remember us. Let us chide ourselves for past forgetfulness, and pray for grace ever to bear him in fondest remembrance. Lord, paint upon the eyeballs of my soul the image of thy Son.
