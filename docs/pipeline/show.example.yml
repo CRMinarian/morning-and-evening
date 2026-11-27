@@ -1,0 +1,76 @@
+# Example show config for the unbound-show skill (docs only; nothing reads this yet).
+# Values below describe Spurgeon Unbound as it runs on Nov 27, 2026.
+# No secrets: credentials are referenced by environment-variable NAME only.
+show:
+  id: spurgeon-morning-evening
+  title: "Spurgeon Unbound"            # proposed retitle "Spurgeon Unbound: Morning and Evening" is undecided
+  work: "Morning and Evening"
+  author: "C. H. Spurgeon"
+  language: en
+host:
+  provider: buzzsprout                 # later: cloudflare-r2 (DECISIONS.md D2)
+  show_id: "2657629"
+  feed_url: "https://feeds.buzzsprout.com/2657629.rss"
+  admin_url: "https://www.buzzsprout.com/admin/2657629"
+  media_base: null                     # cloudflare only: custom domain, never r2.dev
+cadence:
+  timezone: America/Detroit
+  slots:
+    - { name: morning, publish_time: "23:00", day_offset: -1 }   # 11 PM ET the night before
+    - { name: evening, publish_time: "11:00", day_offset: 0 }    # 11 AM ET
+  unit_for_date: "{MM}-{DD}-{slot}"
+  runway_days_min: 7
+numbering:
+  season: "10"                         # current; collides across months (see spec §8 Q2)
+  episode: "{DD}{slot_code}"           # slot_code morning=04 evening=16
+voice:
+  provider: elevenlabs
+  model_id: eleven_v3
+  voice_name: "Rory Talks"
+  voice_id: "<in private config>"
+  key_env: ELEVENLABS_API_KEY
+  char_cap_per_batch: 149126
+audio:
+  lufs: -16
+  true_peak: -1.5
+  bitrate: 96k
+  sample_rate: 44100
+  xfade_ms: 15
+  theme: { take: B, sting: theme-takeB-sting-10s.wav, outro: theme-takeB-outro-20s.wav }
+corpus:
+  repo: CRMinarian/morning-and-evening
+  ref: cursor/spurgeon-corpus-ingest-ffb6
+  path: data/readings
+  expected_units: 732
+  bible: KJV (local JSON)
+script:
+  style_guide: SPURGEON-VOICE-STYLE-GUIDE-v0.2.md
+  prompt_file: null                    # GAP: none saved today
+  exemplars: [samples/week-1013/MORNING-10-13-godly-sorrow-podcast-v0.1.md]
+  target_chars: 2540
+  char_tolerance: 0.15
+  format: [theme_sting, hook, intro, verse, meditation, prayer, signoff, theme_out]
+  intro_line: "Good {morning|evening}. This is Spurgeon Unbound."
+  signoff_suffix: { morning: "This has been Spurgeon Unbound. Go well today.", evening: "This has been Spurgeon Unbound. Sleep well." }
+copy:
+  title_pattern: "{Slot}, {Mon} {d}: {Title}"
+  notes_pattern: "{ref} (KJV), \"{fragment}\"\n\n{description}"
+qa:
+  min_word_accuracy: 0.95
+  lufs_tolerance: 1.0
+  intro_count: 1
+  min_signoff_ratio: 0.6
+  duration_s: [170, 260]
+  drift_pct_max: 10
+palette:
+  tokens: "<Rita brand tokens path>"
+video:
+  cuts: [youtube_16x9_readalong, reel_9x16_30_60s]
+  style: "calm pastel stills, words do the motion"
+alerts:
+  miss_window_minutes: 120
+  channels: []                         # Pierre to choose two
+  route_via: Skippy
+gates:
+  publish: pierre_go
+  spend: pierre_go
